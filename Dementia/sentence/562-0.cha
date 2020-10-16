@@ -1,0 +1,128 @@
+@UTF8
+@PID:	11312/t-00016686-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|85;|female|ProbableAD||Participant|11||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	562-0, audio
+*INV:	pencil@q . 0_1588
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the pencil needs sharpened &=laughs . 1588_5160
+%mor:	det:art|the n|pencil n|need-PL v|sharpen-PAST .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 5160_6195
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) how_(a)bout tree@q ? 6195_13012
+%mor:	pro:int|how_about meta|tree ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	tree@q . [+ exc] 13012_13713
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you give me a short simple sentence using the word tree@q ? 13713_16886
+%mor:	mod|can pro:per|you v|give pro:obj|me det:art|a adj|short
+	adj|simple n|sentence part|use-PRESP det:art|the n|word meta|tree ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|8|DET 6|8|MOD 7|8|MOD 8|3|OBJ
+	9|3|XJCT 10|11|DET 11|9|OBJ 12|9|ENUM 13|3|PUNCT
+*PAR:	(.) oh ‡ (.) the leaves fall off the tree &=laughs . 16886_27800
+%mor:	co|oh beg|beg det:art|the n|leaf-PL v|fall prep|off det:art|the
+	n|tree .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*INV:	+< okay . 27600_28451
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now I'm gonna give you two words . 28451_34675
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|two n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	don't worry about the order that I give them to you . 34675_37000
+%mor:	mod|do~neg|not v|worry prep|about det:art|the n|order pro:rel|that
+	pro:sub|I v|give pro:obj|them prep|to pro:per|you .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ 11|9|JCT 12|11|POBJ 13|3|PUNCT
+*INV:	just use both of them in one short simple sentence . 37000_40434
+%mor:	adj|just v|use qn|both prep|of pro:obj|them prep|in det:num|one
+	adj|short adj|simple n|sentence .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|JCT 7|10|QUANT 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|2|PUNCT
+*INV:	child@q hospital@q . 40434_42909
+%mor:	meta|child meta|hospital .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	(.) I don't know . [+ exc] 42909_48935
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	can you come up with a sentence using those words ? 48935_51323
+%mor:	mod|can pro:per|you v|come adv|up prep|with det:art|a n|sentence
+	part|use-PRESP det:dem|those n|word-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|XJCT
+	9|10|DET 10|8|OBJ 11|3|PUNCT
+*INV:	child@q hospital@q . 51323_53089
+%mor:	meta|child meta|hospital .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	+< the child is in the hospital . 51907_53382
+%mor:	det:art|the n|child cop|be&3S prep|in det:art|the n|hospital .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	good ! 53382_54257
+%mor:	adj|good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	how_(a)bout cold@q winter@q ? 54257_61619
+%mor:	pro:int|how_about meta|cold meta|winter ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	weather . [+ exc] 61619_63300
+%mor:	n|weather .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	weather . [+ exc] 63300_64173
+%mor:	n|weather .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you come up with a short simple sentence using the words cold@q
+	winter@q ? 64173_68561
+%mor:	mod|can pro:per|you v|come adv|up prep|with det:art|a adj|short
+	adj|simple n|sentence part|use-PRESP det:art|the n|word-PL meta|cold
+	meta|winter ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|9|XMOD 11|12|DET 12|10|OBJ 13|10|JCT 14|13|OM 15|3|PUNCT
+*PAR:	it's been a cold winter . 68561_70117
+%mor:	pro:per|it~cop|be&3S cop|be&PASTP det:art|a adj|cold n|winter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|DET 5|6|MOD 6|3|PRED 7|2|PUNCT
+*INV:	(..) now I'm gonna give you three words . 70117_77833
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|three n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	I want you to come up with a short simple sentence using the words
+	chair@q doctor@q sit@q . 77833_84482
+%mor:	pro:sub|I v|want pro:per|you inf|to v|come adv|up prep|with
+	det:art|a adj|short adj|simple n|sentence part|use-PRESP det:art|the
+	n|word-PL meta|chair meta|doctor meta|sit .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|JCT 7|5|JCT 8|11|DET
+	9|11|MOD 10|11|MOD 11|15|SUBJ 12|11|XMOD 13|14|DET 14|12|OBJ 15|7|POBJ
+	16|15|CONJ 17|16|COORD 18|2|PUNCT
+*PAR:	the doctor sat in the chair &=laughs . 84482_88217
+%mor:	det:art|the n|doctor v|sit&PAST prep|in det:art|the n|chair .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	are any of them right that I +..? [+ exc] 88217_92780
+%mor:	cop|be&PRES qn|any prep|of pro:obj|them adj|right adv|that
+	pro:sub|I +..?
+%gra:	1|0|ROOT 2|7|QUANT 3|7|JCT 4|3|POBJ 5|7|JCT 6|7|JCT 7|1|PRED 8|1|PUNCT
+*INV:	you're doin(g) fine so far . 92780_94104
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adv|fine adv|so adj|far .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|JCT 7|3|PUNCT
+*INV:	they're perfect . 94104_94997
+%mor:	pro:sub|they~cop|be&PRES adj|perfect .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&=laughs . 94997_95227
+*INV:	now I want you to come up with a sentence using bureau@q open@q
+	drawer@q . 95527_101067
+%mor:	adv|now pro:sub|I v|want pro:per|you inf|to v|come adv|up prep|with
+	det:art|a n|sentence part|use-PRESP meta|bureau meta|open
+	meta|drawer .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|XJCT 12|11|OBJ 13|12|CONJ 14|13|COORD 15|3|PUNCT
+*PAR:	the bureau &dr drawer is open &=coughs . 100498_104279
+%mor:	det:art|the n|bureau n|drawer cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

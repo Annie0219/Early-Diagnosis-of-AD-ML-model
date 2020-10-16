@@ -1,0 +1,53 @@
+@UTF8
+@PID:	11312/t-00016292-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|male|ProbableAD||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	058-0, audio
+@G:	George_Unknown
+*PAR:	Melanie was the daughter . 383_2868
+%mor:	n:prop|Melanie cop|be&PAST&13S det:art|the n|daughter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	she was a granddaughter . 2868_4000
+%mor:	pro:sub|she cop|be&PAST&13S det:art|a grand#n|daughter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	mhm . 4000_4609
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and her grandfather George told her the story about where [/] where
+	he useta live . 4609_12900
+%mor:	coord|and det:poss|her grand#n|father n:prop|George v|tell&PAST
+	pro:obj|her det:art|the n|story prep|about pro:int|where pro:sub|he
+	mod|used~inf|to v|live .
+%gra:	1|5|LINK 2|3|DET 3|5|CJCT 4|5|SUBJ 5|0|ROOT 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|8|JCT 10|14|LINK 11|14|SUBJ 12|14|AUX 13|14|INF 14|9|CPOBJ 15|5|PUNCT
+*INV:	mhm . 12900_13817
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh he decided to take her on a trip to see this area . 13817_20171
+%mor:	coord|and pro:sub|he v|decide-PAST inf|to v|take pro:obj|her
+	prep|on det:art|a n|trip inf|to v|see det:dem|this n|area .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|11|INF 11|5|XJCT 12|13|DET 13|11|OBJ 14|3|PUNCT
+*PAR:	and &uh he held her by the hand . 20171_25447
+%mor:	coord|and pro:sub|he v|hold&PAST pro:obj|her prep|by det:art|the
+	n|hand .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and &uh although he did this she was frightened . 25447_31026
+%mor:	coord|and conj|although pro:sub|he v|do&PAST det:dem|this
+	pro:sub|she aux|be&PAST&13S part|frighten-PASTP .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|DET 6|8|SUBJ 7|8|AUX 8|4|COMP
+	9|4|PUNCT
+*PAR:	and then <they went> [//] they walked through the area where he had
+	lived . 31026_41461
+%mor:	coord|and adv:tem|then pro:sub|they v|walk-PAST prep|through
+	det:art|the n|area pro:rel|where pro:sub|he aux|have&PAST
+	part|live-PASTP .
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|4|PUNCT
+*INV:	okay . 41461_44015
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,190 @@
+@UTF8
+@PID:	11312/t-00016024-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|57;|male|ProbableAD||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	001-0, audio
+@Comment:	overlapping audio
+@G:	animals
+*INV:	okay ‡ you can start now . 0_2473
+%mor:	co|okay beg|beg pro:per|you mod|can v|start adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	elephants . 2473_3878
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zebra . 3878_5480
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh a dog . 5480_11297
+%mor:	det:art|a n|dog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	cat . 11297_12446
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a rat . 12446_13758
+%mor:	det:art|a n|rat .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) &uh cow . 13758_17984
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a giraffe . 17984_20330
+%mor:	det:art|a n|giraffe .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um (.) more than that ? [+ exc] 20330_27528
+%mor:	qn|more prep|than pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	oh ‡ okay . [+ exc] 27528_29269
+%mor:	co|oh beg|beg co|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	horse ? 29269_29954
+%mor:	n|horse ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I put horse@q ? [+ exc] 29954_30999
+%mor:	mod|do&PAST pro:sub|I v|put&ZERO meta|horse ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	no . 30999_31637
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's right . 31637_32647
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	they're domestic, so xxx +... [+ exc] 32647_34389
+%mor:	pro:sub|they~cop|be&PRES n|domestic cm|cm adv|so +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|LP 5|2|JCT 6|2|PUNCT
+*PAR:	&uh (.) &uh a fish . 34389_39300
+%mor:	det:art|a n|fish .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a weasel . 39300_44303
+%mor:	det:art|a n|weasel .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&hm (.) &uh (..) a wolf . 44303_55124
+%mor:	det:art|a n|wolf .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a horse . 55124_56204
+%mor:	det:art|a n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &hm . [+ exc] 56204_64076
+*INV:	okay ‡ that's fine . 64076_65318
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	we'll try a different thing now . 65318_67280
+%mor:	pro:sub|we~mod|will v|try det:art|a adj|different n|thing adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|3|PUNCT
+@G:	F
+*INV:	as many words as you can say beginning with the letter f@l . 67280_72507
+%mor:	prep|as qn|many n|word-PL adv|as pro:per|you mod|can v|say
+	n|beginning prep|with det:art|the n|letter n:let|f .
+%gra:	1|3|COORD 2|3|QUANT 3|8|SUBJ 4|7|COORD 5|7|SUBJ 6|7|AUX 7|3|ENUM
+	8|0|ROOT 9|8|NJCT 10|11|DET 11|9|POBJ 12|8|ENUM 13|8|PUNCT
+*INV:	again you have one minute . 72507_74100
+%mor:	adv|again pro:per|you v|have det:num|one n|minute .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*INV:	beginning with the letter f@l . 74100_75870
+%mor:	n|beginning prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|ENUM 6|1|PUNCT
+*PAR:	anything at all ? [+ exc] 75870_76699
+%mor:	pro:indef|anything prep|at pro:indef|all ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*INV:	anything at all . 76699_77999
+%mor:	pro:indef|anything prep|at pro:indef|all .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|1|PUNCT
+*PAR:	even if it's &uh <not> [/] not a person or like a word ? [+ exc] 77999_83600
+%mor:	adv|even conj|if pro:per|it~cop|be&3S neg|not det:art|a n|person
+	coord|or co|like det:art|a n|word ?
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|DET 7|4|PRED 8|7|CONJ
+	9|11|COM 10|11|DET 11|8|COORD 12|4|PUNCT
+*PAR:	is it a word ? [+ exc] 83600_84100
+%mor:	aux|be&3S pro:per|it det:art|a n|word ?
+%gra:	1|4|AUX 2|4|SUBJ 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*INV:	just a word . 84100_84750
+%mor:	adv|just det:art|a n|word .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	any word beginning with the letter f@l . 84750_87687
+%mor:	qn|any n|word n|beginning prep|with det:art|the n|letter n:let|f .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|ENUM
+	8|3|PUNCT
+*PAR:	(..) huh ‡ why do these darned things +..? [+ exc] 87687_94768
+%mor:	co|huh beg|beg pro:rel|why v|do det:dem|these adj|darned n|thing-PL
+	+..?
+%gra:	1|0|BEG 2|1|BEGP 3|4|LINK 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|4|PUNCT
+*PAR:	well ‡ I guess they back you up . [+ exc] 94768_96080
+%mor:	co|well beg|beg pro:sub|I v|guess pro:sub|they v|back pro:per|you
+	adv|up .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|6|OBJ 8|6|JCT
+	9|4|PUNCT
+*PAR:	&uh &fre friend . 96080_99934
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &foo food . 99934_104474
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh firewood . 104474_107307
+%mor:	n|+n|fire+n|wood .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fence . 107307_110116
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh fill . 110116_115353
+%mor:	n|fill .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) I don't know . [+ exc] 115353_124242
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I'm running [/] runnin(g) out . [+ exc] 124242_125607
+%mor:	pro:sub|I~aux|be&1S part|run-PRESP adv|out .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	probably there but I can't xxx bring them out . [+ exc] 125607_129100
+%mor:	adv|probable&dadj-LY adv|there conj|but pro:sub|I mod|can~neg|not
+	v|bring pro:obj|them adv|out .
+%gra:	1|3|JCT 2|1|JCT 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|OBJ
+	9|7|JCT 10|7|PUNCT
+*PAR:	see ‡ that's what happens right there xxx . [+ exc] 129100_133754
+%mor:	co|see beg|beg pro:dem|that~cop|be&3S pro:int|what v|happen-3S
+	adv|right adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|CPRED 7|8|JCT 8|6|JCT
+	9|4|PUNCT
+*PAR:	that +... [+ exc] 133754_134579
+%mor:	comp|that +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	blocking up ? 134579_135603
+%mor:	part|block-PRESP adv|up ?
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	yeah ‡ the blocking up . [+ exc] 135603_136787
+%mor:	co|yeah beg|beg det:art|the n:gerund|block-PRESP adv|up .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|JCT 6|4|PUNCT
+*PAR:	it's the anxiety maybe . 136787_140700
+%mor:	pro:per|it~cop|be&3S det:art|the n|anxiety adv|maybe .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*PAR:	I guess <if you try to> [//] you're gonna [//] not gonna succeed
+	because it's simple „ you_know . [+ exc] 140700_144179
+%mor:	pro:sub|I n|guess pro:per|you~aux|be&PRES neg|not
+	part|go-PRESP~inf|to v|succeed conj|because pro:per|it~cop|be&3S
+	adj|simple end|end co|you_know .
+%gra:	1|2|SUBJ 2|6|JCT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|INF 8|6|COMP
+	9|11|LINK 10|11|SUBJ 11|6|CJCT 12|11|PRED 13|14|ENDP 14|6|END 15|6|PUNCT
+*INV:	+< you'll think of it more ? 143000_144803
+%mor:	pro:per|you~mod|will v|think prep|of pro:per|it pro:indef|more ?
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|PUNCT
+*PAR:	yeah . [+ exc] 144803_145923
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and it probably go home and I'll be there all the time . [+ exc] 145923_148864
+%mor:	coord|and pro:per|it adv|probable&dadj-LY v|go adv|home coord|and
+	pro:sub|I~mod|will cop|be adv|there qn|all det:art|the n|time .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|4|CJCT 10|9|JCT 11|13|QUANT 12|13|DET 13|9|PRED 14|4|PUNCT
+*PAR:	&uh <did I> [/] did I say friend@q ? [+ exc] 148864_153009
+%mor:	mod|do&PAST pro:sub|I v|say meta|friend ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	yeah . [+ exc] 153009_153462
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	then +... 153462_154193
+%mor:	adv:tem|then +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's fine . 154193_155447
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

@@ -1,0 +1,66 @@
+@UTF8
+@PID:	11312/t-00016257-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|68;|male|ProbableAD||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	010-2, audio
+@G:	George_Immediate
+*INV:	can you tell me what you can remember of the story ? 0_2380
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:int|what pro:per|you
+	mod|can v|remember prep|of det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	yes ‡ there was a man by the name of George Melanie who had a
+	granddaughter . 2380_7117
+%mor:	co|yes beg|beg pro:exist|there cop|be&PAST&13S det:art|a n|man
+	prep|by det:art|the n|name prep|of n:prop|George n:prop|Melanie
+	pro:rel|who v|have&PAST det:art|a grand#n|daughter .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|6|APP 13|14|LINK 14|12|CMOD 15|16|DET
+	16|14|OBJ 17|4|PUNCT
+*PAR:	and he took her to the city for a visit . 7117_9602
+%mor:	coord|and pro:sub|he v|take&PAST pro:obj|her prep|to det:art|the
+	n|city prep|for det:art|a n|visit .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and (.) she became frightened with [/] with the turbulence in the
+	city . 9602_18402
+%mor:	coord|and pro:sub|she cop|become&PAST part|frighten-PASTP prep|with
+	det:art|the n|turbulence prep|in det:art|the n|city .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	and &uh they returned back to the country . 18402_22222
+%mor:	coord|and pro:sub|they v|return-PAST adv|back prep|to det:art|the
+	n|country .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	he took her back to the country . 22222_23550
+%mor:	pro:sub|he v|take&PAST pro:obj|her adv|back prep|to det:art|the
+	n|country .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	+< mhm . 23000_24233
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay ? [+ exc] 24233_25150
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 25150_25750
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	satisfactory ? [+ exc] 25801_26614
+%mor:	adj|satisfactory ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< that's fine . 26350_27624
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	are we finished &=laughs ? [+ exc] 27624_30500
+%mor:	cop|be&PRES pro:sub|we v|finish-PAST ?
+%gra:	1|3|CJCT 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	just a minute . 30500_31714
+%mor:	adv|just det:art|a n|minute .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	okey_doke(y) alright . 31714_36000
+%mor:	co|okey_dokey co|alright .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,133 @@
+@UTF8
+@PID:	11312/t-00016106-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||female|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	172-2, audio
+@G:	animals
+*INV:	okay ‡ and you can begin „ now . 0_5463
+%mor:	co|okay beg|beg coord|and pro:per|you mod|can v|begin end|end
+	adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|ENDP 8|6|JCT
+	9|6|PUNCT
+*PAR:	chicken . 5463_7424
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	duck . 7424_8608
+%mor:	n|duck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	goose . 8608_9681
+%mor:	n|goose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 9681_11050
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fox . 11050_12669
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um dog . 12669_16141
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 16141_16700
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um elephant . 16700_21277
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 21277_22118
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 22118_22943
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ocelot . 22943_26335
+%mor:	n|ocelot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh giraffe . 26335_29401
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	monkey . 29401_30661
+%mor:	n|monkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ape . 30661_33525
+%mor:	n|ape .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	giraffe . 33525_35548
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bear . 35548_37136
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion@q did I say ? [+ exc] 37136_41371
+%mor:	meta|lion mod|do&PAST pro:sub|I v|say ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&um (.) &um seal . 41371_51889
+%mor:	n|seal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	otter . 51889_53851
+%mor:	n|otter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ermine . 53851_55625
+%mor:	n|ermine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) okay „ good . 55625_64231
+%mor:	adj|okay end|end adj|good .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+@G:	F
+*INV:	and you can begin . 64231_66410
+%mor:	coord|and pro:per|you mod|can v|begin .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	that's the letter f@l . 66410_68060
+%mor:	pro:dem|that~cop|be&3S det:art|the n|letter n:let|f .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|POSTMOD 6|2|PUNCT
+*INV:	and you can begin now . 68060_69384
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	fast . 69384_70878
+%mor:	n|fast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	funny . 70878_72294
+%mor:	adj|fun&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fetid . 72294_74552
+%mor:	adj|fetid .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um front . 74552_77275
+%mor:	n|front .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	face . 77275_79859
+%mor:	n|face .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um fly . 79859_82288
+%mor:	n|fly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) future . 82288_90708
+%mor:	adj|future .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fight . 90708_94957
+%mor:	n|fight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I say fancy@q ? 94957_100373
+%mor:	mod|do&PAST pro:sub|I v|say meta|fancy ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&um (.) four [//] (.) the letter [: number] [* s:r] four four@k . 100373_110400
+%mor:	det:art|the n|number det:num|four n:let|four .
+%gra:	1|2|DET 2|0|INCROOT 3|4|QUANT 4|2|CMOD 5|2|PUNCT
+*PAR:	and fore fore@k . 110400_112498
+%mor:	coord|and adj|fore n:let|fore .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh foreign . 112498_114538
+%mor:	adj|foreign .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &=sighs (.) fracture . 114538_123239
+%mor:	n|fracture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	foolish . 123239_126633
+%mor:	adj|fool&dn-ISH .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay „ good . 126633_129684
+%mor:	adj|okay end|end adj|good .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+@End

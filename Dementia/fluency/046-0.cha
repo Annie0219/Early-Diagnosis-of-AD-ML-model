@@ -1,0 +1,90 @@
+@UTF8
+@PID:	11312/t-00016057-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|68;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	046-0, audio
+@G:	animals
+*PAR:	&=laughs okay . [+ exc] 2000_3697
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	here we go, you can start now . 3697_6234
+%mor:	adv|here pro:sub|we v|go cm|cm pro:per|you mod|can v|start adv|now
+	.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|LP 5|7|SUBJ 6|7|AUX 7|3|ENUM 8|7|JCT
+	9|3|PUNCT
+*PAR:	dogs . 6234_7323
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 7323_8573
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zebra . 8573_9799
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) xxx &=laughs . [+ exc] 9799_23600
+*PAR:	a horse . 23600_25532
+%mor:	det:art|a n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and (.) donkey . 25532_29284
+%mor:	coord|and n|donkey .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(...) monkeys . 29284_41080
+%mor:	n|monkey-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) I don't know any more &=laughs . [+ exc] 41080_59000
+%mor:	pro:sub|I mod|do~neg|not v|know qn|any pro:indef|more .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*PAR:	cats [x 2] . 59000_61067
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	what else ? [+ exc] 61067_61879
+%mor:	pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	if I go to the zoo I'll see a whole lot &=laughs . [+ exc] 61879_66666
+%mor:	conj|if pro:sub|I v|go prep|to det:art|the n|zoo pro:sub|I~mod|will
+	v|see det:art|a adj|whole n|lot .
+%gra:	1|3|LINK 2|3|SUBJ 3|9|CJCT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|12|DET 11|12|MOD 12|9|OBJ 13|9|PUNCT
+@G:	F
+*INV:	okay ‡ okay let's go . 66666_69500
+%mor:	co|okay beg|beg co|okay v|let~pro:obj|us v|go .
+%gra:	1|0|BEG 2|1|BEGP 3|4|COM 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|4|PUNCT
+*PAR:	+< Fred . 69300_70837
+%mor:	n:prop|Fred .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh Frank . 70837_75818
+%mor:	n:prop|Frank .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) freedom . 75818_96263
+%mor:	n|freedom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) I don't know . [+ exc] 96263_113643
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	that's about all I can think of . [+ exc] 113643_115860
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all pro:sub|I mod|can v|think
+	prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|7|JCT 4|7|JCT 5|7|SUBJ 6|7|AUX 7|2|CPRED 8|7|JCT
+	9|2|PUNCT
+*INV:	you have a few more seconds yet . [+ exc] 115860_117857
+%mor:	pro:per|you v|have det:art|a qn|few qn|more n|second-PL adv|yet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|6|QUANT 5|6|QUANT 6|2|OBJ 7|2|JCT 8|2|PUNCT
+*PAR:	any more ? [+ exc] 117857_118519
+%mor:	qn|any pro:indef|more ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) father . 118519_121340
+%mor:	n|father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx a good one . [+ exc] 121340_122977
+%mor:	det:art|a adj|good pro:indef|one .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&=laughs I almost forgot a father . [+ exc] 122977_126228
+%mor:	pro:sub|I adv|almost v|forget&PAST det:art|a n|father .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	okay . 126228_150000
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

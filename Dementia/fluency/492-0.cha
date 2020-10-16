@@ -1,0 +1,114 @@
+@UTF8
+@PID:	11312/t-00016207-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	492-0, audio
+@G:	animals
+*INV:	okay ‡ go ahead . 0_1402
+%mor:	co|okay beg|beg v|go adv|ahead .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	elephants . 1402_2771
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tigers . 2771_4779
+%mor:	n|tiger-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lions . 4779_7098
+%mor:	n|lion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cats . 7098_10149
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dogs . 10149_12513
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) snakes . 12513_17510
+%mor:	n|snake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	do they &con consider them an animal &=laughs ? [+ exc] 17510_20100
+%mor:	mod|do pro:sub|they v|consider pro:obj|them det:art|a n|animal ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|3|PUNCT
+*INV:	+< that's good „ mhm . 19506_20715
+%mor:	pro:dem|that~cop|be&3S adj|good end|end co|mhm=yes .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|ENDP 5|2|END 6|2|PUNCT
+*PAR:	&uh (.) elephants . 20715_24576
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) and &uh (.) tigers . 24576_32544
+%mor:	coord|and n|tiger-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	or did I say that &=laughs ? [+ exc] 32544_34038
+%mor:	coord|or v|do&PAST pro:sub|I v|say comp|that ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	(..) hippopotamus . 34038_42784
+%mor:	n|hippopotamus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) did I say elephant ? [+ exc] 42784_48589
+%mor:	mod|do&PAST pro:sub|I v|say n|elephant ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	go ahead . 48589_49633
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&uh (..) lion . 49633_55816
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 55816_56460
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	or did I say those ? [+ exc] 56460_57926
+%mor:	coord|or mod|do&PAST pro:sub|I co|say det:dem|those ?
+%gra:	1|5|LINK 2|5|AUX 3|5|SUBJ 4|5|COM 5|0|ROOT 6|5|PUNCT
+*INV:	okay ‡ good . 57926_64635
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	the letter f@l . 64635_67717
+%mor:	det:art|the n|letter n:let|f .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	okay ‡ go ahead . 67717_69274
+%mor:	co|okay beg|beg v|go adv|ahead .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	frost . 69274_70083
+%mor:	n|frost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) does it hafta be fingers@q ? [+ exc] 70083_75282
+%mor:	mod|do&3S pro:per|it mod|have~inf|to cop|be meta|fingers ?
+%gra:	1|5|AUX 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*PAR:	or doesn't it ? [+ exc] 75282_76356
+%mor:	coord|or mod|do&3S~neg|not pro:per|it ?
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	anything that starts with an f@l . 76356_78014
+%mor:	pro:indef|anything pro:rel|that v|start-3S prep|with det:art|a
+	n:let|f .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	fingers . 78014_78814
+%mor:	n|finger-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fiddles . 78814_81865
+%mor:	n|fiddle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) flowers . 81865_85397
+%mor:	n|flower-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) ferns . 85397_89383
+%mor:	n|fern-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um (.) food . 89383_98970
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) did I say frost@q ? [+ exc] 98970_107016
+%mor:	mod|do&PAST pro:sub|I v|say meta|frost ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	(..) &um furniture . 107016_116197
+%mor:	n|furniture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) furnaces +... 116197_130058
+%mor:	n|furnace-PL +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 130058_132042
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

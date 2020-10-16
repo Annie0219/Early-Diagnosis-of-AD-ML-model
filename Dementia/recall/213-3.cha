@@ -1,0 +1,51 @@
+@UTF8
+@PID:	11312/a-00015213-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	213-3, audio
+@G:	George_Immediate
+*INV:	okay . 0_400
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now tell me everything you can remember . 400_2450
+%mor:	adv|now v|tell pro:obj|me pro:indef|everything pro:per|you mod|can
+	v|remember .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|2|COMP 8|2|PUNCT
+*PAR:	(...) okay ‡ there was a father there . 2450_14895
+%mor:	co|okay beg|beg pro:exist|there cop|be&PAST&13S det:art|a n|father
+	adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|6|NJCT 8|4|PUNCT
+*PAR:	he had a daughter . 14895_16989
+%mor:	pro:sub|he v|have&PAST det:art|a n|daughter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	(.) and the little girl was talking about going to the country . 16989_22358
+%mor:	coord|and det:art|the adj|little n|girl aux|be&PAST&13S
+	part|talk-PRESP adv|about part|go-PRESP prep|to det:art|the
+	n|country .
+%gra:	1|6|LINK 2|4|DET 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|JCT 8|6|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|6|PUNCT
+*INV:	&=coughs . 22358_36000
+*PAR:	hm . [+ exc] 36000_36578
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 36578_38274
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	(..) <there was something> [//] there was a_lot_of other things but
+	&um +... [+ exc] 38274_52000
+%mor:	pro:exist|there cop|be&PAST&13S qn|a_lot_of qn|other n|thing-PL
+	conj|but +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|QUANT 5|2|PRED 6|2|JCT 7|2|PUNCT
+*PAR:	&um I &+ca can't remember anything else . [+ exc] 52000_55400
+%mor:	pro:sub|I mod|can~neg|not v|remember pro:indef|anything post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|5|PQ 7|4|PUNCT
+*INV:	okay . 55400_55750
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's good then . 55750_56921
+%mor:	pro:dem|that~cop|be&3S adj|good adv:tem|then .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+@End

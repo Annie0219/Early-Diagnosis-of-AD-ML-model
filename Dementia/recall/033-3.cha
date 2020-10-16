@@ -1,0 +1,81 @@
+@UTF8
+@PID:	11312/a-00004356-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|66;|male|MCI||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	033-3, audio
+@G:	Bill_Immediate
+*INV:	can you tell me anything you recall from it ? 0_2241
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything
+	pro:per|you v|recall prep|from pro:per|it ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|7|SUBJ 7|5|CMOD 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*PAR:	well ‡ uncle Bill had returned on July the fourth . 2241_5961
+%mor:	co|well beg|beg n|uncle n:prop|Bill aux|have&PAST part|return-PASTP
+	prep|on n:prop|July det:art|the n|fourth .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|10|DET 10|6|OBJ 11|6|PUNCT
+*PAR:	and &uh he met his young &uh nephew Bill who was so happy to see
+	him because of their friendship &uh when he was young . 5961_16794
+%mor:	coord|and pro:sub|he v|meet&PAST det:poss|his adj|young n|nephew
+	n:prop|Bill pro:rel|who cop|be&PAST&13S adv|so adj|happy inf|to
+	v|see pro:obj|him conj|because prep|of det:poss|their n|friendship
+	conj|when pro:sub|he cop|be&PAST&13S adj|young .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|6|APP 8|9|LINK
+	9|7|CMOD 10|11|JCT 11|9|PRED 12|13|INF 13|11|XMOD 14|13|OBJ 15|3|JCT
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|21|LINK 20|21|SUBJ 21|15|CJCT 22|21|PRED
+	23|3|PUNCT
+*PAR:	and what he especially remembered was &uh their fishing trips . 16794_21681
+%mor:	coord|and pro:int|what pro:sub|he adv|especial&dadj-LY
+	v|remember-PAST cop|be&PAST&13S det:poss|their part|fish-PRESP
+	n|trip-PL .
+%gra:	1|5|LINK 2|5|OBJ 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|5|COMP 7|9|DET 8|9|MOD
+	9|6|PRED 10|5|PUNCT
+@G:	Bill_Delayed
+*INV:	that story ? 21681_28217
+%mor:	det:dem|that n|story ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	which story was that ? [+ exc] 28217_30489
+%mor:	pro:rel|which n|story cop|be&PAST&13S pro:dem|that ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	the most recent one you heard . 30489_33197
+%mor:	det:art|the qn|most adj|recent pro:indef|one pro:per|you
+	v|hear&PAST .
+%gra:	1|4|DET 2|3|QUANT 3|4|MOD 4|6|SUBJ 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	(..) no ‡ I can't think of it . [+ exc] 33197_40481
+%mor:	co|no beg|beg pro:sub|I mod|can~neg|not v|think prep|of pro:per|it
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+@G:	Bill_Questions
+*INV:	can you recall who the story was about ? 40481_42597
+%mor:	mod|can pro:per|you v|recall pro:int|who det:art|the n|story
+	cop|be&PAST&13S adv|about ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|6|DET 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|3|PUNCT
+*PAR:	hmhunh . [+ exc] 42597_43360
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	or what time of year it was ? 43360_45322
+%mor:	coord|or pro:int|what n|time prep|of n|year pro:per|it
+	cop|be&PAST&13S ?
+%gra:	1|7|LINK 2|3|MOD 3|7|CSUBJ 4|3|NJCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT
+	8|7|PUNCT
+*PAR:	oh ‡ yeah ‡ Bill re^pa^uh^tired [: retired] [* d:sw] to the States
+	in the &uh Spring . 45322_51315
+%mor:	co|oh beg|beg co|yeah beg|beg n:prop|Bill v|retire-PAST prep|to
+	det:art|the n:prop|States prep|in det:art|the n:prop|Spring .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|6|PUNCT
+*PAR:	and he met &uh his &uh friend Bill who was glad to see him back
+	because they had been fishing buddies . 51315_60154
+%mor:	coord|and pro:sub|he v|meet&PAST det:poss|his n|friend n:prop|Bill
+	pro:rel|who cop|be&PAST&13S adj|glad inf|to v|see pro:obj|him
+	adv|back conj|because pro:sub|they aux|have&PAST aux|be&PASTP
+	part|fish-PRESP n|buddy-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|APP 7|8|LINK 8|5|CMOD
+	9|8|PRED 10|11|INF 11|9|XMOD 12|11|OBJ 13|11|JCT 14|18|LINK 15|18|SUBJ
+	16|18|AUX 17|18|AUX 18|3|CJCT 19|18|OBJ 20|3|PUNCT
+@End

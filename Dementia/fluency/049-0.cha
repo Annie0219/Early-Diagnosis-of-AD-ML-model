@@ -1,0 +1,115 @@
+@Font:	Courier:16:0
+@UTF8
+@PID:	11312/t-00016058-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|56;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	049-0, audio
+@G:	animals
+*INV:	okay ‡ thank_you . 0_1045
+%mor:	co|okay beg|beg co|thank_you .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	go . 1045_2578
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	okay . 2578_3170
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 3170_4281
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cats . 4281_4804
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs snakes . 4804_5822
+%mor:	n|snake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) chickens . 5822_12638
+%mor:	n|chicken-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) &um elephants . 12638_23650
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	giraffes . 23650_24576
+%mor:	n|giraffe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) roosters . 24576_36630
+%mor:	n|rooster-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hens . 36630_37492
+%mor:	n|hen-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) squirrels . 37492_40855
+%mor:	n|squirrel-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbits . 40855_42915
+%mor:	n|rabbit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh snakes . 42915_51546
+%mor:	n|snake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) birds . 51546_57071
+%mor:	n|bird-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	(..) okay ‡ go . 57071_70299
+%mor:	co|okay beg|beg v|go .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|PUNCT
+*PAR:	&uh farm . 70299_71731
+%mor:	n|farm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	female . 71731_72447
+%mor:	adj|female .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	foot . 72447_73318
+%mor:	n|foot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) freak . 73318_74885
+%mor:	n|freak .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs oh ‡ that's not right . [+ exc] 74885_76394
+%mor:	co|oh beg|beg pro:dem|that~cop|be&3S neg|not co|right .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|4|COM 7|4|PUNCT
+*PAR:	&um (..) Falkland . 76394_82813
+%mor:	n:prop|Falkland .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fool . 82813_89599
+%mor:	n|fool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fudge . 89599_96135
+%mor:	n|fudge .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) family . 96135_100461
+%mor:	n|family .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) forest . 100461_106797
+%mor:	n|forest .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) front . 106797_113878
+%mor:	n|front .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fruit . 113878_121737
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fall . 121737_126600
+%mor:	v|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what was the last one ? 126600_127807
+%mor:	pro:int|what cop|be&PAST&13S det:art|the adj|last pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	I said fall@q . [+ exc] 127807_128736
+%mor:	pro:sub|I v|say&PAST meta|fall .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	fall . 128736_129444
+%mor:	v|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mhm ‡ yeah . [+ exc] 129444_130629
+%mor:	co|mhm=yes beg|beg co|yeah .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh +... [+ exc] 130180_133471
+*INV:	that's it . 133471_140000
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

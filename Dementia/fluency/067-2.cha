@@ -1,0 +1,185 @@
+@UTF8
+@PID:	11312/t-00016079-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|74;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	067-2, audio
+@G:	animals
+*INV:	all the animal you can think of in one minute . 0_2865
+%mor:	qn|all det:art|the n|animal pro:per|you mod|can v|think prep|of
+	adv|in det:num|one n|minute .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|6|JCT 8|6|JCT
+	9|10|QUANT 10|6|JCT 11|3|PUNCT
+*INV:	they can be farm animals . 2865_4737
+%mor:	pro:sub|they mod|can cop|be n|farm n|animal-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*INV:	they can be zoo animals . 4717_5990
+%mor:	pro:sub|they mod|can cop|be n|zoo n|animal-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*INV:	they can be pet animals . 5990_7736
+%mor:	pro:sub|they mod|can cop|be n|pet n|animal-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|PUNCT
+*INV:	but no birds and no fish . 7736_9837
+%mor:	conj|but qn|no n|bird-PL coord|and qn|no n|fish .
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|CONJ 5|6|QUANT 6|4|COORD 7|3|PUNCT
+*INV:	so ‡ I want you to name all the animals you can think of . 9837_12456
+%mor:	co|so beg|beg pro:sub|I v|want pro:per|you inf|to v|name qn|all
+	det:art|the n|animal-PL pro:per|you mod|can v|think prep|of .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|10|QUANT
+	9|10|DET 10|7|OBJ 11|13|SUBJ 12|13|AUX 13|10|CMOD 14|13|JCT 15|4|PUNCT
+*INV:	and you can start now . 12456_13635
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	I should have went out the highway &=laughs and got all these names
+	&=laughs . [+ exc] 13635_19038
+%mor:	pro:sub|I mod|should v|have v|go&PAST prep|out det:art|the
+	n|highway coord|and v|get&PAST qn|all det:dem|these n|name-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|3|CONJ
+	9|8|COORD 10|12|QUANT 11|12|DET 12|9|OBJ 13|3|PUNCT
+*INV:	+< no &=laughs . 16576_17153
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	<can you name> [//] &s name all the animals you can think of ? 19038_21666
+%mor:	n|name qn|all det:art|the n|animal-PL pro:per|you mod|can v|think
+	prep|of ?
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|1|PUNCT
+*PAR:	cow . 21666_23441
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bear . 23441_24520
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 24520_27394
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 27394_28436
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) now what else <will I> [/] do I hafta do ? [+ exc] 28436_32622
+%mor:	adv|now pro:int|what post|else mod|do pro:sub|I mod|have~inf|to
+	v|do ?
+%gra:	1|8|JCT 2|8|SUBJ 3|2|PQ 4|8|AUX 5|8|SUBJ 6|8|AUX 7|8|INF 8|0|ROOT
+	9|8|PUNCT
+*PAR:	there's something else I was thinking of and I can't think of the
+	name of it . [+ exc] 32622_37604
+%mor:	pro:exist|there~cop|be&3S pro:indef|something post|else pro:sub|I
+	aux|be&PAST&13S part|think-PRESP prep|of coord|and pro:sub|I
+	mod|can~neg|not v|think prep|of det:art|the n|name prep|of
+	pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|PQ 5|7|SUBJ 6|7|AUX 7|3|CMOD 8|7|JCT
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|8|POBJ 14|13|JCT 15|16|DET
+	16|14|POBJ 17|16|NJCT 18|17|POBJ 19|2|PUNCT
+*PAR:	(.) horse , cow +... [+ exc] 37604_43897
+%mor:	n|horse cm|cm n|cow +...
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	(..) something else . [+ exc] 43897_47474
+%mor:	pro:indef|something post|else .
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	(.) I can't think of that other name . [+ exc] 47474_54021
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of det:dem|that qn|other
+	n|name .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|8|DET 7|8|QUANT 8|5|POBJ
+	9|4|PUNCT
+*PAR:	(...) I don't know . [+ exc] 54021_62411
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	what's wrong with me ? [+ exc] 62411_63348
+%mor:	pro:int|what~cop|be&3S adj|wrong prep|with pro:obj|me ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	I can't +/. [+ exc] 63348_64011
+%mor:	pro:sub|I mod|can~neg|not +/.
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*INV:	+< you're doing fine . 63809_64962
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adv|fine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	you're doing just fine . 64962_65700
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adv|just adj|fine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|JCT 5|3|JCT 6|3|PUNCT
+*INV:	name all the animals that you can think of . 65700_67997
+%mor:	n|name qn|all det:art|the n|animal-PL pro:rel|that pro:per|you
+	mod|can v|think prep|of .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|8|JCT 10|1|PUNCT
+*PAR:	(..) a dog . 67997_71813
+%mor:	det:art|a n|dog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	okay ‡ good . 71813_73866
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	okay ‡ I'm going to change directions with the letter f@l . 73866_76766
+%mor:	co|okay beg|beg pro:sub|I~aux|be&1S part|go-PRESP prep|to n|change
+	n|direction-PL prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|MOD 8|6|POBJ
+	9|5|JCT 10|11|DET 11|12|SUBJ 12|9|POBJ 13|5|PUNCT
+*INV:	and you can start now . 76766_78037
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	that's fire@q . 78037_79236
+%mor:	pro:dem|that~cop|be&3S meta|fire .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay . 79236_80355
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	food . 80355_82269
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 82269_84263
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	now what else am I gonna +..? [+ exc] 84263_86689
+%mor:	adv|now pro:int|what post|else aux|be&1S pro:sub|I
+	part|go-PRESP~inf|to +..?
+%gra:	1|6|JCT 2|6|SUBJ 3|2|PQ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OM 8|6|PUNCT
+*PAR:	I'm runnin(g) out_of words &=laughs . [+ exc] 86689_88977
+%mor:	pro:sub|I~aux|be&1S part|run-PRESP prep|out_of n|word-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	&=laughs I can't think of them . [+ exc] 88977_93288
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of pro:obj|them .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*INV:	think of as many words as you can think of that begin with the
+	letter f@l . 93288_96870
+%mor:	v|think prep|of adv|as qn|many n|word-PL adv|as pro:per|you mod|can
+	v|think prep|of adv|that v|begin prep|with det:art|the n|letter
+	n:let|f .
+%gra:	1|0|ROOT 2|1|JCT 3|5|COORD 4|5|QUANT 5|2|POBJ 6|5|NJCT 7|9|SUBJ 8|9|AUX
+	9|1|CJCT 10|9|JCT 11|12|JCT 12|10|POBJ 13|9|JCT 14|15|DET 15|16|SUBJ
+	16|13|POBJ 17|1|PUNCT
+*PAR:	(...) I don't know . [+ exc] 96870_102800
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I thought I had one whenever they first had it but &uh they took it
+	away . [+ exc] 102800_110175
+%mor:	pro:sub|I v|think&PAST pro:sub|I v|have&PAST det:num|one
+	pro:rel|whenever pro:sub|they adv|first v|have&PAST pro:per|it
+	conj|but pro:sub|they v|take&PAST pro:per|it adv|away .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|9|LINK 7|9|SUBJ 8|9|JCT
+	9|5|CMOD 10|9|OBJ 11|13|LINK 12|13|SUBJ 13|9|CJCT 14|13|OBJ 15|13|JCT
+	16|2|PUNCT
+*PAR:	(..) fire &f +... [+ exc] 110175_115435
+%mor:	n|fire +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) fire , food +... [+ exc] 115435_122813
+%mor:	n|fire cm|cm n|food +...
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	(.) could have food@q in there „ can't you ? [+ exc] 122813_126500
+%mor:	mod|could v|have meta|food prep|in n|there end|end mod|can~neg|not
+	pro:per|you ?
+%gra:	1|2|AUX 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|9|ENDP 7|9|AUX 8|7|NEG
+	9|2|END 10|2|PUNCT
+*INV:	+< mhm . 126000_127039
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fire [//] &foo foam . 127039_129041
+%mor:	n|foam .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	from the food . 129041_131094
+%mor:	prep|from det:art|the n|food .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	(..) and that's xxx . [+ exc] 131094_150871
+%mor:	coord|and pro:dem|that~cop|be&3S .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@End

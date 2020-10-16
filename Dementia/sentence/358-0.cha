@@ -1,0 +1,70 @@
+@UTF8
+@PID:	11312/t-00016654-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|60;|female|Probable||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	358-0, audio
+*INV:	pencil@q . 0_1463
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the pencil is mine . 1463_3928
+%mor:	det:art|the n|pencil cop|be&3S pro:poss|mine .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	(.) tree@q . 3928_9231
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) the tree is oak . 9231_14147
+%mor:	det:art|the n|tree cop|be&3S n|oak .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	(.) now I'm gonna give you two words . 14147_18900
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|two n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	I'd like you to use both of them for me in a short sentence . 18900_21628
+%mor:	pro:sub|I~mod|genmod v|like pro:per|you inf|to v|use qn|both
+	prep|of pro:obj|them prep|for pro:obj|me prep|in det:art|a adj|short
+	n|sentence .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|7|NJCT
+	9|8|POBJ 10|6|JCT 11|10|POBJ 12|6|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+*PAR:	mhm . [+ exc] 21628_22302
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	child@q hospital@q . 22302_25058
+%mor:	meta|child meta|hospital .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	the child is in the hospital . 25058_27440
+%mor:	det:art|the n|child cop|be&3S prep|in det:art|the n|hospital .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	(.) cold@q winter@q . 27440_36668
+%mor:	meta|cold meta|winter .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	it is a cold winter day . 36668_41291
+%mor:	pro:per|it cop|be&3S det:art|a adj|cold n|winter n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|5|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*INV:	(.) now I'm gonna give you three words . 41291_47500
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|three n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	I'd like you to use them all for me in a sentence . 47500_50161
+%mor:	pro:sub|I~mod|genmod v|like pro:per|you inf|to v|use pro:obj|them
+	post|all prep|for pro:obj|me prep|in det:art|a n|sentence .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|7|PQ
+	9|6|JCT 10|9|POBJ 11|6|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*INV:	chair@q doctor@q sit@q . 50161_55655
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	the doctor (.) sit in the chair . 55655_60231
+%mor:	det:art|the n|doctor v|sit prep|in det:art|the n|chair .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	bureau@q open@q drawer@q . 60231_67981
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	the bureau drawer is open . 67981_70860
+%mor:	det:art|the n|bureau n|drawer cop|be&3S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

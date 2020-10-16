@@ -1,0 +1,152 @@
+@UTF8
+@PID:	11312/t-00016145-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	235-2, audio
+@G:	animals
+*INV:	xxx . 0_1440
+*PAR:	ca(t) . 1440_3495
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ho(g) . 3495_3900
+%mor:	n|hog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 3900_4516
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	goat . 4516_5480
+%mor:	n|goat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&r &r &r &uh &r rabbit . 5480_9473
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	possum . 9473_11006
+%mor:	n|possum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	coon . 11006_11784
+%mor:	n|coon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) foxes . 11784_20689
+%mor:	n|fox-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	possums . 20689_22895
+%mor:	n|possum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squirrels . 22895_24497
+%mor:	n|squirrel-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) deer . 24497_40043
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hog . 40043_41772
+%mor:	n|hog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	goats . 41772_43804
+%mor:	n|goat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheeps . 43804_45012
+%mor:	n|sheep-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) racoon . 45012_54404
+%mor:	n|racoon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	possum . 54404_55762
+%mor:	n|possum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &hm apes . 55762_64865
+%mor:	n|ape-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hippopotamus . 64865_67953
+%mor:	n|hippopotamus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< okay ‡ that's a minute . 67553_68765
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S det:art|a n|minute .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*INV:	very good . 68765_69613
+%mor:	adv|very adj|good .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+@G:	F
+*INV:	now what I would like for you to do is name for me as many words as
+	you can think of beginning with the letter f@l . 69613_77740
+%mor:	adv|now pro:int|what pro:sub|I mod|will&COND v|like prep|for
+	pro:per|you inf|to v|do cop|be&3S v|name prep|for pro:obj|me adv|as
+	qn|many n|word-PL adv|as pro:per|you mod|can v|think prep|of
+	n|beginning prep|with det:art|the n|letter n:let|f .
+%gra:	1|5|JCT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|9|SUBJ 8|9|INF
+	9|6|CPOBJ 10|9|OBJ 11|10|CPRED 12|11|JCT 13|12|POBJ 14|16|COORD 15|16|QUANT
+	16|11|OBJ 17|20|JCT 18|20|SUBJ 19|20|AUX 20|16|CMOD 21|20|JCT
+	22|21|POBJ 23|20|JCT 24|25|DET 25|23|POBJ 26|20|JCT 27|5|PUNCT
+*INV:	the letter f@l . 77740_80283
+%mor:	det:art|the n|letter n:let|f .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	I only want one form of the word . 80283_84921
+%mor:	pro:sub|I adv|only v|want det:num|one n|form prep|of det:art|the
+	n|word .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*INV:	for instance if you gave me the word walk I wouldn't want you to
+	give me walking@q and walked@q also . 84921_91653
+%mor:	prep|for n|instance conj|if pro:per|you v|give&PAST pro:obj|me
+	det:art|the n|word n|walk pro:sub|I mod|will&COND~neg|not v|want
+	pro:per|you inf|to v|give pro:obj|me meta|walking coord|and
+	meta|walked adv|also .
+%gra:	1|13|JCT 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|13|CJCT 6|5|OBJ2 7|9|DET 8|9|MOD
+	9|5|OBJ 10|13|SUBJ 11|13|AUX 12|11|NEG 13|0|ROOT 14|16|SUBJ 15|16|INF
+	16|13|COMP 17|16|OBJ 18|16|COMP 19|18|CONJ 20|19|COORD 21|20|JCT
+	22|13|PUNCT
+*INV:	just one form of the word . 91653_93118
+%mor:	adv|just det:num|one n|form prep|of det:art|the n|word .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	+< just one &uh +/. [+ exc] 92355_93118
+%mor:	adv|just det:num|one +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*INV:	no proper names . 93118_95626
+%mor:	qn|no adj|proper n|name-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	I don't want any proper names of places or people . 95626_98586
+%mor:	pro:sub|I mod|do~neg|not v|want qn|any adj|proper n|name-PL prep|of
+	n|place-PL coord|or n|person&PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|4|PUNCT
+*INV:	so ‡ all the words that you can think of beginning with the letter
+	f@l . 98586_103869
+%mor:	co|so beg|beg adv|all det:art|the n|word-PL pro:rel|that
+	pro:per|you mod|can v|think prep|of n|beginning prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|DET 5|0|INCROOT 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|10|POBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|9|JCT
+	16|5|PUNCT
+*INV:	okay ‡ ready go ahead . 103869_107305
+%mor:	co|okay beg|beg adj|ready v|go adv|ahead .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	fume . 107305_108780
+%mor:	v|fume .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fox . 108780_109628
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fabric . 109628_114179
+%mor:	n|fabric .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (...) folks . 114179_136249
+%mor:	n|folk-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) fume . 136249_146756
+%mor:	v|fume .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) family . 146756_157844
+%mor:	n|family .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	folks . 157844_159446
+%mor:	n|folk-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) familiar . 159446_170801
+%mor:	adj|familiar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 170801_171613
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

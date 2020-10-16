@@ -1,0 +1,144 @@
+@UTF8
+@PID:	11312/t-00016181-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|81;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	350-1, audio
+@G:	foods
+*INV:	think of that you can eat . 0_2112
+%mor:	v|think prep|of pro:dem|that pro:per|you mod|can v|eat .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|1|CJCT 7|1|PUNCT
+*INV:	and you can start now . 2112_3616
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	anything at all you can eat . 3616_6408
+%mor:	pro:indef|anything prep|at pro:indef|all pro:per|you mod|can v|eat
+	.
+%gra:	1|6|LINK 2|1|NJCT 3|2|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	<I can't think of> [/] I can't think of nothing to start with .
+	[+ exc] 6408_10396
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of pro:indef|nothing inf|to
+	v|start prep|with .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|INF 8|4|XJCT
+	9|8|JCT 10|4|PUNCT
+*INV:	&=laughs . 10396_11610
+*PAR:	bread . 10610_12452
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good ! 12452_13184
+%mor:	adj|good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	butter . 13184_14112
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) bread butter . [+ exc] 14112_18410
+%mor:	n|bread n|butter .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't know . [+ exc] 18410_22090
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&+s beans . 22090_23000
+%mor:	n|bean-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	string beans . 23000_24000
+%mor:	n|string n|bean-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't know nothing . [+ exc] 24000_25410
+%mor:	pro:sub|I mod|do~neg|not v|know pro:indef|nothing .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	anything at all that you can think of that you can eat . 25410_28762
+%mor:	pro:indef|anything prep|at qn|all pro:dem|that pro:per|you mod|can
+	v|think prep|of pro:dem|that pro:per|you mod|can v|eat .
+%gra:	1|7|LINK 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|12|SUBJ 11|12|AUX 12|7|CJCT 13|7|PUNCT
+*PAR:	I can't think . [+ exc] 28762_30379
+%mor:	pro:sub|I mod|can~neg|not v|think .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	anything at all that you can eat . 30379_39003
+%mor:	pro:indef|anything prep|at qn|all pro:dem|that pro:per|you mod|can
+	v|eat .
+%gra:	1|7|LINK 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT
+	8|7|PUNCT
+*PAR:	oh ‡ &uh (.) did I say beans ? [+ exc] 39003_43066
+%mor:	co|oh beg|beg mod|do&PAST pro:sub|I v|say n|bean-PL ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*INV:	okay . 43066_44098
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else that you can think of that you can eat ? 44098_46634
+%mor:	pro:indef|anything post|else pro:dem|that pro:per|you mod|can
+	v|think prep|of pro:dem|that pro:per|you mod|can v|eat ?
+%gra:	1|11|SUBJ 2|1|PQ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|11|CJCT 7|6|JCT 8|7|POBJ
+	9|11|SUBJ 10|11|AUX 11|0|ROOT 12|11|PUNCT
+*PAR:	(..) can't think of nothing . [+ exc] 46634_52722
+%mor:	mod|can~neg|not v|think prep|of pro:indef|nothing .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	but sit me down to the table &=laughs . [+ exc] 52722_58250
+%mor:	conj|but v|sit pro:obj|me adv|down prep|to det:art|the n|table .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	(.) I can't think of a thing . [+ exc] 58250_61226
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of det:art|a n|thing .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@G:	S
+*INV:	www . 61226_64000
+%exp:	previous utterance cut off
+*INV:	that begins with the letter s@l . 64000_65185
+%mor:	pro:rel|that v|begin-3S prep|with det:art|the n|letter n:let|s .
+%gra:	1|2|LINK 2|0|ROOT 3|2|JCT 4|5|DET 5|6|SUBJ 6|3|POBJ 7|2|PUNCT
+*INV:	and you can start now . 65185_66564
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	I quit . [+ exc] 66564_68081
+%mor:	pro:sub|I v|quit&ZERO .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	&=laughs you can't do that . 68081_70283
+%mor:	pro:per|you mod|can~neg|not v|do pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	any word at all that you can think of that begins with the letter
+	s@l . 70283_74282
+%mor:	qn|any n|word prep|at qn|all pro:dem|that pro:per|you mod|can
+	v|think prep|of pro:dem|that v|begin-3S prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|2|QUANT 2|11|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|8|SUBJ 7|8|AUX
+	8|2|CMOD 9|8|JCT 10|9|POBJ 11|0|ROOT 12|11|JCT 13|14|DET 14|15|SUBJ 15|12|POBJ
+	16|11|PUNCT
+*PAR:	s@l . [+ exc] 74282_75629
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh the sun ? 75629_82191
+%mor:	det:art|the n|sun ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	good . 82191_83058
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) s@l (.) I don't know . [+ exc] 83058_92683
+%mor:	n:let|s pro:sub|I mod|do~neg|not v|know .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*INV:	any word at all that begins with the letter s@l . 92683_98819
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|s .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	(.) shoes . 98819_101202
+%mor:	n|shoe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 101202_103971
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any word at all that begins with the letter s@l . 103971_110650
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|s .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	(.) s@l . [+ exc] 110650_113922
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) I can't think of nothing . [+ exc] 113922_117474
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of pro:indef|nothing .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*INV:	okay . 117474_131999
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,216 @@
+@UTF8
+@PID:	11312/t-00016110-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	181-0, audio
+@G:	animals
+*INV:	okay ‡ any animals that you like . 0_1899
+%mor:	co|okay beg|beg qn|any n|animal-PL pro:rel|that pro:per|you
+	conj|like .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|0|INCROOT 5|7|LINK 6|7|SUBJ 7|4|CMOD
+	8|4|PUNCT
+*INV:	off you go . 1999_2709
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	+< cat . 2305_2709
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and a dog . 2709_3782
+%mor:	coord|and det:art|a n|dog .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and a horse . 3708_4470
+%mor:	coord|and det:art|a n|horse .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and cow . 4470_5063
+%mor:	coord|and n|cow .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and elephant . 5063_6305
+%mor:	coord|and n|elephant .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the rhinoceros . 6305_7681
+%mor:	coord|and det:art|the n|rhinoceros .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and lion . 7681_8645
+%mor:	coord|and n|lion .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and the tiger . 8645_9486
+%mor:	coord|and det:art|the n|tiger .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	and &uh wolf . 9486_10996
+%mor:	coord|and n|wolf .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and a coyote . 10996_12208
+%mor:	coord|and det:art|a n|coyote .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh (.) I don't know what that xxx is . [+ exc] 12208_18245
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what adv|that cop|be&3S .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|JCT 7|4|COMP 8|4|PUNCT
+*PAR:	snakes don't come in that . [+ exc] 18245_19600
+%mor:	n|snake-PL mod|do~neg|not v|come adv|in pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	they're reptiles . [+ exc] 19600_20785
+%mor:	pro:sub|they~cop|be&PRES n|reptile-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and &uh did I say cat@q ? [+ exc] 20785_24161
+%mor:	coord|and v|do&PAST pro:sub|I v|say meta|cat ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*INV:	mhm . 24161_25390
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and tiger ? [+ exc] 25236_26808
+%mor:	coord|and n|tiger ?
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*INV:	okay . 26808_27805
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&a and a rhinoceros ? [+ exc] 27805_29798
+%mor:	coord|and det:art|a n|rhinoceros ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	okay . 29798_30747
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and elephant ? [+ exc] 30747_31618
+%mor:	coord|and n|elephant ?
+%gra:	1|0|INCROOT 2|1|COORD 3|1|PUNCT
+*PAR:	did I have him ?[+ exc] 31618_32692
+%mor:	mod|do&PAST pro:sub|I v|have pro:obj|him ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and &uh a moose . 32692_37579
+%mor:	coord|and det:art|a n|moose .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	mule . 37579_40054
+%mor:	n|mule .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) what more could I have ? [+ exc] 40054_45700
+%mor:	pro:int|what adv|more mod|could pro:sub|I v|have ?
+%gra:	1|5|LINK 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	a reindeer . 45700_46408
+%mor:	det:art|a n|reindeer .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and a &li I did lion@q . [+ exc] 46408_49810
+%mor:	coord|and det:art|a pro:sub|I v|do&PAST meta|lion .
+%gra:	1|4|LINK 2|4|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	tiger . 49810_50201
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I'll say tiger@q .[+ exc] 50201_51603
+%mor:	pro:sub|I~mod|will v|say meta|tiger .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	skunk . 51603_53310
+%mor:	n|skunk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I have a skunk@q ? [+ exc] 53310_54064
+%mor:	mod|do&PAST pro:sub|I v|have det:art|a meta|skunk ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	I have a badger@q . 54064_54735
+%mor:	pro:sub|I v|have det:art|a meta|badger .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*PAR:	how_about that ? [+ exc] 54735_55820
+%mor:	pro:int|how_about pro:dem|that ?
+%gra:	1|0|INCROOT 2|1|OM 3|1|PUNCT
+*PAR:	my gracious ‡ there are so many animals . [+ exc] 55820_62140
+%mor:	det:poss|my adj|gracious beg|beg pro:exist|there cop|be&PRES adv|so
+	qn|many n|animal-PL .
+%gra:	1|2|DET 2|0|BEG 3|2|BEGP 4|5|SUBJ 5|0|ROOT 6|8|JCT 7|8|QUANT 8|5|PRED
+	9|5|PUNCT
+*INV:	mhm . 62140_63289
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	okay ‡ xxx . 63289_66691
+%mor:	co|okay beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT
+*INV:	off you go . 66691_67527
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	like friends@q ? 67227_68200
+%mor:	co|like meta|friends ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm ‡ that's it . 68200_69100
+%mor:	co|mhm=yes beg|beg pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	just like that „ yeah . 69100_70233
+%mor:	adv|just prep|like pro:dem|that end|end co|yeah .
+%gra:	1|2|JCT 2|0|INCROOT 3|2|POBJ 4|5|ENDP 5|2|END 6|2|PUNCT
+*PAR:	and &uh facing . 70233_71605
+%mor:	coord|and part|face-PRESP .
+%gra:	1|2|LINK 2|0|ROOT 3|2|PUNCT
+*INV:	yeah . 71605_72257
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh &uh (.) flag . 72257_76678
+%mor:	coord|and n|flag .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	and fish . 76803_79112
+%mor:	coord|and n|fish .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	no [/] no animal , no fish . [+ exc] 79112_80575
+%mor:	qn|no n|animal cm|cm qn|no n|fish .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|LP 4|5|QUANT 5|2|ENUM 6|2|PUNCT
+*INV:	it's okay . 80575_81864
+%mor:	pro:per|it~cop|be&3S adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	you can do animals this time . 81864_83013
+%mor:	pro:per|you mod|can v|do n|animal-PL det:dem|this n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|MOD 5|6|DET 6|3|OBJ 7|3|PUNCT
+*INV:	anything you like . 83013_84100
+%mor:	pro:indef|anything pro:per|you conj|like .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|INCROOT 4|3|PUNCT
+*PAR:	+< fish . 83700_84246
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh &=sighs did I say flowers@q ? 84246_89423
+%mor:	coord|and v|do&PAST pro:sub|I v|say meta|flowers ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	did I have that ? [+ exc] 89317_90235
+%mor:	mod|do&PAST pro:sub|I v|have pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	flowers ? [+ exc] 90235_90855
+%mor:	n|flower-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 90335_91055
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh +... 91055_95100
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	so many things belong with f@l . [+ exc] 95100_97573
+%mor:	adv|so qn|many n|thing-PL v|belong prep|with n:let|f .
+%gra:	1|2|JCT 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	animals ‡ huh ? [+ exc] 97627_100800
+%mor:	n|animal-PL beg|beg co|huh ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	no ‡ words beginning with f@l . 100800_102888
+%mor:	co|no beg|beg n|word-PL n|beginning prep|with n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*PAR:	oh ‡ words . [+ exc] 102888_104259
+%mor:	co|oh beg|beg n|word-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	any word beginning with f@l . 104259_106143
+%mor:	qn|any n|word n|beginning prep|with n:let|f .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*PAR:	+< floor . 105743_106952
+%mor:	n|floor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh fence . 107263_109582
+%mor:	coord|and n|fence .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) a fan . 109317_113644
+%mor:	det:art|a n|fan .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) physics . 113644_118904
+%mor:	n|physics .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's arithmetic . [+ exc] 118904_120368
+%mor:	pro:dem|that~cop|be&3S adj|arithmetic .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and &uh furniture . 120368_125038
+%mor:	coord|and n|furniture .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	okay ‡ hold it there . 125038_130952
+%mor:	co|okay beg|beg n|hold pro:per|it adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+@End

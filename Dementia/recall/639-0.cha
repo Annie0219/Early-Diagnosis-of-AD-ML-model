@@ -1,0 +1,43 @@
+@UTF8
+@PID:	11312/a-00015248-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	639-0, audio
+@G:	George_Immediate
+*INV:	anything that you can remember about the story . 0_2025
+%mor:	pro:indef|anything pro:rel|that pro:per|you mod|can v|remember
+	prep|about det:art|the n|story .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|1|PUNCT
+*PAR:	(...) the man's name is George Allen . 2025_19299
+%mor:	det:art|the adj|man&dn-POSS n|name cop|be&3S n:prop|George
+	n:prop|Allen .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|NAME 6|4|PRED 7|4|PUNCT
+*PAR:	he had a granddaughter named &uh Melanie . 19299_22910
+%mor:	pro:sub|he v|have&PAST det:art|a grand#n|daughter v|name-PAST
+	n:prop|Melanie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*PAR:	Melanie wanted to see the &um house where her grandfather was
+	<raised or grew up> [//] born . 22910_33898
+%mor:	n:prop|Melanie v|want-PAST inf|to v|see det:art|the n|house
+	pro:rel|where det:poss|her grand#n|father cop|be&PAST&13S adj|born .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|6|DET 6|4|OBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|CMOD 11|10|PRED 12|2|PUNCT
+*PAR:	&um she was fearful of something . 33898_38300
+%mor:	pro:sub|she cop|be&PAST&13S adj|fear&dn-FULL prep|of
+	pro:indef|something .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	I don't know what . [+ exc] 38300_39372
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	but [//] and hay [: he] [*] held her hand very tightly . 39372_42068
+%mor:	coord|and pro:sub|he v|hold&PAST det:poss|her n|hand adv|very
+	adv|tight&dadj-LY .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|JCT 7|3|JCT 8|3|PUNCT
+*INV:	okay . 42068_49000
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

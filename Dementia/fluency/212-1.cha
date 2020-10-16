@@ -1,0 +1,168 @@
+@UTF8
+@PID:	11312/t-00016124-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|81;|male|MCI||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	212-1, audio
+*INV:	www . 0_3891
+%exp:	finishing prior task
+@G:	foods 
+*INV:	and you can begin now . 3891_6708
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	apples . 6708_7349
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pears . 7349_8017
+%mor:	n|pear-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peaches . 8017_9137
+%mor:	n|peach-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	celery . 9137_11097
+%mor:	n|celery .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	turnips . 11097_12359
+%mor:	n|turnip-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	meat . 12359_13448
+%mor:	n|meat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread . 13448_14707
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) candy . 14707_19127
+%mor:	n|candy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) pickles . 19127_24948
+%mor:	n|pickle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tomatoes . 24948_26848
+%mor:	n|tomato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	potatoes . 26848_28233
+%mor:	n|potato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	celery . 28233_29493
+%mor:	n|celery .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	turnips . 29493_32497
+%mor:	n|turnip-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bananas . 32497_35158
+%mor:	n|banana-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oranges . 35158_36995
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	plums . 36995_39080
+%mor:	n|plum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) buns . 39080_50114
+%mor:	n|bun-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &s peas . 50114_60652
+%mor:	n|pea-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	beans . 60652_61274
+%mor:	n|bean-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cantaloupes . 61274_64557
+%mor:	n|cantaloupe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 64557_66876
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	S
+*INV:	www . 66876_69035
+%exp:	instructions cut off on tape
+*INV:	and you can begin now . 69035_71000
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	saw . 71000_71577
+%mor:	n|saw .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	see . 71577_72386
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	say . 72386_73241
+%mor:	co|say .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	soothe . 73241_74253
+%mor:	v|soothe .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	suck . 74253_75436
+%mor:	n|suck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sample . 75436_76775
+%mor:	n|sample .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sort . 76775_78082
+%mor:	n|sort .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh see . 78082_80371
+%mor:	v|see .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) sympathize . 80371_83825
+%mor:	v|sympathize .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	summer . 83825_85613
+%mor:	n|summer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sail . 85613_86985
+%mor:	n|sail .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s sale . 86985_90018
+%mor:	n|sale .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	s@l a@l . [+ exc] 90018_90781
+%mor:	n:let|s n:let|a .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	&uh snub . 90781_93115
+%mor:	v|snub .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	snort . 93115_95326
+%mor:	n|snort .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	snicker . 95326_96711
+%mor:	v|snicker .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	slʌp@u [: x@n] . 96711_99792
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	slang . 99792_101505
+%mor:	n|slang .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	slide . 101505_103185
+%mor:	n|slide .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	slow . 103185_104913
+%mor:	adv|slow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sleuth . 104913_107154
+%mor:	n|sleuth .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s sustain . 107154_113084
+%mor:	v|sustain .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&sa &s sample . 113084_116634
+%mor:	n|sample .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	seething . 116634_120789
+%mor:	part|seethe-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) slug . 120789_126159
+%mor:	n|slug .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s sound . 126159_130670
+%mor:	n|sound .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 130670_132149
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	okay . 132149_132959
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

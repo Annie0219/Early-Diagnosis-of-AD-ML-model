@@ -1,0 +1,82 @@
+@UTF8
+@PID:	11312/t-00044522-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|82;|female|PossibleAD||Participant|14||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	585-0, audio
+@G:	animals
+*INV:	you can start now . 0_2615
+%mor:	pro:per|you mod|can v|start adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	just say it to me . 2615_4624
+%mor:	adv|just v|say pro:per|it prep|to pro:obj|me .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	+< oh . [+ exc] 3456_4624
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh dog . 4624_7085
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	mhm . 7085_7892
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh duck . 7892_13745
+%mor:	n|duck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &hm <let's say> [/] let's say +... [+ exc] 13745_27767
+%mor:	v|let~pro:obj|us v|say +...
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*INV:	(.) can you think of any more animals +/. 27767_33915
+%mor:	mod|can pro:per|you v|think prep|of qn|any qn|more n|animal-PL +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|QUANT 7|4|POBJ
+	8|3|PUNCT
+*PAR:	oh ‡ I know there's some more but +... [+ exc] 33915_40000
+%mor:	co|oh beg|beg pro:sub|I v|know pro:exist|there~cop|be&3S qn|some
+	pro:indef|more conj|but +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|QUANT 8|6|PRED
+	9|4|OM 10|4|PUNCT
+*PAR:	(..) a ham . 40000_47113
+%mor:	det:art|a n|ham .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 47113_48032
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &um +... 48032_60670
+*INV:	let's +/. 60670_61800
+%mor:	v|let~pro:obj|us +/.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	+< donkey . 61100_62102
+%mor:	n|donkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	okay ‡ good . 62102_63565
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	you can start now . 63565_65277
+%mor:	pro:per|you mod|can v|start adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	four . 65277_66771
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) &f &uh (.) fish . 66771_80732
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &f &uh let's see . [+ exc] 80732_93090
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	fairy &=laughs . 93090_97370
+%mor:	n|fairy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any word at all . 97370_98521
+%mor:	qn|any n|word prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	alright . [+ exc] 98521_99674
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (..) &hm +... 99674_122442
+*INV:	okay . 122442_125711
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,110 @@
+@UTF8
+@PID:	11312/t-00016448-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|50;|female|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	529-0, audio
+@G:	George_Immediate
+*INV:	okay ‡ can you tell me everything you can remember about that story
+	? 0_3894
+%mor:	co|okay beg|beg mod|can pro:per|you v|tell pro:obj|me
+	pro:indef|everything pro:per|you mod|can v|remember prep|about
+	det:dem|that n|story ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	(.) George Miller moved in <with his> [/] (.) &um (.) with his (.)
+	son . 3894_19254
+%mor:	n:prop|George n:prop|Miller v|move-PAST adv|in prep|with
+	det:poss|his n|son .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*INV:	okay . 19254_21438
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc] 21438_22139
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) this &+gra granddaughter asked them about his childhood . 22139_29990
+%mor:	pro:dem|this grand#n|daughter v|ask-PAST pro:obj|them prep|about
+	det:poss|his n|childhood .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and (.) he told her about the house where he lived . 29990_36910
+%mor:	coord|and pro:sub|he v|tell&PAST pro:obj|her prep|about det:art|the
+	n|house pro:rel|where pro:sub|he v|live-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|3|PUNCT
+*PAR:	and (.) he took her to see it . 36910_45046
+%mor:	coord|and pro:sub|he v|take&PAST pro:obj|her inf|to v|see
+	pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|XJCT 7|6|OBJ 8|3|PUNCT
+*PAR:	and she was afraid of the city streets . 45046_50502
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adj|afraid prep|of
+	det:art|the n|city n|street-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*PAR:	but she didn't tell him . 50502_54966
+%mor:	conj|but pro:sub|she mod|do&PAST~neg|not v|tell pro:obj|him .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+@G:	George_Delayed
+*INV:	do you remember the story I read to you a little while ago ? 54966_58110
+%mor:	mod|do pro:per|you v|remember det:art|the n|story pro:sub|I
+	v|read&ZERO prep|to pro:per|you det:art|a adj|little n|while
+	post|ago ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|SUBJ 7|5|CMOD 8|7|JCT
+	9|8|POBJ 10|12|DET 11|12|MOD 12|7|JCT 13|12|POSTMOD 14|3|PUNCT
+*INV:	and I asked you to tell me everything that you remembered right
+	after I read the story . 58110_61950
+%mor:	coord|and pro:sub|I v|ask-PAST pro:per|you inf|to v|tell pro:obj|me
+	pro:indef|everything pro:rel|that pro:per|you v|remember-PAST
+	adv|right conj|after pro:sub|I v|read&ZERO det:art|the n|story .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|6|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|13|JCT 13|15|LINK 14|15|SUBJ 15|11|CJCT
+	16|17|DET 17|15|OBJ 18|3|PUNCT
+*INV:	can you tell me everything you remember now from that story ? 61950_65270
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|everything
+	pro:per|you v|remember adv|now prep|from det:dem|that n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|7|SUBJ 7|3|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	(..) Mister Miller &=laughs went to his &uh daughter inlaw's (.) to
+	live . 65270_79758
+%mor:	n:prop|Mister n:prop|Miller v|go&PAST prep|to det:poss|his
+	n|daughter adj|+adj|in+n|law&dn-POSS inf|to v|live .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|9|INF
+	9|7|XMOD 10|3|PUNCT
+*PAR:	and (.) when he was there his granddaughter asked him to take (...)
+	him [: her] [*] to see his [//] where he useta live . 79758_97214
+%mor:	coord|and conj|when pro:sub|he cop|be&PAST&13S adv|there
+	det:poss|his grand#n|daughter v|ask-PAST pro:obj|him inf|to v|take
+	pro:obj|her inf|to v|see pro:int|where pro:sub|he mod|used~inf|to
+	v|live .
+%gra:	1|4|LINK 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|JCT 6|7|DET 7|8|SUBJ 8|4|PRED
+	9|8|OBJ 10|11|INF 11|8|COMP 12|11|OBJ 13|14|INF 14|11|XJCT 15|19|LINK
+	16|19|SUBJ 17|19|AUX 18|19|INF 19|14|COMP 20|4|PUNCT
+*PAR:	his house . 97214_98126
+%mor:	det:poss|his n|house .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	and (.) so they got in the car and went (.) into the city . 98126_107998
+%mor:	coord|and co|so pro:sub|they v|get&PAST prep|in det:art|the n|car
+	coord|and v|go&PAST prep|into det:art|the n|city .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|8|COORD 10|9|JCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	and she didn't tell him how frightened she was of the traffic and
+	the noise in the city . 107998_119679
+%mor:	coord|and pro:sub|she mod|do&PAST~neg|not v|tell pro:obj|him
+	pro:int|how part|frighten-PASTP pro:sub|she cop|be&PAST&13S prep|of
+	det:art|the n|traffic coord|and det:art|the n|noise prep|in
+	det:art|the n|city .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|10|LINK 8|10|LINK
+	9|10|SUBJ 10|5|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|10|CONJ 15|16|DET
+	16|14|COORD 17|16|NJCT 18|19|DET 19|17|POBJ 20|5|PUNCT
+*PAR:	it was a Friday . 119679_123222
+%mor:	pro:per|it cop|be&PAST&13S det:art|a n:prop|Friday .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	okay . 123222_124519
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 124519_129591
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,108 @@
+@UTF8
+@PID:	11312/t-00016054-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|77;|male|Memory||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	039-0, audio
+@G:	animals
+*INV:	you can begin now . 0_1370
+%mor:	pro:per|you mod|can v|begin adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	okay . [+ exc] 1370_2264
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cat . 2264_3611
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 3611_5642
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	chicken . 5642_8313
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rooster . 8313_11738
+%mor:	n|rooster .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pig . 11738_14512
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 14512_17229
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	goat . 17229_19760
+%mor:	n|goat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 19760_22593
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 22593_25228
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pony . 25228_28444
+%mor:	n|pony .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zebra . 28444_31915
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 31915_35410
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 35410_38858
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	panther . 38858_42747
+%mor:	n|panther .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	leopard . 42747_46172
+%mor:	n|leopard .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	puma . 46172_49400
+%mor:	n|puma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 49400_51977
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) water buffalo . 51977_57852
+%mor:	n|water n|buffalo .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	okay ‡ good . 57852_61254
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	+< &rhinoc +/. 60000_61834
+*INV:	okay ‡ . 61834_62856
+%mor:	co|okay beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT
+*INV:	gosh ‡ look at that . 62856_67117
+%mor:	co|gosh beg|beg v|look prep|at pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+@G:	F
+*PAR:	how_(a)bout fruit . 67117_70693
+%mor:	pro:int|how_about n|fruit .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	fan . 70693_74338
+%mor:	n|fan .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fight . 74338_79992
+%mor:	n|fight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fear . 79992_83615
+%mor:	n|fear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fun . 83615_87597
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) fife . 87597_116000
+%mor:	n|fife .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	as an instrument . [+ exc] 116000_117121
+%mor:	conj|as det:art|a n|instrument .
+%gra:	1|3|COORD 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh (..) flag . 117121_124830
+%mor:	n|flag .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 124830_139000
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

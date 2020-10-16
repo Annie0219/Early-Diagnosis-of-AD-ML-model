@@ -1,0 +1,155 @@
+@Font:	Arial:18:0
+@UTF8
+@PID:	11312/t-00016702-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|76;|female|ProbableAD||Participant|16||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	615-0, audio
+*INV:	let's take an example . 0_3009
+%mor:	v|let~pro:obj|us v|take det:art|a n|example .
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|5|DET 5|3|OBJ 6|1|PUNCT
+*PAR:	if I gave you the word table +/. 3009_6226
+%mor:	conj|if pro:sub|I v|give&PAST pro:per|you det:art|the n|word
+	n|table +/.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|7|DET 6|7|MOD 7|3|OBJ 8|3|PUNCT
+*PAR:	cloth (.) tablecloth . [+ exc] 6226_8981
+%mor:	n|cloth n|+n|table+n|cloth .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	+, put it in a whole sentence for me . 8981_11083
+%mor:	v|put&ZERO pro:per|it prep|in det:art|a adj|whole n|sentence
+	prep|for pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|1|JCT 8|7|POBJ
+	9|1|PUNCT
+*INV:	use that word in a sentence . 11083_13030
+%mor:	v|use det:dem|that n|word prep|in det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*PAR:	I received (.) a new tablecloth . 13030_17697
+%mor:	pro:sub|I v|receive-PAST det:art|a adj|new n|+n|table+n|cloth .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*INV:	okay . 17697_18569
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	put this word in a sentence for me . 18569_22010
+%mor:	v|put&ZERO det:dem|this n|word prep|in det:art|a n|sentence
+	prep|for pro:obj|me .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|JCT 8|7|POBJ
+	9|1|PUNCT
+*INV:	pencil@q . 22010_22865
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	my pencil has a broken point . 22865_25961
+%mor:	det:poss|my n|pencil v|have&3S det:art|a part|break&PASTP n|point .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*INV:	good . 25961_27521
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	use this word in a sentence for me . 27252_35408
+%mor:	v|use det:dem|this n|word prep|in det:art|a n|sentence prep|for
+	pro:obj|me .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|JCT 8|7|POBJ
+	9|1|PUNCT
+*INV:	tree@q . 35408_37287
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a tree can [/] can be used ad [/] as many things . 37287_44286
+%mor:	det:art|a n|tree mod|can aux|be part|use-PASTP prep|as qn|many
+	n|thing-PL .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|QUANT 8|6|POBJ
+	9|5|PUNCT
+*PAR:	it can bear fruit and still <is more> [//] is useful to other
+	things . 44286_50442
+%mor:	pro:per|it mod|can n|bear n|fruit coord|and adv|still aux|be&3S
+	adj|use&dn-FULL prep|to qn|other n|thing-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|MOD 4|0|INCROOT 5|4|CONJ 6|7|JCT 7|5|COORD
+	8|7|PRED 9|8|JCT 10|11|QUANT 11|9|POBJ 12|4|PUNCT
+*INV:	okay . 50442_51982
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I'm going to give you two words now . 51982_58690
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	det:num|two n|word-PL adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|8|QUANT 8|5|OBJ
+	9|5|JCT 10|3|PUNCT
+*INV:	and you want use to use those two words in a brief simple sentence
+	. 58690_62643
+%mor:	coord|and pro:per|you v|want n|use inf|to v|use det:dem|those
+	det:num|two n|word-PL prep|in det:art|a adj|brief adj|simple
+	n|sentence .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|4|XMOD 7|9|DET 8|9|QUANT
+	9|6|OBJ 10|6|JCT 11|14|DET 12|14|MOD 13|14|MOD 14|10|POBJ 15|3|PUNCT
+*INV:	it doesn't matter what order you put them in . 62643_65553
+%mor:	pro:per|it mod|do&3S~neg|not n|matter pro:int|what v|order
+	pro:per|you v|put&ZERO pro:obj|them adv|in .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|OBJ 10|8|JCT 11|6|PUNCT
+*INV:	use these two words in a sentence for me . 65553_68105
+%mor:	v|use det:dem|these det:num|two n|word-PL prep|in det:art|a
+	n|sentence prep|for pro:obj|me .
+%gra:	1|0|ROOT 2|4|DET 3|4|QUANT 4|1|OBJ 5|1|JCT 6|7|DET 7|5|POBJ 8|1|JCT
+	9|8|POBJ 10|1|PUNCT
+*INV:	child@q and hospital@q . 68105_71203
+%mor:	meta|child coord|and meta|hospital .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	my child hadta go to the hospital . 71203_74605
+%mor:	det:poss|my n|child mod|have&PAST~inf|to v|go prep|to det:art|the
+	n|hospital .
+%gra:	1|2|DET 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*INV:	+< good . 74269_75141
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	give you two new words . 75141_86800
+%mor:	v|give pro:per|you det:num|two adj|new n|word-PL .
+%gra:	1|0|ROOT 2|3|SUBJ 3|5|QUANT 4|5|MOD 5|1|OBJ 6|1|PUNCT
+*INV:	use these words in a simple sentence . 86800_89303
+%mor:	v|use det:dem|these n|word-PL prep|in det:art|a adj|simple
+	n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|1|PUNCT
+*INV:	cold@q and winter@q . 89303_92292
+%mor:	meta|cold coord|and meta|winter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	winter came (..) early this year . 92292_98159
+%mor:	n|winter v|come&PAST adv|early det:dem|this n|year .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	now I'm going to give you three words . 98159_109630
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	det:num|three n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	I still want you to use them in a brief simple sentence . 109630_113146
+%mor:	pro:sub|I adv|still v|want pro:per|you inf|to v|use pro:obj|them
+	prep|in det:art|a adj|brief adj|simple n|sentence .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|6|JCT
+	9|12|DET 10|12|MOD 11|12|MOD 12|8|POBJ 13|3|PUNCT
+*INV:	and doesn't matter what order you put them in . 113146_115622
+%mor:	coord|and mod|do&3S~neg|not n|matter pro:int|what v|order
+	pro:per|you v|put&ZERO pro:obj|them adv|in .
+%gra:	1|6|LINK 2|6|AUX 3|2|NEG 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|SUBJ 8|6|COMP
+	9|8|OBJ 10|8|JCT 11|6|PUNCT
+*INV:	here are the three words chair@q doctor@q and sit@q . 115622_120461
+%mor:	adv|here cop|be&PRES det:art|the det:num|three n|word-PL meta|chair
+	meta|doctor coord|and meta|sit .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|5|CONJ 7|6|COORD 8|7|CONJ
+	9|8|COORD 10|2|PUNCT
+*PAR:	doctor said “sit (.) in the chair” . 120461_124461
+%mor:	n|doctor v|say&PAST v|sit prep|in det:art|the n|chair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*INV:	I'm going to give three more words . 124461_137628
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give det:num|three
+	adv|more n|word-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|QUANT 7|8|JCT 8|5|OBJ
+	9|3|PUNCT
+*INV:	and I want you to make up a sentence using them . 137628_140118
+%mor:	coord|and pro:sub|I v|want pro:per|you inf|to v|make adv|up
+	det:art|a n|sentence part|use-PRESP pro:obj|them .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|XJCT 11|10|OBJ 12|3|PUNCT
+*INV:	bureau@q open@q and drawer@q . 140118_143853
+%mor:	meta|bureau meta|open coord|and meta|drawer .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	the little girl opened the door [//] drawer . 143853_151121
+%mor:	det:art|the adj|little n|girl v|open-PAST det:art|the n|drawer .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+@End

@@ -1,0 +1,143 @@
+@UTF8
+@PID:	11312/t-00016088-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	094-2, audio
+@G:	animals
+*INV:	that's it . 0_662
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay . 662_1997
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	all the animals that you can think of . 1997_4145
+%mor:	qn|all det:art|the n|animal-PL pro:rel|that pro:per|you mod|can
+	v|think prep|of .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|7|JCT 9|3|PUNCT
+*PAR:	+< oh my heavens ! [+ exc] 2100_3725
+%mor:	co|oh det:poss|my n|heaven-PL !
+%gra:	1|3|COM 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	and you can begin now . 4145_5956
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	+< animals . [+ exc] 4567_6103
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 6103_8484
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cat . 8484_8952
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 8952_9567
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh &=sighs cow . 9567_14188
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh deer . 14188_16766
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &uh +... 16766_20700
+*PAR:	gosh . [+ exc] 20700_22011
+%mor:	co|gosh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) rabbit . 22011_26291
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh squirrel . 26291_29762
+%mor:	n|squirrel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &=sighs skunk . 29762_40014
+%mor:	n|skunk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I say horse@q ? [+ exc] 40014_45865
+%mor:	pro:sub|I v|say meta|horse ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	I don't know if I did or not . [+ exc] 46319_49175
+%mor:	pro:sub|I mod|do~neg|not v|know comp|if pro:sub|I v|do&PAST
+	coord|or neg|not .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|CONJ
+	9|8|COORD 10|4|PUNCT
+*PAR:	&um (..) mouse . 49175_55259
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rat . 55259_56733
+%mor:	n|rat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &hm (.) dog . 56733_64314
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	did I say dog@q ? [+ exc] 64515_65378
+%mor:	mod|do&PAST pro:sub|I v|say meta|dog ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	+< okay ‡ good . 65378_66865
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	+< cat . 65900_66637
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's it . 66637_67670
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	time's up . 67670_68550
+%mor:	n|time~cop|be&3S adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+@G:	F
+*INV:	the letter f@l and you can begin now . 68550_72597
+%mor:	det:art|the n|letter n:let|f coord|and pro:per|you mod|can v|begin
+	adv|now .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CJCT 8|7|JCT
+	9|3|PUNCT
+*PAR:	+< Ford [/] Ford . 70000_72652
+%mor:	n:prop|Ford .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fun . 72652_74964
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fellow . 74964_76286
+%mor:	adj|fellow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fall . 76286_78683
+%mor:	v|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh fit . 78683_81469
+%mor:	v|fit&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh fancy . 81469_83942
+%mor:	n|fancy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fight . 83942_86984
+%mor:	n|fight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um +... 86984_91100
+*PAR:	oh_boy . [+ exc] 91100_92720
+%mor:	co|oh_boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) field . 92720_99319
+%mor:	n|field .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) father . 99319_109202
+%mor:	n|father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh friend . 109202_115802
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I say that ? [+ exc] 115802_117140
+%mor:	mod|do&PAST pro:sub|I v|say comp|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&um did I say fall@q ? [+ exc] 117140_123642
+%mor:	mod|do&PAST pro:sub|I v|say meta|fall ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	feel . 123642_124942
+%mor:	v|feel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&um +... 124942_131225
+*INV:	okay ‡ good . 131225_133216
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

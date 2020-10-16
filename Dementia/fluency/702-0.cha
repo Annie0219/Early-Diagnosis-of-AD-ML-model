@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/t-00016243-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	702-0, audio
+@G:	animals
+*INV:	think of . 0_1022
+%mor:	v|think prep|of .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	and you can start now . 1022_3035
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	cat . 3035_3704
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 3704_4219
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mouse . 4219_4857
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 4857_5354
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zebra . 5354_6801
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 6801_7685
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &=sighs xxx I get to the zoo . [+ exc] 7685_12764
+%mor:	pro:sub|I v|get prep|to det:art|the n|zoo .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	&uh &hm rhinoceros . 12764_17496
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh snake . 17496_20484
+%mor:	n|snake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) lion . 20484_23706
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 23706_24375
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	jaguar . 24375_27176
+%mor:	n|jaguar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um snake . 27176_31690
+%mor:	n|snake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=sighs deer . 31690_35923
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 35923_36623
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fox . 36623_38351
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um +... 38351_45000
+*PAR:	good grief . [+ exc] 45000_46678
+%mor:	adj|good n|grief .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um giraffe . 46678_49495
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rhinoceros . 49010_51049
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hippopotamus . 51049_54459
+%mor:	n|hippopotamus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	monkey . 54459_55672
+%mor:	n|monkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh +... 55672_60500
+%mor:	co|oh +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 60500_61208
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	next is +/. 61208_62368
+%mor:	adv|next cop|be&3S +/.
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*PAR:	the letter f@l . [+ exc] 61868_62913
+%mor:	det:art|the n|letter n:let|f .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	all of the words you can think of that start with the letter f@l
+	and you can start now . 62913_66960
+%mor:	pro:indef|all prep|of det:art|the n|word-PL pro:per|you mod|can
+	v|think prep|of adv|that v|start prep|with det:art|the n|letter
+	n:let|f coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|7|JCT 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|JCT 10|8|POBJ 11|7|JCT 12|13|DET 13|11|POBJ 14|7|JCT 15|18|LINK
+	16|18|SUBJ 17|18|AUX 18|14|CJCT 19|18|JCT 20|7|PUNCT
+*PAR:	farm . 66960_68700
+%mor:	n|farm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fun . 68700_69620
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) feeling . 69620_72534
+%mor:	part|feel-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=sighs (..) &hm +... 72534_81000
+*PAR:	good grief . [+ exc] 81000_83115
+%mor:	adj|good n|grief .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	any word at all . 83115_84344
+%mor:	qn|any n|word prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	can't even think of f@l letters . [+ exc] 84344_88235
+%mor:	mod|can~neg|not adv|even v|think prep|of n:let|f n|letter-PL .
+%gra:	1|4|AUX 2|1|NEG 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+*PAR:	&uh (..) funny . 88235_96608
+%mor:	adj|fun&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fin . 96608_99020
+%mor:	n|fin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) flower . 99020_109448
+%mor:	n|flower .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) fox . 109448_118520
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,165 @@
+@UTF8
+@PID:	11312/t-00016210-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|female|PossibleAD||Participant|10||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	511-0, audio
+@G:	animals
+*INV:	I'm going to ask you if you +//. 0_5307
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|ask pro:per|you conj|if
+	pro:per|you +//.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|JCT 8|7|POBJ
+	9|3|PUNCT
+*INV:	I wanna see how many animals you can name for me in one minute . 5307_11050
+%mor:	pro:sub|I v|want~inf|to v|see pro:int|how qn|many n|animal-PL
+	pro:per|you mod|can v|name prep|for pro:obj|me prep|in det:num|one
+	n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|10|LINK 6|7|QUANT 7|10|JCT
+	8|10|SUBJ 9|10|AUX 10|4|COMP 11|10|JCT 12|11|POBJ 13|10|JCT 14|15|QUANT
+	15|13|POBJ 16|2|PUNCT
+*INV:	I'll tell you when to start . 11050_13573
+%mor:	pro:sub|I~mod|will v|tell pro:per|you pro:int|when inf|to v|start .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|INF 7|3|COMP 8|3|PUNCT
+*INV:	any animal at all will do . 13573_17011
+%mor:	qn|any n|animal prep|at pro:indef|all mod|will v|do .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|6|SUBJ 5|6|AUX 6|3|POBJ 7|2|PUNCT
+*INV:	it can be zoo animals or farm animals or pets . 17011_22941
+%mor:	pro:per|it mod|can cop|be n|zoo n|animal-PL coord|or n|farm
+	n|animal-PL coord|or n|pet-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|CONJ 7|8|MOD 8|6|COORD
+	9|8|CONJ 10|9|COORD 11|3|PUNCT
+*INV:	but not fish or birds . 22941_24716
+%mor:	conj|but neg|not v|fish coord|or n|bird-PL .
+%gra:	1|3|LINK 2|3|NEG 3|0|ROOT 4|3|CONJ 5|4|COORD 6|3|PUNCT
+*INV:	okay ? 24716_26101
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I wanna see how many animals you can name in one minute . 26101_33183
+%mor:	pro:sub|I v|want~inf|to v|see pro:int|how qn|many n|animal-PL
+	pro:per|you mod|can v|name adv|in det:num|one n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|10|LINK 6|7|QUANT 7|10|JCT
+	8|10|SUBJ 9|10|AUX 10|4|COMP 11|10|JCT 12|13|QUANT 13|11|POBJ 14|2|PUNCT
+*PAR:	I [//] I'm not very good in that . [+ exc] 33183_36140
+%mor:	pro:sub|I~cop|be&1S neg|not adv|very adj|good prep|in pro:dem|that
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*INV:	well ‡ just name as many animals as you can think of in one minute
+	. 36140_40576
+%mor:	co|well beg|beg adj|just n|name conj|as qn|many n|animal-PL adv|as
+	pro:per|you mod|can v|think prep|of adv|in det:num|one n|minute .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|11|LINK 6|7|QUANT 7|11|JCT
+	8|7|NJCT 9|11|SUBJ 10|11|AUX 11|4|CJCT 12|11|JCT 13|11|JCT 14|15|QUANT
+	15|11|JCT 16|4|PUNCT
+*PAR:	I know robin . [+ exc] 40576_41992
+%mor:	pro:sub|I v|know n|robin .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	okay ‡ start . 41992_43394
+%mor:	co|okay beg|beg v|start .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|PUNCT
+*PAR:	(...) red birds . 43394_49636
+%mor:	adj|red n|bird-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	okay . 49636_50866
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a yellow bird . 50866_52251
+%mor:	det:art|a adj|yellow n|bird .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	(..) that's about all I know . [+ exc] 52251_58491
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all pro:sub|I v|know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|JCT 5|6|SUBJ 6|2|CJCT 7|2|PUNCT
+*INV:	any other animals ? 58491_60547
+%mor:	qn|any qn|other n|animal-PL ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	who ? [+ exc] 60547_61464
+%mor:	pro:rel|who ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	animals . 61464_62102
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	animals ? [+ exc] 62102_63005
+%mor:	n|animal-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	name as many animals as you can think of . 63005_65605
+%mor:	n|name conj|as qn|many n|animal-PL adv|as pro:per|you mod|can
+	v|think prep|of .
+%gra:	1|0|INCROOT 2|8|LINK 3|4|QUANT 4|8|JCT 5|4|NJCT 6|8|SUBJ 7|8|AUX
+	8|1|CJCT 9|8|JCT 10|1|PUNCT
+*PAR:	&uh horse . 65605_67177
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cow . 67177_69666
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) dog . 69666_71550
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(...) cat . 71550_82101
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cows . 82101_84592
+%mor:	n|cow-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) that's about all . [+ exc] 84592_90009
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*INV:	can you think of some more ? 90009_91658
+%mor:	mod|can pro:per|you v|think prep|of qn|some pro:indef|more ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	(..) &=sighs +... [+ exc] 91658_104539
+*INV:	okay . 104539_105337
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	now I want you to think of all the words that begin with f@l . 105337_111392
+%mor:	adv|now pro:sub|I v|want pro:per|you inf|to v|think prep|of qn|all
+	det:art|the n|word-PL pro:rel|that v|begin prep|with n:let|f .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|10|QUANT
+	9|10|DET 10|7|POBJ 11|12|LINK 12|10|CMOD 13|12|JCT 14|13|POBJ 15|3|PUNCT
+*INV:	I'm going to give you a minute and I want you to name all the words
+	you can think of that begin with the letter f@l . 111392_120543
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	det:art|a n|minute coord|and pro:sub|I v|want pro:per|you inf|to
+	v|name adv|all det:art|the n|word-PL pro:per|you mod|can v|think
+	prep|of adv|that v|begin prep|with det:art|the n|letter n:let|f .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|14|SUBJ 13|14|INF 14|11|COMP 15|17|JCT
+	16|17|DET 17|14|OBJ 18|20|SUBJ 19|20|AUX 20|17|ENUM 21|20|JCT 22|23|JCT
+	23|14|COMP 24|23|JCT 25|26|DET 26|27|SUBJ 27|24|POBJ 28|3|PUNCT
+*INV:	ready ? 120543_121928
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	begin . 121928_123001
+%mor:	v|begin .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) furniture . 123001_131095
+%mor:	n|furniture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) future . 131095_134861
+%mor:	adj|future .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &=sighs I really don't know . [+ exc] 134861_142767
+%mor:	pro:sub|I adv|real&dadj-LY mod|do~neg|not v|know .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*INV:	well ‡ keep trying . 142767_144464
+%mor:	co|well beg|beg v|keep part|try-PRESP .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|COMP 5|3|PUNCT
+*INV:	words that begin with f@l . 144464_152044
+%mor:	n|word-PL pro:rel|that v|begin prep|with n:let|f .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	(..) no ‡ I can't get that . [+ exc] 152044_160214
+%mor:	co|no beg|beg pro:sub|I mod|can~neg|not v|get pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*INV:	any other words that begin with f@l ? 160214_171949
+%mor:	qn|any qn|other n|word-PL pro:rel|that v|begin prep|with n:let|f ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	(..) oh ‡ I don't know +... [+ exc] 171949_179263
+%mor:	co|oh beg|beg pro:sub|I mod|do~neg|not v|know +...
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*INV:	okay . 179263_180463
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

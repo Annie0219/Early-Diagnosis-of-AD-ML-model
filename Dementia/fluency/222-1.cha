@@ -1,0 +1,135 @@
+@UTF8
+@PID:	11312/t-00016139-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|12||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	222-1, audio
+@G:	foods
+*INV:	www . 0_3297
+%exp:	previous task
+*INV:	think of that can be eaten . 3297_4874
+%mor:	v|think prep|of pro:dem|that mod|can aux|be part|eat&PASTP .
+%gra:	1|0|ROOT 2|1|JCT 3|6|SUBJ 4|6|AUX 5|6|AUX 6|1|CJCT 7|1|PUNCT
+*INV:	you can start now . 4874_6960
+%mor:	pro:per|you mod|can v|start adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	+< tell me all the things that can be eaten . 7894_10648
+%mor:	v|tell pro:obj|me qn|all det:art|the n|thing-PL pro:rel|that
+	mod|can aux|be part|eat&PASTP .
+%gra:	1|0|ROOT 2|1|OBJ2 3|5|QUANT 4|5|DET 5|1|OBJ 6|9|LINK 7|9|AUX 8|9|AUX
+	9|5|CMOD 10|1|PUNCT
+*PAR:	I can't +/. [+ exc] 7987_9294
+%mor:	pro:sub|I mod|can~neg|not +/.
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	oh ‡ to eat ? [+ exc] 10648_11709
+%mor:	co|oh beg|beg inf|to v|eat ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|INF 4|0|ROOT 5|4|PUNCT
+*INV:	right . 11709_12532
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh gee . [+ exc] 12532_15193
+%mor:	co|oh co|gee .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*INV:	(..) anything that can be eaten . 15193_20391
+%mor:	pro:indef|anything pro:rel|that mod|can aux|be part|eat&PASTP .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|AUX 4|5|AUX 5|1|CMOD 6|1|PUNCT
+*PAR:	(.) what in the heck did we have all that ? [+ exc] 20391_24671
+%mor:	pro:int|what prep|in det:art|the n|heck mod|do&PAST pro:sub|we
+	v|have qn|all pro:dem|that ?
+%gra:	1|7|LINK 2|7|JCT 3|4|DET 4|2|POBJ 5|7|AUX 6|7|SUBJ 7|0|ROOT 8|9|QUANT
+	9|7|OBJ 10|7|PUNCT
+*PAR:	(..) sauce . 24671_32857
+%mor:	n|sauce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ anything else that can be eaten ? 32857_35505
+%mor:	co|okay beg|beg pro:indef|anything post|else pro:rel|that mod|can
+	aux|be part|eat&PASTP ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|8|LINK 6|8|AUX 7|8|AUX 8|3|CMOD
+	9|3|PUNCT
+*PAR:	&um (...) eat ? [+ exc] 35505_47300
+%mor:	v|eat ?
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	what can you eat ? 47300_49712
+%mor:	pro:int|what mod|can pro:per|you v|eat ?
+%gra:	1|4|OBJ 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	oh ‡ (..) what in the heck is all that stuff I have ? [+ exc] 49712_66864
+%mor:	co|oh beg|beg pro:int|what prep|in det:art|the n|heck cop|be&3S
+	qn|all pro:dem|that v|stuff pro:sub|I v|have ?
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|JCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|9|QUANT
+	9|7|PRED 10|7|CPRED 11|12|SUBJ 12|10|COMP 13|7|PUNCT
+@G:	S
+*INV:	okay ‡ let me change directions „ okay . 66864_78444
+%mor:	co|okay beg|beg v|let&ZERO pro:obj|me v|change n|direction-PL
+	end|end co|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|OBJ 7|8|ENDP 8|3|END
+	9|3|PUNCT
+*INV:	with the letter s@l . 78444_80747
+%mor:	prep|with det:art|the n|letter n:let|s .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|3|POSTMOD 5|1|PUNCT
+*PAR:	s@l ? [+ exc] 80747_81760
+%mor:	n:let|s ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm ‡ you can start now . 81760_83909
+%mor:	co|mhm=yes beg|beg pro:per|you mod|can v|start adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*INV:	any word that begins with the letter s@l . 83909_86617
+%mor:	qn|any n|word pro:rel|that v|begin-3S prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|8|SUBJ
+	8|5|POBJ 9|2|PUNCT
+*PAR:	letter s@l . [+ exc] 86617_89293
+%mor:	n|letter n:let|s .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	(..) well ‡ then sometimes if we have this [//] the s@l +...
+	[+ exc] 89293_101500
+%mor:	co|well beg|beg adv:tem|then adv|sometimes conj|if pro:sub|we
+	v|have det:art|the n:let|s +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|JCT 5|7|LINK 6|7|SUBJ 7|4|CPOBJ
+	8|9|DET 9|7|OBJ 10|3|PUNCT
+*INV:	I want you to think of a word that begins with the letter s@l . 101500_104876
+%mor:	pro:sub|I v|want pro:per|you inf|to v|think prep|of det:art|a
+	n|word pro:rel|that v|begin-3S prep|with det:art|the n|letter
+	n:let|s .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|13|DET 13|14|SUBJ 14|11|POBJ 15|2|PUNCT
+*INV:	tell me words that begin with the letter s@l . 104876_108000
+%mor:	v|tell pro:obj|me n|word-PL pro:rel|that v|begin prep|with
+	det:art|the n|letter n:let|s .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|5|LINK 5|3|CMOD 6|5|JCT 7|8|DET 8|9|SUBJ
+	9|6|POBJ 10|1|PUNCT
+*PAR:	the letter s@l . [+ exc] 108000_109662
+%mor:	det:art|the n|letter n:let|s .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	mhm . 109662_110860
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) to get something to eat ? [+ exc] 110860_118595
+%mor:	inf|to v|get pro:indef|something inf|to v|eat ?
+%gra:	1|2|INF 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|2|PUNCT
+*INV:	okay . 118595_120417
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any word that begins with the letter s@l . 120417_124368
+%mor:	qn|any n|word pro:rel|that v|begin-3S prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|8|SUBJ
+	8|5|POBJ 9|2|PUNCT
+*PAR:	s@l . [+ exc] 124368_125802
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	s@l . 125802_127190
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any word that begins with the letter s@l . 127190_130005
+%mor:	qn|any n|word pro:rel|that v|begin-3S prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|8|SUBJ
+	8|5|POBJ 9|2|PUNCT
+*PAR:	well ‡ we hafta go to the doctor's . 130005_135001
+%mor:	co|well beg|beg pro:sub|we mod|have~inf|to v|go prep|to det:art|the
+	adj|doctor&dn-POSS .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|PUNCT
+@End

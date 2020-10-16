@@ -1,0 +1,88 @@
+@UTF8
+@PID:	11312/t-00017043-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	070-2, audio
+*INV:	pencil@q . 0_3020
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I write with a pencil . 3020_10741
+%mor:	pro:sub|I v|write prep|with det:art|a n|pencil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	tree@q . 10741_13531
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the tree lost it leaves . [+ exc] 13531_18429
+%mor:	det:art|the n|tree v|lose&PAST pro:per|it v|leave-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*INV:	pardon me ? 18429_19671
+%mor:	v|pardon pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	the tree lost it leaves . 19671_24141
+%mor:	det:art|the n|tree v|lose&PAST pro:per|it v|leave-3S .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|3|PUNCT
+*INV:	okay ‡ now this time there's two words . 24141_31192
+%mor:	co|okay beg|beg adv|now det:dem|this n|time
+	pro:exist|there~cop|be&3S det:num|two n|word-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|5|CMOD
+	8|9|QUANT 9|7|PRED 10|3|PUNCT
+*INV:	<I want you> [/] I want you to put the [//] both of the words in
+	one sentence . 31192_34884
+%mor:	pro:sub|I v|want pro:per|you inf|to v|put&ZERO qn|both prep|of
+	det:art|the n|word-PL prep|in det:num|one n|sentence .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|12|QUANT 12|10|POBJ 13|2|PUNCT
+*INV:	and you don't hafta worry about what order you put them in . 34884_38521
+%mor:	coord|and pro:per|you mod|do~neg|not mod|have~inf|to v|worry
+	prep|about pro:int|what v|order pro:per|you v|put&ZERO pro:obj|them
+	adv|in .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|INF 7|0|ROOT 8|10|JCT
+	9|10|SUBJ 10|12|CJCT 11|12|SUBJ 12|7|COMP 13|12|OBJ 14|12|JCT 15|7|PUNCT
+*INV:	okay ? 38521_39721
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	child@q hospital@q . 39721_42789
+%mor:	meta|child meta|hospital .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	their child is in the hospital . 42789_52125
+%mor:	det:poss|their n|child cop|be&3S prep|in det:art|the n|hospital .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	cold@q winter@q . 52125_57100
+%mor:	meta|cold meta|winter .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	the winter is cold . 57100_64810
+%mor:	det:art|the n|winter cop|be&3S adv|cold .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	okay . 64810_65900
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now this time three words . 65900_67900
+%mor:	adv|now pro:dem|this v|time det:num|three n|word-PL .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*INV:	and you don't hafta worry about what order they come in . 67900_70505
+%mor:	coord|and pro:per|you mod|do~neg|not mod|have~inf|to v|worry
+	prep|about pro:int|what n|order pro:sub|they v|come adv|in .
+%gra:	1|7|LINK 2|7|SUBJ 3|7|AUX 4|3|NEG 5|7|AUX 6|7|INF 7|0|ROOT 8|7|JCT
+	9|10|MOD 10|8|POBJ 11|12|SUBJ 12|10|CMOD 13|12|JCT 14|7|PUNCT
+*INV:	chair@q doctor@q sit@q . 70505_74846
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	I went in doctor's ɔfɪt@u [: office] [*] in [//] &ch sit in a chair
+	. 74846_84633
+%mor:	pro:sub|I v|go&PAST prep|in adj|doctor&dn-POSS n|office v|sit
+	prep|in det:art|a n|chair .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|MOD 5|3|POBJ 6|2|XJCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*INV:	bureau@q open@q drawer@q . 84633_96837
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	the brɝɚ@u [: bureau] [*] drawer was open . 96837_107841
+%mor:	det:art|the n|bureau n|drawer cop|be&PAST&13S adj|open .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	okay ‡ good . 107841_110907
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

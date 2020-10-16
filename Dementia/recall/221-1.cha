@@ -1,0 +1,30 @@
+@UTF8
+@PID:	11312/t-00016358-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|72;|male|MCI||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	221-1, audio
+@G:	Bill_Immediate
+*INV:	okay ‡ can you tell me what the story was about ? 0_3350
+%mor:	co|okay beg|beg mod|can pro:per|you v|tell pro:obj|me pro:int|what
+	det:art|the n|story cop|be&PAST&13S adv|about ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|5|COMP 11|10|JCT 12|5|PUNCT
+*INV:	anything you remember about that story . 3350_5138
+%mor:	pro:indef|anything pro:per|you v|remember prep|about det:dem|that
+	n|story .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	well ‡ uncle Bill and Johnny . 5138_7994
+%mor:	co|well beg|beg n|uncle n:prop|Bill coord|and n:prop|Johnny .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+*PAR:	and uncle [//] &uh Johnny admired uncle Bill because uncle Bill had
+	taken him on a camping trip . 7994_19337
+%mor:	coord|and n:prop|Johnny v|admire-PAST n|uncle n:prop|Bill
+	conj|because n|uncle n:prop|Bill aux|have&PAST part|take&PASTP
+	pro:obj|him prep|on det:art|a n:gerund|camp-PRESP n|trip .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|OBJ 6|10|LINK 7|8|MOD 8|10|SUBJ
+	9|10|AUX 10|3|CJCT 11|10|OBJ 12|10|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+@End

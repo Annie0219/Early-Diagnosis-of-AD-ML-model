@@ -1,0 +1,215 @@
+@UTF8
+@PID:	11312/t-00016062-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	051-0, audio
+@G:	animals
+*INV:	and you can begin now . 0_2017
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	dog . 2017_3161
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 3161_4417
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mouse . 4417_5815
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um I lost xxx . [+ exc] 5815_10983
+%mor:	pro:sub|I v|lose&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	you said four [/] four legged animals ? [+ exc] 10983_12750
+%mor:	pro:per|you v|say&PAST det:num|four adj|legged n|animal-PL ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*INV:	any kind of animal . 12750_13735
+%mor:	qn|any n|kind prep|of n|animal .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	any kind of animal . [+ exc] 13735_14600
+%mor:	qn|any n|kind prep|of n|animal .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*INV:	+< mhm . 14400_15447
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no chicken xxx . [+ exc] 15447_16515
+%mor:	qn|no n|chicken .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	+< no birds or fish „ right . 16100_17503
+%mor:	qn|no n|bird-PL coord|or n|fish end|end co|right .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|6|ENDP 6|2|END 7|2|PUNCT
+*PAR:	+< no birds or fish &=laughs . [+ exc] 17000_18551
+%mor:	qn|no n|bird-PL coord|or n|fish .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*PAR:	wait ‡ xxx now I'm going to hafta start all over again . [+ exc] 18551_20755
+%mor:	co|wait beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to
+	mod|have~inf|to v|start adv|all adv|over adv|again .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|10|INF 8|10|AUX
+	9|10|INF 10|6|COMP 11|12|JCT 12|10|JCT 13|12|JCT 14|6|PUNCT
+*INV:	dog cat mouse . 20755_24500
+%mor:	n|dog n|cat n|mouse .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	dog . [+ exc] 24500_25000
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . [+ exc] 25000_25250
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mouse . [+ exc] 25250_26039
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 26039_26895
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 26895_27991
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh donkey . 27991_29727
+%mor:	n|donkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh xxx zebra . 29727_34511
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 34511_35871
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh xxx &uh tiger . 35871_41815
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 41815_43588
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh camel . 43588_45495
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh oh [/] &uh oh ‡ (.) &uh polar bear . 45495_60079
+%mor:	co|oh beg|beg adj|polar n|bear .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*INV:	okay ‡ that's good . 60079_64343
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	that's good . 64343_66166
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	let's see . 66166_67501
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*INV:	you got one [//] twelve good . 67501_72992
+%mor:	pro:per|you v|get&PAST det:num|twelve adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|JCT 5|2|PUNCT
+@G:	F
+*INV:	okay ‡ now I'd like you to think of as many words as you can think
+	of beginning with the letter f@l . 73200_78399
+%mor:	co|okay beg|beg adv|now pro:sub|I~mod|genmod v|like pro:per|you
+	inf|to v|think prep|of adv|as qn|many n|word-PL adv|as pro:per|you
+	mod|can v|think prep|of n|beginning prep|with det:art|the n|letter
+	n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|OBJ 8|9|INF
+	9|6|COMP 10|9|JCT 11|13|COORD 12|13|QUANT 13|10|POBJ 14|17|JCT 15|17|SUBJ
+	16|17|AUX 17|13|CMOD 18|17|JCT 19|18|POBJ 20|17|JCT 21|22|DET 22|20|POBJ
+	23|17|JCT 24|6|PUNCT
+*PAR:	xxx . [+ exc] 78399_79900
+*INV:	f@l . 79900_80620
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wait no . [+ exc] 80620_81235
+%mor:	co|wait co|no .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	start xxx . [+ exc] 81235_82292
+%mor:	v|start .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	+< okay ‡ as many words as you can think of beginning with the
+	letter f@l . 81600_86400
+%mor:	co|okay beg|beg prep|as qn|many n|word-PL adv|as pro:per|you
+	mod|can v|think prep|of n|beginning prep|with det:art|the n|letter
+	n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COORD 4|5|QUANT 5|0|INCROOT 6|9|COORD 7|9|SUBJ
+	8|9|AUX 9|5|ENUM 10|9|JCT 11|10|POBJ 12|5|NJCT 13|14|DET 14|15|SUBJ
+	15|12|POBJ 16|5|PUNCT
+*INV:	okay ‡ but it can't be proper names like France@q or Fred@q . 86400_89927
+%mor:	co|okay beg|beg conj|but pro:per|it mod|can~neg|not cop|be
+	adj|proper n|name-PL prep|like meta|France coord|or meta|Fred .
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|9|MOD
+	9|7|PRED 10|7|JCT 11|10|POBJ 12|11|CONJ 13|12|COORD 14|7|PUNCT
+*INV:	and it can't be derivatives of each other . 89927_92000
+%mor:	coord|and pro:per|it mod|can~neg|not aux|be n|derivative-PL prep|of
+	qn|each qn|other .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PRED 7|6|NJCT 8|9|QUANT
+	9|7|POBJ 10|5|PUNCT
+*INV:	<like if I> [//] if you would say run@q you couldn't say run@q
+	runner@q and running@q . 92000_95868
+%mor:	conj|if pro:per|you mod|will&COND v|say meta|run pro:per|you
+	mod|could~neg|not v|say meta|run meta|runner coord|and meta|running
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|5|CMOD 10|9|OBJ 11|10|POSTMOD 12|11|CONJ 13|12|COORD 14|4|PUNCT
+*INV:	okay ‡ but it hasta begin with the letter f@l „ okay . 95868_99572
+%mor:	co|okay beg|beg conj|but pro:per|it mod|have&3S~inf|to v|begin
+	prep|with det:art|the n|letter n:let|f end|end co|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|INF 7|11|CJCT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|0|ROOT 12|13|ENDP 13|11|END 14|11|PUNCT
+*INV:	okay ‡ and you can begin now . 99572_101884
+%mor:	co|okay beg|beg coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	four . 102271_102800
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	five . 102800_103999
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) am I allowed to say fifteen@q &=laughs . [+ exc] 103999_107719
+%mor:	aux|be&1S pro:sub|I v|allow-PAST inf|to v|say meta|fifteen .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|3|PUNCT
+*PAR:	fifty [/] fifty . 107719_110047
+%mor:	det:num|fifty .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &uh fruit . 110047_116335
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh xxx . [+ exc] 116335_122487
+*INV:	&hm . 122487_123703
+*PAR:	did (.) I say four@q ? 123703_126640
+%mor:	mod|do&PAST pro:sub|I v|say meta|four ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm . 126640_127476
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (...) fine . 127476_139133
+%mor:	adv|fine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ am I allowed to say fine@q ? [+ exc] 139133_141708
+%mor:	co|oh beg|beg aux|be&1S pro:sub|I v|allow-PAST inf|to v|say
+	meta|fine ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|5|PUNCT
+*PAR:	&uh funny . 141708_143717
+%mor:	adj|fun&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	photo . 143717_145841
+%mor:	n|photo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) flip . 145841_152331
+%mor:	v|flip .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	floor . 152331_154073
+%mor:	n|floor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fly . 154073_156325
+%mor:	n|fly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fume . 156325_159344
+%mor:	v|fume .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	did I say fun@q ? [+ exc] 159344_161004
+%mor:	mod|do&PAST pro:sub|I v|say meta|fun ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm . 161004_162060
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh +... 162060_163337
+*INV:	+< okay . 162937_163813
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

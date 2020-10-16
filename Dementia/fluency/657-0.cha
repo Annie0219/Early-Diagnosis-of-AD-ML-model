@@ -1,0 +1,164 @@
+@UTF8
+@PID:	11312/t-00016234-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|74;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	657-0, audio
+*INV:	www . 0_3238
+%exp:	end of previous task
+@G:	animals
+*INV:	okay ‡ start now . 3238_7533
+%mor:	co|okay beg|beg v|start adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	(th)ere's a dog . 7533_10506
+%mor:	pro:exist|there~cop|be&3S det:art|a n|dog .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	mhm . 10506_11315
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh cat . 11315_13370
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh . 13370_14210
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	an elephant . 14210_16778
+%mor:	det:art|a n|elephant .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	okay . 16778_17587
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< a lion . 17287_18428
+%mor:	det:art|a n|lion .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a tiger . 18428_19721
+%mor:	det:art|a n|tiger .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) &=sighs oh_boy . [+ exc] 19721_27378
+%mor:	co|oh_boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's okay . 27378_28156
+%mor:	pro:dem|that~cop|be&3S adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	any animal at all that you can think of . 28156_33494
+%mor:	qn|any n|animal prep|at qn|all pro:dem|that pro:per|you mod|can
+	v|think prep|of .
+%gra:	1|2|QUANT 2|8|JCT 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|8|PUNCT
+*PAR:	I had a dog@q and a cat@q and a &d &uh +... [+ exc] 33494_35207
+%mor:	pro:sub|I v|have&PAST det:art|a meta|dog coord|and det:art|a
+	meta|cat coord|and det:art|a +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|CONJ 6|7|DET 7|5|COORD 8|4|CONJ
+	9|8|COORD 10|2|PUNCT
+*PAR:	I don't remember . [+ exc] 35207_36638
+%mor:	pro:sub|I mod|do~neg|not v|remember .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	zibreɪ@u [: zebra] [*] . 36638_37681
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 37681_38834
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) did I have deer@q ? 38834_41961
+%mor:	mod|do&PAST pro:sub|I v|have meta|deer ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	okay . 41961_43829
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I had an elephant@q „ didn't I ? [+ exc] 43829_48078
+%mor:	pro:sub|I v|have&PAST det:art|a meta|elephant end|end
+	mod|do&PAST~neg|not pro:sub|I ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|8|ENDP 6|8|AUX 7|6|NEG 8|2|END
+	9|2|PUNCT
+*INV:	okay . 48078_49260
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and I had a dog@q . [+ exc] 49260_51872
+%mor:	coord|and pro:sub|I v|have&PAST det:art|a meta|dog .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	and +... 51872_53826
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else that you can think of ? 53826_55690
+%mor:	pro:indef|anything post|else pro:dem|that pro:per|you mod|can
+	v|think prep|of ?
+%gra:	1|3|SUBJ 2|1|PQ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	sheep . 55690_56212
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 56212_57153
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pig . 57153_58538
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh (.) a rat . 58538_67441
+%mor:	det:art|a n|rat .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	+< okay +//. 66999_67502
+%mor:	co|okay +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	start now . 67502_69557
+%mor:	v|start adv|now .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	(.) &hm +... 69557_75924
+*INV:	any word at all that begins with the letter f@l . 75924_78616
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	fun . 78616_80500
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 80500_81464
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) and it hafta be animal „ xxx ? [+ exc] 81464_86693
+%mor:	coord|and pro:per|it mod|have~inf|to cop|be n|animal end|end ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PRED 7|5|PRED 8|5|PUNCT
+*INV:	any word at all that begins with the letter f@l . 86693_89591
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	female . 89591_90397
+%mor:	adj|female .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh one of them is fun@q . 90397_96638
+%mor:	det:num|one prep|of pro:obj|them cop|be&3S meta|fun .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	oh ‡ that ain't an animal . [+ exc] 96638_98162
+%mor:	co|oh beg|beg pro:dem|that cop|be&1S~neg|not det:art|a n|animal .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|DET 7|4|PRED 8|4|PUNCT
+*INV:	no ‡ any word at all that begins with the letter f@l . 98162_101509
+%mor:	co|no beg|beg qn|any n|word prep|at qn|all pro:dem|that v|begin-3S
+	prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|8|SUBJ 5|4|NJCT 6|7|QUANT 7|5|POBJ
+	8|0|ROOT 9|8|JCT 10|11|DET 11|12|SUBJ 12|9|POBJ 13|8|PUNCT
+*PAR:	fun . 101509_102444
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 102444_103252
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any other words you can think of that begin with the letter f@l ? 103252_106568
+%mor:	qn|any qn|other n|word-PL pro:per|you mod|can v|think prep|of
+	det:dem|that v|begin prep|with det:art|the n|letter n:let|f ?
+%gra:	1|3|QUANT 2|3|QUANT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|6|JCT 11|12|DET 12|10|POBJ 13|6|JCT 14|6|PUNCT
+*PAR:	female . 106568_107408
+%mor:	adj|female .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 107408_108824
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	&hm +... 108824_116450
+*INV:	any word at all that begins with the letter f@l . 116450_119206
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+@End

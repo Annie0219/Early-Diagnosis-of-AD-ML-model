@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/t-00016097-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	134-2, audio
+@G:	animals
+*INV:	okay ‡ you can begin now . 0_3051
+%mor:	co|okay beg|beg pro:per|you mod|can v|begin adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	&=hums horse . 3051_7424
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 7424_8405
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 8405_9729
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 9729_12500
+*PAR:	&=hums (..) pigs . 12500_19533
+%mor:	n|pig-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) I can't think of any more . [+ exc] 19533_31968
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of qn|any pro:indef|more .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|PUNCT
+*INV:	can you think of any more words ? 31968_33200
+%mor:	mod|can pro:per|you v|think prep|of qn|any qn|more n|word-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|QUANT 7|4|POBJ
+	8|3|PUNCT
+*INV:	you've got thirty seconds left . 33200_34878
+%mor:	pro:per|you~aux|have part|get&PASTP det:num|thirty n|second-PL
+	v|leave&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+*INV:	all the animals you can think of . 34878_36809
+%mor:	qn|all det:art|the n|animal-PL pro:per|you mod|can v|think prep|of
+	.
+%gra:	1|3|QUANT 2|3|DET 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	+< oh . [+ exc] 34878_35735
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm (..) a lion . 36809_45790
+%mor:	det:art|a n|lion .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 45790_46754
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) did I name dog@q ? 46754_52216
+%mor:	mod|do&PAST pro:sub|I v|name meta|dog ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	okay . 52216_53017
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um +... 53017_61664
+*INV:	okay . 61664_62456
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	now I'm going to change the directions . 62456_64533
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to v|change
+	det:art|the n|direction-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*INV:	f@l . 64533_65500
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and you can begin now . 65500_67001
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	(..) food . 67001_72759
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 72759_73553
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) farm . 73553_80805
+%mor:	n|farm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um (.) &um (.) &um +... [+ exc] 80805_97777
+*INV:	any words at all that begin with the letter f@l . 97777_100774
+%mor:	qn|any n|word-PL prep|at qn|all adv|that v|begin prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	(.) did I mention food@q ? [+ exc] 100774_106657
+%mor:	mod|do&PAST pro:sub|I v|mention meta|food ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	okay . 106657_107636
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) flour . 107636_110765
+%mor:	n|flour .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &=mumbling +... 110765_125500
+*INV:	okay ‡ good . 125500_127138
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

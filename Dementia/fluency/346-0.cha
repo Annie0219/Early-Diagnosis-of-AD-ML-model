@@ -1,0 +1,144 @@
+@UTF8
+@PID:	11312/t-00016179-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	346-0, audio
+*INV:	www . 0_6554
+%exp:	previous task
+@G:	animals
+*INV:	xxx in one minute you can start now . 6554_8732
+%mor:	prep|in det:num|one n|minute pro:per|you mod|can v|start adv|now .
+%gra:	1|6|JCT 2|3|QUANT 3|1|POBJ 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	everything but fish and birds ? [+ exc] 8732_10896
+%mor:	pro:indef|everything conj|but n|fish coord|and n|bird-PL ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	cat . 10896_12671
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 12671_13152
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	elephant . 13152_15831
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squirrel . 15831_16982
+%mor:	n|squirrel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm (.) birds . 16982_22726
+%mor:	n|bird-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbits . 22726_26072
+%mor:	n|rabbit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lions . 26072_27972
+%mor:	n|lion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tigers . 27972_29045
+%mor:	n|tiger-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephants . 29045_31241
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm snakes . 31241_35924
+%mor:	n|snake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rats . 35924_37465
+%mor:	n|rat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &=laughs I think it's enough animals . [+ exc] 37465_51675
+%mor:	pro:sub|I v|think pro:per|it~cop|be&3S adj|enough n|animal-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|MOD 6|4|PRED 7|2|PUNCT
+*INV:	any more +//? 51275_51618
+%mor:	qn|any pro:indef|more +//?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	you got about fifteen seconds . 51618_53365
+%mor:	pro:per|you v|get&PAST prep|about det:num|fifteen n|second-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*PAR:	oh ! [+ exc] 53365_54605
+%mor:	co|oh !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) birds . 54605_57952
+%mor:	n|bird-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) snakes . 57952_61687
+%mor:	n|snake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squirrels . 61687_63711
+%mor:	n|squirrel-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cows . 63711_66282
+%mor:	n|cow-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horses . 66282_67258
+%mor:	n|horse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) sheep . 67258_68699
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 68699_70240
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	dogs . 70240_71127
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< that's good . 70727_71676
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	+< cats . 71076_72268
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	start with the letter f@l and you can start now . 72268_74964
+%mor:	v|start prep|with det:art|the n|letter n:let|f coord|and
+	pro:per|you mod|can v|start adv|now .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|ENUM 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CJCT 10|9|JCT 11|1|PUNCT
+*PAR:	flying . 74964_76486
+%mor:	part|fly-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flowers . 76486_77529
+%mor:	n|flower-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flies . 77529_78308
+%mor:	n|fly-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fleas . 78308_80038
+%mor:	n|flea-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ugh xxx . [+ exc] 80038_86261
+%mor:	co|ugh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) oh_boy ! [+ exc] 86261_91925
+%mor:	co|oh_boy !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) float . 91925_96938
+%mor:	n|float .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &um I give up . [+ exc] 96938_106675
+%mor:	pro:sub|I v|give adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	you got about thirty seconds . 106675_108516
+%mor:	pro:per|you v|get&PAST prep|about det:num|thirty n|second-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*INV:	can you think of any words that begin with the letter f@l ? 108516_111177
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|word-PL pro:rel|that
+	v|begin prep|with det:art|the n|letter n:let|f ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|8|LINK 8|6|CMOD
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|JCT 13|3|PUNCT
+*PAR:	fire . 111177_112952
+%mor:	n|fire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flowers . 112952_115535
+%mor:	n|flower-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) floor . 115535_128173
+%mor:	n|floor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &hm +... 128173_134200
+*INV:	okay . 134200_134787
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

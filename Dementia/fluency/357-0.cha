@@ -1,0 +1,143 @@
+@UTF8
+@PID:	11312/t-00016186-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	357-0, audio
+@G:	animals
+*INV:	and you can begin now . 0_3853
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	cat . 3853_5046
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 5046_5935
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh bear . 5935_8126
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 8126_8875
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	skunk . 8875_10622
+%mor:	n|skunk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squirrel . 10622_11558
+%mor:	n|squirrel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a bear . 11558_13922
+%mor:	det:art|a n|bear .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	deer . 13922_15435
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 15435_17751
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 17751_19826
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) lamb . 19826_23468
+%mor:	n|lamb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 23468_23967
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I don't know . [+ exc] 23967_28971
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	&=coughs I don't know . [+ exc] 28971_31376
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	what else did I say ? [+ exc] 31376_32300
+%mor:	pro:int|what post|else mod|do&PAST pro:sub|I v|say ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	horse . 32300_32602
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	donkey . 32602_33345
+%mor:	n|donkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=coughs pig . [+ exc] 33345_37116
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) deer . 37116_43262
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I don't know any more . [+ exc] 43262_45236
+%mor:	pro:sub|I mod|do~neg|not v|know qn|any pro:indef|more .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*PAR:	&=coughs pardon me . [+ exc] 45236_48668
+%mor:	v|pardon pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	(..) lions . 48668_55297
+%mor:	n|lion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 55297_57707
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay good . 57707_62675
+%mor:	co|okay adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+@G:	F
+*INV:	okay ‡ give me the letter f@l . 62675_65365
+%mor:	co|okay beg|beg v|give pro:obj|me det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|6|POSTMOD
+	8|3|PUNCT
+*INV:	any word at all you can start now . 65365_68283
+%mor:	qn|any n|word prep|at pro:indef|all pro:per|you mod|can v|start
+	adv|now .
+%gra:	1|2|QUANT 2|7|JCT 3|2|NJCT 4|3|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|PUNCT
+*PAR:	fair . 68283_69074
+%mor:	n|fair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fun . 69074_70116
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fish . 70116_71068
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) four . 71068_73228
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) feel . 73228_77993
+%mor:	v|feel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fence . 77993_79272
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm (.) fry . 79272_85200
+%mor:	n|fry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) xxx . [+ exc] 85200_91000
+*PAR:	fill . 91000_92633
+%mor:	n|fill .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	force . 92633_95261
+%mor:	n|force .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) free . 95261_99901
+%mor:	adv|free .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frail . 99901_102795
+%mor:	adj|frail .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fudge . 102795_104449
+%mor:	n|fudge .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) guess that's all I can think of right now . [+ exc] 104449_115968
+%mor:	n|guess pro:rel|that~cop|be&3S pro:indef|all pro:sub|I mod|can
+	v|think prep|of adv|right adv|now .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|PRED 5|7|SUBJ 6|7|AUX 7|4|CMOD
+	8|7|JCT 9|10|JCT 10|8|POBJ 11|1|PUNCT
+*INV:	a few more seconds . 115968_117255
+%mor:	det:art|a qn|few qn|more n|second-PL .
+%gra:	1|4|DET 2|3|QUANT 3|4|QUANT 4|0|INCROOT 5|4|PUNCT
+*INV:	(...) ‡ okay . 117255_126052
+%mor:	beg|beg co|okay .
+%gra:	1|0|INCROOT 2|1|COM 3|1|PUNCT
+@End

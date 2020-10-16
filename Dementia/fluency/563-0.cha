@@ -1,0 +1,226 @@
+@UTF8
+@PID:	11312/t-00044520-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|15||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	563-0, audio
+@G:	animals
+*INV:	xxx I'm going to give one minute and I want you to tell me as many
+	animals you think of in a minute's time . 0_7592
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give det:num|one
+	n|minute coord|and pro:sub|I v|want pro:per|you inf|to v|tell
+	pro:obj|me prep|as qn|many n|animal-PL pro:per|you v|think prep|of
+	prep|in det:art|a adj|minute&dn-POSS n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|QUANT 7|5|OBJ 8|10|LINK
+	9|10|SUBJ 10|3|CJCT 11|13|SUBJ 12|13|INF 13|10|COMP 14|13|OBJ 15|19|JCT
+	16|17|QUANT 17|15|POBJ 18|19|SUBJ 19|13|CJCT 20|19|JCT 21|19|JCT
+	22|24|DET 23|24|MOD 24|21|POBJ 25|3|PUNCT
+*INV:	I want you to name as many animals . 7592_9702
+%mor:	pro:sub|I v|want pro:per|you prep|to n|name prep|as qn|many
+	n|animal-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|2|JCT 7|8|QUANT 8|6|POBJ
+	9|2|PUNCT
+*PAR:	+< what kind ? [+ exc] 9502_10342
+%mor:	pro:int|what n|kind ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	any kind of animals except for fish and birds . 10342_13969
+%mor:	qn|any n|kind prep|of n|animal-PL prep|except prep|for n|fish
+	coord|and n|bird-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|ENUM 6|5|JCT 7|6|POBJ
+	8|7|CONJ 9|8|COORD 10|2|PUNCT
+*INV:	no fish , no birds . 13969_16044
+%mor:	qn|no n|fish cm|cm qn|no n|bird-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|LP 4|5|QUANT 5|2|ENUM 6|2|PUNCT
+*PAR:	+< dogs . [+ exc] 15244_15878
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< cats . [+ exc] 15878_16424
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< yeah that's the stuff . 16200_17533
+%mor:	co|yeah pro:dem|that~cop|be&3S det:art|the n|stuff .
+%gra:	1|2|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	+< rats . [+ exc] 16533_17264
+%mor:	n|rat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	ready ? 17533_17986
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	go ahead . 17986_18613
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	alright . [+ exc] 18613_19205
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dogs . 19205_21222
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cats . 21222_22267
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh squirrels . 22267_25207
+%mor:	n|squirrel-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	holy cats I know more (th)an that . [+ exc] 25207_30145
+%mor:	adj|holy n|cat-PL pro:sub|I v|know adv|more prep|than pro:dem|that
+	.
+%gra:	1|2|MOD 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	(..) see my mind's a blank . [+ exc] 30145_37148
+%mor:	v|see det:poss|my adj|mind&dn-POSS det:art|a adj|blank .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|5|DET 5|3|POSTMOD 6|1|PUNCT
+*PAR:	(..) are you timing me too ? [+ exc] 37148_42552
+%mor:	cop|be&PRES pro:per|you part|time-PRESP pro:obj|me adv|too ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|OBJ 5|3|JCT 6|1|PUNCT
+*INV:	for a minute . 42552_43376
+%mor:	prep|for det:art|a n|minute .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	oh_my_god . [+ exc] 43376_44386
+%mor:	co|oh_my_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	give you a minute . 44386_45525
+%mor:	v|give pro:per|you det:art|a n|minute .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|PUNCT
+*PAR:	huh . [+ exc] 45525_46489
+%mor:	co|huh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	why xxx +/? [+ exc] 46489_48822
+%mor:	pro:rel|why +/?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< animals that you can think of . 48498_50602
+%mor:	n|animal-PL pro:rel|that pro:per|you mod|can v|think prep|of .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CMOD 6|5|JCT 7|1|PUNCT
+*INV:	name all the animals you can think of . 50602_53804
+%mor:	n|name qn|all det:art|the n|animal-PL pro:per|you mod|can v|think
+	prep|of .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|1|PUNCT
+*PAR:	wild animals too ? 53804_55039
+%mor:	adv|wild n|animal-PL post|too ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PQ 4|2|PUNCT
+*INV:	uhhuh ‡ sure . 55039_56607
+%mor:	co|uhhuh beg|beg adj|sure .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	I can't think of any now &=laughs . 56607_61372
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of qn|any adv|now .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|QUANT 7|5|POBJ 8|4|PUNCT
+*PAR:	(.) and you're timing me too ? [+ exc] 61372_65993
+%mor:	coord|and pro:per|you~aux|be&PRES part|time-PRESP pro:obj|me
+	post|too ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*INV:	I gave you a minute . 65993_66957
+%mor:	pro:sub|I v|give&PAST pro:per|you det:art|a n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|2|PUNCT
+*INV:	xxx name as many +/. 66957_69279
+%mor:	n|name prep|as qn|many +/.
+%gra:	1|0|INCROOT 2|3|COORD 3|1|ENUM 4|1|PUNCT
+*PAR:	honey ‡ is that necessary ? [+ exc] 67045_69843
+%mor:	co|honey beg|beg cop|be&3S det:dem|that adj|necessary ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	nobody's gonna know <if I don't> [/] &tr if I cheat . 69843_74733
+%mor:	adj|nobody&dn-POSS part|go-PRESP~inf|to v|know comp|if pro:sub|I
+	v|cheat .
+%gra:	1|0|INCROOT 2|1|XMOD 3|4|INF 4|2|COMP 5|7|LINK 6|7|SUBJ 7|4|COMP
+	8|1|PUNCT
+*INV:	just say as many animals as you can think of . 74733_79654
+%mor:	adv|just co|say adv|as qn|many n|animal-PL adv|as pro:per|you
+	mod|can v|think prep|of .
+%gra:	1|2|JCT 2|9|COM 3|4|JCT 4|5|QUANT 5|9|JCT 6|5|NJCT 7|9|SUBJ 8|9|AUX
+	9|0|ROOT 10|9|JCT 11|9|PUNCT
+*PAR:	yeah ‡ but they gotta be the animals that I seen and [/] and played
+	with . [+ exc] 79654_87594
+%mor:	co|yeah beg|beg conj|but pro:sub|they mod|got~inf|to cop|be
+	det:art|the n|animal-PL pro:rel|that pro:sub|I part|see&PASTP
+	coord|and v|play-PAST prep|with .
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|SUBJ 5|7|AUX 6|7|INF 7|0|ROOT 8|9|DET
+	9|7|PRED 10|12|LINK 11|12|AUX 12|9|CMOD 13|12|CONJ 14|13|COORD 15|14|JCT
+	16|7|PUNCT
+*INV:	just any name of any animal . 87594_89848
+%mor:	adv|just qn|any n|name prep|of qn|any n|animal .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	rabbit . 89848_90862
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	right . 90862_91595
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squirrel . 91595_92781
+%mor:	n|squirrel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 92781_93771
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh +... 93771_98000
+@G:	F
+*INV:	alright ‡ let's try this one . 98000_99815
+%mor:	co|alright beg|beg v|let~pro:obj|us v|try det:dem|this
+	pro:indef|one .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*INV:	in a minute's time I want you to name as many words as you can
+	think of beginning with the letter f@l . 99894_106874
+%mor:	prep|in det:art|a adj|minute&dn-POSS n|time pro:sub|I v|want
+	pro:per|you inf|to v|name conj|as qn|many n|word-PL adv|as
+	pro:per|you mod|can v|think prep|of n|beginning prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|INF
+	9|6|COMP 10|12|COORD 11|12|QUANT 12|9|OBJ 13|16|JCT 14|16|SUBJ 15|16|AUX
+	16|12|CMOD 17|16|JCT 18|17|POBJ 19|16|JCT 20|21|DET 21|19|POBJ 22|16|JCT
+	23|6|PUNCT
+*INV:	the letter f@l . 106874_108391
+%mor:	det:art|the n|letter n:let|f .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	mhm . [+ exc] 108391_108925
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ all the words that start with f@l . 108925_111187
+%mor:	co|okay beg|beg qn|all det:art|the n|word-PL pro:rel|that v|start
+	prep|with n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|5|QUANT 4|5|DET 5|0|INCROOT 6|7|LINK 7|5|CMOD
+	8|7|JCT 9|8|POBJ 10|5|PUNCT
+*PAR:	(...) family . 111187_118301
+%mor:	n|family .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< mhm . 118090_118624
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fight . 118624_120710
+%mor:	n|fight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	famous . 120710_122941
+%mor:	adj|famous .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	future . 122941_125101
+%mor:	adj|future .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fine . 125101_127472
+%mor:	adv|fine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh forget . 127472_130491
+%mor:	v|forget .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) final . 130491_135225
+%mor:	adj|final .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) finish . 135225_139023
+%mor:	v|finish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) &uh (.) fence . 139023_146714
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) flower . 146714_157000
+%mor:	n|flower .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) father . 157000_164644
+%mor:	n|father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) good . 164644_170626
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's a minute . 170626_171328
+%mor:	pro:dem|that~cop|be&3S det:art|a n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	boy ‡ I'm famous . [+ exc] 171328_174315
+%mor:	co|boy beg|beg pro:sub|I~cop|be&1S adj|famous .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

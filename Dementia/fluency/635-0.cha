@@ -1,0 +1,125 @@
+@UTF8
+@PID:	11312/t-00016228-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	635-0, audio
+@G:	animals
+*INV:	as many animals as you can think of . 0_2415
+%mor:	prep|as qn|many n|animal-PL adv|as pro:per|you mod|can v|think
+	prep|of .
+%gra:	1|3|COORD 2|3|QUANT 3|0|INCROOT 4|7|JCT 5|7|SUBJ 6|7|AUX 7|3|ENUM
+	8|7|JCT 9|3|PUNCT
+*PAR:	pony . 2415_3254
+%mor:	n|pony .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 3254_4685
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 4685_6164
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pig . 6164_8436
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) chicken . 8436_18786
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	turkey . 18786_20218
+%mor:	n|turkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fox . 20218_25247
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zibreɪ@u [: zebra] [*] . 25247_26616
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 26616_31954
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	now I want you to tell me as many words as you can think of that
+	start with the letter f@l . 31954_45837
+%mor:	adv|now pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me
+	adv|as qn|many n|word-PL adv|as pro:per|you mod|can v|think prep|of
+	adv|that v|start prep|with det:art|the n|letter n:let|f .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|OBJ 8|9|COORD
+	9|10|QUANT 10|6|OBJ 11|14|JCT 12|14|SUBJ 13|14|AUX 14|6|COMP 15|14|JCT
+	16|17|JCT 17|14|JCT 18|17|JCT 19|20|DET 20|21|SUBJ 21|18|POBJ 22|3|PUNCT
+*PAR:	f@l ? [+ exc] 45837_46817
+%mor:	n:let|f ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	yeah . 46817_47643
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&um I don't want any proper nouns that is names of people or places
+	. 47643_54491
+%mor:	pro:sub|I mod|do~neg|not v|want qn|any adj|proper n|noun-PL
+	pro:rel|that cop|be&3S n|name-PL prep|of n|person&PL coord|or
+	n|place-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|9|LINK
+	9|7|CMOD 10|9|PRED 11|10|NJCT 12|11|POBJ 13|12|CONJ 14|13|COORD 15|4|PUNCT
+*INV:	and I don't want you to take one word and give me all the forms of
+	that word you can think of . 54491_59473
+%mor:	coord|and pro:sub|I mod|do~neg|not v|want pro:per|you inf|to v|take
+	det:num|one n|word coord|and v|give pro:obj|me adv|all det:art|the
+	n|form-PL prep|of det:dem|that n|word pro:per|you mod|can v|think
+	prep|of .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|8|SUBJ 7|8|INF 8|5|COMP
+	9|10|QUANT 10|8|OBJ 11|8|CONJ 12|11|COORD 13|12|OBJ 14|16|JCT 15|16|DET
+	16|12|OBJ 17|16|NJCT 18|19|DET 19|17|POBJ 20|22|SUBJ 21|22|AUX 22|16|ENUM
+	23|22|JCT 24|5|PUNCT
+*INV:	for example if you give me the word walk@q I wouldn't want you to
+	also give me the words walked@q and walking@q „ okay ? 59473_66772
+%mor:	prep|for n|example conj|if pro:per|you v|give pro:obj|me
+	det:art|the n|word meta|walk pro:sub|I mod|will&COND~neg|not v|want
+	pro:per|you inf|to adv|also v|give pro:obj|me det:art|the n|word-PL
+	meta|walked coord|and meta|walking end|end co|okay ?
+%gra:	1|13|JCT 2|1|POBJ 3|5|LINK 4|5|SUBJ 5|13|CJCT 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|13|LINK 10|13|SUBJ 11|13|AUX 12|11|NEG 13|0|ROOT 14|17|SUBJ 15|17|INF
+	16|17|JCT 17|13|COMP 18|17|OBJ2 19|20|DET 20|17|OBJ 21|20|POSTMOD
+	22|21|CONJ 23|22|COORD 24|25|ENDP 25|13|END 26|13|PUNCT
+*PAR:	uhhuh . [+ exc] 66772_67160
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ as many words that you can think of that start with the
+	letter f@l . 67160_71596
+%mor:	co|okay beg|beg prep|as qn|many n|word-PL pro:rel|that pro:per|you
+	mod|can v|think prep|of adv|that v|start prep|with det:art|the
+	n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|QUANT 5|3|POBJ 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|5|CMOD 10|9|JCT 11|12|JCT 12|10|POBJ 13|9|JCT 14|15|DET 15|13|POBJ
+	16|9|JCT 17|3|PUNCT
+*INV:	okay ‡ beginning now . 71596_73587
+%mor:	co|okay beg|beg n|beginning adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|NJCT 5|3|PUNCT
+*PAR:	(.) fruit . 73587_77090
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &f fudge . 77090_86755
+%mor:	n|fudge .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frigidaire . 86755_90460
+%mor:	n|frigidaire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fox . 90460_97074
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) frank . 97074_113135
+%mor:	adj|frank .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) finger . 113135_117323
+%mor:	n|finger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) foil . 117323_127331
+%mor:	n|foil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) finance . 127331_132313
+%mor:	n|finance .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 132313_134304
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

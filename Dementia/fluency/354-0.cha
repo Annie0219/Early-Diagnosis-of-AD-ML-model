@@ -1,0 +1,138 @@
+@UTF8
+@PID:	11312/t-00016182-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|60;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	354-0, audio
+@G:	animals
+*INV:	you can start now . 0_3813
+%mor:	pro:per|you mod|can v|start adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	name the animals . 3813_7100
+%mor:	v|name det:art|the n|animal-PL .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	&uh lion . 7100_7900
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 7900_8300
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	giraffe . 8300_10262
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rhinoceros . 10262_11725
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hippopotamus . 11725_13966
+%mor:	n|hippopotamus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zebra . 13966_15849
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	antelope . 15849_17421
+%mor:	n|antelope .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh wildcat . 17421_22091
+%mor:	n|wildcat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bear . 22091_24704
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) moose . 24704_27708
+%mor:	n|moose .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh reindeer . 27708_33295
+%mor:	n|reindeer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 34789_41900
+*INV:	name as many animals as you can think of . 41900_43800
+%mor:	n|name conj|as qn|many n|animal-PL adv|as pro:per|you mod|can
+	v|think prep|of .
+%gra:	1|0|INCROOT 2|8|LINK 3|4|QUANT 4|8|JCT 5|4|NJCT 6|8|SUBJ 7|8|AUX
+	8|1|CJCT 9|8|JCT 10|1|PUNCT
+*PAR:	&uh alligators . 43800_45467
+%mor:	n|alligator-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	crocodiles . 45467_47195
+%mor:	n|crocodile-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lizards . 47195_48596
+%mor:	n|lizard-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	guinea pigs . 48596_50587
+%mor:	n|guinea n|pig-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	gerbils . 50587_51865
+%mor:	n|gerbil-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cats . 51865_53047
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dogs . 53047_53934
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	monkeys . 53934_55210
+%mor:	n|monkey-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) orangutans . 55210_59568
+%mor:	n|orangutan-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hip &uh Australia [//] &uh kangaroos . 59568_64800
+%mor:	n|kangaroo-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's fine +/. 64800_66463
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine +/.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	+< wallabies . 65001_67600
+%mor:	n|wallaby-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	and you can start now . 67600_70100
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	father . 70100_71868
+%mor:	n|father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=clears:throat <feather no> [//] feather . 71868_76000
+%mor:	n|feather .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) f@l „ huh . [+ exc] 76000_81000
+%mor:	n:let|f end|end co|huh .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*PAR:	field . 81000_82219
+%mor:	n|field .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	trees . 82219_84425
+%mor:	n|tree-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh &hm (..) &uh +... 84425_98765
+*PAR:	xxx . [+ exc] 98765_100500
+*PAR:	friends . 100500_103663
+%mor:	n|friend-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh +... 103663_109300
+*PAR:	yeah ‡ xxx ? [+ exc] 109300_111400
+%mor:	co|yeah beg|beg ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT
+*PAR:	that's difficult to try to +... [+ exc] 111200_115000
+%mor:	pro:dem|that~cop|be&3S adj|difficult inf|to v|try prep|to +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|JCT 7|2|PUNCT
+*PAR:	I got friends@q . [+ exc] 115000_116111
+%mor:	pro:sub|I v|get&PAST meta|friends .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	(.) &hm (..) &um father . 116111_121289
+%mor:	n|father .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	friend . 121289_122148
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh +... 122148_127820
+*INV:	okay . 127820_128569
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< fjʊlə@u [: x@n] [* n] . 128000_130000
+%mor:	neo|x .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

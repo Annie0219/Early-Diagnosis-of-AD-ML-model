@@ -1,0 +1,161 @@
+@UTF8
+@PID:	11312/t-00016028-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|55;|male|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	005-2, audio
+@G:	animals
+*INV:	in one minute and you can start now . 0_3766
+%mor:	prep|in det:num|one n|minute coord|and pro:per|you mod|can v|start
+	adv|now .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|1|ENUM
+	8|7|JCT 9|1|PUNCT
+*PAR:	(.) okay . [+ exc] 3766_7394
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	go ahead . 7394_8467
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&uh no bird or fish right ? [+ exc] 8467_12015
+%mor:	qn|no n|bird coord|or n|fish adj|right ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|CONJ 4|5|MOD 5|3|COORD 6|2|PUNCT
+*INV:	right . 12015_12549
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um can't think of any . [+ exc] 12549_17400
+%mor:	mod|can~neg|not v|think prep|of qn|any .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	a cow . 17400_18288
+%mor:	det:art|a n|cow .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	okay ‡ good . 18288_19439
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	(.) &um (..) another cow ? [+ exc] 19439_35112
+%mor:	qn|another n|cow ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	okay . 35112_36762
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) can't think of any more . [+ exc] 36762_43002
+%mor:	mod|can~neg|not v|think prep|of qn|any pro:indef|more .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*INV:	you got about twenty more seconds . 43002_45089
+%mor:	pro:per|you v|get&PAST prep|about det:num|twenty adv|more
+	n|second-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|QUANT 5|6|JCT 6|3|POBJ 7|2|PUNCT
+*PAR:	(..) horse . 45089_60419
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 60419_63423
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	okay ‡ now I'm gonna change directions . 63423_65198
+%mor:	co|okay beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|change n|direction-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|6|PUNCT
+*INV:	this time I'd like you to think of as many words beginning with the
+	letter f@l as you can think of . 65198_72466
+%mor:	det:dem|this n|time pro:sub|I~mod|genmod prep|like pro:per|you
+	inf|to v|think prep|of adv|as qn|many n|word-PL n|beginning
+	prep|with det:art|the n|letter n:let|f conj|as pro:per|you mod|can
+	v|think prep|of .
+%gra:	1|2|DET 2|0|INCROOT 3|8|SUBJ 4|8|AUX 5|4|JCT 6|5|POBJ 7|8|INF 8|2|CMOD
+	9|8|JCT 10|13|COORD 11|12|QUANT 12|13|MOD 13|9|POBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|8|JCT 18|21|LINK 19|21|SUBJ 20|21|AUX 21|17|CJCT
+	22|21|JCT 23|2|PUNCT
+*INV:	and that's any word at all that begins with the letter f@l . 72466_75547
+%mor:	coord|and pro:dem|that~cop|be&3S qn|any n|word prep|at qn|all
+	pro:dem|that v|begin-3S prep|with det:art|the n|letter n:let|f .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|8|QUANT
+	8|6|POBJ 9|5|ENUM 10|9|JCT 11|12|DET 12|10|POBJ 13|9|JCT 14|3|PUNCT
+*INV:	the only conditions on here is that it can't be a proper name or a
+	place . 75547_80621
+%mor:	det:art|the qn|only n|condition-PL prep|on n|here cop|be&3S
+	comp|that pro:per|it mod|can~neg|not cop|be det:art|a adj|proper
+	n|name coord|or det:art|a n|place .
+%gra:	1|3|DET 2|3|QUANT 3|6|SUBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|11|LINK
+	8|11|SUBJ 9|11|AUX 10|9|NEG 11|6|PRED 12|14|DET 13|14|MOD 14|11|PRED 15|14|CONJ
+	16|17|DET 17|15|COORD 18|6|PUNCT
+*INV:	for example if I was using the letter s@l something like Spain@q or
+	Sally@q they wouldn't count . 80621_85975
+%mor:	prep|for n|example conj|if pro:sub|I aux|be&PAST&13S part|use-PRESP
+	det:art|the n|letter n:let|s pro:indef|something prep|like
+	meta|Spain coord|or meta|Sally pro:sub|they mod|will&COND~neg|not
+	v|count .
+%gra:	1|0|INCROOT 2|1|POBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|CJCT 7|8|DET 8|6|OBJ
+	9|8|NJCT 10|9|POBJ 11|10|NJCT 12|11|POBJ 13|12|CONJ 14|13|COORD
+	15|18|SUBJ 16|18|AUX 17|16|NEG 18|14|CMOD 19|1|PUNCT
+*INV:	neither would derivatives &um for example run@q runner@q and
+	running@q using the letter r@l . 85975_93321
+%mor:	coord|neither mod|will&COND n|derivative-PL prep|for n|example
+	meta|run meta|runner coord|and meta|running part|use-PRESP
+	det:art|the n|letter n:let|r .
+%gra:	1|3|LINK 2|3|AUX 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|CONJ 7|6|COORD
+	8|7|CONJ 9|8|COORD 10|9|XJCT 11|12|DET 12|10|OBJ 13|12|POSTMOD 14|3|PUNCT
+*INV:	so ‡ you wanna think of as many words at all any word at all that
+	begins with the letter f@l . 93321_99454
+%mor:	co|so beg|beg pro:per|you v|want~inf|to v|think prep|of prep|as
+	qn|many n|word-PL prep|at qn|all qn|any n|word prep|at qn|all
+	pro:dem|that v|begin-3S prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|6|JCT
+	9|10|QUANT 10|8|POBJ 11|6|JCT 12|14|QUANT 13|14|QUANT 14|11|POBJ 15|6|JCT
+	16|17|QUANT 17|15|POBJ 18|6|JCT 19|18|JCT 20|21|DET 21|22|SUBJ 22|19|POBJ
+	23|4|PUNCT
+*INV:	and you can begin now . 99454_101695
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	(..) can you think of any words ? 101695_115003
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|word-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	no . [+ exc] 115003_115827
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any word at all that begins with the letter f@l . 115827_118193
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	no . [+ exc] 118193_119189
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) can you think of any word ? 119189_132403
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|word ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*PAR:	no . [+ exc] 132403_133027
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any word at all that begins with the letter f@l ? 133027_135252
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|f ?
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	no . [+ exc] 135252_136419
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) foolishness . 136419_143596
+%mor:	n|fool&dadj-ISH-NESS .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 143596_144653
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fool . 144653_147750
+%mor:	n|fool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 147750_148963
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 148963_149960
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	&uh (.) phooey . 149960_155051
+%mor:	co|phooey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay . 155051_160295
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/t-00016715-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|female|PossibleAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	681-0, audio
+*INV:	use that word in a sentence for me . 0_2985
+%mor:	v|use det:dem|that n|word prep|in det:art|a n|sentence prep|for
+	pro:obj|me .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|JCT 8|7|POBJ
+	9|1|PUNCT
+*INV:	just a short brief sentence . 2985_4500
+%mor:	adv|just det:art|a adj|short adj|brief n|sentence .
+%gra:	1|5|JCT 2|5|DET 3|5|MOD 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*PAR:	+< mhm . [+ exc] 4500_5000
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	put the word@q pencil in a sentence . 5000_7800
+%mor:	v|put&ZERO det:art|the meta|word n|pencil prep|in det:art|a
+	n|sentence .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	(.) I dropped my pencil . 7800_13750
+%mor:	pro:sub|I v|drop-PAST det:poss|my n|pencil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	mhm . 13800_14272
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tree@q . 14272_15550
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tree@q ? [+ exc] 15550_16420
+%mor:	meta|tree ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 16420_17060
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) that's a beautiful tree . 17060_26895
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|beautiful n|tree .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	good . 26895_27424
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I'll give you two words now . 27424_30408
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:num|two n|word-PL adv|now
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|3|PUNCT
+*INV:	still put those in a brief simple sentence . 30408_32544
+%mor:	adv|still v|put&ZERO pro:dem|those prep|in det:art|a adj|brief
+	adj|simple n|sentence .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|2|PUNCT
+*INV:	child@q and hospital@q . 32544_35373
+%mor:	meta|child coord|and meta|hospital .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&um (...) the child was taken to the hospital . 35373_49129
+%mor:	det:art|the n|child aux|be&PAST&13S part|take&PASTP prep|to
+	det:art|the n|hospital .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	cold@q and winter@q . 49129_53020
+%mor:	meta|cold coord|and meta|winter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	(.) &uh (.) this has been a cold winter . 53020_61269
+%mor:	pro:dem|this aux|have&3S aux|be&PASTP det:art|a adj|cold n|winter .
+%gra:	1|6|SUBJ 2|6|SUBJ 3|6|AUX 4|6|DET 5|6|MOD 6|0|INCROOT 7|6|PUNCT
+*INV:	I'll give you three words now . 61269_64507
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:num|three n|word-PL
+	adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|SUBJ 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|3|PUNCT
+*INV:	still put them in a brief simple sentence . 64507_67105
+%mor:	adv|still v|put&ZERO pro:obj|them prep|in det:art|a adj|brief
+	adj|simple n|sentence .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|2|PUNCT
+*INV:	chair@q doctor@q and sit@q . 67105_71121
+%mor:	meta|chair meta|doctor coord|and meta|sit .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	(..) the doctor (.) said to sit in the chair . 71121_81893
+%mor:	det:art|the n|doctor v|say&PAST inf|to v|sit prep|in det:art|the
+	n|chair .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*INV:	mhm . 81893_82716
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) now I'll give you three more . 82716_91464
+%mor:	adv|now pro:sub|I~mod|will v|give pro:per|you det:num|three
+	adv|more .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|SUBJ 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*INV:	bureau@q open@q and drawer@q . 91464_96708
+%mor:	meta|bureau meta|open coord|and meta|drawer .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	(.) open the <bureau drawer> [/] bureau drawer . 96708_107695
+%mor:	v|open det:art|the n|bureau n|drawer .
+%gra:	1|0|ROOT 2|4|DET 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*INV:	(.) good . 106283_112865
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

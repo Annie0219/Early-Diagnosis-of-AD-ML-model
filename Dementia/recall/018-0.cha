@@ -1,0 +1,55 @@
+@UTF8
+@PID:	11312/t-00016262-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|66;|male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	018-0, audio
+@Comment:	poor audio quality
+@G:	George_Immediate
+*INV:	anything you can remember about that story I just read ? 0_2958
+%mor:	pro:indef|anything pro:per|you mod|can v|remember prep|about
+	det:dem|that n|story pro:sub|I adv|just v|read&ZERO ?
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|SUBJ
+	9|10|JCT 10|4|CJCT 11|4|PUNCT
+*PAR:	no ‡ not very much . [+ exc] 2958_4576
+%mor:	co|no beg|beg neg|not adv|very adv|much .
+%gra:	1|0|BEG 2|1|BEGP 3|5|NEG 4|5|JCT 5|0|INCROOT 6|5|PUNCT
+*INV:	just tell me anything . 4576_6320
+%mor:	adv|just v|tell pro:obj|me pro:indef|anything .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|2|PUNCT
+*PAR:	&um George and Melanie . 6320_9402
+%mor:	n:prop|George coord|and n:prop|Melanie .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*INV:	mhm good . 9402_11249
+%mor:	co|mhm=yes adj|good .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	they were going to the &s city to &uh shop . 11249_16529
+%mor:	pro:sub|they aux|be&PAST part|go-PRESP prep|to det:art|the n|city
+	prep|to n|shop .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|7|POBJ
+	9|3|PUNCT
+*INV:	uhhuh . 16529_17571
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh that's embarrassing . [+ exc] 17571_22303
+%mor:	coord|and pro:dem|that~aux|be&3S part|embarrass-PRESP .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*INV:	okay ‡ anything else that you can remember ? 22303_24342
+%mor:	co|okay beg|beg pro:indef|anything post|else pro:dem|that
+	pro:per|you mod|can v|remember ?
+%gra:	1|0|BEG 2|1|BEGP 3|8|SUBJ 4|3|PQ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|PUNCT
+*INV:	can you think of anything else in the story ? 24342_28886
+%mor:	mod|can pro:per|you v|think prep|of pro:indef|anything post|else
+	prep|in det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|JCT 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	no xxx . [+ exc] 28886_32809
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 32809_34956
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

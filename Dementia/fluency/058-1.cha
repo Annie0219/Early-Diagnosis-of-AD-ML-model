@@ -1,0 +1,209 @@
+@UTF8
+@PID:	11312/t-00016069-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|70;|male|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	058-1, audio
+@G:	foods
+*INV:	okay ? 0_871
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and you can begin now . 871_3160
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	apples . 3160_3938
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oranges . 3938_5868
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	grapes . 5868_6601
+%mor:	n|grape-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bananas . 6601_7393
+%mor:	n|banana-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cucumbers . 7393_8809
+%mor:	n|cucumber-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	grapefruit . 8809_10055
+%mor:	n|+n|grape+n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	asparagus . 10055_12637
+%mor:	n|asparagus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tomatoes . 12637_14132
+%mor:	n|tomato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cabbage . 14132_15300
+%mor:	n|cabbage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce . 15300_16964
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	broccoli . 16964_17789
+%mor:	n|broccoli .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	brussel sprouts . 17789_18895
+%mor:	n|brussel v|sprout-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&um beans . 18895_21260
+%mor:	n|bean-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	green beans . 21260_23750
+%mor:	adj|green n|bean-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	navy beans . 23750_24529
+%mor:	adj|navy n|bean-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh meat . 24529_29182
+%mor:	n|meat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pork . 29182_30271
+%mor:	n|pork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	beef . 30271_31515
+%mor:	n|beef .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ham . 31515_32575
+%mor:	n|ham .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cheese . 32575_34147
+%mor:	n|cheese .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pimento cheese . 34147_35826
+%mor:	n|pimento n|cheese .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	blue cheese . 35826_36544
+%mor:	adj|blue n|cheese .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh eggs . 36544_39812
+%mor:	n|egg-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um cake . 39812_44309
+%mor:	n|cake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	icecream . 44309_45135
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um candy . 45135_50520
+%mor:	n|candy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) and ice . 50520_55338
+%mor:	coord|and n|ice .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx . 55338_56917
+*PAR:	and &uh orange ice . 56917_59920
+%mor:	coord|and adj|orange n|ice .
+%gra:	1|3|LINK 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	grape ice . 59920_61180
+%mor:	n|grape n|ice .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	okay ‡ good ! 61180_62573
+%mor:	co|okay beg|beg adj|good !
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&=laughs . [+ exc] 62573_63197
+@G:	S
+*INV:	okay ‡ now what I'm gonna ask you to do is to think of as many
+	things oops [//] as you can think of that begin with s@l „ okay . 63197_75389
+%mor:	co|okay beg|beg adv|now pro:int|what pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|ask pro:per|you inf|to v|do cop|be&3S inf|to
+	v|think prep|of adv|as qn|many n|thing-PL adv|as pro:per|you mod|can
+	v|think prep|of adv|that v|begin prep|with n:let|s end|end co|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|7|JCT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|9|INF
+	9|7|COMP 10|9|OBJ 11|12|INF 12|9|COMP 13|12|OBJ 14|15|INF 15|13|CPRED
+	16|15|JCT 17|19|COORD 18|19|QUANT 19|16|POBJ 20|23|JCT 21|23|SUBJ 22|23|AUX
+	23|19|NJCT 24|23|JCT 25|23|JCT 26|23|JCT 27|26|JCT 28|27|POBJ 29|30|ENDP
+	30|7|END 31|7|PUNCT
+*PAR:	s@l ! [+ exc] 75389_76202
+%mor:	n:let|s !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	s@l . 76202_76759
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything at all that you can think of beginning with the letter s@l
+	. 76759_79765
+%mor:	pro:indef|anything prep|at qn|all pro:dem|that pro:per|you mod|can
+	v|think prep|of n|beginning prep|with det:art|the n|letter n:let|s .
+%gra:	1|7|LINK 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|8|POBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|JCT 14|7|PUNCT
+*INV:	now the only conditions here is that it can't be a proper name or
+	place like Spain@q or Sally@q . 79765_85431
+%mor:	adv|now det:art|the qn|only n|condition-PL adv|here cop|be&3S
+	comp|that pro:per|it mod|can~neg|not cop|be det:art|a adj|proper
+	n|name coord|or n|place prep|like meta|Spain coord|or meta|Sally .
+%gra:	1|6|JCT 2|4|DET 3|4|QUANT 4|6|SUBJ 5|6|JCT 6|0|ROOT 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|6|COMP 12|14|DET 13|14|MOD 14|11|PRED 15|14|CONJ
+	16|15|COORD 17|16|NJCT 18|17|POBJ 19|18|CONJ 20|19|COORD 21|6|PUNCT
+*INV:	can't be a derivative like for example run@q runner@q and running@q
+	using the letter r@l would all be counted as one word . 85431_90922
+%mor:	mod|can~neg|not cop|be det:art|a n|derivative co|like prep|for
+	n|example meta|run meta|runner coord|and meta|running part|use-PRESP
+	det:art|the n|letter n:let|r mod|will&COND adv|all aux|be
+	part|count-PASTP conj|as det:num|one n|word .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|DET 5|20|SUBJ 6|5|COM 7|5|NJCT 8|7|POBJ
+	9|20|AUX 10|20|AUX 11|10|CONJ 12|11|COORD 13|20|JCT 14|15|DET 15|13|OBJ
+	16|20|AUX 17|20|AUX 18|20|JCT 19|20|AUX 20|3|CPRED 21|23|COORD 22|23|QUANT
+	23|20|ENUM 24|3|PUNCT
+*INV:	so ‡ as many words beginning with the letter s@l as you can think
+	of . 90922_95134
+%mor:	co|so beg|beg conj|as qn|many n|word-PL n|beginning prep|with
+	det:art|the n|letter n:let|s conj|as pro:per|you mod|can v|think
+	prep|of .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|QUANT 5|6|MOD 6|0|INCROOT 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|6|ENUM 11|14|LINK 12|14|SUBJ 13|14|AUX 14|6|ENUM 15|14|JCT
+	16|6|PUNCT
+*PAR:	+< s@l ! [+ exc] 93094_94000
+%mor:	n:let|s !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and you can begin now . 95134_97988
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	sun . 97988_99558
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	solar system . 99558_101815
+%mor:	adj|solar n|system .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh (.) sub . 101815_109380
+%mor:	n|sub .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	suds . 109380_110593
+%mor:	n|suds .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	submarine . 110593_112384
+%mor:	adj|submarine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh suit . 112383_115869
+%mor:	n|suit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	shirt . 115869_118048
+%mor:	n|shirt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh sport coat . 118048_125706
+%mor:	n|sport n|coat .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	sweaters . 125706_127900
+%mor:	n|sweater-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um saddle shoes . 127900_133736
+%mor:	n|saddle n|shoe-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &s slid . 133736_140521
+%mor:	v|slide&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	snoop . 140521_144350
+%mor:	v|snoop .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh (.) September . 144350_153835
+%mor:	n:prop|September .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	not September xxx +/. [+ exc] 153835_157500
+%mor:	neg|not n:prop|September +/.
+%gra:	1|2|NEG 2|0|INCROOT 3|2|PUNCT
+*INV:	+< okay ‡ good ! 156837_205050
+%mor:	co|okay beg|beg adj|good !
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

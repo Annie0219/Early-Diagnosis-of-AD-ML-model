@@ -1,0 +1,92 @@
+@UTF8
+@PID:	11312/t-00016367-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||female|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	237-2, audio
+@G:	George_Immediate
+*PAR:	they wanted to return &h (.) home . 0_3766
+%mor:	pro:sub|they v|want-PAST inf|to v|return adv|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|2|PUNCT
+*PAR:	and his daughter and grandchild . 3766_7922
+%mor:	coord|and det:poss|his n|daughter coord|and grand#n|child .
+%gra:	1|0|INCROOT 2|3|DET 3|1|COORD 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*PAR:	<he took the> [//] he held the grandchild's hand . 7922_11533
+%mor:	pro:sub|he v|hold&PAST det:art|the grand#adj|child&dn-POSS n|hand .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*INV:	but [//] and she became &uh frightened of the noise . 11533_15284
+%mor:	coord|and pro:sub|she cop|become&PAST part|frighten-PASTP prep|of
+	det:art|the n|noise .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	and &um (..) &hm +... 15284_23000
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s &um that's all . [+ exc] 23000_27400
+%mor:	pro:dem|that~cop|be&3S pro:indef|all .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay ‡ that's fine . 27400_28776
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	George_Delayed
+*INV:	can you remember anything from that story ? 28776_31593
+%mor:	mod|can pro:per|you v|remember pro:indef|anything prep|from
+	det:dem|that n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	George Miller wanted to visit his (.) &um home (.) in another city
+	. 31593_39501
+%mor:	n:prop|George n:prop|Miller v|want-PAST inf|to v|visit det:poss|his
+	n|home prep|in qn|another n|city .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|QUANT 10|8|POBJ 11|3|PUNCT
+*INV:	okay ‡ anything else ? 39501_41900
+%mor:	co|okay beg|beg pro:indef|anything post|else ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	and he (.) took his granddaughter (.) &uh with him . 41900_47700
+%mor:	coord|and pro:sub|he v|take&PAST det:poss|his grand#n|daughter
+	prep|with pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	and they held hands as they walked along . 47700_50000
+%mor:	coord|and pro:sub|they v|hold&PAST n|hand-PL conj|as pro:sub|they
+	v|walk-PAST adv|along .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|7|LINK 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|3|PUNCT
+*PAR:	and she became frightened of the noise . 50000_52355
+%mor:	coord|and pro:sub|she cop|become&PAST part|frighten-PASTP prep|of
+	det:art|the n|noise .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*PAR:	(.) but I think that's wrong because if he was goin(g) to the
+	country (.) there wouldn't be any noise . [+ exc] 52355_58700
+%mor:	conj|but pro:sub|I v|think pro:dem|that~cop|be&3S adj|wrong
+	conj|because conj|if pro:sub|he aux|be&PAST&13S part|go-PRESP
+	prep|to det:art|the n|country adv|there mod|will&COND~neg|not aux|be
+	qn|any n|noise .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|3|JCT 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|7|CPOBJ 12|11|JCT 13|14|DET 14|12|POBJ 15|11|JCT
+	16|18|AUX 17|16|NEG 18|11|CJCT 19|20|QUANT 20|18|PRED 21|3|PUNCT
+*PAR:	<so maybe> [//] well ‡ I don't know if he was going to the city .
+	[+ exc] 58700_61365
+%mor:	co|well beg|beg pro:sub|I mod|do~neg|not v|know comp|if pro:sub|he
+	aux|be&PAST&13S part|go-PRESP prep|to det:art|the n|city .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|6|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|6|PUNCT
+*PAR:	I forgot . [+ exc] 61365_62100
+%mor:	pro:sub|I v|forget&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	but either way they were (.) going someplace . 62100_64695
+%mor:	conj|but adv|either adv|way pro:sub|they aux|be&PAST part|go-PRESP
+	adv|someplace .
+%gra:	1|6|LINK 2|3|JCT 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	<and &uh (.) she> [//] but she enjoyed being &uh there (.) with him
+	. 64712_73196
+%mor:	conj|but pro:sub|she v|enjoy-PAST part|be-PRESP adv|there prep|with
+	pro:obj|him .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|4|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	they had a good time together . 73196_75715
+%mor:	pro:sub|they v|have&PAST det:art|a adj|good n|time adv|together .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|JCT 7|2|PUNCT
+*INV:	okay . 75715_76681
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

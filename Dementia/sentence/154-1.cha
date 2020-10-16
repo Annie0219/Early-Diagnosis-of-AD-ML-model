@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/t-00017058-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|62;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	154-1, audio
+*INV:	use the word tree@q in a brief simple sentence . 0_4094
+%mor:	v|use det:art|the n|word meta|tree prep|in det:art|a adj|brief
+	adj|simple n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|1|PUNCT
+*PAR:	(.) well ‡ that's not the table . [+ exc] 4094_8841
+%mor:	co|well beg|beg pro:dem|that~cop|be&3S neg|not det:art|the n|table
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|DET 7|4|PRED 8|4|PUNCT
+*INV:	I know this is a different word . 8841_11066
+%mor:	pro:sub|I v|know pro:dem|this cop|be&3S det:art|a adj|different
+	n|word .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|7|DET 6|7|MOD 7|4|PRED 8|2|PUNCT
+*INV:	I want you to use the word tree@q in a brief simple sentence . 11066_16126
+%mor:	pro:sub|I v|want pro:per|you inf|to v|use det:art|the n|word
+	meta|tree prep|in det:art|a adj|brief adj|simple n|sentence .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|7|DET 7|5|OBJ 8|5|ENUM
+	9|8|JCT 10|13|DET 11|13|MOD 12|13|MOD 13|9|POBJ 14|2|PUNCT
+*INV:	make up a sentence for me using the word tree@q . 16126_22008
+%mor:	v|make adv|up det:art|a n|sentence prep|for pro:obj|me
+	part|use-PRESP det:art|the n|word meta|tree .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|JCT 6|5|POBJ 7|1|XJCT 8|9|DET
+	9|7|OBJ 10|7|ENUM 11|1|PUNCT
+*INV:	can you do that ? 22008_24187
+%mor:	mod|can pro:per|you v|do pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	sure you can . 24187_26676
+%mor:	adj|sure pro:per|you mod|can .
+%gra:	1|0|INCROOT 2|3|SUBJ 3|1|CMOD 4|1|PUNCT
+*INV:	give me a sentence using the word tree@q . 26676_30162
+%mor:	v|give pro:obj|me det:art|a n|sentence part|use-PRESP det:art|the
+	n|word meta|tree .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|XJCT 6|7|DET 7|5|OBJ 8|5|ENUM
+	9|1|PUNCT
+*PAR:	(..) you don't have your hair combed &=laughs . [+ exc] 30162_39500
+%mor:	pro:per|you mod|do~neg|not v|have det:poss|your n|hair v|comb-PAST
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*INV:	+< I like it that way . 38100_40000
+%mor:	pro:sub|I v|like pro:per|it det:dem|that n|way .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|DET 5|2|JCT 6|2|PUNCT
+*INV:	okay ? 42441_43454
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	use the word tree@q in a brief simple sentence for me . 43454_47082
+%mor:	v|use det:art|the n|word meta|tree prep|in det:art|a adj|brief
+	adj|simple n|sentence prep|for pro:obj|me .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|XMOD 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|4|JCT 11|10|POBJ 12|1|PUNCT
+*INV:	can you do that ? 47082_55998
+%mor:	mod|can pro:per|you v|do pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	how_(a)bout the word pencil@q . 55998_60106
+%mor:	pro:int|how_about det:art|the n|word meta|pencil .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	use the word pencil@q in a brief simple sentence . 60106_64679
+%mor:	v|use det:art|the n|word meta|pencil prep|in det:art|a adj|brief
+	adj|simple n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|1|PUNCT
+*INV:	(.) use the word pencil@q in a brief simple sentence . 64679_71700
+%mor:	v|use det:art|the n|word meta|pencil prep|in det:art|a adj|brief
+	adj|simple n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|1|PUNCT
+*PAR:	+< what about a table@q ? [+ exc] 71450_72906
+%mor:	pro:int|what prep|about det:art|a meta|table ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	I already gave you the sentence . 72906_74880
+%mor:	pro:sub|I adv|already v|give&PAST pro:per|you det:art|the
+	n|sentence .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|3|PUNCT
+*INV:	that wouldn't be fair . 74880_77089
+%mor:	comp|that mod|will&COND~neg|not cop|be adv|fair .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	okay ‡ <give me a> [//] (.) <use the> [//] (.) give me a sentence
+	using the word table@q . 77089_82021
+%mor:	co|okay beg|beg v|give pro:obj|me det:art|a n|sentence
+	part|use-PRESP det:art|the n|word meta|table .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|3|XJCT 8|9|DET
+	9|7|OBJ 10|7|ENUM 11|3|PUNCT
+*INV:	(..) give me a brief simple sentence using the word table@q . 82021_92182
+%mor:	v|give pro:obj|me det:art|a adj|brief adj|simple n|sentence
+	part|use-PRESP det:art|the n|word meta|table .
+%gra:	1|0|ROOT 2|1|OBJ2 3|6|DET 4|6|MOD 5|6|MOD 6|1|OBJ 7|6|XMOD 8|9|DET
+	9|7|OBJ 10|6|ENUM 11|1|PUNCT
+*PAR:	well ‡ that would be &uh +... 92182_100805
+%mor:	co|well beg|beg pro:dem|that mod|will&COND cop|be +...
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+@End

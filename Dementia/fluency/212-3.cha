@@ -1,0 +1,269 @@
+@UTF8
+@PID:	11312/t-00016126-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|86;|male|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	212-3, audio
+@G:	foods
+*INV:	ready ? 0_1152
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	right . [+ exc] 1152_1884
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	begin . 1884_3347
+%mor:	v|begin .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	bananas . 3347_4359
+%mor:	n|banana-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread . 4359_4904
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cake . 4904_5744
+%mor:	n|cake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fruit . 5744_6786
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	apples . 6786_7767
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oranges . 7767_8748
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peaches . 8748_9324
+%mor:	n|peach-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) apples . 9324_14085
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs tomatoes . 14085_16498
+%mor:	n|tomato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peppers . 16498_17339
+%mor:	n|pepper-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cucumbers . 17339_19408
+%mor:	n|cucumber-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	macaroni . 19408_21199
+%mor:	n|macaroni .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce . 21199_22552
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bananas . 22552_24763
+%mor:	n|banana-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	meat . 24763_25463
+%mor:	n|meat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh oranges . 25463_28420
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&br (.) candy . 28420_37136
+%mor:	n|candy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cookies . 37136_38830
+%mor:	n|cookie-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	donuts . 38830_40465
+%mor:	n|donut-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) oranges . 40465_46130
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peanuts . 46130_47843
+%mor:	n|peanut-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&can &uh popcorn . 47843_51515
+%mor:	n|+n|pop+n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh +... 51515_62099
+*INV:	that's a minute . 62099_63747
+%mor:	pro:dem|that~cop|be&3S det:art|a n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	okay . [+ exc] 63747_65010
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	S
+*INV:	now this time I'm gonna give you another minute and I want for you
+	to name as many words as you can think of that start with the letter
+	s@l . 65010_72152
+%mor:	adv|now pro:dem|this n|time pro:sub|I~aux|be&1S
+	part|go-PRESP~inf|to v|give pro:per|you qn|another n|minute
+	coord|and pro:sub|I v|want prep|for pro:per|you inf|to v|name
+	conj|as qn|many n|word-PL adv|as pro:per|you mod|can v|think prep|of
+	adv|that v|start prep|with det:art|the n|letter n:let|s .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|INCROOT 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|8|INF 8|6|COMP
+	9|8|OBJ2 10|11|QUANT 11|8|OBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD
+	15|14|JCT 16|15|POBJ 17|18|INF 18|14|XJCT 19|21|COORD 20|21|QUANT 21|18|OBJ
+	22|25|JCT 23|25|SUBJ 24|25|AUX 25|21|CMOD 26|25|JCT 27|25|JCT 28|25|JCT
+	29|28|JCT 30|31|DET 31|32|SUBJ 32|29|POBJ 33|3|PUNCT
+*PAR:	s@l . [+ exc] 72152_72603
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	all the words that start with s@l . 72603_74704
+%mor:	qn|all det:art|the n|word-PL pro:rel|that v|start prep|with n:let|s
+	.
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*INV:	I don't want any proper names of people +/. 74704_77585
+%mor:	pro:sub|I mod|do~neg|not v|want qn|any adj|proper n|name-PL prep|of
+	n|person&PL +/.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|MOD 7|4|OBJ 8|7|NJCT
+	9|8|POBJ 10|4|PUNCT
+*PAR:	mhm . [+ exc] 77585_78051
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	or places . 78051_78377
+%mor:	coord|or n|place-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	and I only want one form of the word . 78377_80168
+%mor:	coord|and pro:sub|I adv|only v|want det:num|one n|form prep|of
+	det:art|the n|word .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	yeah . [+ exc] 80168_81506
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	like if you gave me walk@q I wouldn't want you to give me walking@q
+	or walked@q . 81506_83219
+%mor:	co|like conj|if pro:per|you v|give&PAST pro:obj|me meta|walk
+	pro:sub|I mod|will&COND~neg|not v|want pro:per|you inf|to v|give
+	pro:obj|me meta|walking coord|or meta|walked .
+%gra:	1|4|COM 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|COMP 7|10|SUBJ 8|10|AUX
+	9|8|NEG 10|4|COMP 11|13|SUBJ 12|13|INF 13|10|COMP 14|13|OBJ 15|13|COMP
+	16|15|CONJ 17|16|COORD 18|4|PUNCT
+*PAR:	yeah . [+ exc] 83219_83649
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	one form of the word . 83649_84775
+%mor:	det:num|one n|form prep|of det:art|the n|word .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	no proper names . 84775_85692
+%mor:	qn|no adj|proper n|name-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	anything that starts with the letter s@l . 85692_88042
+%mor:	pro:indef|anything pro:rel|that v|start-3S prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|6|DET 6|7|SUBJ 7|4|POBJ
+	8|1|PUNCT
+*PAR:	s@l . [+ exc] 88042_88617
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	ready ? 88617_89163
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yes . [+ exc] 89163_89724
+%mor:	co|yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	begin . 89724_90127
+%mor:	v|begin .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	streak . 90127_91031
+%mor:	n|streak .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sun . 91031_91933
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sit . 91933_94003
+%mor:	v|sit .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh (.) sugar . 94003_98408
+%mor:	n|sugar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	slice . 98408_100026
+%mor:	n|slice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	slang . 100026_101505
+%mor:	n|slang .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	smut . 101505_103715
+%mor:	n|smut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	school . 103715_105100
+%mor:	n|school .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	scholar . 105100_106423
+%mor:	n|scholar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	scales . 106423_108057
+%mor:	n|scale-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) skin . 108057_111855
+%mor:	n|skin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	street . 111855_114919
+%mor:	n|street .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	stool . 114919_117114
+%mor:	n|stool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	steal . 117114_119154
+%mor:	v|steal .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	stun . 119154_121286
+%mor:	v|stun .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sung . 121286_123278
+%mor:	part|sing&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sang , same thing . [+ exc] 123278_126267
+%mor:	v|sing&PAST cm|cm adj|same n|thing .
+%gra:	1|0|ROOT 2|1|LP 3|4|MOD 4|1|OBJ 5|1|PUNCT
+*PAR:	&s slew . 126267_128479
+%mor:	v|slay&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	sleigh . 128479_129207
+%mor:	n|sleigh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	slice . 129207_130405
+%mor:	n|slice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sled . 130405_131480
+%mor:	n|sled .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	smoke . 131480_132818
+%mor:	n|smoke .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s smitten . 132818_134422
+%mor:	part|smite&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	smite . 134422_136210
+%mor:	v|smite .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	smack . 136210_137067
+%mor:	v|smack .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) soul . 137067_139682
+%mor:	n|soul .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	seal . 139682_140724
+%mor:	n|seal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sail . 140724_142109
+%mor:	n|sail .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	struck . 142109_144412
+%mor:	v|strike&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	strength . 144412_145300
+%mor:	n|strength .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	strong . 145300_147416
+%mor:	adj|strong .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	smut . 147416_148723
+%mor:	n|smut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	smack . 148723_150654
+%mor:	v|smack .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	that's a minute . 150654_152195
+%mor:	pro:dem|that~cop|be&3S det:art|a n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+@End

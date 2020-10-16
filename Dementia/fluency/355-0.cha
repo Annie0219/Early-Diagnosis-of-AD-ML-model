@@ -1,0 +1,130 @@
+@UTF8
+@PID:	11312/t-00016183-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|85;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	355-0, audio
+@G:	animals
+*INV:	www . 0_4000
+%exp:	finishing prior task
+*INV:	you can start now . 4000_5526
+%mor:	pro:per|you mod|can v|start adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	okay . [+ exc] 5526_6211
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pig . 6211_7488
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 7488_8359
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 8359_9138
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh pig &=laughs . 9138_12111
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&a &aw animals . [+ exc] 12111_14277
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 14277_15427
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh donkey . 15427_19271
+%mor:	n|donkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh animals . [+ exc] 19271_23738
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) millions of them . [+ exc] 23738_28533
+%mor:	det:num|million-PL prep|of pro:obj|them .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	donkeys . 28533_29808
+%mor:	n|donkey-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lions . 29808_30898
+%mor:	n|lion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cats . 30898_33039
+%mor:	n|cat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dogs . 33039_34222
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) cow . 34222_42662
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well ‡ I got cow@q „ didn't I ? [+ exc] 42662_44541
+%mor:	co|well beg|beg pro:sub|I v|get&PAST meta|cow end|end
+	mod|do&PAST~neg|not pro:sub|I ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|9|ENDP 7|9|AUX 8|7|NEG
+	9|4|END 10|4|PUNCT
+*PAR:	(..) mule . 44541_53756
+%mor:	n|mule .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I say donkey@q &=laughs ? [+ exc] 53756_58720
+%mor:	mod|do&PAST pro:sub|I v|say meta|donkey ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	cat . 58720_62330
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 62330_64043
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay ‡ good . 64043_65787
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	now we are going to change direction . 65787_67390
+%mor:	adv|now pro:sub|we aux|be&PRES part|go-PRESP prep|to n|change
+	n|direction .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|MOD 7|5|POBJ 8|4|PUNCT
+@G:	F
+*INV:	now . 67390_69259
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<fair f@l a@l i@l r@l> [//] fair . 69259_71700
+%mor:	n|fair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fun . 71700_72994
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fungus . 72994_74566
+%mor:	n|fungus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh <f@l fa@k> [//] face . 74566_81084
+%mor:	n|face .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) &=sighs (.) fair . 81084_93490
+%mor:	n|fair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	farther . 93490_95780
+%mor:	adj|far-CP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	far . 95780_96802
+%mor:	adv|far .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that kind ? [+ exc] 96802_98440
+%mor:	pro:dem|that adj|kind ?
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 98440_99017
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) filler . 99017_104791
+%mor:	n|fill&dv-AGT .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	farmer . 104791_108308
+%mor:	n|farm&dv-AGT .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) feather . 108308_114113
+%mor:	n|feather .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) that's not very good . [+ exc] 114113_126086
+%mor:	pro:dem|that~cop|be&3S neg|not adv|very adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|PUNCT
+*INV:	okay ‡ that's +//. 126086_127032
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S +//.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+@End

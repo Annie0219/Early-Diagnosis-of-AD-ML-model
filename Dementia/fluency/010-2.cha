@@ -1,0 +1,166 @@
+@UTF8
+@PID:	11312/t-00016033-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|68;00.|male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	010-2, audio
+@G:	animals
+*INV:	www . 0_3646
+%exp:	finishing previous task
+*INV:	now then other animals starting now . 3646_7141
+%mor:	adv|now adv:tem|then qn|other n|animal-PL part|start-PRESP adv|now
+	.
+%gra:	1|0|INCROOT 2|1|JCT 3|4|QUANT 4|2|OBJ 5|4|XMOD 6|5|JCT 7|1|PUNCT
+*PAR:	cat . 7141_9476
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 9476_10502
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	kangaroo . 10502_11623
+%mor:	n|kangaroo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ostrich . 11623_13180
+%mor:	n|ostrich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh elephant . 13180_18689
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh (.) giraffe . 18689_22844
+%mor:	co|oh n|giraffe .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh_man . [+ exc] 22844_26719
+%mor:	co|oh_man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh mouse . 26719_31636
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) rhinoceros . 31636_37728
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hippopotamus . 37728_38782
+%mor:	n|hippopotamus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 38782_42201
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 42201_43280
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &amera &a armadillo . 43280_52664
+%mor:	n|armadillo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=imit:thinking there's something to this . [+ exc] 52664_58623
+%mor:	pro:exist|there~cop|be&3S pro:indef|something inf|to pro:dem|this .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|2|PUNCT
+*PAR:	oh (.) leopard . 58623_64118
+%mor:	co|oh n|leopard .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &z &uh lynx . 64118_68710
+%mor:	n|lynx .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ hold it there . 68710_70641
+%mor:	co|okay beg|beg n|hold pro:per|it adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+@G:	F
+*INV:	words beginning with the letter f@l starting now . 70641_75605
+%mor:	n|word-PL n|beginning prep|with det:art|the n|letter n:let|f
+	part|start-PRESP adv|now .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|ENUM 7|6|XMOD 8|7|JCT
+	9|2|PUNCT
+*PAR:	fish . 75605_77332
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) deer . 77331_81232
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ beginning f@l . 81232_83287
+%mor:	co|oh beg|beg n|beginning n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|ENUM 5|3|PUNCT
+*PAR:	oh ‡ yeah &=laughs . [+ exc] 83287_84880
+%mor:	co|oh beg|beg co|yeah .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	+< that's right . 83500_84880
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&=laughs oh_my . [+ exc] 84880_86400
+%mor:	co|oh_my .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fish . 86400_86800
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fly . 86800_88647
+%mor:	n|fly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fawn . 88647_90950
+%mor:	n|fawn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh +... 90950_94600
+%mor:	co|oh +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	not just animals . 94600_95508
+%mor:	neg|not adv|just n|animal-PL .
+%gra:	1|3|NEG 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*INV:	any words at all . 95508_97208
+%mor:	qn|any n|word-PL prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*INV:	any words that begin with f@l . 97208_99066
+%mor:	qn|any n|word-PL pro:rel|that v|begin prep|with n:let|f .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	f@l . [+ exc] 99066_100227
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	damn . [+ exc] 100227_102391
+%mor:	n|damn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frog . 102390_104493
+%mor:	n|frog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh_my . [+ exc] 104493_109051
+%mor:	co|oh_my .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I'll fail this one . [+ exc] 109051_113099
+%mor:	pro:sub|I~mod|will v|fail det:dem|this pro:indef|one .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	fly . 113099_117078
+%mor:	n|fly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I give you a fly@q already ? [+ exc] 117078_118037
+%mor:	pro:sub|I v|give pro:per|you det:art|a meta|fly adv|already ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|2|OBJ 6|5|JCT 7|2|PUNCT
+*INV:	mhm . 118037_118760
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	could be any word at all . 118515_119827
+%mor:	mod|could cop|be qn|any n|word prep|at pro:indef|all .
+%gra:	1|2|AUX 2|0|ROOT 3|4|QUANT 4|2|PRED 5|4|NJCT 6|5|POBJ 7|2|PUNCT
+*INV:	it doesn't hafta be an animal . 119827_121642
+%mor:	pro:per|it mod|do&3S~neg|not mod|have~inf|to cop|be det:art|a
+	n|animal .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*PAR:	damn . [+ exc] 121642_122640
+%mor:	n|damn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&t because of this . [+ exc] 122640_123767
+%mor:	conj|because prep|of pro:dem|this .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	&um a flop . 124833_128257
+%mor:	det:art|a n|flop .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	I am a flop . [+ exc] 128257_132039
+%mor:	pro:sub|I cop|be&1S det:art|a n|flop .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	&f I said frog@q ? [+ exc] 132039_134965
+%mor:	pro:sub|I v|say&PAST meta|frog ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	mhm . 134965_135464
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&f +... 135464_138383
+*INV:	okay . 138383_139242
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,236 @@
+@UTF8
+@PID:	11312/t-00016156-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|63;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	270-0, audio
+@G:	animals
+*INV:	and you can begin now . 0_2896
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	cat . 2896_3426
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 3426_4150
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	mouse . 4150_4650
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rat . 4650_5200
+%mor:	n|rat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 5200_5853
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um lion . 5853_8203
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tigers . 8203_8610
+%mor:	n|tiger-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephants . 8610_9250
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bears . 9250_10043
+%mor:	n|bear-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh snakes . 10043_12410
+%mor:	n|snake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	you can xxx &=laughs . [+ exc] 12410_15000
+%mor:	pro:per|you mod|can .
+%gra:	1|2|SUBJ 2|0|INCROOT 3|2|PUNCT
+*INV:	go ahead +/. 15000_15600
+%mor:	v|go adv|ahead +/.
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	okay . [+ exc] 15600_16700
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um fish . 16700_19350
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	whales . 19350_20330
+%mor:	n|whale-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	porpoises . 20330_21900
+%mor:	n|porpoise-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um trout . 21900_23519
+%mor:	n|trout .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um cardinal . 23519_25900
+%mor:	adj|cardinal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wren . 25900_27800
+%mor:	n|wren .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	robin . 27800_28800
+%mor:	n|robin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um mourning dove . 28800_32703
+%mor:	part|mourn-PRESP n|dove .
+%gra:	1|0|INCROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	&=hums:tune let's see . [+ exc] 32703_39000
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	&=sighs crocodiles . 39000_42500
+%mor:	n|crocodile-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kangaroos . 42500_44166
+%mor:	n|kangaroo-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) possums . 44166_47807
+%mor:	n|possum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbits . 47807_49738
+%mor:	n|rabbit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) squirrels . 49738_52757
+%mor:	n|squirrel-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mice . 52757_54096
+%mor:	n|mouse&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rats . 54096_54600
+%mor:	n|rat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&=laughs . 54600_56213
+*PAR:	&um (.) oh ‡ &kang did I say kangaroo@q ? [+ exc] 56213_61646
+%mor:	co|oh beg|beg mod|do&PAST pro:sub|I v|say meta|kangaroo ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	I don't remember that . [+ exc] 61646_62900
+%mor:	pro:sub|I mod|do~neg|not v|remember comp|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	okay . 62900_63515
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	well ‡ that's it . 63515_64061
+%mor:	co|well beg|beg pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	time's up . 64061_64500
+%mor:	n|time~cop|be&3S adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	mhm . [+ exc] 64500_65100
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	okay ‡ now I'm going to change directions . 65100_68897
+%mor:	co|okay beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to
+	v|change n|direction-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|6|PUNCT
+*INV:	this time I want you to think of as many words that you can think
+	of that begins with the letter f@l . 68897_73148
+%mor:	det:dem|this n|time pro:sub|I v|want pro:per|you inf|to v|think
+	prep|of adv|as qn|many n|word-PL pro:rel|that pro:per|you mod|can
+	v|think prep|of pro:rel|that v|begin-3S prep|with det:art|the
+	n|letter n:let|f .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|4|OBJ 6|7|INF 7|5|COMP 8|7|JCT
+	9|11|COORD 10|11|QUANT 11|8|POBJ 12|15|LINK 13|15|SUBJ 14|15|AUX
+	15|11|CMOD 16|15|JCT 17|18|LINK 18|16|POBJ 19|18|JCT 20|21|DET 21|22|SUBJ
+	22|19|POBJ 23|2|PUNCT
+*INV:	any words that begins with the letter f@l except proper names and
+	places . 73148_78548
+%mor:	qn|any n|word-PL pro:rel|that v|begin-3S prep|with det:art|the
+	n|letter n:let|f prep|except adj|proper n|name-PL coord|and
+	n|place-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|7|XMOD 9|8|JCT 10|11|MOD 11|9|POBJ 12|11|CONJ 13|12|COORD 14|2|PUNCT
+*INV:	for example using the letter s@l . 78548_80000
+%mor:	prep|for n|example part|use-PRESP det:art|the n|letter n:let|s .
+%gra:	1|3|JCT 2|1|POBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|ENUM 7|3|PUNCT
+*INV:	something like Spain and Sally . 80000_82500
+%mor:	pro:indef|something prep|like n:prop|Spain coord|and n:prop|Sally .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*INV:	now those would be proper names and they would not count +/. 82500_85396
+%mor:	adv|now pro:dem|those mod|will&COND cop|be adj|proper n|name-PL
+	coord|and pro:sub|they mod|will&COND neg|not v|count +/.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|MOD 6|4|PRED 7|11|LINK 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|4|CJCT 12|4|PUNCT
+*PAR:	I realize that „ mhm . [+ exc] 84000_85396
+%mor:	pro:sub|I v|realize pro:dem|that end|end co|mhm=yes .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|5|ENDP 5|2|END 6|2|PUNCT
+*INV:	and also derivatives and using the letter r@l . 85396_87550
+%mor:	coord|and adv|also n|derivative-PL coord|and part|use-PRESP
+	det:art|the n|letter n:let|r .
+%gra:	1|3|LINK 2|3|JCT 3|0|INCROOT 4|3|CONJ 5|8|XJCT 6|7|DET 7|5|OBJ
+	8|4|COORD 9|3|PUNCT
+*INV:	run@q runner@q and running@q that would all count as one word . 87550_90420
+%mor:	meta|run meta|runner coord|and meta|running pro:dem|that
+	mod|will&COND qn|all n|count prep|as det:num|one n|word .
+%gra:	1|0|INCROOT 2|1|COBJ 3|2|CONJ 4|3|COORD 5|8|SUBJ 6|8|AUX 7|8|QUANT
+	8|4|POBJ 9|8|NJCT 10|11|QUANT 11|9|POBJ 12|1|PUNCT
+*INV:	okay . 90420_91285
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	so many words as you can think of that begins with the letter f@l .
+	91285_94835
+%mor:	adv|so qn|many n|word-PL adv|as pro:per|you mod|can v|think prep|of
+	pro:rel|that v|begin-3S prep|with det:art|the n|letter n:let|f .
+%gra:	1|2|JCT 2|3|QUANT 3|7|JCT 4|3|NJCT 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|LINK 10|8|POBJ 11|10|JCT 12|13|DET 13|14|SUBJ 14|11|POBJ 15|7|PUNCT
+*PAR:	f@l ? [+ exc] 94835_95100
+%mor:	n:let|f ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and you can begin now . 95100_96891
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	fish . 96891_98712
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	food . 98712_100144
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	friend . 100144_101654
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fowl . 101654_102930
+%mor:	n|fowl .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	spelled either way &=laughs . [+ exc] 102930_106012
+%mor:	v|spell-PAST coord|either n|way .
+%gra:	1|0|ROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&um did I give flower@q ? 106012_113400
+%mor:	mod|do&PAST pro:sub|I v|give meta|flower ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&um feeling . 113400_115180
+%mor:	part|feel-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fool . 115180_119600
+%mor:	n|fool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) friendship . 119600_122418
+%mor:	n|friendship .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fast . 122418_124985
+%mor:	n|fast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh &=clears:throat fuel . 124985_130650
+%mor:	n|fuel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) sixteen million of (th)em in the dictionary . [+ exc] 130650_140596
+%mor:	det:num|sixteen det:num|million prep|of pro:obj|them prep|in
+	det:art|the n|dictionary .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|JCT 4|3|POBJ 5|2|JCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*INV:	&=laughs of_course . 140596_142300
+%mor:	co|of_course .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um find . 142300_145717
+%mor:	v|find .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	did I say field@q ? 145717_147958
+%mor:	mod|do&PAST pro:sub|I v|say meta|field ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	&um flame . 147958_153513
+%mor:	n|flame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 153513_157264
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	www .
+%exp:	next task
+@End

@@ -1,0 +1,157 @@
+@UTF8
+@PID:	11312/t-00016070-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|71;|male|ProbableAD||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	058-3, audio
+@G:	foods
+*PAR:	(.) you want in generality you_know like fruit and meat or [/] or
+	different types +/? [+ exc] 0_7500
+%mor:	pro:per|you v|want prep|in n|generality co|you_know co|like n|fruit
+	coord|and n|meat coord|or adj|different n|type-PL +/?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|7|COM 6|7|COM 7|2|JCT 8|7|CONJ
+	9|8|COORD 10|7|CONJ 11|12|MOD 12|10|COORD 13|2|PUNCT
+*INV:	+< however you want it . 5791_6836
+%mor:	adv|however pro:per|you v|want pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	you can be specific . 6836_8740
+%mor:	pro:per|you mod|can cop|be adj|specific .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	okay ‡ go ahead . 9540_11222
+%mor:	co|okay beg|beg v|go adv|ahead .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	just &na +//. [+ exc] 11222_12641
+%mor:	adv|just +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	apples . 12641_13449
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pears . 13449_14149
+%mor:	n|pear-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) bananas . 14149_16001
+%mor:	n|banana-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	grapes . 16001_17526
+%mor:	n|grape-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	plums . 17526_19036
+%mor:	n|plum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	prunes . 19036_20048
+%mor:	n|prune-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peaches . 20048_21480
+%mor:	n|peach-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh cookies . 21480_25682
+%mor:	n|cookie-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sweet rolls . 25682_27657
+%mor:	adj|sweet n|roll-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	pound cake . 27657_29604
+%mor:	n|pound n|cake .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	coconut custard pie . 29604_32716
+%mor:	n|coconut n|custard n|pie .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	apple pie . 32716_34132
+%mor:	n|apple n|pie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	peach pie . 34132_35518
+%mor:	n|peach n|pie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	lemon pie . 35518_37058
+%mor:	n|lemon n|pie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	apricot pie . 37058_39252
+%mor:	n|apricot n|pie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) raisin pie . 39252_42350
+%mor:	n|raisin n|pie .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um beef +... 42350_47719
+%mor:	n|beef +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	from different types of beef or +..? [+ exc] 47719_51471
+%mor:	prep|from adj|different n|type-PL prep|of n|beef coord|or +..?
+%gra:	1|6|JCT 2|3|MOD 3|1|POBJ 4|3|NJCT 5|4|POBJ 6|0|ROOT 7|6|PUNCT
+*INV:	that's fine . 51471_52717
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	&uh beef roast . 52717_56669
+%mor:	n|beef n|roast .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) beef steak . 56669_60686
+%mor:	n|beef n|steak .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh veal . 60686_67191
+%mor:	n|veal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	veal roast . 67191_70257
+%mor:	n|veal n|roast .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	veal steak . 70257_71144
+%mor:	n|veal n|steak .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	veal chops . 71144_73805
+%mor:	n|veal v|chop-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 73805_74972
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	S
+*INV:	begin with the letter s@l . 74644_77682
+%mor:	v|begin prep|with det:art|the n|letter n:let|s .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|5|SUBJ 5|2|POBJ 6|1|PUNCT
+*PAR:	stone . 77682_79236
+%mor:	n|stone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	snow . 79236_80435
+%mor:	n|snow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	stairs . 80435_81929
+%mor:	n|stair-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um sun . 81929_85228
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm (.) &hm (..) &hm &uh sweet potatoes . 85228_95640
+%mor:	adj|sweet n|potato-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um stem . 95640_101143
+%mor:	n|stem .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) I gave you star@q I think ? [+ exc] 101143_111079
+%mor:	pro:sub|I v|give&PAST pro:per|you meta|star pro:sub|I v|think ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|SUBJ 6|4|CMOD 7|2|PUNCT
+*PAR:	I'm not sure now . [+ exc] 111079_114877
+%mor:	pro:sub|I~cop|be&1S neg|not adj|sure adv|now .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|4|JCT 6|2|PUNCT
+*PAR:	how many more you want ? [+ exc] 114877_116853
+%mor:	pro:int|how qn|many pro:indef|more pro:per|you v|want ?
+%gra:	1|3|LINK 2|3|QUANT 3|5|PRED 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	as many as +/. 116553_118035
+%mor:	prep|as pro:indef|many adv|as +/.
+%gra:	1|2|COORD 2|0|INCROOT 3|2|NJCT 4|2|PUNCT
+*PAR:	+< xxx &=laughs . 116666_118888
+*PAR:	&uh stale . 118888_122705
+%mor:	adj|stale .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh sweet onions . 122705_128960
+%mor:	adj|sweet n|onion-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	sour pickles . 128960_132826
+%mor:	adj|sour n|pickle-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	sweet pickles . 132826_134045
+%mor:	adj|sweet n|pickle-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh +... 134045_137641
+*INV:	okay . 137641_141442
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

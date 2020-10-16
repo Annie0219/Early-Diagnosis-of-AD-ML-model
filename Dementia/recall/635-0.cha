@@ -1,0 +1,98 @@
+@UTF8
+@PID:	11312/a-00015247-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;|male|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	635-0, audio
+@G:	Geoge_Immediate
+*INV:	tell me everything you can remember about the story . 0_5151
+%mor:	v|tell pro:obj|me pro:indef|everything pro:per|you mod|can
+	v|remember prep|about det:art|the n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	(...) the little girl went to the country . 5151_21291
+%mor:	det:art|the adj|little n|girl v|go&PAST prep|to det:art|the
+	n|country .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	okay . 21291_24389
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else ? 24389_31640
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	hmhm . [+ exc] 31640_32778
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	alright . 32778_34038
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Delayed
+*INV:	do you remember the story I told you earlier ? 34038_38830
+%mor:	mod|do pro:per|you v|remember det:art|the n|story pro:sub|I
+	v|tell&PAST pro:per|you adj|early-CP ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|SUBJ 7|5|CMOD 8|9|SUBJ
+	9|7|JCT 10|3|PUNCT
+*INV:	tell me everything you can remember about the story . 38830_42924
+%mor:	v|tell pro:obj|me pro:indef|everything pro:per|you mod|can
+	v|remember prep|about det:art|the n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	(...) no ‡ I can't . [+ exc] 42924_56481
+%mor:	co|no beg|beg pro:sub|I mod|can~neg|not .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|AUX 5|4|NEG 6|3|PUNCT
+@G:	George_Questions
+*INV:	okay ‡ I'll ask you some questions and that may help . 56481_59125
+%mor:	co|okay beg|beg pro:sub|I~mod|will v|ask pro:per|you qn|some
+	n|question-PL coord|and pro:dem|that mod|may n|help .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|OBJ2 7|8|QUANT 8|5|OBJ
+	9|5|CONJ 10|12|SUBJ 11|12|AUX 12|9|COORD 13|5|PUNCT
+*INV:	okay ? 59125_59795
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	who was the story about ? 59795_63423
+%mor:	pro:int|who cop|be&PAST&13S det:art|the n|story adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*PAR:	(...) I don't remember that . [+ exc] 63423_73307
+%mor:	pro:sub|I mod|do~neg|not v|remember comp|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	okay . 73307_74023
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what time of year did George move in with his son's family ? 74023_78191
+%mor:	pro:int|what n|time prep|of n|year v|do&PAST n:prop|George n|move
+	adv|in prep|with det:poss|his adj|son&dn-POSS n|family ?
+%gra:	1|5|LINK 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|MOD 7|5|OBJ 8|5|JCT
+	9|5|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|5|PUNCT
+*PAR:	(..) Christmas . 78191_86190
+%mor:	n:prop|Christmas .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what were George's stories about ? 86190_91934
+%mor:	pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|PUNCT
+*INV:	what did Melanie ask George to do ? 91934_106640
+%mor:	pro:int|what mod|do&PAST n:prop|Melanie v|ask n:prop|George inf|to
+	v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*INV:	okay . 106640_111032
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	why did George hold Melanie's hand tightly ? 111032_114423
+%mor:	pro:int|why mod|do&PAST n:prop|George n|hold adj|Melanie&dn-POSS
+	n|hand adv|tight&dadj-LY ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|JCT 8|6|PUNCT
+*PAR:	before crossing the street . 114423_118703
+%mor:	prep|before n:gerund|cross-PRESP det:art|the n|street .
+%gra:	1|0|INCROOT 2|1|POBJ 3|4|DET 4|2|OBJ 5|1|PUNCT
+*INV:	okay . 118703_119963
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	why didn't Melanie like the city ? 119963_124430
+%mor:	pro:int|why mod|do&PAST~neg|not n:prop|Melanie prep|like
+	det:art|the n|city ?
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	okay . 124430_132056
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

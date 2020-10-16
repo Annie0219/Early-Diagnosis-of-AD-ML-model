@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/a-00015196-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|63;|male|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	252-1, audio
+@G:	foods
+*INV:	all the things that can be eaten . 0_3803
+%mor:	qn|all det:art|the n|thing-PL pro:rel|that mod|can aux|be
+	part|eat&PASTP .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|7|LINK 5|7|AUX 6|7|AUX 7|3|CMOD
+	8|3|PUNCT
+*INV:	you can begin now . 3803_5554
+%mor:	pro:per|you mod|can v|begin adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	now . [+ exc] 5554_6355
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cereal . 6355_8139
+%mor:	n|cereal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	banana . 8139_9738
+%mor:	n|banana .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um strawberries . 9738_13971
+%mor:	n|strawberry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cherries . 13971_15898
+%mor:	n|cherry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm (...) &uh vegetables . [+ exc] 15898_28883
+%mor:	n|vegetable-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um corn . 28883_33507
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cauliflower . 33507_39644
+%mor:	n|cauliflower .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce . 39644_44179
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um xxx I said lettuce . [+ exc] 44179_53766
+%mor:	pro:sub|I v|say&PAST n|lettuce .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&um (..) the greens &uh endive . 53766_64000
+%mor:	det:art|the n|green-PL n|endive .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	dandelion . 64000_65123
+%mor:	n|dandelion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 65123_66243
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

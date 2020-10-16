@@ -1,0 +1,87 @@
+@UTF8
+@PID:	11312/t-00016198-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	466-0, audio
+@G:	animals
+*INV:	okay ‡ go ahead . 0_2763
+%mor:	co|okay beg|beg v|go adv|ahead .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	cat . 2763_6293
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 6293_7860
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	horse . 7860_9706
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) no ‡ a spider wouldn't be . 9706_17510
+%mor:	co|no beg|beg det:art|a n|spider mod|will&COND~neg|not cop|be .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|7|SUBJ 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|PUNCT
+*PAR:	would that be a noun ? [+ exc] 17510_18831
+%mor:	mod|will&COND pro:dem|that cop|be det:art|a n|noun ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	&um +... 18831_48000
+*INV:	do you know other types ? 48000_55751
+%mor:	mod|do pro:per|you v|know qn|other n|type-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	elephant . 55751_60534
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 60534_61672
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	okay ‡ begin with the letter f@l . 61672_69787
+%mor:	co|okay beg|beg v|begin prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|6|DET 6|7|SUBJ 7|4|POBJ 8|3|PUNCT
+*PAR:	any word that begin with the letter f@l ? [+ exc] 69787_72072
+%mor:	qn|any n|word pro:rel|that v|begin prep|with det:art|the n|letter
+	n:let|f ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|JCT 9|2|PUNCT
+*INV:	right . 72072_72724
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) food . 72724_75812
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	friend . 75812_78680
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um fish . 78680_81304
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flower . 81304_83661
+%mor:	n|flower .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fork . 83661_89082
+%mor:	n|fork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fun . 89082_95689
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frolic . 95689_97767
+%mor:	n|frolic .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flavor . 97767_101575
+%mor:	n|flavor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fence . 101575_107542
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	feet . 107542_110003
+%mor:	n|foot&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) food . 110003_113498
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um +... 113498_135419
+*INV:	okay . 135419_136637
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

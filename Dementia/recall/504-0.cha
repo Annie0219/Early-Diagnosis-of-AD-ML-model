@@ -1,0 +1,39 @@
+@UTF8
+@PID:	11312/t-00016443-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|10||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	504-0, audio
+@G:	George_Immediate
+*INV:	do you recall from that ? 0_1336
+%mor:	mod|do pro:per|you v|recall prep|from pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	well ‡ I tell (th)em (a)bout &uh there's a little girl (.) in there
+	. 1336_6000
+%mor:	co|well beg|beg pro:sub|I v|tell pro:obj|them adv|about
+	pro:exist|there~cop|be&3S det:art|a adj|little n|girl prep|in
+	n|there .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|8|JCT 7|8|SUBJ 8|4|COMP
+	9|11|DET 10|11|MOD 11|8|PRED 12|11|NJCT 13|12|POBJ 14|4|PUNCT
+*PAR:	and there is a grandpap . 6000_7416
+%mor:	coord|and adv|there cop|be&3S det:art|a grand#n|pap .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	(.) and the mother . 7416_9712
+%mor:	coord|and det:art|the n|mother .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um <and it's> [//] (.) another lady was in there . 9712_15840
+%mor:	qn|another n|lady cop|be&PAST&13S prep|in n|there .
+%gra:	1|2|QUANT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and they're all going away . 15840_18680
+%mor:	coord|and pro:sub|they~aux|be&PRES post|all part|go-PRESP adv|away
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|PQ 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*INV:	okay . 18680_22306
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 22306_32248
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

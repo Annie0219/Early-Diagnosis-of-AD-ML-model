@@ -1,0 +1,54 @@
+@UTF8
+@PID:	11312/t-00016299-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||male|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	062-3, audio
+@G:	Bill_Immediate
+*INV:	okay ‡ can you tell me everything you can remember about that story
+	? 0_3813
+%mor:	co|okay beg|beg mod|can pro:per|you v|tell pro:obj|me
+	pro:indef|everything pro:per|you mod|can v|remember prep|about
+	det:dem|that n|story ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|10|LINK 8|10|SUBJ
+	9|10|AUX 10|5|COMP 11|10|JCT 12|13|DET 13|11|POBJ 14|5|PUNCT
+*PAR:	it was a beautiful day in September . 3813_8420
+%mor:	pro:per|it cop|be&PAST&13S det:art|a adj|beautiful n|day prep|in
+	n:prop|September .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|6|POBJ 8|2|PUNCT
+*PAR:	and they were trap fishing in a river . 8420_10719
+%mor:	coord|and pro:sub|they aux|be&PAST n|trap part|fish-PRESP prep|in
+	det:art|a n|river .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*INV:	mhm . 10719_11543
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you remember anything else about that ? 11543_18630
+%mor:	mod|can pro:per|you v|remember pro:indef|anything post|else
+	prep|about pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|4|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	oh ‡ afraid I don't . [+ exc] 18630_22022
+%mor:	co|oh beg|beg adj|afraid pro:sub|I mod|do~neg|not .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|7|SUBJ 5|7|AUX 6|5|NEG 7|3|PUNCT
+*PAR:	it's horrible . [+ exc] 22022_24233
+%mor:	pro:per|it~cop|be&3S adj|horrible .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	well ‡ that's alright . 24233_25151
+%mor:	co|well beg|beg pro:dem|that~cop|be&3S adj|alright .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	just take your time and think about it a little bit . 25151_27471
+%mor:	adv|just v|take det:poss|your n|time coord|and v|think prep|about
+	pro:per|it det:art|a adj|little n|bit .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|CONJ 6|5|COORD 7|6|JCT 8|7|POBJ
+	9|11|DET 10|11|MOD 11|8|OBJ 12|2|PUNCT
+*PAR:	(..) no ‡ I'm lost . [+ exc] 27471_37292
+%mor:	co|no beg|beg pro:sub|I~aux|be&1S part|lose&PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 37292_38180
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Questions
+@End

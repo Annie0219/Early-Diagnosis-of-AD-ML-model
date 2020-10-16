@@ -1,0 +1,152 @@
+@UTF8
+@PID:	11312/t-00017046-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|89;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	091-1, audio
+*INV:	here's the first word . 0_2397
+%mor:	pro:exist|here~cop|be&3S det:art|the adj|first n|word .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	pencil@q . 2397_3329
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) you're writing with a pencil . 3329_6568
+%mor:	pro:per|you~aux|be&PRES part|write-PRESP prep|with det:art|a
+	n|pencil .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	+< okay . 6100_7069
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good ! 7069_7551
+%mor:	adj|good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) how_(a)bout tree@q ? 7551_17576
+%mor:	pro:int|how_about meta|tree ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) the tree grows outside . 17576_20514
+%mor:	det:art|the n|tree v|grow-3S adv|outside .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	good ! 20514_22002
+%mor:	adj|good !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) now I'm gonna ask you to use two words in a sentence . 22002_31500
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|ask pro:per|you
+	inf|to v|use det:num|two n|word-PL prep|in det:art|a n|sentence .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|9|INF
+	9|6|COMP 10|11|QUANT 11|9|OBJ 12|9|JCT 13|14|DET 14|12|POBJ 15|4|PUNCT
+*INV:	okay ? 31500_31936
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	two words . 31936_33541
+%mor:	det:num|two n|word-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	you don't hafta worry about the order that I give you the two
+	word(s) in . 33416_35800
+%mor:	pro:per|you mod|do~neg|not mod|have~inf|to v|worry prep|about
+	det:art|the n|order pro:rel|that pro:sub|I v|give pro:per|you
+	det:art|the det:num|two n|word-PL adv|in .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|12|LINK 11|12|SUBJ 12|9|CMOD 13|12|OBJ2 14|16|DET 15|16|QUANT
+	16|12|OBJ 17|12|JCT 18|6|PUNCT
+*INV:	but use both of them in a short simple sentence . 35800_39238
+%mor:	conj|but n|use qn|both prep|of pro:obj|them prep|in det:art|a
+	adj|short adj|simple n|sentence .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|3|JCT 5|4|POBJ 6|3|JCT 7|10|DET
+	8|10|MOD 9|10|MOD 10|6|POBJ 11|1|PUNCT
+*INV:	okay ‡ here's the first two . 39238_41555
+%mor:	co|okay beg|beg pro:exist|here~cop|be&3S det:art|the adj|first
+	det:num|two .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*INV:	child@q hospital@q . 41555_44703
+%mor:	meta|child meta|hospital .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	make a sentence out_of that ? [+ exc] 44703_47609
+%mor:	v|make det:art|a n|sentence prep|out_of pro:dem|that ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|POBJ 6|1|PUNCT
+*INV:	mhm . 47609_48469
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	he is in the child's hospital . 48469_51785
+%mor:	pro:sub|he cop|be&3S prep|in det:art|the adj|child&dn-POSS
+	n|hospital .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*INV:	okay . 51785_52838
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) cold@q winter@q . 52838_66089
+%mor:	meta|cold meta|winter .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	this is a cold winter . 66089_68566
+%mor:	pro:dem|this cop|be&3S det:art|a adj|cold n|winter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	yes ‡ it is „ huh . 68566_70198
+%mor:	co|yes beg|beg pro:per|it cop|be&3S end|end co|huh .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|ENDP 6|4|END 7|4|PUNCT
+*INV:	(..) now I'm gonna give you three words . 70198_77650
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|three n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	okay ? 77650_78570
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	use all three of the words . 78570_80190
+%mor:	n|use qn|all det:num|three prep|of det:art|the n|word-PL .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|OBJ 4|3|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*INV:	but don't worry about the order . 80190_81762
+%mor:	conj|but mod|do~neg|not v|worry prep|about det:art|the n|order .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	in a sentence . 81762_82900
+%mor:	prep|in det:art|a n|sentence .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*INV:	okay ? 82900_83480
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	here's the first three . 83480_84953
+%mor:	pro:exist|here~cop|be&3S det:art|the adj|first det:num|three .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	chair@q doctor@q sit@q . 84953_89613
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	what's the last word ? [+ exc] 89613_90914
+%mor:	pro:int|what~cop|be&3S det:art|the adj|last n|word ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	sit@q . 90914_91864
+%mor:	meta|sit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sit@q ? [+ exc] 91864_92400
+%mor:	meta|sit ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	sit@q . 92400_93405
+%mor:	meta|sit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	chair@q and doctor@q sit@q . [+ exc] 93405_96737
+%mor:	meta|chair coord|and meta|doctor meta|sit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	the patient sits in the doctor's office . 96737_99900
+%mor:	det:art|the n|patient v|sit-3S adv|in det:art|the
+	adj|doctor&dn-POSS n|office .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*INV:	okay . 99900_102619
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) how_(a)bout bureau@q open@q drawer@q ? 102619_115557
+%mor:	pro:int|how_about meta|bureau meta|open meta|drawer ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|3|OM 5|1|PUNCT
+*PAR:	an open drawer in the bureau . [+ exc] 115557_117295
+%mor:	det:art|a adj|open n|drawer prep|in det:art|the n|bureau .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	pardon me ? 117295_118023
+%mor:	v|pardon pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	there's an open drawer in the bureau . 118023_121109
+%mor:	pro:exist|there~cop|be&3S det:art|a adj|open n|drawer prep|in
+	det:art|the n|bureau .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*INV:	good . 121109_125281
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

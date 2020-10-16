@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/t-00016220-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	598-0, audio
+@G:	animals
+*INV:	name all the animals you can think of and you can start now . 0_3441
+%mor:	n|name qn|all det:art|the n|animal-PL pro:per|you mod|can v|think
+	prep|of coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|POBJ 13|12|JCT 14|1|PUNCT
+*PAR:	cow . 3441_6024
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 6024_7020
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 7020_8809
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squirrel . 8809_9464
+%mor:	n|squirrel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	chipmunk . 9464_10787
+%mor:	n|chipmunk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh skunk . 10787_13557
+%mor:	n|skunk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	weasel . 13557_15394
+%mor:	n|weasel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 15394_16123
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um pig . 16123_20265
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	calf . 20265_22318
+%mor:	n|calf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) bear . 22318_31656
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	camel . 31656_33835
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 33835_35657
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) chicken . 35657_40683
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rooster . 40683_41072
+%mor:	n|rooster .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

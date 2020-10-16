@@ -1,0 +1,105 @@
+@UTF8
+@PID:	11312/t-00016203-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|79;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	474-0, audio
+@G:	animals
+*PAR:	dog . 0_981
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 981_2428
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lamb . 2428_3844
+%mor:	n|lamb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 3844_5463
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	giraffe . 5463_8064
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 8064_10787
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 10787_12203
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 12203_17573
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hyena . 17573_20358
+%mor:	n|hyena .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) goat . 20358_32778
+%mor:	n|goat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) any others ? 32778_53757
+%mor:	qn|any n:pt|others ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	huh ? [+ exc] 53757_54955
+%mor:	co|huh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any others you can think of ? 54955_56604
+%mor:	qn|any n:pt|others pro:per|you mod|can v|think prep|of ?
+%gra:	1|2|QUANT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	xxx „ I guess . [+ exc] 56604_59095
+%mor:	end|end pro:sub|I v|guess .
+%gra:	1|3|ENDP 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@G:	F
+*PAR:	four . 59095_63032
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fellow . 63032_65538
+%mor:	adj|fellow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fact . 65538_67421
+%mor:	n|fact .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) few . 67421_74425
+%mor:	qn|few .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	floozy . 74425_77429
+%mor:	n|floozy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&=laughs that's a word . 77429_80868
+%mor:	pro:dem|that~cop|be&3S det:art|a n|word .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	&=laughs . [+ exc] 80868_81834
+*PAR:	from . 81834_84587
+%mor:	prep|from .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fish . 84587_86860
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh you didn't want that . [+ exc] 86860_88543
+%mor:	pro:per|you mod|do&PAST~neg|not v|want pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	that's okay . 88543_89646
+%mor:	pro:dem|that~cop|be&3S adj|okay .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	any words at all . 89646_90704
+%mor:	qn|any n|word-PL prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	flower . 90704_97473
+%mor:	n|flower .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fixture . 97473_100243
+%mor:	n|fixture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) frame . 100243_106982
+%mor:	n|frame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fussy . 106982_119916
+%mor:	adj|fuss&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fairy . 119916_125084
+%mor:	n|fairy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 125084_126935
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

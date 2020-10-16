@@ -1,0 +1,127 @@
+@UTF8
+@PID:	11312/t-00016133-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	220-0, audio
+*INV:	okay ‡ good . 0_1230
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	animals
+*INV:	animals and you can begin now . 1230_4670
+%mor:	n|animal-PL coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|JCT 7|1|PUNCT
+*PAR:	(.) cat . 4670_6942
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 6942_7643
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) a goat . 7643_10227
+%mor:	det:art|a n|goat .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a horse . 10227_12141
+%mor:	det:art|a n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh (..) a dog . 12141_18523
+%mor:	det:art|a n|dog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) &uh (...) a bike . 18523_36300
+%mor:	det:art|a n|bike .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	uhhuh ? [+ exc] 36300_37217
+%mor:	co|uhhuh ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well ‡ that's not an animal though . [+ exc] 37217_39828
+%mor:	co|well beg|beg pro:dem|that~cop|be&3S neg|not det:art|a n|animal
+	adv|though .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|DET 7|4|PRED 8|7|NJCT
+	9|4|PUNCT
+*INV:	+< okay ‡ right ‡ you wanna tell me animals . 37300_41088
+%mor:	co|okay beg|beg co|right beg|beg pro:per|you v|want~inf|to v|tell
+	pro:obj|me n|animal-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|INF 8|6|COMP
+	9|8|OBJ 10|8|OBJ 11|6|PUNCT
+*PAR:	yeah ‡ let's see . [+ exc] 41088_43158
+%mor:	co|yeah beg|beg v|let~pro:obj|us v|see .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*PAR:	(.) I said horse@q already ‡ huh . [+ exc] 43158_47175
+%mor:	pro:sub|I v|say&PAST meta|horse adv|already beg|beg co|huh .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|BEG 5|4|BEGP 6|3|COM 7|2|PUNCT
+*INV:	mhm ‡ yeah . 47175_47781
+%mor:	co|mhm=yes beg|beg co|yeah .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&hm (..) cat . 47781_56715
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 56715_57365
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a dog +//. 57365_58724
+%mor:	det:art|a n|dog +//.
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	xxx I [/] I think we had that already . [+ exc] 58724_60721
+%mor:	pro:sub|I v|think pro:sub|we v|have&PAST comp|that adv|already .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|5|JCT 7|2|PUNCT
+*INV:	right . 60721_61150
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 61150_61568
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	and &uh &hm +... 61568_71400
+%mor:	coord|and +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay [x 2] that's fine . 71400_74508
+%mor:	co|okay pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+@G:	F
+*INV:	and you can begin now . 74508_77247
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	fun . 77247_78213
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) freedom . 78213_81482
+%mor:	n|freedom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) fun , freedom . [+ exc] 81713_88982
+%mor:	adj|fun cm|cm n|freedom .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	foolish &=laughs . 88982_92220
+%mor:	adj|fool&dn-ISH .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) I'm thinking &=laughs . [+ exc] 92220_102415
+%mor:	pro:sub|I~aux|be&1S part|think-PRESP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*INV:	+< mhm ‡ that's okay . 100804_102855
+%mor:	co|mhm=yes beg|beg pro:dem|that~cop|be&3S adj|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	(...) family . 102855_117796
+%mor:	n|family .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) children „ I guess . 117796_123773
+%mor:	n|child&PL end|end pro:sub|I v|guess .
+%gra:	1|0|INCROOT 2|4|ENDP 3|4|SUBJ 4|1|END 5|1|PUNCT
+*INV:	okay ‡ words that begin with f@l . 123773_126010
+%mor:	co|okay beg|beg n|word-PL pro:rel|that v|begin prep|with n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	oh ‡ just f@l ? [+ exc] 126010_126985
+%mor:	co|oh beg|beg adv|just n:let|f ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*INV:	mhm . 126985_128225
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ah . [+ exc] 128225_129119
+%mor:	co|ah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) foolish &=laughs . 129119_143728
+%mor:	adj|fool&dn-ISH .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 143728_144529
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

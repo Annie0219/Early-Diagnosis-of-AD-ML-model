@@ -1,0 +1,157 @@
+@UTF8
+@PID:	11312/t-00016146-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;|female|MCI||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	237-1, audio
+@G:	foods
+*INV:	and you can begin now . 0_3969
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	peaches . 3969_5494
+%mor:	n|peach-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	plums . 5494_6476
+%mor:	n|plum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cantaloupe . 6476_7705
+%mor:	n|cantaloupe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	berries . 7705_9371
+%mor:	n|berry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh broccoli . 9371_12078
+%mor:	n|broccoli .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zucchini . 12078_13557
+%mor:	n|zucchini .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squash . 13557_15408
+%mor:	n|squash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	eggplant . 15408_17680
+%mor:	n|+n|egg+n|plant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hamburger . 17680_20171
+%mor:	n|hamburger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (.) &uh cake . 20171_25229
+%mor:	n|cake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pies . 25229_26645
+%mor:	n|pie-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um puddings . 26645_30130
+%mor:	n|pudding-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	icecream . 30130_31330
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	jello . 31330_32762
+%mor:	n|jello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce . 32762_35003
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tomatoes . 35003_36652
+%mor:	n|tomato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) endives . 36652_39205
+%mor:	n|endive-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	parsley . 39205_40202
+%mor:	n|parsley .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&lettu &uh &s &uh celery . 40202_43038
+%mor:	n|celery .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	green pepper . 43038_44251
+%mor:	adj|green n|pepper .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	onions . 44251_46507
+%mor:	n|onion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pickles . 46507_48904
+%mor:	n|pickle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um (.) &uh pickles . 48904_54772
+%mor:	n|pickle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh relish . 54772_56080
+%mor:	n|relish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh cookies . 56080_59490
+%mor:	n|cookie-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pancakes . 59490_63162
+%mor:	n|pancake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	biscuits . 63162_64998
+%mor:	n|biscuit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh bread . 64998_67754
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 67754_68936
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	S
+*INV:	okay ‡ now what I want you +//. 68936_70366
+%mor:	co|okay beg|beg adv|now pro:int|what pro:sub|I v|want pro:per|you
+	+//.
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CPOBJ 7|6|OBJ
+	8|3|PUNCT
+*INV:	begin with the letter s@l . 70366_73060
+%mor:	v|begin prep|with det:art|the n|letter n:let|s .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|5|SUBJ 5|2|POBJ 6|1|PUNCT
+*INV:	and you can begin now . 73060_75254
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	street . 75254_76543
+%mor:	n|street .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh can it be food in there or the +//? [+ exc] 76543_81800
+%mor:	mod|can pro:per|it cop|be n|food prep|in n|there coord|or
+	det:art|the +//?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|5|POBJ 7|6|CONJ 8|7|COORD
+	9|3|PUNCT
+*PAR:	sugar . 81800_82768
+%mor:	n|sugar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	salt . 82768_84155
+%mor:	n|salt .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sand . 84155_85710
+%mor:	n|sand .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	snow . 85710_87469
+%mor:	n|snow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um &um shrimp . 87469_93835
+%mor:	n|shrimp .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sauerkraut . 93835_96122
+%mor:	n|sauerkraut .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	salmon . 96122_98753
+%mor:	n|salmon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um (..) strawberries . 98753_110473
+%mor:	n|strawberry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) zucchinis . 110473_116822
+%mor:	n|zucchini-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no ‡ &uh that's [/] that's wrong . [+ exc] 116822_118820
+%mor:	co|no beg|beg pro:dem|that~cop|be&3S adj|wrong .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	I spelled it wrong . [+ exc] 118820_120497
+%mor:	pro:sub|I v|spell-PAST pro:per|it adj|wrong .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	&um +... 120497_133010
+*INV:	okay ‡ we're good . 133010_138010
+%mor:	co|okay beg|beg pro:sub|we~cop|be&PRES adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

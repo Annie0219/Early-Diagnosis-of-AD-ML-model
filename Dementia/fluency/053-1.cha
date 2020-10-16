@@ -1,0 +1,354 @@
+@UTF8
+@PID:	11312/t-00016065-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|59;|male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	053-1, audio
+@G:	foods
+*INV:	I'm going to give you one minute to tell me as many things as you
+	can think of to eat . 0_6008
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	pro:indef|one n|minute inf|to v|tell pro:obj|me adv|as qn|many
+	n|thing-PL adv|as pro:per|you mod|can v|think prep|of inf|to v|eat .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ2 7|8|SUBJ 8|5|OBJ
+	9|10|INF 10|8|XMOD 11|10|OBJ 12|14|COORD 13|14|QUANT 14|10|OBJ 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|14|ENUM 19|18|JCT 20|21|INF 21|18|XJCT 22|3|PUNCT
+*INV:	anything that you can think of to eat as fast as you can in the
+	next minute . 6008_11206
+%mor:	pro:indef|anything pro:rel|that pro:per|you mod|can v|think prep|of
+	inf|to v|eat adv|as adv|fast prep|as pro:per|you mod|can prep|in
+	det:art|the adj|next n|minute .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CMOD 6|5|JCT 7|8|INF 8|6|POBJ
+	9|10|COORD 10|8|JCT 11|13|COORD 12|13|SUBJ 13|10|ENUM 14|13|JCT
+	15|17|DET 16|17|MOD 17|14|POBJ 18|1|PUNCT
+*INV:	off you go now . 11206_12375
+%mor:	prep|off pro:per|you v|go adv|now .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	xxx to start again ? [+ exc] 12000_13588
+%mor:	inf|to v|start adv|again ?
+%gra:	1|2|INF 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	things to eat . 13588_14988
+%mor:	n|thing-PL inf|to v|eat .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XMOD 4|1|PUNCT
+*PAR:	want just to go off them ? [+ exc] 14988_18500
+%mor:	v|want adj|just inf|to v|go prep|off pro:obj|them ?
+%gra:	1|0|ROOT 2|1|PRED 3|4|INF 4|2|XMOD 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*INV:	yeah ‡ just tell me as many things as you can think of to eat . 18500_21603
+%mor:	co|yeah beg|beg adv|just v|tell pro:obj|me prep|as qn|many
+	n|thing-PL adv|as pro:per|you mod|can v|think prep|of inf|to v|eat .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|ROOT 5|4|OBJ 6|8|COORD 7|8|QUANT 8|4|OBJ
+	9|12|JCT 10|12|SUBJ 11|12|AUX 12|8|ENUM 13|12|JCT 14|15|INF 15|12|XJCT
+	16|4|PUNCT
+*PAR:	(.) corn . 21603_25229
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 25229_26005
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	happy . 26005_27021
+%mor:	adj|happy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &+s Christmas . 27021_33246
+%mor:	n:prop|Christmas .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wire . 33246_36109
+%mor:	n|wire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	things to eat . 36109_37697
+%mor:	n|thing-PL inf|to v|eat .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XMOD 4|1|PUNCT
+*PAR:	things to eat . [+ exc] 37697_38400
+%mor:	n|thing-PL inf|to v|eat .
+%gra:	1|0|INCROOT 2|3|INF 3|1|XMOD 4|1|PUNCT
+*INV:	mhm . 38400_39626
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	leafs . 39626_41089
+%mor:	n|leaf-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	leaf . 41089_42054
+%mor:	n|leaf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	popcorn . 42054_44480
+%mor:	n|+n|pop+n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh xxx . [+ exc] 44480_48695
+*PAR:	&+s are difficult . [+ exc] 48695_50309
+%mor:	cop|be&PRES adj|difficult .
+%gra:	1|0|ROOT 2|1|PRED 3|1|PUNCT
+*PAR:	that's what we're trying to get ‡ I guess . [+ exc] 50309_52073
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|we~aux|be&PRES
+	part|try-PRESP inf|to v|get beg|beg pro:sub|I v|guess .
+%gra:	1|2|SUBJ 2|0|BEG 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|CPRED 7|8|INF 8|6|COMP
+	9|2|BEGP 10|11|SUBJ 11|0|ROOT 12|11|PUNCT
+*PAR:	&uh oh ‡ well +... 52073_59500
+%mor:	co|oh beg|beg co|well +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	well ‡ that's a tough xxx . [+ exc] 59500_62081
+%mor:	co|well beg|beg pro:dem|that~cop|be&3S det:art|a adj|tough .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*INV:	+< anything you can think of to eat . 61700_63781
+%mor:	pro:indef|anything pro:per|you mod|can v|think prep|of inf|to v|eat
+	.
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|INF 7|5|POBJ 8|4|PUNCT
+*PAR:	berries . 63781_65275
+%mor:	n|berry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cherries . 65275_66131
+%mor:	n|cherry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	potatoes . 66131_67951
+%mor:	n|potato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) icecream . 67951_73300
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ hold it there . 73300_74971
+%mor:	co|okay beg|beg n|hold pro:per|it adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+@G:	S
+*INV:	now then this time I want you to tell me as many words as you can
+	think of that begin with the letter s@l . 74971_85195
+%mor:	adv|now adv:tem|then det:dem|this n|time pro:sub|I v|want
+	pro:per|you inf|to v|tell pro:obj|me adv|as qn|many n|word-PL adv|as
+	pro:per|you mod|can v|think prep|of adv|that v|begin prep|with
+	det:art|the n|letter n:let|s .
+%gra:	1|2|JCT 2|6|JCT 3|4|DET 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|INF
+	9|6|COMP 10|9|OBJ 11|13|COORD 12|13|QUANT 13|9|OBJ 14|17|JCT 15|17|SUBJ
+	16|17|AUX 17|13|CMOD 18|17|JCT 19|17|JCT 20|17|JCT 21|20|JCT 22|23|DET
+	23|24|SUBJ 24|21|POBJ 25|6|PUNCT
+*PAR:	s@l . [+ exc] 85195_85500
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 85500_86137
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any words that begin with the letter s@l . 86137_88187
+%mor:	qn|any n|word-PL pro:rel|that v|begin prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|8|SUBJ
+	8|5|POBJ 9|2|PUNCT
+*PAR:	s@l . [+ exc] 88187_88707
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< but I don't want the names of people or places . 88400_92731
+%mor:	conj|but pro:sub|I mod|do~neg|not v|want det:art|the n|name-PL
+	prep|of n|person&PL coord|or n|place-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|5|PUNCT
+*INV:	so ‡ nothing that would have a capital letter . 92731_95011
+%mor:	co|so beg|beg pro:indef|nothing pro:rel|that mod|will&COND v|have
+	det:art|a adj|capital n|letter .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|LINK 5|6|AUX 6|3|CMOD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|3|PUNCT
+*PAR:	alright . [+ exc] 95011_95800
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< alright ‡ but any other words that you can think of that begin
+	with the letter s@l . 95500_100104
+%mor:	co|alright beg|beg conj|but qn|any qn|other n|word-PL pro:rel|that
+	pro:per|you mod|can v|think prep|of adv|that v|begin prep|with
+	det:art|the n|letter n:let|s .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|QUANT 5|6|QUANT 6|0|INCROOT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CMOD 11|10|JCT 12|13|JCT 13|11|POBJ 14|10|JCT
+	15|16|DET 16|14|POBJ 17|10|JCT 18|6|PUNCT
+*PAR:	s@l . [+ exc] 100104_100754
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I want you to tell me as many as you can think of in the next
+	minute . 100500_104774
+%mor:	pro:sub|I v|want pro:per|you inf|to v|tell pro:obj|me prep|as
+	pro:indef|many prep|as pro:per|you mod|can v|think prep|of prep|in
+	det:art|the adj|next n|minute .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ 7|8|COORD 8|5|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|5|CJCT 13|12|JCT 14|12|JCT 15|17|DET
+	16|17|MOD 17|14|POBJ 18|2|PUNCT
+*INV:	you ready ? 104774_105878
+%mor:	pro:per|you v|ready ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	off you go . 105878_107125
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	which one ? [+ exc] 107125_108200
+%mor:	pro:rel|which pro:indef|one ?
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	just tell me them words that begin with s@l . 108200_111622
+%mor:	adv|just v|tell pro:obj|me pro:obj|them n|word-PL pro:rel|that
+	v|begin prep|with n:let|s .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ2 4|5|SUBJ 5|2|OBJ 6|7|LINK 7|5|CMOD 8|7|JCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	apples . 111622_112431
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	words that begin with the letter s@l . 112431_114704
+%mor:	n|word-PL pro:rel|that v|begin prep|with det:art|the n|letter
+	n:let|s .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|6|DET 6|7|SUBJ 7|4|POBJ
+	8|1|PUNCT
+*PAR:	+< pears . 113400_114213
+%mor:	n|pear-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a@l . [+ exc] 116058_117210
+%mor:	n:let|a .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	air . 117210_118314
+%mor:	n|air .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peaches . 118314_119788
+%mor:	n|peach-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	hold on a minute . 119788_120903
+%mor:	n|hold prep|on det:art|a n|minute .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	hold on a minute . 120903_122000
+%mor:	n|hold prep|on det:art|a n|minute .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	xxx &=laughs . [+ exc] 121800_123400
+*INV:	+< mhm . 122200_123326
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any word that begins with the letter s@l or the sound ssss@o . 123400_130000
+%mor:	qn|any n|word pro:rel|that v|begin-3S prep|with det:art|the
+	n|letter n:let|s coord|or det:art|the n|sound on|ssss .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|4|JCT 9|8|CONJ 10|11|DET 11|12|SUBJ 12|9|COORD 13|2|PUNCT
+*INV:	tell me a word that begins with the letter s@l . 130000_132683
+%mor:	v|tell pro:obj|me det:art|a n|word pro:rel|that v|begin-3S
+	prep|with det:art|the n|letter n:let|s .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|1|PUNCT
+*PAR:	s@l ? [+ exc] 132683_133403
+%mor:	n:let|s ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 133403_134169
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) shop [//] sop [//] no [/] no [/] no . [+ exc] 134169_140200
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	shop . 140200_141000
+%mor:	n|shop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's right . 141000_141894
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	shop [/] shop ? [+ exc] 141894_143000
+%mor:	n|shop ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	shop „ mhm . 143000_144300
+%mor:	n|shop end|end co|mhm=yes .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*PAR:	oh ‡ it didn't seem right shop@q . [+ exc] 144300_146443
+%mor:	co|oh beg|beg pro:per|it mod|do&PAST~neg|not cop|seem adv|right
+	meta|shop .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|JCT 8|6|PRED
+	9|6|PUNCT
+*INV:	any other words that begin with s@l ? 146443_148512
+%mor:	qn|any qn|other n|word-PL pro:rel|that v|begin prep|with n:let|s ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*PAR:	s@l . [+ exc] 148512_149058
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh starp@n [//] stork [//] stort@n . 149058_153307
+%mor:	neo|stort .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no ‡ that's wrong . [+ exc] 153307_154805
+%mor:	co|no beg|beg pro:dem|that~cop|be&3S adj|wrong .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	we try to spill up and then it doesn't come in there . [+ exc] 154805_157800
+%mor:	pro:sub|we v|try inf|to v|spill adv|up coord|and adv:tem|then
+	pro:per|it mod|do&3S~neg|not v|come prep|in n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|11|LINK 7|11|JCT 8|11|SUBJ
+	9|11|AUX 10|9|NEG 11|4|CJCT 12|11|JCT 13|12|POBJ 14|2|PUNCT
+*PAR:	but &uh Phillip . 158147_159877
+%mor:	conj|but n:prop|Phillip .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	no ‡ you don't want names . [+ exc] 159877_161479
+%mor:	co|no beg|beg pro:per|you mod|do~neg|not v|want n|name-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	I'm terrible on that one . [+ exc] 161479_164263
+%mor:	pro:sub|I~cop|be&1S adj|terrible prep|on det:dem|that pro:indef|one
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*PAR:	&uh +... 164263_167300
+*INV:	okay ‡ can you think of a word that begins with s@l . 167300_171469
+%mor:	co|okay beg|beg mod|can pro:per|you v|think prep|of det:art|a
+	n|word pro:rel|that v|begin-3S prep|with n:let|s .
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|LINK 10|8|CMOD 11|10|JCT 12|11|POBJ 13|5|PUNCT
+*PAR:	with what ? [+ exc] 171469_172363
+%mor:	prep|with pro:int|what ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*INV:	with s@l . 172363_173060
+%mor:	prep|with n:let|s .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*INV:	what word begins with s@l . 173060_174918
+%mor:	pro:int|what n|word v|begin-3S prep|with n:let|s .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	+< axe ? [+ exc] 173500_174520
+%mor:	n|axe ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	s@l . [+ exc] 175400_175969
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	&+s . 175969_176387
+*PAR:	s@l . [+ exc] 176387_177049
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a plum . 177049_177606
+%mor:	det:art|a n|plum .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	not a plum „ no . 177800_179135
+%mor:	neg|not det:art|a n|plum end|end co|no .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|5|ENDP 5|3|END 6|3|PUNCT
+*INV:	what's your name ? 179135_180110
+%mor:	pro:int|what~cop|be&3S det:poss|your n|name ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	+< it start with d@l . [+ exc] 179276_180437
+%mor:	pro:per|it v|start prep|with n:let|d .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|3|POBJ 5|2|PUNCT
+*INV:	what's your name ? 180437_181331
+%mor:	pro:int|what~cop|be&3S det:poss|your n|name ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	Steve . [+ exc] 181331_182411
+%mor:	n:prop|Steve .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what does that begin with ? 182411_183560
+%mor:	pro:int|what mod|do&3S adv|that v|begin prep|with ?
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	s@l . [+ exc] 183560_184199
+%mor:	n:let|s .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's right . 184199_184872
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	think of some more words that begin with that sound . 184872_186904
+%mor:	v|think prep|of qn|some qn|more n|word-PL pro:rel|that v|begin
+	prep|with det:dem|that n|sound .
+%gra:	1|0|ROOT 2|1|JCT 3|5|QUANT 4|5|QUANT 5|2|POBJ 6|7|LINK 7|5|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	my friend Mike . 186904_188134
+%mor:	det:poss|my n|friend n:prop|Mike .
+%gra:	1|2|DET 2|0|INCROOT 3|2|APP 4|2|PUNCT
+*INV:	does that begin with an s@l ? 188134_190212
+%mor:	mod|do&3S adv|that v|begin prep|with det:art|a n:let|s ?
+%gra:	1|3|AUX 2|3|JCT 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	well ‡ I guess &uh yeah [/] yeah Mike did . [+ exc] 190212_192662
+%mor:	co|well beg|beg pro:sub|I v|guess co|yeah n:prop|Mike v|do&PAST .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|COM 6|7|SUBJ 7|4|COMP 8|4|PUNCT
+*PAR:	xxx . [+ exc] 192662_194368
+*INV:	+< what's [/] what's the first letter of the name Mike ? 193817_196701
+%mor:	pro:int|what~cop|be&3S det:art|the adj|first n|letter prep|of
+	det:art|the n|name n:prop|Mike ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|5|APP 10|2|PUNCT
+*PAR:	Mike [/] Mike is rather common . [+ exc] 196701_199397
+%mor:	n:prop|Mike cop|be&3S adv|rather adj|common .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*INV:	mhm ‡ okey_doke(y) . 199397_201261
+%mor:	co|mhm=yes beg|beg co|okey_dokey .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

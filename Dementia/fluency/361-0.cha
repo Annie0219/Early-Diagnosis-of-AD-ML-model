@@ -1,0 +1,123 @@
+@UTF8
+@PID:	11312/t-00016189-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|female|PossibleAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	361-0, audio
+@G:	animals
+*INV:	and you can start now . 0_2310
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	xxx . [+ exc] 2310_6722
+*PAR:	a cat . 6722_8918
+%mor:	det:art|a n|cat .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	dogs . 8918_9696
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh lions . 9696_14023
+%mor:	n|lion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tigers . 14023_14676
+%mor:	n|tiger-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephants . 14676_16108
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rɑɪnɑsɚɪdʒ@u [: rhinoceros] [* p:n] . 16108_19595
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &uh did I say camel@q ? [+ exc] 19595_24357
+%mor:	mod|do&PAST pro:sub|I v|say meta|camel ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	just go ahead keep going . 24357_26692
+%mor:	adv|just v|go adv|ahead v|keep part|go-PRESP .
+%gra:	1|2|JCT 2|0|ROOT 3|2|JCT 4|2|ENUM 5|4|COMP 6|2|PUNCT
+*PAR:	camel . 26692_27533
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (...) pig . 27533_37851
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 37851_38505
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) dog . 38505_42739
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 42739_43228
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lions . 43228_47438
+%mor:	n|lion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tigers . 47438_48247
+%mor:	n|tiger-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephants . 48247_49260
+%mor:	n|elephant-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rɑɪnɑsɚɪdʒ@u [: rhinoceros] [* p:n] . 49260_51547
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) camel . 51547_57134
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< okay ‡ good . 57134_61586
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	okay ‡ now I'm gonna change the direction . 61586_64839
+%mor:	co|okay beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|change det:art|the n|direction .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|6|PUNCT
+*INV:	you can begin now . 64839_66768
+%mor:	pro:per|you mod|can v|begin adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&uh &uh &uh +... 66768_71671
+*INV:	take your time . 71671_73087
+%mor:	v|take det:poss|your n|time .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*PAR:	I get so nervous I can't think . [+ exc] 73087_75296
+%mor:	pro:sub|I v|get adv|so adj|nervous pro:sub|I mod|can~neg|not
+	v|think .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|8|SUBJ 6|8|AUX 7|6|NEG 8|4|CMOD
+	9|2|PUNCT
+*PAR:	with f@l . [+ exc] 75296_77258
+%mor:	prep|with n:let|f .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	oh ‡ fat . 77258_80634
+%mor:	co|oh beg|beg n|fat .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	okay . 80634_82767
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	feed . 82767_85102
+%mor:	n|feed .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) farm . 85102_89553
+%mor:	n|farm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &uh (..) farm [//] fan . 89553_101117
+%mor:	n|fan .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &uh &uh +... 101117_113000
+*PAR:	&uh I'm nervous . [+ exc] 113000_115090
+%mor:	pro:sub|I~cop|be&1S adj|nervous .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	I &c +... [+ exc] 115090_115789
+%mor:	pro:sub|I +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you're doing fine ! 115789_117053
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adv|fine !
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&uh &uh (..) a flood . 117055_125134
+%mor:	det:art|a n|flood .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	+< okay ‡ good ! 125134_125989
+%mor:	co|okay beg|beg adj|good !
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

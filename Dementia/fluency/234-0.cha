@@ -1,0 +1,188 @@
+@UTF8
+@PID:	11312/t-00016143-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|66;|male|Vascular||Participant|16||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	234-0, audio
+@G:	animals
+*INV:	yep ‡ off you go . 0_1121
+%mor:	co|yep beg|beg prep|off pro:per|you v|go .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	&=clears:throat now you [/] &w you don't want anything [/] anything
+	like the animals like cows or anything like that . [+ exc] 1121_8784
+%mor:	adv|now pro:per|you mod|do~neg|not v|want pro:indef|anything
+	prep|like det:art|the n|animal-PL prep|like n|cow-PL coord|or
+	pro:indef|anything prep|like pro:dem|that .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|5|CONJ 13|12|COORD 14|13|NJCT 15|14|POBJ
+	16|5|PUNCT
+*INV:	+< yeah ‡ any animals at all . 8048_10102
+%mor:	co|yeah beg|beg qn|any n|animal-PL prep|at pro:indef|all .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*PAR:	+< anything at all „ huh ? 9099_10319
+%mor:	pro:indef|anything prep|at pro:indef|all end|end co|huh ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|5|ENDP 5|1|END 6|1|PUNCT
+*PAR:	&=coughs rhinoceros . 10319_12278
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a camel . 12278_13401
+%mor:	det:art|a n|camel .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	pig . 13401_15377
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hog . 15377_16000
+%mor:	n|hog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 16000_16560
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 16560_17851
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 17851_18786
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &hm hog . 18786_24685
+%mor:	n|hog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	guinea pig . 24685_26569
+%mor:	n|guinea n|pig .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&=clears:throat Republican &=laughs . [+ exc] 26569_31114
+%mor:	n:prop|Republican .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ let's see what else . [+ exc] 31114_32500
+%mor:	co|oh beg|beg v|let~pro:obj|us v|see pro:int|what post|else .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|5|OBJ 7|6|PQ 8|3|PUNCT
+*PAR:	&uh &um did I say just straight cow@q ? [+ exc] 32500_36624
+%mor:	mod|do&PAST pro:sub|I v|say adj|just adj|straight meta|cow ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|MOD 5|6|MOD 6|3|JCT 7|3|PUNCT
+*PAR:	I think I did „ didn't I ? [+ exc] 36624_37744
+%mor:	pro:sub|I v|think pro:sub|I v|do&PAST end|end mod|do&PAST~neg|not
+	pro:sub|I ?
+%gra:	1|2|SUBJ 2|4|LINK 3|4|SUBJ 4|0|ROOT 5|8|ENDP 6|8|AUX 7|6|NEG 8|4|END
+	9|4|PUNCT
+*PAR:	and I [/] &s I said horse@q „ didn't I ? [+ exc] 37744_39628
+%mor:	coord|and pro:sub|I v|say&PAST meta|horse end|end
+	mod|do&PAST~neg|not pro:sub|I ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|ENDP 6|8|AUX 7|6|NEG 8|3|END
+	9|3|PUNCT
+*INV:	okay ‡ carry on . 39628_41263
+%mor:	co|okay beg|beg v|carry adv|on .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&hm hog . 41479_46158
+%mor:	n|hog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	goat . 46158_49042
+%mor:	n|goat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	camel . 49042_49976
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 49976_51595
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rhinoceros . 51595_53228
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um and I might throw another Republican in there . [+ exc] 53228_58394
+%mor:	coord|and pro:sub|I mod|might v|throw qn|another n:prop|Republican
+	prep|in n|there .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|JCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	that'll +... [+ exc] 58394_59857
+%mor:	pro:rel|that~mod|will +...
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	see what else . [+ exc] 59857_60661
+%mor:	v|see pro:int|what post|else .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|PQ 4|1|PUNCT
+*PAR:	&uh +... 60661_62474
+*INV:	okay ‡ hold it there . 62474_64046
+%mor:	co|okay beg|beg n|hold pro:per|it adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|OBJ 5|4|JCT 6|3|PUNCT
+@G:	F
+*INV:	off you go . 64046_65137
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	food . 65072_66457
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frank . 66457_68232
+%mor:	adj|frank .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fee . 68232_70114
+%mor:	n|fee .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	find . 70114_72154
+%mor:	v|find .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	foreclose . 72154_74971
+%mor:	v|foreclose .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&um (.) not the name Ferdinand . [+ exc] 74971_81601
+%mor:	neg|not det:art|the n|name n:prop|Ferdinand .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|APP 5|3|PUNCT
+*PAR:	you don't want no names . [+ exc] 81401_82785
+%mor:	pro:per|you mod|do~neg|not v|want qn|no n|name-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|QUANT 6|4|OBJ 7|4|PUNCT
+*PAR:	&uh &hm fox . 82785_87718
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's tougher than what I thought it was . [+ exc] 87717_93356
+%mor:	pro:dem|that~cop|be&3S adj|tough-CP prep|than pro:int|what
+	pro:sub|I v|think&PAST pro:per|it cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|JCT 5|7|LINK 6|7|SUBJ 7|4|CPOBJ 8|9|SUBJ
+	9|7|COMP 10|2|PUNCT
+*PAR:	I thought I could name more than that f@l . [+ exc] 93356_95724
+%mor:	pro:sub|I v|think&PAST pro:sub|I mod|could v|name qn|more prep|than
+	det:dem|that n:let|f .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|5|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	&uh xxx f@l . [+ exc] 95724_102539
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know . [+ exc] 102539_107508
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	I don't wanna think too hard . [+ exc] 107508_108925
+%mor:	pro:sub|I mod|do~neg|not v|want~inf|to v|think adv|too adj|hard .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|8|JCT 8|6|JCT
+	9|4|PUNCT
+*PAR:	I might get a headache . [+ exc] 108925_110121
+%mor:	pro:sub|I mod|might v|get det:art|a n|+n|head+n|ache .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	&=laughs carry on . 110121_112111
+%mor:	v|carry adv|on .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	there's [/] there's time yet . 112111_113831
+%mor:	pro:exist|there~cop|be&3S n|time adv|yet .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|3|NJCT 5|2|PUNCT
+*INV:	any words beginning with f@l . 113831_116493
+%mor:	qn|any n|word-PL n|beginning prep|with n:let|f .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*PAR:	<any word beginning> [/] any word beginning with f@l . [+ exc] 116493_119777
+%mor:	qn|any n|word n|beginning prep|with n:let|f .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*PAR:	it don't hafta be an animal . [+ exc] 119777_121349
+%mor:	pro:per|it mod|do~neg|not mod|have~inf|to cop|be det:art|a n|animal
+	.
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*INV:	no [/] no ‡ any word at all beginning with f@l . 121349_123652
+%mor:	co|no beg|beg qn|any n|word prep|at qn|all n|beginning prep|with
+	n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|0|INCROOT 5|4|NJCT 6|7|QUANT 7|5|POBJ
+	8|4|NJCT 9|8|POBJ 10|4|PUNCT
+*PAR:	find . 123652_124570
+%mor:	v|find .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	feel . 124570_125817
+%mor:	v|feel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	foreclose . 125817_127933
+%mor:	v|foreclose .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

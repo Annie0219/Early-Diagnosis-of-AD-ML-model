@@ -1,0 +1,104 @@
+@UTF8
+@PID:	11312/t-00016281-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|56;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	049-0, audio
+@G:	George_Unknown
+*INV:	tell me anything that you can remember about the story . 0_3191
+%mor:	v|tell pro:obj|me pro:indef|anything pro:rel|that pro:per|you
+	mod|can v|remember prep|about det:art|the n|story .
+%gra:	1|0|ROOT 2|1|OBJ2 3|1|OBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	&hm (..) I hafta think of the names . [+ exc] 3191_8233
+%mor:	pro:sub|I mod|have~inf|to v|think prep|of det:art|the n|name-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	okay . 8233_9993
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um and then the man was takin(g) the little girl (.) through the
+	city to show it to her . 9993_16238
+%mor:	coord|and adv:tem|then det:art|the n|man aux|be&PAST&13S
+	part|take-PRESP det:art|the adj|little n|girl prep|through
+	det:art|the n|city inf|to v|show pro:per|it prep|to pro:obj|her .
+%gra:	1|6|LINK 2|6|JCT 3|4|DET 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|JCT 11|12|DET 12|10|POBJ 13|14|INF 14|6|XJCT 15|14|OBJ
+	16|14|JCT 17|16|POBJ 18|6|PUNCT
+*INV:	mhm . 16238_17086
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um the little girl wasn't xxx &uh because it was a strange place .
+	17086_27900
+%mor:	det:art|the adj|little n|girl cop|be&PAST&13S~neg|not conj|because
+	pro:per|it cop|be&PAST&13S det:art|a adj|strange n|place .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|8|LINK 7|8|SUBJ 8|4|CJCT
+	9|11|DET 10|11|MOD 11|8|PRED 12|4|PUNCT
+*PAR:	she wasn't too happy being there . 27900_30567
+%mor:	pro:sub|she cop|be&PAST&13S~neg|not adv|too adj|happy n|being
+	adv|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|6|MOD 6|2|PRED 7|2|JCT 8|2|PUNCT
+*PAR:	am I sposta read this back exactly like you want me to ? [+ exc] 30567_34812
+%mor:	aux|be&1S pro:sub|I part|suppose-PASTP~inf|to v|read&ZERO
+	pro:dem|this v|back adv|exact&dadj-LY v|like pro:per|you v|want
+	pro:obj|me prep|to ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|JCT
+	9|7|COMP 10|11|SUBJ 11|9|COMP 12|11|OBJ 13|11|JCT 14|3|PUNCT
+*INV:	no ‡ I only want you to try to remember things just like this +/. 34812_38039
+%mor:	co|no beg|beg pro:sub|I adv|only v|want pro:per|you inf|to v|try
+	inf|to v|remember n|thing-PL adj|just prep|like pro:dem|this +/.
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|8|SUBJ 7|8|INF 8|5|COMP
+	9|10|INF 10|8|COMP 11|10|OBJ 12|11|POSTMOD 13|12|JCT 14|13|POBJ 15|5|PUNCT
+*PAR:	+< oh . [+ exc] 37454_38499
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	they were walking around . 38499_40505
+%mor:	pro:sub|they aux|be&PAST part|walk-PRESP adv|around .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	and (.) she wanted to go home . 40505_43829
+%mor:	coord|and pro:sub|she v|want-PAST inf|to v|go adv|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|3|PUNCT
+*PAR:	or wherever her home was where she was . 43829_46569
+%mor:	coord|or pro:rel|wherever det:poss|her n|home cop|be&PAST&13S
+	pro:int|where pro:sub|she cop|be&PAST&13S .
+%gra:	1|5|LINK 2|5|LINK 3|4|DET 4|5|SUBJ 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|PRED
+	9|5|PUNCT
+*INV:	+< mhm . 46069_48266
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's all I can xxx outside . [+ exc] 48266_53916
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I mod|can adv|outside
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|NJCT 7|2|PUNCT
+*INV:	yeah ‡ it's a nuisance . 53916_55660
+%mor:	co|yeah beg|beg pro:per|it~cop|be&3S det:art|a n|nuisance .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	(.) I don't have her name . [+ exc] 55660_62975
+%mor:	pro:sub|I mod|do~neg|not v|have det:poss|her n|name .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	&=laughs I can't &re +... [+ exc] 62975_65185
+%mor:	pro:sub|I mod|can~neg|not +...
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	I know she wasn't pleased with where she was . 65185_68111
+%mor:	pro:sub|I v|know pro:sub|she aux|be&PAST&13S~neg|not
+	part|please-PASTP prep|with pro:int|where pro:sub|she
+	cop|be&PAST&13S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|6|JCT 8|10|LINK
+	9|10|SUBJ 10|7|CPOBJ 11|2|PUNCT
+*PAR:	(..) and finally the person did take her away from (.) that
+	immediate area . 68111_76159
+%mor:	coord|and adv|final&dadj-LY det:art|the n|person v|do&PAST v|take
+	pro:obj|her adv|away prep|from det:dem|that adj|immediate n|area .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|COMP 7|6|OBJ 8|6|JCT
+	9|6|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|5|PUNCT
+*INV:	okay . 76159_76766
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) that's fine . 76766_82508
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay ‡ thank_you . 82508_84219
+%mor:	co|okay beg|beg co|thank_you .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

@@ -1,0 +1,151 @@
+@Font:	CAfont:13:0
+@UTF8
+@PID:	11312/t-00016660-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	369-0, audio
+*INV:	pencil@q . 0_2350
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	gimme a sentence using the word pencil@q . 2350_6181
+%mor:	v|give~pro:obj|me det:art|a n|sentence part|use-PRESP det:art|the
+	n|word meta|pencil .
+%gra:	1|0|ROOT 2|1|OBJ2 3|4|DET 4|1|OBJ 5|1|XJCT 6|7|DET 7|5|OBJ 8|5|ENUM
+	9|1|PUNCT
+*PAR:	&um (.) if I had a pencil I would write a letter &=laughs . 6181_19596
+%mor:	conj|if pro:sub|I v|have&PAST det:art|a n|pencil pro:sub|I
+	mod|will&COND v|write det:art|a n|letter .
+%gra:	1|3|LINK 2|3|SUBJ 3|8|CJCT 4|5|DET 5|3|OBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|10|DET 10|8|OBJ 11|8|PUNCT
+*INV:	tree@q . 19596_22304
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) oh ‡ the tree is beautiful . 22304_32092
+%mor:	co|oh beg|beg det:art|the n|tree cop|be&3S adj|beautiful .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*INV:	now I'm gonna give you two words . 31937_38000
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|two n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	don't worry about the order that I give them to you in . 38000_40623
+%mor:	mod|do~neg|not v|worry prep|about det:art|the n|order pro:rel|that
+	pro:sub|I v|give pro:obj|them prep|to pro:per|you adv|in .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ 11|9|JCT 12|11|POBJ 13|12|JCT 14|3|PUNCT
+*INV:	just use both of them in one short simple sentence . 40623_43891
+%mor:	adj|just v|use qn|both prep|of pro:obj|them prep|in det:num|one
+	adj|short adj|simple n|sentence .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|JCT 7|10|QUANT 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|2|PUNCT
+*INV:	child@q hospital@q . 43891_46551
+%mor:	meta|child meta|hospital .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	I [/] I would like to visit a child's hospital to &uh (...) maybe
+	it would make them happy . 46551_85647
+%mor:	pro:sub|I mod|will&COND v|like inf|to v|visit det:art|a
+	adj|child&dn-POSS n|hospital inf|to adv|maybe pro:per|it
+	mod|will&COND v|make pro:obj|them adj|happy .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|8|DET 7|8|MOD 8|13|SUBJ
+	9|10|INF 10|13|JCT 11|13|SUBJ 12|13|AUX 13|5|COMP 14|13|OBJ 15|13|JCT
+	16|3|PUNCT
+*INV:	okay +/. 85647_87777
+%mor:	co|okay +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< I would visit a children's hospital . [+ exc] 87076_90984
+%mor:	pro:sub|I mod|will&COND v|visit det:art|a adj|child&PL&dn-POSS
+	n|hospital .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*INV:	cold@q winter@q . 90984_97116
+%mor:	meta|cold meta|winter .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*INV:	short simple sentence using the word cold@q and the word winter@q .
+	97116_102437
+%mor:	adj|short adj|simple n|sentence part|use-PRESP det:art|the n|word
+	meta|cold coord|and det:art|the n|word meta|winter .
+%gra:	1|3|MOD 2|3|MOD 3|0|INCROOT 4|3|XMOD 5|6|DET 6|4|OBJ 7|4|JCT 8|7|CONJ
+	9|10|DET 10|11|SUBJ 11|8|COORD 12|3|PUNCT
+*PAR:	&um (...) do you think that we might have a very cold winter as [/]
+	as other times ? 102437_132094
+%mor:	mod|do pro:per|you v|think comp|that pro:sub|we mod|might v|have
+	det:art|a adv|very adj|cold n|winter conj|as qn|other n|time-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|11|DET
+	9|10|JCT 10|11|MOD 11|7|OBJ 12|14|COORD 13|14|QUANT 14|11|ENUM 15|3|PUNCT
+*PAR:	I +/. [+ exc] 132094_133721
+%mor:	pro:sub|I +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< okay . 132194_133721
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now I'm gonna give you three words . 133721_138827
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|three n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	again, don't worry about the order that I give them to you in . 138827_141816
+%mor:	adv|again cm|cm mod|do~neg|not v|worry prep|about det:art|the
+	n|order pro:rel|that pro:sub|I v|give pro:obj|them prep|to
+	pro:per|you adv|in .
+%gra:	1|5|JCT 2|1|LP 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|11|OBJ 13|11|JCT 14|13|POBJ 15|14|JCT
+	16|5|PUNCT
+*INV:	just use all three of them in one short simple sentence . 141816_145427
+%mor:	adj|just n|use adv|all det:num|three prep|of pro:obj|them prep|in
+	det:num|one adj|short adj|simple n|sentence .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|JCT 4|2|XMOD 5|4|JCT 6|5|POBJ 7|4|JCT
+	8|11|QUANT 9|11|MOD 10|11|MOD 11|7|POBJ 12|2|PUNCT
+*INV:	chair@q doctor@q sit@q . 145427_149019
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	(.) I [/] I think that the doctor should be sitting instead of &uh
+	standing for patients . 149019_175121
+%mor:	pro:sub|I v|think comp|that det:art|the n|doctor mod|should aux|be
+	part|sit-PRESP adv|instead prep|of part|stand-PRESP prep|for
+	n|patient-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|8|LINK 4|5|DET 5|8|SUBJ 6|8|AUX 7|8|AUX 8|2|COMP
+	9|8|JCT 10|8|JCT 11|10|POBJ 12|11|JCT 13|12|POBJ 14|2|PUNCT
+*PAR:	I [/] I +/. [+ exc] 175121_179713
+%mor:	pro:sub|I +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< okay ‡ that's fine you only needta give me one sentence . 178512_182002
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine pro:per|you
+	adv|only v|need~inf|to v|give pro:obj|me det:num|one n|sentence .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|8|SUBJ 7|8|JCT 8|4|CPRED
+	9|10|INF 10|8|COMP 11|10|OBJ 12|13|QUANT 13|10|OBJ 14|4|PUNCT
+*INV:	how_(a)bout this [//] these words ? 182002_184133
+%mor:	pro:int|how_about det:dem|these n|word-PL ?
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	bureau@q open@q drawer@q . 184133_187246
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*INV:	can you give me one short simple sentence ? 187246_190795
+%mor:	mod|can pro:per|you v|give pro:obj|me pro:indef|one adj|short
+	adj|simple n|sentence ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|8|MOD 6|8|MOD 7|8|MOD 8|3|JCT
+	9|3|PUNCT
+*PAR:	&um (..) &um the lady come in and (.) opened the doctor's drawer,
+	which was not a very pleasant thing to do . 190795_223261
+%mor:	det:art|the n|lady v|come adv|in coord|and v|open-PAST det:art|the
+	adj|doctor&dn-POSS n|drawer cm|cm pro:rel|which cop|be&PAST&13S
+	neg|not det:art|a adv|very adj|pleasant n|thing inf|to v|do .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|5|COORD 7|9|DET 8|9|MOD
+	9|6|OBJ 10|9|LP 11|12|LINK 12|9|CMOD 13|12|NEG 14|17|DET 15|16|JCT
+	16|17|MOD 17|12|PRED 18|19|INF 19|17|XMOD 20|3|PUNCT
+*INV:	okay . 223261_225053
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's fine +/. 225053_227153
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine +/.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	+< oh . [+ exc] 226652_228197
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you only needta give me one sentence . 228197_235401
+%mor:	pro:per|you adv|only v|need~inf|to v|give pro:obj|me det:num|one
+	n|sentence .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|8|QUANT 8|5|OBJ
+	9|3|PUNCT
+@End

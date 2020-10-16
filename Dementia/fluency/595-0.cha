@@ -1,0 +1,75 @@
+@UTF8
+@PID:	11312/t-00016219-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|male|ProbableAD||Participant|16||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	595-0, audio
+@G:	animals
+*INV:	begin now . 0_2165
+%mor:	v|begin adv|now .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	animals . [+ exc] 2165_3597
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a horse . 3597_4156
+%mor:	det:art|a n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a cow . 4156_4670
+%mor:	det:art|a n|cow .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a sheep . 4670_5276
+%mor:	det:art|a n|sheep .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) a deer . 5276_8405
+%mor:	det:art|a n|deer .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a rabbit . 8405_9480
+%mor:	det:art|a n|rabbit .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a dog . 9480_13090
+%mor:	det:art|a n|dog .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a cat . 13090_13432
+%mor:	det:art|a n|cat .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	a mouse . 13432_14754
+%mor:	det:art|a n|mouse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) a horse . 14754_22303
+%mor:	det:art|a n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	I guess I used that „ didn't I ? [+ exc] 22303_23563
+%mor:	pro:sub|I v|guess pro:sub|I v|use-PAST pro:dem|that end|end
+	mod|do&PAST~neg|not pro:sub|I ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|OBJ 6|9|ENDP 7|9|AUX 8|7|NEG
+	9|2|END 10|2|PUNCT
+*PAR:	(..) elephant . 23563_32778
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 32778_34350
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	leopard . 34350_36076
+%mor:	n|leopard .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) a pony . 36076_44200
+%mor:	det:art|a n|pony .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	(...) you got five more seconds anything else you can think of . 44200_57835
+%mor:	pro:per|you v|get&PAST det:num|five adv|more n|second-PL
+	pro:indef|anything post|else pro:per|you mod|can v|think prep|of .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|4|POBJ 6|5|OBJ 7|6|PQ 8|10|SUBJ
+	9|10|AUX 10|6|CMOD 11|10|JCT 12|2|PUNCT
+*PAR:	reindeer . 57835_60449
+%mor:	n|reindeer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I said a sheep@q „ I think . [+ exc] 60449_63500
+%mor:	pro:sub|I v|say&PAST det:art|a meta|sheep end|end pro:sub|I v|think
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|7|ENDP 6|7|SUBJ 7|2|END 8|2|PUNCT
+*INV:	okay ‡ good . 63500_64153
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

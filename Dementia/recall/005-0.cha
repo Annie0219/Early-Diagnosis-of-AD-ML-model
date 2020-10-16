@@ -1,0 +1,80 @@
+@UTF8
+@PID:	11312/t-00016252-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|53;|male|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	005-0, audio
+@G:	George_Immediate
+*INV:	can you tell me everything you can remember from the story . 0_3181
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|everything
+	pro:per|you mod|can v|remember prep|from det:art|the n|story .
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	well ‡ it appears is that George &uh was &uh +... 3181_10501
+%mor:	co|well beg|beg pro:per|it v|appear-3S cop|be&3S comp|that
+	n:prop|George cop|be&PAST&13S +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|COMP 6|8|LINK 7|8|SUBJ 8|4|COMP
+	9|4|PUNCT
+*PAR:	no ‡ I can't tell you anything . [+ exc] 10501_12317
+%mor:	co|no beg|beg pro:sub|I mod|can~neg|not v|tell pro:per|you
+	pro:indef|anything .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|OBJ
+	9|6|PUNCT
+*INV:	any names ? 12317_14797
+%mor:	qn|any n|name-PL ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	George . 14797_16144
+%mor:	n:prop|George .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm ‡ anything [//] any other names ? 16144_18164
+%mor:	co|mhm=yes beg|beg qn|any qn|other n|name-PL ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|QUANT 4|5|QUANT 5|0|INCROOT 6|5|PUNCT
+*PAR:	+< Melanie . 17644_18689
+%mor:	n:prop|Melanie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 18689_19269
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any other information at all that comes to mind ? 19269_23975
+%mor:	qn|any qn|other n|information prep|at qn|all pro:dem|that v|come-3S
+	prep|to n|mind ?
+%gra:	1|3|QUANT 2|3|QUANT 3|7|SUBJ 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|0|ROOT
+	8|7|JCT 9|8|POBJ 10|7|PUNCT
+*INV:	what [/] what were they doing ? 23975_25184
+%mor:	pro:int|what cop|be&PAST pro:sub|they part|do-PRESP ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|OM 5|2|PUNCT
+*PAR:	they went to the city . 25184_26959
+%mor:	pro:sub|they v|go&PAST prep|to det:art|the n|city .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	okay . 26959_27848
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything else at all ? 27848_35407
+%mor:	pro:indef|anything post|else prep|at pro:indef|all ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	(..) no . [+ exc] 35407_39759
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	think about it for a minute . 39759_47965
+%mor:	v|think prep|about pro:per|it prep|for det:art|a n|minute .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|JCT 5|6|DET 6|4|POBJ 7|1|PUNCT
+*INV:	see if anything springs to mind . 47965_49460
+%mor:	v|see conj|if pro:indef|anything v|spring-3S prep|to n|mind .
+%gra:	1|0|ROOT 2|4|LINK 3|4|SUBJ 4|1|COMP 5|4|JCT 6|5|POBJ 7|1|PUNCT
+*PAR:	(..) they went to see where he lived in the city . 49460_62459
+%mor:	pro:sub|they v|go&PAST inf|to v|see pro:int|where pro:sub|he
+	v|live-PAST prep|in det:art|the n|city .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|JCT
+	9|10|DET 10|8|POBJ 11|2|PUNCT
+*INV:	mhm . 62459_63121
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) that's all I can remember . [+ exc] 63121_76555
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I mod|can v|remember .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|SUBJ 5|6|AUX 6|3|CMOD 7|2|PUNCT
+*INV:	okay . 76555_77000
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

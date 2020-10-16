@@ -1,0 +1,245 @@
+@UTF8
+@PID:	11312/t-00016719-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|50;|male|Other||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	704-0, audio
+*INV:	tree@q in a sentence . 0_1892
+%mor:	meta|tree prep|in det:art|a n|sentence .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	tree@q ? [+ exc] 1892_2357
+%mor:	meta|tree ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (..) what is really <amazing me> [/] &=clears:throat amazing me
+	[//] to me when I drive along the country roads is how many trees
+	have fallen and they're just laying there and nobody's picking them
+	up . 2357_22268
+%mor:	pro:int|what aux|be&3S adv|real&dadj-LY part|amaze-PRESP prep|to
+	pro:obj|me conj|when pro:sub|I v|drive prep|along det:art|the
+	n|country n|road-PL cop|be&3S pro:int|how qn|many n|tree-PL v|have
+	part|fall&PASTP coord|and pro:sub|they~aux|be&PRES adv|just
+	part|lay-PRESP adv|there coord|and pro:indef|nobody~aux|be&3S
+	part|pick-PRESP pro:obj|them adv|up .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|5|POBJ 7|9|LINK 8|9|SUBJ
+	9|4|CJCT 10|9|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|9|JCT 15|18|LINK
+	16|17|QUANT 17|18|JCT 18|14|CPRED 19|18|COMP 20|24|LINK 21|24|SUBJ 22|24|AUX
+	23|24|JCT 24|19|CJCT 25|24|JCT 26|29|LINK 27|29|SUBJ 28|29|AUX
+	29|24|CJCT 30|29|OBJ 31|29|JCT 32|4|PUNCT
+*INV:	mhm . 21868_22240
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	it blows my mind . [+ exc] 22240_23545
+%mor:	pro:per|it v|blow-3S det:poss|my n|mind .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	do you have a fireplace ? 23545_25468
+%mor:	mod|do pro:per|you v|have det:art|a n|+n|fire+n|place ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	oh ‡ I do „ yeah . [+ exc] 25468_26536
+%mor:	co|oh beg|beg pro:sub|I v|do end|end co|yeah .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|ENDP 6|4|END 7|4|PUNCT
+*INV:	+< hm ‡ so ‡ you could use them . 26536_27941
+%mor:	co|hm beg|beg co|so beg|beg pro:per|you mod|could v|use
+	pro:obj|them .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*PAR:	+< mhm ‡ yes ‡ I can . 26841_29104
+%mor:	co|mhm=yes beg|beg co|yes beg|beg pro:sub|I mod|can .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	and I'm running out of fire wood right now &=laughs . [+ exc] 29104_33778
+%mor:	coord|and pro:sub|I~aux|be&1S part|run-PRESP adv|out prep|of n|fire
+	n|wood adv|right adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|JCT 7|8|MOD 8|6|POBJ
+	9|10|JCT 10|4|JCT 11|4|PUNCT
+*PAR:	that's what make me sick . [+ exc] 33778_34811
+%mor:	pro:dem|that~cop|be&3S pro:int|what v|make pro:obj|me adj|sick .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|CPRED 5|4|OBJ 6|4|JCT 7|2|PUNCT
+*INV:	mhm . 34811_35461
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	why doesn't somebody go get these logs and pick them up ? [+ exc] 35461_38407
+%mor:	pro:int|why mod|do&3S~neg|not pro:indef|somebody v|go v|get
+	det:dem|these n|log-PL coord|and v|pick pro:obj|them adv|up ?
+%gra:	1|5|LINK 2|5|AUX 3|2|NEG 4|5|SUBJ 5|6|SRL 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|CONJ 10|9|COORD 11|10|OBJ 12|10|JCT 13|6|PUNCT
+*INV:	right ‡ makes sense . 38407_40379
+%mor:	co|right beg|beg v|make-3S n|sense .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	+< whew, yeah . [+ exc] 39079_40495
+%mor:	co|whew cm|cm co|yeah .
+%gra:	1|0|INCROOT 2|1|LP 3|1|ENUM 4|1|PUNCT
+*PAR:	or [/] or [/] or use them themselves „ you_know . [+ exc] 40495_43340
+%mor:	coord|or v|use pro:obj|them pro:refl|themselves end|end co|you_know
+	.
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|OBJ 5|6|ENDP 6|2|END 7|2|PUNCT
+*PAR:	amazing . [+ exc] 43340_44452
+%mor:	part|amaze-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	alright ‡ I'm going to give you two words now and I still want you
+	to put these two words in a brief simple sentence . 44452_50759
+%mor:	co|alright beg|beg pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give
+	pro:per|you det:num|two n|word-PL adv|now coord|and pro:sub|I
+	adv|still v|want pro:per|you inf|to v|put&ZERO det:dem|these
+	det:num|two n|word-PL prep|in det:art|a adj|brief adj|simple
+	n|sentence .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|10|QUANT 10|7|OBJ 11|10|NJCT 12|15|LINK 13|15|SUBJ 14|15|JCT 15|11|CJCT
+	16|18|SUBJ 17|18|INF 18|15|COMP 19|21|DET 20|21|QUANT 21|18|OBJ 22|18|JCT
+	23|26|DET 24|26|MOD 25|26|MOD 26|22|POBJ 27|5|PUNCT
+*INV:	doesn't matter what order . 50759_52651
+%mor:	mod|do&3S~neg|not v|matter pro:int|what n|order .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*INV:	use the word child@q and hospital@q in a sentence . 52651_56761
+%mor:	v|use det:art|the n|word meta|child coord|and meta|hospital prep|in
+	det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	child@q and hospital@q . [+ exc] 56761_59756
+%mor:	meta|child coord|and meta|hospital .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	the amazing thing about hospitals and children is I hate to see the
+	little kids be in the hospitals . 59756_69741
+%mor:	det:art|the n:gerund|amaze-PRESP n|thing prep|about n|hospital-PL
+	coord|and n|child&PL cop|be&3S pro:sub|I v|hate inf|to v|see
+	det:art|the adj|little n|kid-PL cop|be prep|in det:art|the
+	n|hospital-PL .
+%gra:	1|3|DET 2|3|MOD 3|8|SUBJ 4|3|NJCT 5|4|POBJ 6|5|CONJ 7|6|COORD 8|0|ROOT
+	9|10|SUBJ 10|8|CPRED 11|12|INF 12|10|COMP 13|15|DET 14|15|MOD 15|16|SUBJ
+	16|12|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|8|PUNCT
+*PAR:	there was that little boy just yesterday . [+ exc] 69741_73050
+%mor:	pro:exist|there cop|be&PAST&13S det:dem|that adj|little n|boy
+	adv|just adv:tem|yesterday .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|JCT 7|5|NJCT 8|2|PUNCT
+*PAR:	he died . [+ exc] 73050_74629
+%mor:	pro:sub|he v|die-PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	he was a couple of weeks old, just about two weeks old . [+ exc] 74629_80678
+%mor:	pro:sub|he cop|be&PAST&13S det:art|a n|couple prep|of n|week-PL
+	adj|old cm|cm adv|just prep|about det:num|two n|week-PL adj|old .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|5|POBJ 7|4|POSTMOD 8|4|LP
+	9|4|NJCT 10|9|JCT 11|12|QUANT 12|10|POBJ 13|12|POSTMOD 14|2|PUNCT
+*INV:	yeah . 80678_81130
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<his heart> [//] the replacement they put in his heart . [+ exc] 81130_85063
+%mor:	det:art|the n|replacement pro:sub|they v|put&ZERO prep|in
+	det:poss|his n|heart .
+%gra:	1|2|DET 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|4|JCT 6|7|DET 7|5|POBJ
+	8|2|PUNCT
+*INV:	+< hm ‡ did he die ? 84063_85851
+%mor:	co|hm beg|beg mod|do&PAST pro:sub|he v|die ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	+< it [//] yeah ‡ it didn't take . [+ exc] 85051_86633
+%mor:	co|yeah beg|beg pro:per|it mod|do&PAST~neg|not v|take .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*INV:	+< I didn't know that . 85851_86700
+%mor:	pro:sub|I mod|do&PAST~neg|not v|know pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	it didn't take . [+ exc] 86633_87291
+%mor:	pro:per|it mod|do&PAST~neg|not v|take .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	so ‡ the poor kid died . [+ exc] 87291_89265
+%mor:	co|so beg|beg det:art|the adj|poor n|kid v|die-PAST .
+%gra:	1|0|BEG 2|1|BEGP 3|5|DET 4|5|MOD 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*INV:	+< oh . 87654_88153
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	hm . 89265_89892
+%mor:	co|hm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's so sad . [+ exc] 89792_91405
+%mor:	pro:dem|that~cop|be&3S adv|so adj|sad .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|PUNCT
+*PAR:	oh_my . [+ exc] 91405_92636
+%mor:	co|oh_my .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	alright ‡ put these two words in a sentence for me . 92636_95668
+%mor:	co|alright beg|beg part|put&PASTP det:dem|these det:num|two
+	n|word-PL prep|in det:art|a n|sentence prep|for pro:obj|me .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|6|DET 5|6|QUANT 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|JCT 11|10|POBJ 12|3|PUNCT
+*INV:	put the word cold@q and winter@q in a sentence . 95668_99451
+%mor:	v|put&ZERO det:art|the n|word meta|cold coord|and meta|winter
+	prep|in det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|POSTMOD 5|1|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	cold@q and winter@q should be in the same sentence &=laughs .
+	[+ exc] 99451_106382
+%mor:	meta|cold coord|and meta|winter mod|should cop|be prep|in
+	det:art|the adj|same n|sentence .
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CJCT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|1|PUNCT
+*INV:	well ‡ you can make up a sentence using them both . 106382_108301
+%mor:	co|well beg|beg pro:per|you mod|can v|make adv|up det:art|a
+	n|sentence part|use-PRESP pro:obj|them post|both .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|XJCT 10|9|OBJ 11|10|PQ 12|5|PUNCT
+*PAR:	okay . [+ exc] 108301_109285
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I hate the coldness that goes &=laughs along with winter . 109285_115417
+%mor:	pro:sub|I v|hate det:art|the n|cold&dadj-NESS pro:rel|that v|go-3S
+	adv|along prep|with n|winter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|6|LINK 6|4|CMOD 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|2|PUNCT
+*PAR:	oh_my ‡ do I hate it &=laughs . [+ exc] 115417_119060
+%mor:	co|oh_my beg|beg mod|do pro:sub|I v|hate pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*INV:	I'll give you three words now and still put them in a brief
+	sentence . 119060_126369
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:num|three n|word-PL
+	adv|now coord|and adv|still v|put&ZERO pro:obj|them prep|in
+	det:art|a adj|brief n|sentence .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|6|QUANT 6|4|ENUM 7|6|NJCT 8|3|CONJ
+	9|10|JCT 10|8|COORD 11|10|OBJ 12|10|JCT 13|15|DET 14|15|MOD 15|12|POBJ
+	16|3|PUNCT
+*INV:	here are the three words chair@q doctor@q and sit@q . 126369_130984
+%mor:	adv|here cop|be&PRES det:art|the det:num|three n|word-PL meta|chair
+	meta|doctor coord|and meta|sit .
+%gra:	1|2|JCT 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|PRED 6|5|CONJ 7|6|COORD 8|7|CONJ
+	9|8|COORD 10|2|PUNCT
+*PAR:	chair@q doctor@q and sit@q . [+ exc] 130984_135001
+%mor:	meta|chair meta|doctor coord|and meta|sit .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*INV:	put those in a sentence . 135001_138101
+%mor:	v|put&ZERO pro:dem|those prep|in det:art|a n|sentence .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	(.) I hate to sit in a doctor's office &=laughs . 138101_152018
+%mor:	pro:sub|I v|hate inf|to v|sit prep|in det:art|a adj|doctor&dn-POSS
+	n|office .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*PAR:	do you agree ? [+ exc] 152018_153554
+%mor:	mod|do pro:per|you v|agree ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*INV:	yes ‡ I do . 153554_154552
+%mor:	co|yes beg|beg pro:sub|I v|do .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	&=laughs . [+ exc] 154552_155690
+*INV:	how_about these three words put these three words in a sentence ? 155690_159335
+%mor:	pro:int|how_about det:dem|these det:num|three n|word-PL
+	part|put&PASTP det:dem|these det:num|three n|word-PL prep|in
+	det:art|a n|sentence ?
+%gra:	1|5|LINK 2|4|DET 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|QUANT 8|5|JCT
+	9|5|JCT 10|11|DET 11|9|POBJ 12|5|PUNCT
+*INV:	bureau@q open@q and drawer@q . 159335_162424
+%mor:	meta|bureau meta|open coord|and meta|drawer .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	bureau@q open@q and drawer@q . [+ exc] 162424_166882
+%mor:	meta|bureau meta|open coord|and meta|drawer .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	well ‡ (.) in a bedroom you need a bureau and you need a drawer
+	because that's where you have your underwear . 166882_180000
+%mor:	co|well beg|beg prep|in det:art|a n|+n|bed+n|room pro:per|you
+	v|need det:art|a n|bureau coord|and pro:per|you v|need det:art|a
+	n|drawer conj|because pro:rel|that~cop|be&3S pro:rel|where
+	pro:per|you v|have det:poss|your n|underwear .
+%gra:	1|0|BEG 2|1|BEGP 3|7|JCT 4|5|DET 5|3|POBJ 6|7|SUBJ 7|0|ROOT 8|9|DET
+	9|7|OBJ 10|12|LINK 11|12|SUBJ 12|7|CJCT 13|14|DET 14|12|OBJ 15|12|JCT
+	16|17|LINK 17|15|CMOD 18|20|LINK 19|20|SUBJ 20|17|CMOD 21|22|DET 22|20|OBJ
+	23|7|PUNCT
+*INV:	okay . 180000_181058
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

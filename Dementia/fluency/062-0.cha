@@ -1,0 +1,129 @@
+@UTF8
+@PID:	11312/t-00016074-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|68;|male|MCI||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	062-0, audio
+@G:	animals
+*PAR:	that's what I am . [+ exc] 0_2500
+%mor:	pro:dem|that~cop|be&3S pro:int|what pro:sub|I cop|be&1S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+*INV:	okay ‡ well here you go . 2500_5053
+%mor:	co|okay beg|beg co|well adv|here pro:per|you v|go .
+%gra:	1|0|BEG 2|1|BEGP 3|6|COM 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|6|PUNCT
+*PAR:	lion . 5053_5972
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 5972_7950
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 7950_10219
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	giraffe . 10219_11963
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	monkey . 11963_13908
+%mor:	n|monkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ape . 13908_15948
+%mor:	n|ape .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	camel . 15948_18266
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh pig . 18266_24101
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 24101_27308
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 27308_29706
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) llama . 29706_35683
+%mor:	n|llama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peccary . 35683_38953
+%mor:	n|peccary .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) isn't that an awful ? [+ exc] 38953_49844
+%mor:	cop|be&3S~neg|not adv|that det:art|a adj|awful ?
+%gra:	1|0|ROOT 2|1|NEG 3|5|JCT 4|5|DET 5|1|PRED 6|1|PUNCT
+*PAR:	walrus . 49844_53300
+%mor:	n|walrus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	seal . 53300_55945
+%mor:	n|seal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) buffalo . 55945_64457
+%mor:	n|buffalo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 64457_66621
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*PAR:	(..) f@l . [+ exc] 68091_70350
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< words beginning with f@l . 70350_71887
+%mor:	n|word-PL n|beginning prep|with n:let|f .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*INV:	go . 71887_72200
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	flume . 72200_72762
+%mor:	n|flume .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	found . 72762_74768
+%mor:	part|find&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frankincense . 74768_77352
+%mor:	n|frankincense .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um finance . 77352_81866
+%mor:	n|finance .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &webs [/] Webster's dictionary has a thousand of them .
+	[+ exc] 81866_92105
+%mor:	adj|Webster&dn-POSS n|dictionary v|have&3S det:art|a
+	det:num|thousand prep|of pro:obj|them .
+%gra:	1|2|MOD 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|6|POBJ 8|3|PUNCT
+*PAR:	(..) finger . 92105_95404
+%mor:	n|finger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) oh_boy . [+ exc] 95404_100524
+%mor:	co|oh_boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	funnel . 100524_102796
+%mor:	n|funnel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) fandango dance . 102796_113952
+%mor:	n|fandango n|dance .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	&=laughs . 113952_114778
+*PAR:	(..) fellow . 114778_118172
+%mor:	adj|fellow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) flower . 118172_122639
+%mor:	n|flower .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I have flower@q down there yet ? [+ exc] 122639_124942
+%mor:	mod|do&PAST pro:sub|I v|have meta|flower prep|down n|there adv|yet
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|JCT 8|3|PUNCT
+*INV:	no . 124942_125518
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	finger bowl . 125518_127681
+%mor:	n|finger n|bowl .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	(...) that's it . 127681_133905
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay . 133905_135121
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

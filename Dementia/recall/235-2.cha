@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/t-00016364-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	235-2, audio
+@G:	George_Immediate
+*INV:	tell me everything you can recall from that . 0_2203
+%mor:	v|tell pro:obj|me pro:indef|everything pro:per|you mod|can v|recall
+	prep|from pro:dem|that .
+%gra:	1|0|ROOT 2|1|OBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|1|COMP 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*PAR:	&=sighs (..) xxx &=laughs +... [+ exc] 2203_20000
+*INV:	pardon_me ? 20000_20786
+%mor:	co|pardon_me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) let's see . [+ exc] 20786_22694
+%mor:	v|let~pro:obj|us v|see .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|1|PUNCT
+*PAR:	(.) George and his little daughter Melody . 22694_29426
+%mor:	n:prop|George coord|and det:poss|his adj|little n|daughter
+	n:prop|Melody .
+%gra:	1|0|INCROOT 2|1|CONJ 3|5|DET 4|5|MOD 5|2|COORD 6|5|APP 7|1|PUNCT
+*INV:	that's right . 29426_31732
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	(..) &hm (.) <that there> [//] that disappear . [+ exc] 31732_41890
+%mor:	comp|that dis#v|appear .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	just take a moment . 41890_43700
+%mor:	adv|just v|take det:art|a n|moment .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	maybe something will come to you . 43700_45144
+%mor:	adv|maybe pro:indef|something mod|will v|come prep|to pro:per|you .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	(...) hmhm . [+ exc] 45144_60000
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no more ? 60000_60500
+%mor:	qn|no pro:indef|more ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	okay ‡ that's fine . 60500_61850
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	George_Delayed
+*INV:	(.) a while back Mister Lastname I read you a short story . 61850_67232
+%mor:	det:art|a n|while adj|back n:prop|Mister n:prop|Lastname pro:sub|I
+	v|read&ZERO pro:per|you det:art|a adj|short n|story .
+%gra:	1|2|DET 2|3|SUBJ 3|5|MOD 4|5|MOD 5|7|LINK 6|7|SUBJ 7|0|ROOT 8|7|OBJ2
+	9|11|DET 10|11|MOD 11|7|OBJ 12|7|PUNCT
+*INV:	&=laughs . 67232_69562
+*PAR:	&=laughs . [+ exc] 69562_70525
+*INV:	and right after I read you the story I had you tell me everything
+	you can recall from the story . 70525_75786
+%mor:	coord|and n|right conj|after pro:sub|I v|read&ZERO pro:per|you
+	det:art|the n|story pro:sub|I v|have&PAST pro:per|you v|tell
+	pro:obj|me pro:indef|everything pro:per|you mod|can v|recall
+	prep|from det:art|the n|story .
+%gra:	1|3|LINK 2|3|JCT 3|5|LINK 4|5|SUBJ 5|10|CJCT 6|5|OBJ2 7|8|DET 8|5|OBJ
+	9|10|SUBJ 10|0|ROOT 11|12|SUBJ 12|10|COMP 13|12|OBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|12|COMP 18|17|JCT 19|20|DET 20|18|POBJ 21|10|PUNCT
+*INV:	can you tell me anything from that story now ? 75786_79426
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything prep|from
+	det:dem|that n|story adv|now ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|3|JCT 10|3|PUNCT
+*PAR:	(..) I really don't believe so . [+ exc] 79426_86062
+%mor:	pro:sub|I adv|real&dadj-LY mod|do~neg|not v|believe co|so .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	(.) I remember but I (.) &=laughs +... [+ exc] 86062_88700
+%mor:	pro:sub|I v|remember conj|but pro:sub|I +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|CONJ 4|3|COORD 5|2|PUNCT
+*INV:	okay . 88640_89288
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Questions
+*INV:	let me ask you some questions about that story . 89288_93716
+%mor:	v|let&ZERO pro:obj|me v|ask pro:per|you qn|some n|question-PL
+	prep|about det:dem|that n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|OBJ2 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*INV:	maybe you'll be able to answer some of the questions . 93716_96512
+%mor:	adv|maybe pro:per|you~mod|will cop|be adj|able prep|to n|answer
+	qn|some prep|of det:art|the n|question-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PRED 6|5|JCT 7|6|POBJ 8|6|POBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|4|PUNCT
+*INV:	maybe it'll trigger something about the story . 96512_98699
+%mor:	adv|maybe pro:per|it~mod|will v|trigger pro:indef|something
+	prep|about det:art|the n|story .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*INV:	the first question is who is the story about ? 98699_102784
+%mor:	det:art|the adj|first n|question cop|be&3S pro:int|who cop|be&3S
+	det:art|the n|story adv|about ?
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|6|LINK 6|4|PRED 7|8|DET 8|6|PRED
+	9|8|NJCT 10|4|PUNCT
+*INV:	alright ‡ let's try a second . 102784_110656
+%mor:	co|alright beg|beg v|let~pro:obj|us v|try det:art|a n|second .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|3|PUNCT
+*INV:	what time of year did George moved in with his son's family ? 110656_115584
+%mor:	pro:int|what n|time prep|of n|year v|do&PAST n:prop|George
+	v|move-PAST adv|in prep|with det:poss|his adj|son&dn-POSS n|family ?
+%gra:	1|5|LINK 2|5|SUBJ 3|2|NJCT 4|3|POBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|7|JCT
+	9|7|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|5|PUNCT
+*PAR:	(...) I don't know . [+ exc] 115584_126100
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 126100_126688
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	<where or I am sorry> [//] what were George's stories about ? 126688_131300
+%mor:	pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|PUNCT
+*INV:	how about this one ? 131300_142240
+%mor:	pro:int|how prep|about det:dem|this pro:indef|one ?
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	what did Melanie asked George to do ? 142240_145408
+%mor:	pro:int|what mod|do&PAST n:prop|Melanie v|ask-PAST n:prop|George
+	inf|to v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*INV:	why did George hold Melanie's hand tightly ? 145408_154440
+%mor:	pro:int|why mod|do&PAST n:prop|George n|hold adj|Melanie&dn-POSS
+	n|hand adv|tight&dadj-LY ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|JCT 8|6|PUNCT
+*INV:	why did Melanie not liked the city ? 154440_164840
+%mor:	pro:int|why mod|do&PAST n:prop|Melanie neg|not part|like-PASTP
+	det:art|the n|city ?
+%gra:	1|3|LINK 2|3|AUX 3|5|SUBJ 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	(..) hmhm . [+ exc] 164840_171678
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no problem . 171289_173456
+%mor:	qn|no n|problem .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+@End

@@ -1,0 +1,137 @@
+@UTF8
+@PID:	11312/t-00016206-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|65;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	488-1, audio
+@G:	foods
+*INV:	I'm going to give you one minute and I want you to tell me all of
+	the things that you can think of to eat in one minute's time . 0_8524
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	pro:indef|one n|minute coord|and pro:sub|I v|want pro:per|you inf|to
+	v|tell pro:obj|me post|all prep|of det:art|the n|thing-PL
+	pro:rel|that pro:per|you mod|can v|think prep|of inf|to v|eat
+	prep|in det:num|one adj|minute&dn-POSS n|time .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ2 7|8|SUBJ 8|5|OBJ
+	9|11|LINK 10|11|SUBJ 11|8|CJCT 12|14|SUBJ 13|14|INF 14|11|COMP 15|14|OBJ
+	16|14|COMP 17|16|JCT 18|19|DET 19|17|POBJ 20|23|LINK 21|23|SUBJ 22|23|AUX
+	23|19|CMOD 24|23|JCT 25|26|INF 26|23|XJCT 27|26|JCT 28|30|QUANT
+	29|30|MOD 30|27|POBJ 31|3|PUNCT
+*INV:	tell me all of the things you can think of to eat . 8524_11740
+%mor:	v|tell pro:obj|me post|all prep|of det:art|the n|thing-PL
+	pro:per|you mod|can v|think prep|of inf|to v|eat .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|COMP 4|3|JCT 5|6|DET 6|4|POBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|12|INF 12|10|POBJ 13|1|PUNCT
+*INV:	ready ? 11740_12724
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	go ahead name me some foods . 12724_15308
+%mor:	v|go adv|ahead v|name pro:obj|me qn|some n|food-PL .
+%gra:	1|0|ROOT 2|1|JCT 3|1|ENUM 4|3|OBJ2 5|6|QUANT 6|3|OBJ 7|1|PUNCT
+*PAR:	(.) corn . 15308_18796
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< uhhuh ‡ what else . 18500_19774
+%mor:	co|uhhuh beg|beg pro:int|what post|else .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	apples . 19774_22500
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ‡ what else . 22500_23564
+%mor:	co|uhhuh beg|beg pro:int|what post|else .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	(..) fish . 23564_27343
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm ‡ what else . 27200_28708
+%mor:	co|mhm=yes beg|beg pro:int|what post|else .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	and corn . 28708_32812
+%mor:	coord|and n|corn .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	and what else ? 32812_34220
+%mor:	coord|and pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|COORD 3|2|PQ 4|1|PUNCT
+*INV:	(.) anything to eat . 34220_40703
+%mor:	pro:indef|anything inf|to v|eat .
+%gra:	1|3|SUBJ 2|3|INF 3|0|ROOT 4|3|PUNCT
+*INV:	(..) any other foods . 40703_51380
+%mor:	qn|any qn|other n|food-PL .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	(.) corn . 51380_55580
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 55580_56000
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< beans . 55800_56800
+%mor:	n|bean-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 56800_57604
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) any other food ? 57604_63300
+%mor:	qn|any qn|other n|food ?
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*PAR:	(.) beans . 63300_67000
+%mor:	n|bean-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 67000_67740
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	corn . 67740_69124
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh . 69124_70124
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=sighs . [+ exc] 70124_72860
+*INV:	okay ‡ that's a minute . 72860_74796
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S det:art|a n|minute .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+@G:	S
+*INV:	now I'm going to give you another minute and in that minute's time
+	I want you to name as many words that you can think of that start
+	with the letter s@l . 74796_84612
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	qn|another n|minute coord|and prep|in det:dem|that
+	adj|minute&dn-POSS n|time pro:sub|I v|want pro:per|you inf|to v|name
+	conj|as qn|many n|word-PL pro:rel|that pro:per|you mod|can v|think
+	prep|of adv|that v|start prep|with det:art|the n|letter n:let|s .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ2 8|9|QUANT
+	9|16|JCT 10|9|CONJ 11|10|COORD 12|14|DET 13|14|MOD 14|11|POBJ 15|16|SUBJ
+	16|4|CJCT 17|19|SUBJ 18|19|INF 19|16|COMP 20|29|LINK 21|22|QUANT
+	22|29|SUBJ 23|26|LINK 24|26|SUBJ 25|26|AUX 26|22|CMOD 27|26|JCT 28|26|JCT
+	29|19|CJCT 30|29|JCT 31|32|DET 32|33|SUBJ 33|30|POBJ 34|4|PUNCT
+*INV:	all the words that start with s@l . 84612_87164
+%mor:	qn|all det:art|the n|word-PL pro:rel|that v|start prep|with n:let|s
+	.
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|6|POBJ
+	8|3|PUNCT
+*INV:	go ahead . 87164_88080
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	salt ! 88080_88900
+%mor:	n|salt !
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh ‡ what else ? 88900_90220
+%mor:	co|uhhuh beg|beg pro:int|what post|else ?
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PQ 5|3|PUNCT
+*PAR:	(.) sea . 90220_95027
+%mor:	n|sea .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< any word . 93800_94775
+%mor:	qn|any n|word .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 94775_95797
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) and (..) salt . 95797_105400
+%mor:	coord|and n|salt .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 105400_106069
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

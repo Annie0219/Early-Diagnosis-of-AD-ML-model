@@ -1,0 +1,119 @@
+@UTF8
+@PID:	11312/t-00016169-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|71;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	325-0, audio
+@G:	animals
+*INV:	and you can begin now . 0_3782
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*INV:	name them for me . 3782_7176
+%mor:	v|name pro:obj|them prep|for pro:obj|me .
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|POBJ 5|1|PUNCT
+*PAR:	&uh farm animals you said ? [+ exc] 7176_9899
+%mor:	n|farm n|animal-PL pro:per|you v|say&PAST ?
+%gra:	1|2|MOD 2|0|INCROOT 3|4|SUBJ 4|2|CMOD 5|2|PUNCT
+*INV:	as many animals as you can think of . 9899_11876
+%mor:	prep|as qn|many n|animal-PL adv|as pro:per|you mod|can v|think
+	prep|of .
+%gra:	1|3|COORD 2|3|QUANT 3|0|INCROOT 4|7|JCT 5|7|SUBJ 6|7|AUX 7|3|ENUM
+	8|7|JCT 9|3|PUNCT
+*PAR:	+< oh . [+ exc] 11176_12035
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 12035_14088
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) dog . 14088_15504
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) tiger &=laughs . 15504_20747
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pig &=laughs . 20747_27346
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 27346_29572
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) elephant . 29572_33926
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) mouse . 33926_42413
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs I guess it's an animal &=laughs . [+ exc] 42413_48421
+%mor:	pro:sub|I v|guess pro:per|it~cop|be&3S det:art|a n|animal .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|PRED 7|2|PUNCT
+*INV:	+< you're doing fine . 47021_48283
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adv|fine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	keep going . 48283_49850
+%mor:	v|keep part|go-PRESP .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*PAR:	(.) horse . 49850_58616
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um +... 58616_62241
+*INV:	okay ‡ time's up . 62240_64094
+%mor:	co|okay beg|beg n|time~cop|be&3S adv|up .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+@G:	F
+*INV:	now I'm gonna change +//. 64094_65202
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|change +//.
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|4|PUNCT
+*INV:	and you can begin now . 65202_67176
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	oh ‡ there aren't very many &=laughs . [+ exc] 66776_69538
+%mor:	co|oh beg|beg pro:exist|there cop|be&PRES~neg|not adv|very qn|many
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|JCT 7|4|PRED 8|4|PUNCT
+*INV:	+< &=laughs . 67995_69307
+*PAR:	names ? [+ exc] 69538_70648
+%mor:	n|name-PL ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ‡ any word at all . 70648_72704
+%mor:	co|no beg|beg qn|any n|word prep|at pro:indef|all .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*PAR:	+< xxx . [+ exc] 71000_72004
+*PAR:	oh . [+ exc] 72704_73830
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh food &=laughs . 73830_77522
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flies . 77522_78869
+%mor:	n|fly-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	f@l &uh +... 78869_85527
+%mor:	n:let|f +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there aren't too many &=laughs . [+ exc] 85527_93450
+%mor:	pro:exist|there cop|be&PRES~neg|not adv|too qn|many .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|2|PUNCT
+*PAR:	(.) fork . 93450_98259
+%mor:	n|fork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) field . 98259_104003
+%mor:	n|field .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fun . 104003_105294
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) find . 105294_115876
+%mor:	v|find .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fill . 115876_123237
+%mor:	n|fill .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 123237_126300
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	time's up . 126300_127488
+%mor:	n|time~cop|be&3S adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+@End

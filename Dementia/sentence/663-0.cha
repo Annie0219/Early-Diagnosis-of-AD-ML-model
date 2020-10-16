@@ -1,0 +1,111 @@
+@UTF8
+@PID:	11312/t-00016712-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|58;|male|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	663-0, audio
+*INV:	make a sentence using the word pencil@q . 0_3610
+%mor:	v|make det:art|a n|sentence part|use-PRESP det:art|the n|word
+	meta|pencil .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|XJCT 5|6|DET 6|4|OBJ 7|4|ENUM 8|1|PUNCT
+*PAR:	I write a letter with a pencil . 3610_8140
+%mor:	pro:sub|I v|write det:art|a n|letter prep|with det:art|a n|pencil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	mhm . 8140_8764
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tree@q . 8764_12531
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I see a tree in the field . 12531_17774
+%mor:	pro:sub|I v|see det:art|a n|tree prep|in det:art|the n|field .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	I'll give you two words now and I still want you to put them in a
+	brief simple sentence for me . 17774_24629
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:num|two n|word-PL adv|now
+	coord|and pro:sub|I adv|still v|want pro:per|you inf|to v|put&ZERO
+	pro:obj|them prep|in det:art|a adj|brief adj|simple n|sentence
+	prep|for pro:obj|me .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ2 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|11|LINK
+	9|11|SUBJ 10|11|JCT 11|7|CJCT 12|14|SUBJ 13|14|INF 14|11|COMP 15|14|OBJ
+	16|14|JCT 17|20|DET 18|20|MOD 19|20|MOD 20|16|POBJ 21|14|JCT 22|21|POBJ
+	23|3|PUNCT
+*INV:	child@q and hospital@q . 24629_26801
+%mor:	meta|child coord|and meta|hospital .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	child@q and hospital@q ? [+ exc] 26801_30390
+%mor:	meta|child coord|and meta|hospital ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*INV:	mhm . 30390_31003
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the child is in the hospital . 31003_35501
+%mor:	det:art|the n|child cop|be&3S prep|in det:art|the n|hospital .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	(.) cold@q and winter@q . 35501_42675
+%mor:	meta|cold coord|and meta|winter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	winter brings (.) cold weather . 42675_47765
+%mor:	n|winter v|bring-3S adj|cold n|weather .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|MOD 4|2|OBJ 5|2|PUNCT
+*PAR:	is that good or not ? [+ exc] 47765_49272
+%mor:	cop|be&3S det:dem|that adj|good coord|or neg|not ?
+%gra:	1|0|ROOT 2|3|DET 3|1|PRED 4|3|CONJ 5|4|COORD 6|1|PUNCT
+*INV:	that's fine . 49272_49911
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	I'll give you three words now . 49911_55320
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:num|three n|word-PL
+	adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|SUBJ 5|6|QUANT 6|3|OBJ 7|6|NJCT 8|3|PUNCT
+*INV:	still use them in a brief simple sentence . 55320_57658
+%mor:	adv|still v|use pro:obj|them prep|in det:art|a adj|brief adj|simple
+	n|sentence .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|2|PUNCT
+*INV:	doesn't matter what order . 57658_58843
+%mor:	mod|do&3S~neg|not v|matter pro:int|what n|order .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|5|MOD 5|3|OBJ 6|3|PUNCT
+*INV:	chair@q doctor@q and sit@q . 58843_63205
+%mor:	meta|chair meta|doctor coord|and meta|sit .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	I sit on a chair , (.) the doctor (.) checks my health . 63205_71203
+%mor:	pro:sub|I v|sit prep|on det:art|a n|chair cm|cm det:art|the
+	n|doctor v|check-3S det:poss|my n|health .
+%gra:	1|2|SUBJ 2|9|CJCT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|LP 7|8|DET 8|9|SUBJ
+	9|0|ROOT 10|11|DET 11|9|OBJ 12|9|PUNCT
+*PAR:	what was the last one ? [+ exc] 71203_74753
+%mor:	pro:int|what cop|be&PAST&13S det:art|the adj|last pro:indef|one ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	you've got them . 74753_76044
+%mor:	pro:per|you~aux|have part|get&PASTP pro:obj|them .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	did I get (th)em all ? [+ exc] 76044_76875
+%mor:	mod|do&PAST pro:sub|I v|get pro:obj|them post|all ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*INV:	mhm . 76875_77354
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 77354_77928
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	I'll give you three more words . 77928_80449
+%mor:	pro:sub|I~mod|will v|give pro:per|you det:num|three adv|more
+	n|word-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|7|QUANT 6|7|JCT 7|3|OBJ 8|3|PUNCT
+*INV:	bureau@q open@q and drawer@q . 80449_83718
+%mor:	meta|bureau meta|open coord|and meta|drawer .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	I open the drawer of the bureau . 83718_91016
+%mor:	pro:sub|I v|open det:art|the n|drawer prep|of det:art|the n|bureau
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	how does that sound ? [+ exc] 91016_91900
+%mor:	pro:int|how mod|do&3S adv|that n|sound ?
+%gra:	1|4|JCT 2|4|AUX 3|4|JCT 4|0|INCROOT 5|4|PUNCT
+*INV:	mhm . 91900_92885
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00016311-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||female|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	094-2, audio
+@G:	George_Immediate
+*INV:	tell me as much of the story as you can think of . 0_2537
+%mor:	v|tell pro:obj|me adv|as adv|much prep|of det:art|the n|story
+	conj|as pro:per|you mod|can v|think prep|of .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|COORD 4|1|JCT 5|4|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|11|SUBJ 10|11|AUX 11|4|CJCT 12|11|JCT 13|1|PUNCT
+*PAR:	oh_boy . [+ exc] 2537_3394
+%mor:	co|oh_boy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	anything at all from the story that you can think of . 3394_8764
+%mor:	pro:indef|anything prep|at pro:indef|all prep|from det:art|the
+	n|story pro:rel|that pro:per|you mod|can v|think prep|of .
+%gra:	1|0|INCROOT 2|1|NJCT 3|2|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|6|CMOD 11|10|JCT 12|1|PUNCT
+*INV:	do you remember the story ? 8764_9977
+%mor:	mod|do pro:per|you v|remember det:art|the n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	a family . 9977_10818
+%mor:	det:art|a n|family .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	uhhuh anything else ? 10818_12219
+%mor:	co|uhhuh pro:indef|anything post|else ?
+%gra:	1|2|COM 2|0|ROOT 3|2|PQ 4|2|PUNCT
+*PAR:	and &uh there's &uh the little child with [/] with a &uh father . 12219_21183
+%mor:	coord|and pro:exist|there~cop|be&3S det:art|the adj|little n|child
+	prep|with det:art|a n|father .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and there was a grandfather and Emily +... 21183_30476
+%mor:	coord|and adv|there cop|be&PAST&13S det:art|a grand#n|father
+	coord|and n:prop|Emily +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|5|CONJ 7|6|COORD
+	8|3|PUNCT
+*INV:	anything else ? 30476_35052
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	I can't think of anything else . [+ exc] 35052_36778
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of pro:indef|anything
+	post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|PQ 8|4|PUNCT
+*INV:	okay ‡ that's good . 36778_39237
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

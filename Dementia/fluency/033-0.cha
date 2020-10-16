@@ -1,0 +1,195 @@
+@Font:	Courier:16:0
+@UTF8
+@PID:	11312/t-00016048-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|63;|male|MCI||Participant|26||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	033-0, audio
+@G:	animals
+*INV:	xxx . 0_1010
+*PAR:	okay . [+ exc] 1010_1974
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh dog . 1974_3378
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 3378_4667
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	squirrel . 4667_6293
+%mor:	n|squirrel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 6293_7674
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	deer . 7674_8673
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bear . 8673_10402
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	possum . 10402_11714
+%mor:	n|possum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	raccoon . 11714_13839
+%mor:	n|raccoon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 13839_15383
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zebra . 15383_16440
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	camel . 16440_17508
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	donkey . 17508_18588
+%mor:	n|donkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 18588_19749
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 19749_21072
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bull . 21072_23649
+%mor:	n|bull .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh buffalo . 23649_26831
+%mor:	n|buffalo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zebra . 26831_29884
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	snake . 29884_33135
+%mor:	n|snake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) mouse . 33135_44547
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rat . 44547_45430
+%mor:	n|rat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) tiger . 45430_54253
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 54253_55681
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	leopard . 55681_56657
+%mor:	n|leopard .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay ‡ good . 56657_60262
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	okay ‡ were gonna do the same thing again only this time (.) I want
+	you to think of all the words you can think of that begin with the
+	letter f@l . 60262_69000
+%mor:	co|okay beg|beg aux|be&PAST part|go-PRESP~inf|to v|do det:art|the
+	adj|same n|thing adv|again adv|only det:dem|this n|time pro:sub|I
+	v|want pro:per|you inf|to v|think prep|of qn|all det:art|the
+	n|word-PL pro:per|you mod|can v|think prep|of adv|that v|begin
+	prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|AUX 4|15|XJCT 5|6|INF 6|4|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|4|JCT 11|4|JCT 12|13|DET 13|11|POBJ 14|15|SUBJ 15|0|ROOT
+	16|15|OBJ 17|18|INF 18|16|COMP 19|18|JCT 20|22|QUANT 21|22|DET 22|19|POBJ
+	23|25|SUBJ 24|25|AUX 25|18|CJCT 26|25|JCT 27|28|JCT 28|26|POBJ 29|25|JCT
+	30|31|DET 31|29|POBJ 32|25|JCT 33|15|PUNCT
+*INV:	but they can't be proper names or places for example it can't be
+	Fred@q ‡ okay ? 69000_73460
+%mor:	conj|but pro:sub|they mod|can~neg|not cop|be adj|proper n|name-PL
+	coord|or v|place-3S prep|for n|example pro:per|it mod|can~neg|not
+	aux|be meta|Fred beg|beg co|okay ?
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|MOD 7|5|PRED 8|5|CONJ
+	9|8|COORD 10|9|JCT 11|10|POBJ 12|15|SUBJ 13|15|AUX 14|13|NEG 15|9|JCT
+	16|15|BEG 17|16|BEGP 18|15|COM 19|5|PUNCT
+*PAR:	+< wait ‡ &uh &uh all f@l names ? [+ exc] 73060_75000
+%mor:	co|wait beg|beg adv|all n:let|f n|name-PL ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|5|MOD 5|0|INCROOT 6|5|PUNCT
+*INV:	+< f@l words . 74500_75127
+%mor:	n:let|f n|word-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	also +/. 75127_75800
+%mor:	adv|also +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and it can't be &uh proper names like Frank@q and Fred@q . [+ exc]
+	75200_79261
+%mor:	coord|and pro:per|it mod|can~neg|not cop|be adj|proper n|name-PL
+	prep|like meta|Frank coord|and meta|Fred .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|MOD 7|5|PRED 8|7|NJCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|5|PUNCT
+*INV:	+< proper names „ right . 77000_79485
+%mor:	adj|proper n|name-PL end|end co|right .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+*INV:	they also can't be derivatives of each other . 79485_81644
+%mor:	pro:sub|they adv|also mod|can~neg|not aux|be n|derivative-PL
+	prep|of qn|each qn|other .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PRED 7|6|NJCT 8|9|QUANT
+	9|7|POBJ 10|5|PUNCT
+*PAR:	for example run@q runner@q and running@q would all be counted as
+	one „ okay ? 81644_86648
+%mor:	prep|for n|example meta|run meta|runner coord|and meta|running
+	mod|will&COND adv|all aux|be part|count-PASTP prep|as det:num|one
+	end|end co|okay ?
+%gra:	1|10|LINK 2|10|SUBJ 3|10|AUX 4|10|AUX 5|10|LINK 6|10|SUBJ 7|9|AUX
+	8|9|JCT 9|10|AUX 10|0|ROOT 11|12|COORD 12|10|ENUM 13|14|ENDP 14|10|END
+	15|10|PUNCT
+*PAR:	oh . [+ exc] 87000_87599
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< okay ‡ you can begin now . 87399_89779
+%mor:	co|okay beg|beg pro:per|you mod|can v|begin adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	fun . 89779_91358
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	forget . 91358_93041
+%mor:	v|forget .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	frugal . 93041_94992
+%mor:	adj|frugal .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	figures . 94992_96466
+%mor:	n|figure-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	franchise . 96466_98684
+%mor:	n|franchise .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frankfurter . 98684_101981
+%mor:	n|frankfurter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frame . 101981_105905
+%mor:	n|frame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	faucet . 105905_110248
+%mor:	n|faucet .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) figurine . 110248_119977
+%mor:	n|figurine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	firm . 119977_121266
+%mor:	adj|firm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flame . 121266_125190
+%mor:	n|flame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) forget . 125190_135256
+%mor:	v|forget .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	forgotten . 135256_137148
+%mor:	part|forget&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) French . 137148_144451
+%mor:	n:prop|French .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no ‡ that's a proper name . 144451_145972
+%mor:	co|no beg|beg pro:dem|that~cop|be&3S det:art|a adj|proper n|name .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*PAR:	&uh +... 145972_147973
+*INV:	okay ‡ that's good . 147973_157973
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

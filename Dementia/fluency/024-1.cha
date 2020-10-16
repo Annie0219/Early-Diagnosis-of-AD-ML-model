@@ -1,0 +1,119 @@
+@UTF8
+@PID:	11312/t-00016042-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|51;|male|Memory||Participant|30||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	024-1, audio
+@G:	foods
+*INV:	okay . 0_2270
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay go . 2270_3054
+%mor:	co|okay v|go .
+%gra:	1|2|COM 2|0|ROOT 3|2|PUNCT
+*PAR:	alright . [+ exc] 3054_3998
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh carrots . 3998_5446
+%mor:	n|carrot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) potatoes . 5446_7742
+%mor:	n|potato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) broccoli . 7742_10300
+%mor:	n|broccoli .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) celery . 10300_13998
+%mor:	n|celery .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh icecream . 13998_17101
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cake . 17101_20043
+%mor:	n|cake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pie . 20043_22600
+%mor:	n|pie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) jello . 22600_27774
+%mor:	n|jello .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pastry . 27774_30494
+%mor:	n|pastry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) donuts . 30494_33470
+%mor:	n|donut-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) crackers . 33470_37722
+%mor:	n|cracker-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fruit . 37722_44330
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) bacon . 44330_47818
+%mor:	n|bacon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) eggs . 47818_50914
+%mor:	n|egg-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pancakes . 50914_55330
+%mor:	n|pancake-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) waffles . 55330_59060
+%mor:	n|waffle-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um banana +//. 59060_63838
+%mor:	n|banana +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ I said fruit . 63838_64900
+%mor:	co|oh beg|beg pro:sub|I v|say&PAST n|fruit .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&uh +/. [+ exc] 64900_65200
+*INV:	okay hold it . 65200_66069
+%mor:	co|okay v|hold pro:per|it .
+%gra:	1|2|COM 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	okay . [+ exc] 66000_66600
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	S
+*INV:	off you go . 66600_67494
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	(..) &hm shield . 67494_75360
+%mor:	n|shield .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that [//] that wouldn't be a capital would it ? 75360_77199
+%mor:	comp|that mod|will&COND~neg|not cop|be det:art|a n|capital
+	mod|will&COND pro:per|it ?
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|8|SUBJ 7|8|AUX 8|4|PRED
+	9|4|PUNCT
+*INV:	no . 77000_77647
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh (..) school . 77647_87255
+%mor:	n|school .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) swim . 87255_91455
+%mor:	n|swim .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) sun . 91455_97487
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) screen . 97487_100623
+%mor:	n|screen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) slice . 100623_104910
+%mor:	n|slice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) slum . 104910_110679
+%mor:	n|slum .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh (.) strange . 110679_119495
+%mor:	adj|strange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) string . 119495_123823
+%mor:	n|string .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

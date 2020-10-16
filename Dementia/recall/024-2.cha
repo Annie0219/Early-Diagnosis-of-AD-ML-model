@@ -1,0 +1,187 @@
+@UTF8
+@PID:	11312/t-00016266-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|52;|male|Memory||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	024-2, audio
+@G:	George_Immediate
+*INV:	anything at all that you can think of from the story . 0_2428
+%mor:	pro:indef|anything prep|at qn|all pro:dem|that pro:per|you mod|can
+	v|think prep|of prep|from det:art|the n|story .
+%gra:	1|7|LINK 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|PUNCT
+*PAR:	okay . [+ exc] 2428_3300
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &uh shortly after Thanksgiving on a Friday I believe it was
+	George Miller moved to the country to [//] &m and moved in with his
+	son and [/] &gr and grandchildren . 3300_16000
+%mor:	adv|short&dadj-LY prep|after n:prop|Thanksgiving prep|on det:art|a
+	n:prop|Friday pro:sub|I v|believe pro:per|it cop|be&PAST&13S
+	n:prop|George n:prop|Miller v|move-PAST prep|to det:art|the
+	n|country coord|and v|move-PAST adv|in prep|with det:poss|his n|son
+	coord|and grand#n|child&PL .
+%gra:	1|2|JCT 2|8|JCT 3|2|POBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|SUBJ 10|8|COMP 11|12|NAME 12|13|SUBJ 13|10|CPRED 14|13|JCT 15|16|DET
+	16|14|POBJ 17|13|CONJ 18|17|COORD 19|18|JCT 20|18|JCT 21|22|DET
+	22|20|POBJ 23|22|CONJ 24|23|COORD 25|8|PUNCT
+*PAR:	&uh &uh his granddaughter &uh enjoyed listening to stories that [/]
+	that her grandfather George had told about his life in the city . 16000_28420
+%mor:	det:poss|his grand#n|daughter v|enjoy-PAST part|listen-PRESP
+	prep|to n|story-PL adv|that det:poss|her grand#n|father
+	n:prop|George aux|have&PAST part|tell&PASTP prep|about det:poss|his
+	n|life prep|in det:art|the n|city .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|12|SUBJ 11|12|AUX 12|9|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+*PAR:	and &um finally one day +... 28420_34319
+%mor:	coord|and adv|final&dadj-LY pro:indef|one n|day +...
+%gra:	1|3|LINK 2|3|JCT 3|4|SUBJ 4|0|INCROOT 5|4|PUNCT
+*PAR:	this was all after Thanksgiving . 34319_35719
+%mor:	pro:dem|this cop|be&PAST&13S adv|all adv:tem|after
+	n:prop|Thanksgiving .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|APP 6|2|PUNCT
+*PAR:	finally one day &uh George decided to take his granddaughter
+	Melanie to &uh &uh the city to show her around . 35719_44392
+%mor:	adv|final&dadj-LY pro:indef|one n|day n:prop|George v|decide-PAST
+	inf|to v|take det:poss|his grand#n|daughter n:prop|Melanie prep|to
+	det:art|the n|city inf|to v|show pro:obj|her prep|around .
+%gra:	1|2|JCT 2|5|SUBJ 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|15|SUBJ 11|10|NJCT 12|13|DET 13|11|POBJ 14|15|INF 15|9|COMP
+	16|15|OBJ 17|15|JCT 18|5|PUNCT
+*PAR:	and &uh they went . 44392_47596
+%mor:	coord|and pro:sub|they v|go&PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	and she was very +//. 47596_48651
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|very +//.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	this was her first trip to the city . 48651_50254
+%mor:	pro:dem|this cop|be&PAST&13S det:poss|her adj|first n|trip prep|to
+	det:art|the n|city .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|5|NJCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	she was very nervous about going . 50254_53336
+%mor:	pro:sub|she cop|be&PAST&13S adv|very adj|nervous prep|about
+	n:gerund|go-PRESP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	and once she got there &uh she was also very nervous because the
+	streets were so crowded . 53336_60885
+%mor:	coord|and conj|once pro:sub|she v|get&PAST adv|there pro:sub|she
+	cop|be&PAST&13S adv|also adv|very adj|nervous conj|because
+	det:art|the n|street-PL aux|be&PAST adv|so part|crowd-PASTP .
+%gra:	1|7|LINK 2|4|LINK 3|4|SUBJ 4|7|CJCT 5|4|JCT 6|7|SUBJ 7|0|ROOT 8|7|JCT
+	9|10|JCT 10|7|PRED 11|16|LINK 12|13|DET 13|16|SUBJ 14|16|AUX 15|16|JCT
+	16|7|CJCT 17|7|PUNCT
+*PAR:	and [//] &uh (.) but they did have a real a nice time . 60885_66543
+%mor:	conj|but pro:sub|they mod|do&PAST v|have det:art|a adj|real
+	det:art|a adj|nice n|time .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|9|DET 6|9|MOD 7|9|DET 8|9|MOD
+	9|4|OBJ 10|4|PUNCT
+*PAR:	and she enjoyed it very much . 66543_67905
+%mor:	coord|and pro:sub|she v|enjoy-PAST pro:per|it adv|very adv|much .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|JCT 6|3|JCT 7|3|PUNCT
+*INV:	okay ‡ (..) good ! 67905_70760
+%mor:	co|okay beg|beg adj|good !
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	George_Delayed
+*PAR:	&uh shortly after Thanksgiving George Miller moved into his son's
+	home or his daughter's home and [//] to live with his &uh &uh
+	children <and &uh their> [//] &gr and his grandchildren . 70760_86147
+%mor:	adv|short&dadj-LY prep|after n:prop|Thanksgiving n:prop|George
+	n:prop|Miller v|move-PAST prep|into det:poss|his adj|son&dn-POSS
+	n|home coord|or det:poss|his adj|daughter&dn-POSS n|home inf|to
+	v|live prep|with det:poss|his n|child&PL coord|and det:poss|his
+	grand#n|child&PL .
+%gra:	1|2|JCT 2|6|JCT 3|4|NAME 4|2|POBJ 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|6|CONJ 12|14|DET 13|14|MOD 14|11|COORD 15|16|INF
+	16|6|XJCT 17|16|JCT 18|19|DET 19|17|POBJ 20|16|CONJ 21|22|DET 22|20|COORD
+	23|6|PUNCT
+*PAR:	one of his grandchildren was a little girl by the name of (.)
+	Melanie . 86147_90356
+%mor:	det:num|one prep|of det:poss|his grand#n|child&PL cop|be&PAST&13S
+	det:art|a adj|little n|girl prep|by det:art|the n|name prep|of
+	n:prop|Melanie .
+%gra:	1|5|SUBJ 2|1|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|5|PUNCT
+*PAR:	and &uh Melanie loved to sit by the hour and listen to George tell
+	stories of his life <in the> [/] &s in the big city . 90356_98652
+%mor:	coord|and n:prop|Melanie v|love-PAST inf|to v|sit prep|by
+	det:art|the n|hour coord|and v|listen prep|to n:prop|George v|tell
+	n|story-PL prep|of det:poss|his n|life prep|in det:art|the adj|big
+	n|city .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|CONJ 10|9|COORD 11|10|JCT 12|13|SUBJ 13|11|POBJ 14|13|OBJ 15|14|NJCT
+	16|17|DET 17|15|POBJ 18|13|JCT 19|21|DET 20|21|MOD 21|18|POBJ 22|3|PUNCT
+*PAR:	&uh finally &uh after George realized how much she enjoyed those
+	stories he promised her that he would take her to [/] &s to the city
+	to visit . 98652_108084
+%mor:	adv|final&dadj-LY prep|after n:prop|George v|realize-PAST
+	pro:int|how adv|much pro:sub|she v|enjoy-PAST det:dem|those
+	n|story-PL pro:sub|he v|promise-PAST pro:obj|her comp|that
+	pro:sub|he mod|will&COND v|take pro:obj|her prep|to det:art|the
+	n|city inf|to v|visit .
+%gra:	1|2|JCT 2|4|LINK 3|4|SUBJ 4|12|CJCT 5|8|LINK 6|8|JCT 7|8|SUBJ 8|4|COMP
+	9|10|DET 10|8|OBJ 11|12|SUBJ 12|0|ROOT 13|12|OBJ 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|12|COMP 18|17|OBJ 19|17|JCT 20|21|DET 21|19|POBJ 22|23|INF
+	23|17|XJCT 24|12|PUNCT
+*PAR:	&um &=clears:throat I think it was around the Christmas holidays .
+	108084_113813
+%mor:	pro:sub|I v|think pro:per|it cop|be&PAST&13S prep|around
+	det:art|the n:prop|Christmas n|holiday-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|2|PUNCT
+*PAR:	and &uh she was all excited about going and had trouble sleeping at
+	night the night before . 113813_120599
+%mor:	coord|and pro:sub|she aux|be&PAST&13S adv|all part|excite-PASTP
+	adv|about part|go-PRESP coord|and v|have&PAST n|trouble
+	part|sleep-PRESP prep|at n|night det:art|the n|night adv|before .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|JCT 7|5|COMP 8|7|CONJ
+	9|8|COORD 10|9|OBJ 11|10|XMOD 12|11|JCT 13|12|POBJ 14|15|DET 15|12|POBJ
+	16|15|NJCT 17|5|PUNCT
+*PAR:	and &uh was so excited . 120599_122655
+%mor:	coord|and aux|be&PAST&13S adv|so part|excite-PASTP .
+%gra:	1|4|LINK 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|PUNCT
+*PAR:	and they finally got to the city . 122655_124180
+%mor:	coord|and pro:sub|they adv|final&dadj-LY v|get&PAST prep|to
+	det:art|the n|city .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and &uh she was very nervous because &uh the traffic . 124180_129416
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|very adj|nervous
+	conj|because det:art|the n|traffic .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and there was so many people . 129416_130654
+%mor:	coord|and adv|there cop|be&PAST&13S adv|so qn|many n|person&PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|6|QUANT 6|3|PRED 7|3|PUNCT
+*PAR:	and the streets were all jammed up . 130654_132803
+%mor:	coord|and det:art|the n|street-PL aux|be&PAST post|all
+	part|jam-PASTP adv|up .
+%gra:	1|6|LINK 2|3|DET 3|6|SUBJ 4|6|AUX 5|4|PQ 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	but she had a real (.) fantastic time seeing all the sights and
+	things that George had told her about . 132803_141254
+%mor:	conj|but pro:sub|she v|have&PAST det:art|a adj|real adj|fantastic
+	n|time part|see-PRESP qn|all det:art|the n|sight-PL coord|and
+	n|thing-PL pro:rel|that n:prop|George aux|have&PAST part|tell&PASTP
+	pro:obj|her prep|about .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|DET 5|7|MOD 6|7|MOD 7|3|OBJ 8|7|XMOD
+	9|11|QUANT 10|11|DET 11|8|OBJ 12|11|CONJ 13|12|COORD 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|11|CMOD 18|17|OBJ 19|17|JCT 20|3|PUNCT
+*PAR:	and she was so excited to get home and tell her parents about her
+	trip . 141254_145595
+%mor:	coord|and pro:sub|she aux|be&PAST&13S adv|so part|excite-PASTP
+	inf|to v|get adv|home coord|and v|tell det:poss|her n|parent-PL
+	prep|about det:poss|her n|trip .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|5|CONJ 10|9|COORD 11|12|DET 12|10|OBJ 13|10|JCT 14|15|DET 15|13|POBJ
+	16|5|PUNCT
+*INV:	okay ‡ good . 145595_149828
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	+< there's probably things in there +//. [+ exc] 149428_150997
+%mor:	pro:exist|there~cop|be&3S adv|probable&dadj-LY n|thing-PL prep|in
+	n|there +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|PRED 5|2|JCT 6|5|POBJ 7|2|PUNCT
+%com:	tape cuts off
+@End

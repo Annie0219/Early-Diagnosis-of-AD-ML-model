@@ -1,0 +1,132 @@
+@UTF8
+@PID:	11312/a-00015192-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	035-0, audio
+@G:	animals
+*INV:	a minute starting from now . 0_4109
+%mor:	det:art|a n|minute part|start-PRESP prep|from adv|now .
+%gra:	1|2|DET 2|0|INCROOT 3|2|XMOD 4|3|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	&uh horse . 4109_5932
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 5932_7877
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 7877_9235
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 9235_10524
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh gosh . [+ exc] 10524_14413
+%mor:	co|gosh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&gir giraffe . 14413_16560
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 16560_17261
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm hyena . 17261_20249
+%mor:	n|hyena .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) can't think of +... [+ exc] 20249_25853
+%mor:	mod|can~neg|not v|think prep|of +...
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	(..) camel . 25853_32887
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pony . 32887_35083
+%mor:	n|pony .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cat . 35083_38054
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh rhinoceros . 38054_47035
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I can't think of anything else . [+ exc] 47035_52871
+%mor:	pro:sub|I mod|can~neg|not v|think prep|of pro:indef|anything
+	post|else .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|5|POBJ 7|6|PQ 8|4|PUNCT
+*INV:	okay ‡ you got a little bit longer yet . 52871_55486
+%mor:	co|okay beg|beg pro:per|you v|get&PAST det:art|a adj|little n|bit
+	adj|long-CP adv|yet .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|7|POSTMOD
+	9|8|JCT 10|4|PUNCT
+*PAR:	&uh (.) &um wolf . 55486_62520
+%mor:	n|wolf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bear . 62520_63999
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 63999_65881
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*PAR:	okay . [+ exc] 65881_67313
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ and again it's one minute . 67313_69789
+%mor:	co|okay beg|beg coord|and adv|again pro:per|it~cop|be&3S
+	det:num|one n|minute .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|8|QUANT 8|6|PRED
+	9|6|PUNCT
+*INV:	you ready ? 69789_70769
+%mor:	pro:per|you v|ready ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	xxx +/. [+ exc] 70769_71551
+*INV:	now . 71551_72279
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	four . 72279_73227
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fan . 73227_74240
+%mor:	n|fan .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fix . 74240_75562
+%mor:	v|fix .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&um flat . 75562_78519
+%mor:	adj|flat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fin . 78519_83468
+%mor:	n|fin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	face . 83468_85693
+%mor:	n|face .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fly . 85693_91467
+%mor:	n|fly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) floor . 91467_101880
+%mor:	n|floor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	funk . 101880_104480
+%mor:	n|funk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flourish . 104480_110347
+%mor:	n|flourish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	feather . 110347_113233
+%mor:	n|feather .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 113233_114721
+*PAR:	&uh (...) fabulous . 114721_132585
+%mor:	adj|fabulous .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 132585_133142
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	filling . 133142_134048
+%mor:	part|fill-PRESP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 134048_137224
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

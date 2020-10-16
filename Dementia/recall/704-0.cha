@@ -1,0 +1,60 @@
+@UTF8
+@PID:	11312/a-00015263-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|50;|male|Other||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	704-0, audio
+@G:	George_Immediate
+*PAR:	George [//] &=clears:throat George was having a meeting with his
+	daughter Melanie . 0_3622
+%mor:	n:prop|George aux|be&PAST&13S part|have-PRESP det:art|a
+	n:gerund|meet-PRESP prep|with det:poss|his n|daughter n:prop|Melanie
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|5|JCT 7|8|DET 8|6|POBJ
+	9|8|APP 10|3|PUNCT
+*INV:	mhm . 3622_4545
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &uh they decided they would like to take a trip to remind [/]
+	remind George of his childhood . 4545_13800
+%mor:	coord|and pro:sub|they v|decide-PAST pro:sub|they mod|will&COND
+	v|like inf|to v|take det:art|a n|trip inf|to v|remind n:prop|George
+	prep|of det:poss|his n|childhood .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|AUX 6|3|COMP 7|8|INF 8|6|COMP
+	9|10|DET 10|8|OBJ 11|12|INF 12|10|XMOD 13|12|OBJ 14|13|NJCT 15|16|DET
+	16|14|POBJ 17|3|PUNCT
+*PAR:	&=clears:throat and &=clears:throat Melanie was a little bit
+	apprehensive . 13800_19797
+%mor:	coord|and n:prop|Melanie cop|be&PAST&13S det:art|a adj|little n|bit
+	adj|apprehensive .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|PRED 7|6|POSTMOD
+	8|3|PUNCT
+*PAR:	but she went along . 19797_21169
+%mor:	conj|but pro:sub|she v|go&PAST adv|along .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&=clears:throat and &uh (..) &uh (.) as the trip went she started
+	to become frightened . 21169_33041
+%mor:	coord|and prep|as det:art|the n|trip v|go&PAST pro:sub|she
+	v|start-PAST inf|to part|become&PASTP part|frighten-PASTP .
+%gra:	1|5|LINK 2|5|JCT 3|4|DET 4|2|POBJ 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|9|INF
+	9|7|COMP 10|9|COMP 11|5|PUNCT
+*PAR:	but there was no &ar alarm for frightening because &uh nothing was
+	scary about the whole trip . 33041_41010
+%mor:	conj|but adv|there cop|be&PAST&13S qn|no n|alarm prep|for
+	n:gerund|frighten-PRESP conj|because pro:indef|nothing
+	cop|be&PAST&13S adj|scare&dn-Y prep|about det:art|the adj|whole
+	n|trip .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|PRED 6|5|NJCT 7|6|POBJ
+	8|10|LINK 9|10|SUBJ 10|3|CJCT 11|10|PRED 12|10|JCT 13|15|DET 14|15|MOD
+	15|12|POBJ 16|3|PUNCT
+*PAR:	and that's about all I remember at it . 41010_46464
+%mor:	coord|and pro:dem|that~cop|be&3S adv|about adv|all pro:sub|I
+	v|remember prep|at pro:per|it .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|JCT 6|7|SUBJ 7|3|CJCT 8|7|JCT
+	9|8|POBJ 10|3|PUNCT
+*INV:	+< okay ‡ that's fine . 45500_49000
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

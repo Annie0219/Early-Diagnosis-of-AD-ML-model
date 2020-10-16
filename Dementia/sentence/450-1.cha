@@ -1,0 +1,164 @@
+@UTF8
+@PID:	11312/t-00016663-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	450-1, audio
+*INV:	okay . 0_3959
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	simple sentence „ okay ? 3659_5915
+%mor:	adj|simple n|sentence end|end co|okay ?
+%gra:	1|2|MOD 2|0|INCROOT 3|4|ENDP 4|2|END 5|2|PUNCT
+*INV:	for example if I would say the word table@q you would wanna say
+	something like +"/. 5915_11500
+%mor:	prep|for n|example conj|if pro:sub|I mod|will&COND v|say
+	det:art|the n|word meta|table pro:per|you mod|will&COND
+	v|want~inf|to co|say pro:indef|something prep|like +"/.
+%gra:	1|12|JCT 2|1|POBJ 3|6|LINK 4|6|SUBJ 5|6|AUX 6|12|CJCT 7|8|DET 8|6|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|14|INF 14|15|COM 15|12|COMP
+	16|15|NJCT 17|12|PUNCT
+*INV:	+" your dinner is on the table . 11500_13545
+%mor:	det:poss|your n|dinner cop|be&3S prep|on det:art|the n|table .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	I want you to make <a sentence> [//] a brief sentence with the word
+	that I give you . 13545_17643
+%mor:	pro:sub|I v|want pro:per|you inf|to v|make det:art|a adj|brief
+	n|sentence prep|with det:art|the n|word pro:rel|that pro:sub|I
+	v|give pro:per|you .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|8|DET 7|8|MOD 8|5|OBJ
+	9|5|JCT 10|11|DET 11|9|POBJ 12|14|LINK 13|14|SUBJ 14|11|CMOD 15|14|OBJ
+	16|2|PUNCT
+*INV:	okay ? 17643_18833
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	first word is pencil@q . 18833_21413
+%mor:	adv|first n|word cop|be&3S meta|pencil .
+%gra:	1|2|JCT 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*INV:	can you give me a sentence using the word pencil@q ? 21413_25310
+%mor:	mod|can pro:per|you v|give pro:obj|me det:art|a n|sentence
+	part|use-PRESP det:art|the n|word meta|pencil ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|6|DET 6|3|OBJ 7|3|XJCT 8|9|DET
+	9|7|OBJ 10|7|ENUM 11|3|PUNCT
+*PAR:	do you see my pencil ? 25310_28014
+%mor:	mod|do pro:per|you v|see det:poss|my n|pencil ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	okay . 28014_29508
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	how_(a)bout the word tree@q ? 29508_32669
+%mor:	pro:int|how_about det:art|the n|word meta|tree ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	the leaves on the trees are green . 32669_39050
+%mor:	det:art|the n|leaf-PL prep|on det:art|the n|tree-PL cop|be&PRES
+	adj|green .
+%gra:	1|2|DET 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*INV:	okay . 39050_40574
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now I'm going to give you two words . 40574_46521
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	det:num|two n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*INV:	and I still want you to give me a brief simple sentence . 46521_50475
+%mor:	coord|and pro:sub|I adv|still v|want pro:per|you inf|to v|give
+	pro:obj|me det:art|a adj|brief adj|simple n|sentence .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|7|OBJ2
+	9|12|DET 10|12|MOD 11|12|MOD 12|7|OBJ 13|4|PUNCT
+*INV:	don't worry about the order of the words . 50475_53417
+%mor:	mod|do~neg|not v|worry prep|about det:art|the n|order prep|of
+	det:art|the n|word-PL .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|6|NJCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*INV:	(o)kay ‡ the words are child@q hospital@q . 53417_57279
+%mor:	co|okay beg|beg det:art|the n|word-PL cop|be&PRES meta|child
+	meta|hospital .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PRED 8|5|PUNCT
+*PAR:	her only child is in the hospital . 57279_64763
+%mor:	det:poss|her qn|only n|child cop|be&3S prep|in det:art|the
+	n|hospital .
+%gra:	1|3|DET 2|3|QUANT 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	okay . 64763_66600
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	cold@q winter@q . 66600_71891
+%mor:	meta|cold meta|winter .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	I hope we don't have a cold winter &=laughs . 71891_79169
+%mor:	pro:sub|I v|hope pro:sub|we mod|do~neg|not v|have det:art|a
+	adj|cold n|winter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|SUBJ 4|6|AUX 5|4|NEG 6|2|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|2|PUNCT
+*INV:	+< I do too . 79000_80024
+%mor:	pro:sub|I v|do adv|too .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	(o)kay ‡ now I'm gonna give you three words . 80024_85693
+%mor:	co|okay beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|give pro:per|you det:num|three n|word-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|SUBJ 10|11|QUANT 11|8|OBJ 12|6|PUNCT
+*INV:	and I still want you to give me a brief simple sentence . 85693_88911
+%mor:	coord|and pro:sub|I adv|still v|want pro:per|you inf|to v|give
+	pro:obj|me det:art|a adj|brief adj|simple n|sentence .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|JCT 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|7|OBJ2
+	9|12|DET 10|12|MOD 11|12|MOD 12|7|OBJ 13|4|PUNCT
+*INV:	okay ? 88911_90312
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	chair@q doctor@q sit@q . 90312_94078
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	I sat in the doctor's chair today . 94078_104540
+%mor:	pro:sub|I v|sit&PAST prep|in det:art|the adj|doctor&dn-POSS n|chair
+	adv:tem|today .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|JCT 8|2|PUNCT
+*INV:	+< okay . 100649_102832
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now I'm going to give you three more words . 104540_110082
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	det:num|three adv|more n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|10|QUANT
+	9|10|JCT 10|6|OBJ 11|4|PUNCT
+*INV:	bureau@q open@q drawer@q . 110082_113708
+%mor:	meta|bureau meta|open meta|drawer .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	(..) did you open my bureau drawer ? 113708_124168
+%mor:	mod|do&PAST pro:per|you v|open det:poss|my n|bureau n|drawer ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	a bureau is a [//] kinda like a desk isn't it ? [+ exc] 124168_128099
+%mor:	det:art|a n|bureau cop|be&3S adv|kinda co|like det:art|a n|desk
+	cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|COM 6|7|DET 7|8|SUBJ 8|3|PRED
+	9|8|NEG 10|8|PRED 11|3|PUNCT
+*INV:	uhhuh . 128099_128928
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) wha(t) [/] what did you want me <to find> [//] to put ?
+	[+ exc] 128928_139622
+%mor:	pro:int|what mod|do&PAST pro:per|you v|want pro:obj|me inf|to
+	v|put&ZERO ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*INV:	put the words into a brief simple sentence . 139622_143186
+%mor:	v|put&ZERO det:art|the n|word-PL prep|into det:art|a adj|brief
+	adj|simple n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|8|DET 6|8|MOD 7|8|MOD 8|4|POBJ
+	9|1|PUNCT
+*PAR:	a bureau@q ? [+ exc] 143186_144684
+%mor:	det:art|a meta|bureau ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	just bureau@q ? [+ exc] 144648_146533
+%mor:	adv|just meta|bureau ?
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 146533_147464
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) my husband said “did you open my bureau drawer” ? 147464_157469
+%mor:	det:poss|my n|husband v|say&PAST mod|do&PAST pro:per|you v|open
+	det:poss|my n|bureau n|drawer ?
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|6|AUX 5|6|SUBJ 6|3|COMP 7|9|DET 8|9|MOD
+	9|6|OBJ 10|3|PUNCT
+@End

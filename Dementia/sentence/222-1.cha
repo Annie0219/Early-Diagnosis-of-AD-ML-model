@@ -1,0 +1,217 @@
+@UTF8
+@PID:	11312/t-00016603-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|62;|female|ProbableAD||Participant|12||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	222-1, audio
+*INV:	okay ‡ good . 0_919
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	pencil@q . 919_1645
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you use that in a sentence ? 1645_3800
+%mor:	mod|can pro:per|you v|use pro:dem|that prep|in det:art|a n|sentence
+	?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*INV:	pencil@q . 3800_5140
+%mor:	meta|pencil .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um well ‡ a [/] &p a pencil whenever we wanna <put something> [/]
+	&uh &uh put something on you_know . [+ exc] 5140_15772
+%mor:	co|well beg|beg det:art|a n|pencil pro:rel|whenever pro:sub|we
+	v|want~inf|to v|put&ZERO pro:indef|something adv|on co|you_know .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|7|LINK 6|7|SUBJ 7|4|CMOD 8|9|INF
+	9|7|COMP 10|9|OBJ 11|9|JCT 12|9|COM 13|4|PUNCT
+*INV:	+< okay . 15531_16372
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and that's what we can put it on . [+ exc] 15772_17421
+%mor:	coord|and pro:dem|that~cop|be&3S pro:int|what pro:sub|we mod|can
+	v|put&ZERO pro:per|it adv|on .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CPRED 8|7|OBJ
+	9|7|JCT 10|3|PUNCT
+*INV:	alright ‡ what I want you to do is &t to use the word pencil@q . 17421_20850
+%mor:	co|alright beg|beg pro:int|what pro:sub|I v|want pro:per|you inf|to
+	v|do cop|be&3S inf|to v|use det:art|the n|word meta|pencil .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|8|INF 8|5|COMP
+	9|8|OBJ 10|11|INF 11|8|COMP 12|13|DET 13|11|OBJ 14|11|ENUM 15|5|PUNCT
+*INV:	remember the example table@q ? 20850_23054
+%mor:	v|remember det:art|the n|example meta|table ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|POSTMOD 5|1|PUNCT
+*INV:	and we wanted to put table@q in a sentence . 23054_26038
+%mor:	coord|and pro:sub|we v|want-PAST inf|to v|put&ZERO meta|table
+	prep|in det:art|a n|sentence .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*INV:	we said +"/. 26038_26607
+%mor:	pro:sub|we v|say&PAST +"/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	+" the dinner is on the table . 26607_29100
+%mor:	det:art|the n|dinner cop|be&3S prep|on det:art|the n|table .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	yeah . [+ exc] 29100_29590
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's a sentence and the word table@q is in there . 29590_33041
+%mor:	pro:dem|that~cop|be&3S det:art|a n|sentence coord|and det:art|the
+	n|word meta|table aux|be&3S prep|in n|there .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|4|CONJ 6|7|DET 7|5|COORD 8|2|PUNCT
+	9|8|INCROOT 10|9|JCT 11|10|POBJ 12|9|PUNCT
+*INV:	now I want you to come up with a [/] a &wor [//] a sentence using
+	the word pencil@q . 33041_38146
+%mor:	adv|now pro:sub|I v|want pro:per|you inf|to v|come adv|up prep|with
+	det:art|a det:art|a n|sentence part|use-PRESP det:art|the n|word
+	meta|pencil .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|6|JCT
+	9|11|DET 10|11|DET 11|8|POBJ 12|6|XJCT 13|14|DET 14|12|OBJ 15|12|ENUM
+	16|3|PUNCT
+*PAR:	pencil@q ? [+ exc] 38146_39350
+%mor:	meta|pencil ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 39350_40668
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I_mean ‡ <I was> [//] with pencil we can &uh &um <put on a> [/] put
+	on a piece of paper . 40093_47506
+%mor:	co|I_mean beg|beg prep|with n|pencil pro:sub|we mod|can v|put&ZERO
+	prep|on det:art|a n|piece prep|of n|paper .
+%gra:	1|0|BEG 2|1|BEGP 3|7|JCT 4|3|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|10|NJCT 12|11|POBJ 13|7|PUNCT
+*INV:	alright ‡ that's what we do with a pencil but can you put the word
+	pencil@q in a sentence ? 47506_51984
+%mor:	co|alright beg|beg pro:dem|that~cop|be&3S pro:int|what pro:sub|we
+	v|do prep|with det:art|a n|pencil conj|but mod|can pro:per|you
+	v|put&ZERO det:art|the n|word meta|pencil prep|in det:art|a
+	n|sentence ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CPRED 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|CONJ 12|14|AUX 13|14|SUBJ 14|11|COORD 15|16|DET
+	16|14|OBJ 17|14|JCT 18|17|JCT 19|20|DET 20|18|POBJ 21|4|PUNCT
+*INV:	in a sentence use the word pencil@q . 51984_57244
+%mor:	prep|in det:art|a n|sentence n|use det:art|the n|word meta|pencil .
+%gra:	1|7|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|DET 6|7|SUBJ 7|0|ROOT 8|7|PUNCT
+*INV:	say the word pencil@q in a sentence for me . 57244_60402
+%mor:	v|say det:art|the n|word meta|pencil prep|in det:art|a n|sentence
+	prep|for pro:obj|me .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|XMOD 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|1|PUNCT
+*PAR:	well ‡ whenever I wanna [x 3] <put a> [//] put it on a piece of
+	paper and then I can put one on there . [+ exc] 60402_68651
+%mor:	co|well beg|beg pro:rel|whenever pro:sub|I v|want~inf|to v|put&ZERO
+	pro:per|it prep|on det:art|a n|piece prep|of n|paper coord|and
+	adv:tem|then pro:sub|I mod|can part|put&PASTP pro:indef|one prep|on
+	n|there .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|7|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|12|POBJ 14|18|LINK 15|18|JCT
+	16|18|SUBJ 17|18|AUX 18|5|CJCT 19|18|OBJ 20|18|JCT 21|20|POBJ 22|5|PUNCT
+*INV:	uhhuh ‡ that's what you do with a pencil . 68651_71967
+%mor:	co|uhhuh beg|beg pro:dem|that~cop|be&3S pro:int|what pro:per|you
+	v|do prep|with det:art|a n|pencil .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CPRED 8|7|JCT
+	9|10|DET 10|8|POBJ 11|4|PUNCT
+*INV:	I want you to use the word pencil@q in a sentence . 71967_75406
+%mor:	pro:sub|I v|want pro:per|you inf|to v|use det:art|the n|word
+	meta|pencil prep|in det:art|a n|sentence .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|7|DET 7|5|OBJ 8|5|ENUM
+	9|8|JCT 10|11|DET 11|9|POBJ 12|2|PUNCT
+*INV:	remember the example ? 75406_76962
+%mor:	v|remember det:art|the n|example ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	a sentence is something like +"/. 76962_79435
+%mor:	det:art|a n|sentence cop|be&3S pro:indef|something prep|like +"/.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|NJCT 6|3|PUNCT
+*INV:	the pencil is on the desk . 79435_82161
+%mor:	det:art|the n|pencil cop|be&3S prep|on det:art|the n|desk .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	okay . 82052_83590
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	the pencil is on the desk +/. [+ exc] 83590_85523
+%mor:	det:art|the n|pencil cop|be&3S prep|on det:art|the n|desk +/.
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	+< right . 85522_86209
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah ‡ because <we have> [/] we have some stuff at home . [+ exc] 85523_88606
+%mor:	co|yeah beg|beg conj|because pro:sub|we v|have qn|some n|stuff
+	prep|at n|home .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|5|PUNCT
+*INV:	okay . 88606_89681
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you use the word tree@q in a sentence like that ? 89681_93075
+%mor:	mod|can pro:per|you v|use det:art|the n|word meta|tree prep|in
+	det:art|a n|sentence prep|like pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|9|NJCT 11|10|POBJ 12|3|PUNCT
+*PAR:	tree@q ? [+ exc] 93075_93700
+%mor:	meta|tree ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tree@q . 93700_94228
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 94228_95656
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tree@q . [+ exc] 95656_96378
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	in a sentence like, “the pencil is on the desk” . 96378_101341
+%mor:	prep|in det:art|a n|sentence prep|like cm|cm det:art|the n|pencil
+	cop|be&3S prep|on det:art|the n|desk .
+%gra:	1|8|JCT 2|3|DET 3|1|POBJ 4|8|JCT 5|4|LP 6|7|DET 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|PUNCT
+*INV:	instead of pencil@q now I want you to use the word tree@q . 101341_105092
+%mor:	adv|instead prep|of meta|pencil adv|now pro:sub|I v|want
+	pro:per|you inf|to v|use det:art|the n|word meta|tree .
+%gra:	1|4|JCT 2|1|JCT 3|2|POBJ 4|6|JCT 5|6|SUBJ 6|0|ROOT 7|9|SUBJ 8|9|INF
+	9|6|COMP 10|11|DET 11|9|OBJ 12|9|ENUM 13|6|PUNCT
+*PAR:	tree@q . [+ exc] 105092_106400
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 106400_107210
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	well ‡ would that be &um (.) <to get> [/] to get one of them things
+	up in there . [+ exc] 107210_115334
+%mor:	co|well beg|beg mod|will&COND pro:dem|that cop|be inf|to v|get
+	pro:indef|one prep|of pro:obj|them n|thing-PL adv|up prep|in
+	adv|there .
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|8|NJCT 10|9|POBJ 11|8|ENUM 12|11|NJCT 13|11|NJCT 14|13|POBJ 15|5|PUNCT
+*INV:	okay ‡ I want you to come up with a sentence for me . 115334_119550
+%mor:	co|okay beg|beg pro:sub|I v|want pro:per|you inf|to v|come adv|up
+	prep|with det:art|a n|sentence prep|for pro:obj|me .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|7|JCT 10|11|DET 11|9|POBJ 12|7|JCT 13|12|POBJ 14|4|PUNCT
+*INV:	a sentence that has the word tree@q in it . 119550_123020
+%mor:	det:art|a n|sentence pro:rel|that v|have&3S det:art|the n|word
+	meta|tree prep|in pro:per|it .
+%gra:	1|2|DET 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|6|DET 6|4|OBJ 7|6|POSTMOD
+	8|7|JCT 9|8|POBJ 10|2|PUNCT
+*INV:	say something with the word tree@q in it . 122920_125713
+%mor:	v|say pro:indef|something prep|with det:art|the n|word meta|tree
+	prep|in pro:per|it .
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|5|POSTMOD 7|6|JCT 8|7|POBJ
+	9|1|PUNCT
+*PAR:	with tree@q ? [+ exc] 125713_127740
+%mor:	prep|with meta|tree ?
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*INV:	mhm . 127740_128765
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) well ‡ we wanna get something for [/] for the tree and for the
+	[/] (.) &uh the [//] to put something <on for> [/] on for that . 128765_145072
+%mor:	co|well beg|beg pro:sub|we v|want~inf|to v|get pro:indef|something
+	prep|for det:art|the n|tree coord|and prep|for inf|to v|put&ZERO
+	pro:indef|something adv|on prep|for pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|7|NJCT
+	9|10|DET 10|8|POBJ 11|10|CONJ 12|11|COORD 13|14|INF 14|12|CPOBJ 15|14|OBJ
+	16|14|JCT 17|14|JCT 18|17|POBJ 19|4|PUNCT
+*INV:	okay . 145072_146000
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

@@ -1,0 +1,57 @@
+@UTF8
+@PID:	11312/t-00017076-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|86;|male|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	212-3, audio
+*INV:	use the word pencil@q in a sentence . 0_5219
+%mor:	v|use det:art|the n|word meta|pencil prep|in det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	I like this new pencil . 5219_7057
+%mor:	pro:sub|I v|like det:dem|this adj|new n|pencil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*INV:	use the word tree@q in a sentence . 7057_15720
+%mor:	v|use det:art|the n|word meta|tree prep|in det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|JCT 6|7|DET 7|5|POBJ 8|1|PUNCT
+*PAR:	the tree in my backyard has grown fast . 15720_20622
+%mor:	det:art|the n|tree prep|in det:poss|my n|+n|back+n|yard aux|have&3S
+	part|grow&PASTP n|fast .
+%gra:	1|2|DET 2|7|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|7|AUX 7|0|ROOT 8|7|OBJ
+	9|7|PUNCT
+*INV:	(..) use the words child@q and hospital@q in a sentence . 20622_34784
+%mor:	v|use det:art|the n|word-PL meta|child coord|and meta|hospital
+	prep|in det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	my child was born in the hospital . 34784_39127
+%mor:	det:poss|my n|child cop|be&PAST&13S adj|born prep|in det:art|the
+	n|hospital .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|3|JCT 6|7|DET 7|5|POBJ 8|3|PUNCT
+*INV:	(.) use the words cold@q and winter@q in a sentence . 39127_48024
+%mor:	v|use det:art|the n|word-PL meta|cold coord|and meta|winter prep|in
+	det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|JCT 5|4|CONJ 6|5|COORD 7|6|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	it's cold in the winter . 48024_49786
+%mor:	pro:per|it~cop|be&3S adv|cold prep|in det:art|the n|winter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|6|DET 6|4|POBJ 7|2|PUNCT
+*INV:	(.) use the words chair@q doctor@q and sit@q in a sentence . 49786_61071
+%mor:	v|use det:art|the n|word-PL meta|chair meta|doctor coord|and
+	meta|sit prep|in det:art|a n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|3|CONJ 5|4|COORD 6|5|CONJ 7|6|COORD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|1|PUNCT
+*PAR:	I hadta sit in a doctor's chair . 61071_63903
+%mor:	pro:sub|I mod|have&PAST~inf|to v|sit prep|in det:art|a
+	adj|doctor&dn-POSS n|chair .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|4|PUNCT
+*INV:	bureau@q open@q and drawer@q . 63903_74984
+%mor:	meta|bureau meta|open coord|and meta|drawer .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	I opened the drawers of my bureau . 74984_79731
+%mor:	pro:sub|I v|open-PAST det:art|the n|drawer-PL prep|of det:poss|my
+	n|bureau .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|NJCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+@End

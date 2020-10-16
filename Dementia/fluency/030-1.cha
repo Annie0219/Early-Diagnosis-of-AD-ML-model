@@ -1,0 +1,143 @@
+@Font:	Courier:16:0
+@UTF8
+@PID:	11312/t-00016047-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|64;|male|MCI||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	030-1, audio
+@G:	foods
+*PAR:	corn . 0_1533
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &uh apples . 1533_6153
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oranges . 6153_7224
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh grapes . 7224_9722
+%mor:	n|grape-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cherries . 9722_10542
+%mor:	n|cherry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bananas . 10542_12248
+%mor:	n|banana-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	grapefruits . 12248_13189
+%mor:	n|+n|grape+n|fruit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oranges . 13189_14083
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	crackers . 14083_16683
+%mor:	n|cracker-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um sweet crackers . 16683_18402
+%mor:	adj|sweet n|cracker-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &um &uh (..) icecream . 18402_26157
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ices . 26157_28328
+%mor:	n|ice-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &uh (..) spareribs . 28328_37340
+%mor:	n|+adj|spare+n|rib-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh pork steaks . 37340_41253
+%mor:	n|pork n|steak-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	pork chops . 41253_42599
+%mor:	n|pork v|chop-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	&uh veal chops . 42599_45760
+%mor:	n|veal v|chop-3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*PAR:	veal steaks . 45760_47293
+%mor:	n|veal n|steak-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh roast beef . 47293_50300
+%mor:	n|roast n|beef .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	okay ‡ hold it . 50300_51577
+%mor:	co|okay beg|beg n|hold pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	excuse_me ? [+ exc] 51577_52842
+%mor:	co|excuse_me ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	hold on ! 52842_53632
+%mor:	n|hold adv|on !
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*INV:	&=laughs that's it . 53632_55106
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	S
+*INV:	okay ‡ off you go . 55106_59808
+%mor:	co|okay beg|beg prep|off pro:per|you v|go .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*PAR:	shoes . 59808_60481
+%mor:	n|shoe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	scissors . 60481_61492
+%mor:	n|scissors .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	saxophone . 61492_63558
+%mor:	n|saxophone .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sex . 63558_66588
+%mor:	n|sex .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &symb &uh symbol . 66588_70153
+%mor:	n|symbol .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um Sunday . 70153_75180
+%mor:	n:prop|Sunday .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ no ‡ that's a noun . [+ exc] 75180_76898
+%mor:	co|oh beg|beg co|no beg|beg pro:dem|that~cop|be&3S det:art|a n|noun
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|6|SUBJ 6|0|ROOT 7|8|DET 8|6|PRED
+	9|6|PUNCT
+*PAR:	you don't want that . [+ exc] 76898_77630
+%mor:	pro:per|you mod|do~neg|not v|want pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	no . 77630_78152
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um &uh sentence . 78152_82831
+%mor:	n|sentence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	serious . 82831_85490
+%mor:	adj|serious .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	salute . 85490_89611
+%mor:	n|salute .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	salutary . 89611_93362
+%mor:	adj|salutary .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (..) season . 93362_103892
+%mor:	n|season .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sorry . 103892_106110
+%mor:	co|sorry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) sally . 106110_112646
+%mor:	n|sally .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	not the name . [+ exc] 112646_113482
+%mor:	neg|not det:art|the n|name .
+%gra:	1|3|NEG 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um senior . 113482_117336
+%mor:	adj|senior .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ hold it . 117336_124904
+%mor:	co|okay beg|beg n|hold pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	+< subject . 120200_121738
+%mor:	n|subject .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

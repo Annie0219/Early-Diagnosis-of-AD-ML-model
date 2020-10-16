@@ -1,0 +1,140 @@
+@UTF8
+@PID:	11312/t-00016626-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|61;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	283-0, audio
+*PAR:	mhm . [+ exc] 0_1090
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	the first word is pencil@q . 1090_3628
+%mor:	det:art|the adj|first n|word cop|be&3S meta|pencil .
+%gra:	1|3|DET 2|3|MOD 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	you can write a note . 3628_5200
+%mor:	pro:per|you mod|can v|write det:art|a n|note .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	&=clears:throat . 5200_9000
+*INV:	tree@q . 9000_10273
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh the tree has (.) leaves . 10273_14803
+%mor:	det:art|the n|tree aux|have&3S n|leaf-PL .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|INCROOT 5|4|PUNCT
+*PAR:	they're about to fall down . [+ exc] 14803_16157
+%mor:	pro:sub|they~cop|be&PRES adv|about inf|to v|fall adv|down .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|INF 5|2|XJCT 6|5|JCT 7|2|PUNCT
+*INV:	(..) okay ‡ now I'm going to give you two words . 16157_25245
+%mor:	co|okay beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to
+	v|give pro:per|you det:num|two n|word-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|SUBJ 10|11|QUANT 11|8|OBJ 12|6|PUNCT
+*INV:	and I want you to use both words . 25145_27080
+%mor:	coord|and pro:sub|I v|want pro:per|you inf|to v|use qn|both
+	n|word-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|8|QUANT 8|6|OBJ
+	9|3|PUNCT
+*PAR:	+< mhm . [+ exc] 25245_25883
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	together . [+ exc] 27080_27432
+%mor:	adv|together .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	in one sentence . 27432_28927
+%mor:	prep|in det:num|one n|sentence .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|1|PUNCT
+*PAR:	+< mhm . [+ exc] 28227_29051
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you don't needta worry about the order . 29051_30704
+%mor:	pro:per|you mod|do~neg|not v|need~inf|to v|worry prep|about
+	det:art|the n|order .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	mhm . [+ exc] 30704_31127
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	the first two words are child@q hospital@q . 31127_35269
+%mor:	det:art|the adj|first det:num|two n|word-PL cop|be&PRES meta|child
+	meta|hospital .
+%gra:	1|4|DET 2|4|MOD 3|4|QUANT 4|5|SUBJ 5|0|ROOT 6|5|PRED 7|5|PRED 8|5|PUNCT
+*PAR:	&uh the child was rushed to the hospital . 35269_39735
+%mor:	det:art|the n|child aux|be&PAST&13S part|rush-PASTP prep|to
+	det:art|the n|hospital .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*INV:	(..) cold@q winter@q . 39735_48249
+%mor:	meta|cold meta|winter .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	it [//] during a cold winter you stay at home and don't go out
+	unless you're needed . 48249_55378
+%mor:	prep|during det:art|a adj|cold n|winter pro:per|you v|stay prep|at
+	n|home coord|and mod|do~neg|not v|go adv|out conj|unless
+	pro:per|you~aux|be&PRES part|need-PASTP .
+%gra:	1|6|JCT 2|4|DET 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|CONJ 10|12|AUX 11|10|NEG 12|9|COORD 13|12|JCT 14|17|LINK 15|17|SUBJ
+	16|17|AUX 17|12|CJCT 18|6|PUNCT
+*PAR:	&=coughs . [+ exc] 55378_58660
+*INV:	(..) now I'm going to give you three words . 58660_70579
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	det:num|three n|word-PL .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|4|PUNCT
+*PAR:	mhm . [+ exc] 70579_70845
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and I want you to use all three words . 70845_73538
+%mor:	coord|and pro:sub|I v|want pro:per|you inf|to v|use qn|all
+	det:num|three n|word-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|9|QUANT
+	8|9|QUANT 9|6|OBJ 10|3|PUNCT
+*PAR:	+< mhm . [+ exc] 72850_73440
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	in one brief simple sentence . 73440_75200
+%mor:	prep|in det:num|one adj|brief adj|simple n|sentence .
+%gra:	1|0|INCROOT 2|5|QUANT 3|5|MOD 4|5|MOD 5|1|POBJ 6|1|PUNCT
+*PAR:	+< okay . [+ exc] 75200_75466
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you don't needta worry about the order . 75466_77631
+%mor:	pro:per|you mod|do~neg|not v|need~inf|to v|worry prep|about
+	det:art|the n|order .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	+< mhm . [+ exc] 77039_77834
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	chair@q [/] chair@q . 77834_81222
+%mor:	meta|chair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ yes uhhuh . [+ exc] 81222_82857
+%mor:	co|oh beg|beg co|yes co|uhhuh .
+%gra:	1|0|BEG 2|1|BEGP 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*INV:	doctor@q . 82857_83566
+%mor:	meta|doctor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< mhm . [+ exc] 83566_84259
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	sit@q . 84259_85816
+%mor:	meta|sit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &hm we hadta sit in a chair before the doctor came . 85100_90781
+%mor:	pro:sub|we mod|have&PAST~inf|to v|sit prep|in det:art|a n|chair
+	conj|before det:art|the n|doctor v|come&PAST .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|4|CJCT 12|4|PUNCT
+*INV:	(...) bureau@q open@q . 90781_104372
+%mor:	meta|bureau meta|open .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*INV:	drawer@q . 104372_105426
+%mor:	meta|drawer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mhm . [+ exc] 105426_106344
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	somebody opened the bureau drawer . 106344_109444
+%mor:	pro:indef|somebody v|open-PAST det:art|the n|bureau n|drawer .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+@End

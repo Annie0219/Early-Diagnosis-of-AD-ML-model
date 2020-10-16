@@ -1,0 +1,135 @@
+@UTF8
+@PID:	11312/t-00016096-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	134-1, audio
+@G:	foods
+*PAR:	&s . [+ exc] 0_856
+*INV:	so ‡ anything that you can think of that's something to eat . 856_6008
+%mor:	co|so beg|beg pro:indef|anything pro:rel|that pro:per|you mod|can
+	v|think prep|of pro:rel|that~cop|be&3S pro:indef|something inf|to
+	v|eat .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD 8|7|JCT
+	9|10|LINK 10|8|POBJ 11|10|PRED 12|13|INF 13|11|XMOD 14|3|PUNCT
+*INV:	and you can begin now . 6008_7199
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	okay . [+ exc] 7199_8324
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread . 8324_10881
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 10881_11813
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and meat . 11813_14629
+%mor:	coord|and n|meat .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 14629_16545
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and vegetables . 16545_19892
+%mor:	coord|and n|vegetable-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	(..) mhm . 19892_24934
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) anything else ? 24934_34180
+%mor:	pro:indef|anything post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	+< milk . 34000_35161
+%mor:	n|milk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	milk . 35161_35924
+%mor:	n|milk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what else ? 35924_38571
+%mor:	pro:int|what post|else ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|PUNCT
+*PAR:	(..) peas and corn . 38571_46104
+%mor:	n|pea-PL coord|and n|corn .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	tomatos . 46104_47815
+%mor:	n|tomato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	potatoes . 47815_49434
+%mor:	n|potato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rice . 49434_52547
+%mor:	n|rice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) spinach . 52547_58914
+%mor:	n|spinach .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) did I say cabbage@q ? [+ exc] 58914_65122
+%mor:	mod|do&PAST pro:sub|I v|say meta|cabbage ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	no . 65122_65637
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cabbage . 65637_66493
+%mor:	n|cabbage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< (o)kay . 66493_67178
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 67178_69513
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	greenbeans . 69513_71614
+%mor:	n|+n|green+n|bean-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm ‡ green beans . 71614_73654
+%mor:	co|mhm=yes beg|beg adj|green n|bean-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+@G:	S
+*INV:	any words at all . 73654_74930
+%mor:	qn|any n|word-PL prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*INV:	and you have any type of words at all beginning with the letter s@l
+	except for proper names and derivatives . 74930_80422
+%mor:	coord|and pro:per|you v|have qn|any n|type prep|of n|word-PL
+	prep|at qn|all n|beginning prep|with det:art|the n|letter n:let|s
+	prep|except prep|for adj|proper n|name-PL coord|and n|derivative-PL
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|5|NJCT 7|6|POBJ 8|3|JCT
+	9|10|QUANT 10|8|POBJ 11|3|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+	15|14|INCROOT 16|15|JCT 17|18|MOD 18|16|POBJ 19|18|CONJ 20|19|COORD 21|15|PUNCT
+*INV:	and you can begin now . 80422_81885
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	salt and sugar . 81830_84999
+%mor:	n|salt coord|and n|sugar .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*INV:	(..) mhm . 84999_89207
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sand . 89207_93177
+%mor:	n|sand .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) it doesn't just hafta be things to eat . 93177_103199
+%mor:	pro:per|it mod|do&3S~neg|not adj|just mod|have~inf|to cop|be
+	n|thing-PL inf|to v|eat .
+%gra:	1|7|SUBJ 2|7|AUX 3|2|NEG 4|7|JCT 5|7|AUX 6|7|INF 7|0|ROOT 8|7|PRED
+	9|10|INF 10|8|XMOD 11|7|PUNCT
+*INV:	it can be anything at all . 103199_104289
+%mor:	pro:per|it mod|can cop|be pro:indef|anything prep|at pro:indef|all
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*INV:	any words at all . 104289_105083
+%mor:	qn|any n|word-PL prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*INV:	(...) any words that begin with the letter s@l . 105083_127991
+%mor:	qn|any n|word-PL pro:rel|that v|begin prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|8|SUBJ
+	8|5|POBJ 9|2|PUNCT
+*PAR:	(...) &s . [+ exc] 127991_141734
+*INV:	okay . 141695_144651
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

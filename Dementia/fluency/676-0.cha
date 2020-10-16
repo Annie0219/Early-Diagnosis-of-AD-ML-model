@@ -1,0 +1,142 @@
+@UTF8
+@PID:	11312/t-00016238-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|72;|male|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	676-0, audio
+@G:	animals
+*PAR:	dogs . 0_1010
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) bear . 1010_11122
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&wo wolves . 11122_14733
+%mor:	n|wolf-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 14733_15232
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) how many more ? [+ exc] 15232_23556
+%mor:	pro:int|how qn|many pro:indef|more ?
+%gra:	1|3|LINK 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*INV:	<you still have an> [//] you still have &uh thirty seconds . 23556_27690
+%mor:	pro:per|you adv|still v|have det:num|thirty n|second-PL .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|QUANT 5|3|OBJ 6|3|PUNCT
+*PAR:	rabbit . 27690_32926
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 32926_33970
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fish . 33970_35224
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I say squirrels@q ? 35224_38603
+%mor:	mod|do&PAST pro:sub|I v|say meta|squirrels ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	hmhunh . 38603_39474
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) pig . 39474_47786
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 47786_48460
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay ‡ that's a minute . 48460_56482
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S det:art|a n|minute .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*INV:	that's good . 56482_57469
+%mor:	pro:dem|that~cop|be&3S adj|good .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@G:	F
+*INV:	I'm going to give you another minute . 57469_60209
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	qn|another n|minute .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ2 7|8|QUANT 8|5|OBJ
+	9|3|PUNCT
+*INV:	and in that minute's time I want you to name for me as many words
+	as you can think of that start with the letter f@l . 60209_66049
+%mor:	coord|and prep|in det:dem|that adj|minute&dn-POSS n|time pro:sub|I
+	v|want pro:per|you inf|to v|name prep|for pro:obj|me adv|as qn|many
+	n|word-PL adv|as pro:per|you mod|can v|think prep|of adv|that
+	v|start prep|with det:art|the n|letter n:let|f .
+%gra:	1|7|LINK 2|7|JCT 3|5|DET 4|5|MOD 5|2|POBJ 6|7|SUBJ 7|0|ROOT 8|10|SUBJ
+	9|10|INF 10|7|COMP 11|10|JCT 12|11|POBJ 13|15|COORD 14|15|QUANT
+	15|22|SUBJ 16|19|JCT 17|19|SUBJ 18|19|AUX 19|15|ENUM 20|19|JCT 21|22|JCT
+	22|10|CJCT 23|22|JCT 24|25|DET 25|26|SUBJ 26|23|POBJ 27|7|PUNCT
+*INV:	all of the words that you can think that start with the letter f@l
+	. 66049_70298
+%mor:	pro:indef|all prep|of det:art|the n|word-PL pro:rel|that
+	pro:per|you mod|can v|think adv|that v|start prep|with det:art|the
+	n|letter n:let|f .
+%gra:	1|10|SUBJ 2|1|NJCT 3|4|DET 4|2|POBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|4|CMOD
+	9|8|JCT 10|0|ROOT 11|10|JCT 12|13|DET 13|14|SUBJ 14|11|POBJ 15|10|PUNCT
+*INV:	okay ? 70298_71180
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fire . 71180_72376
+%mor:	n|fire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< ready ? 71981_72585
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 72585_73050
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&Fran fence . 73050_75163
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 75163_76254
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fish . 76254_79934
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um fox . 79934_84451
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um +... 84451_105000
+*INV:	anything that starts with f@l . 105000_107044
+%mor:	pro:indef|anything pro:rel|that v|start-3S prep|with n:let|f .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*PAR:	oh ‡ I'm not thinking about it . [+ exc] 107044_109529
+%mor:	co|oh beg|beg pro:sub|I~aux|be&1S neg|not part|think-PRESP
+	prep|about pro:per|it .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+*INV:	you have &uh forty seconds left . 109529_112768
+%mor:	pro:per|you v|have det:num|forty n|second-PL v|leave&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|5|SUBJ 5|2|COMP 6|2|PUNCT
+*PAR:	(.) fire . 112768_117447
+%mor:	n|fire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 117447_118074
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	France . 118074_119874
+%mor:	n:prop|France .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 119874_120489
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay ‡ that's a minute . 120489_134514
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S det:art|a n|minute .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PRED 7|4|PUNCT
+*PAR:	okay . [+ exc] 134514_135280
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 135280_136000
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	well we are ticking them off here . 136000_141538
+%mor:	co|well pro:sub|we aux|be&PRES part|tick-PRESP pro:obj|them
+	prep|off n|here .
+%gra:	1|4|COM 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*INV:	we don't have too much more . 141538_142641
+%mor:	pro:sub|we mod|do~neg|not v|have adv|too adv|much pro:indef|more .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|JCT 6|4|JCT 7|6|POBJ 8|4|PUNCT
+@End

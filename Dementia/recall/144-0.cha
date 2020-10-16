@@ -1,0 +1,52 @@
+@UTF8
+@PID:	11312/t-00016322-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	144-0, audio
+@G:	George_Immediate
+*INV:	okay ‡ good . 0_1215
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	all of the details you can remember from the story . 1215_3922
+%mor:	pro:indef|all prep|of det:art|the n|detail-PL pro:per|you mod|can
+	v|remember prep|from det:art|the n|story .
+%gra:	1|7|JCT 2|1|NJCT 3|4|DET 4|2|POBJ 5|7|SUBJ 6|7|AUX 7|0|ROOT 8|7|JCT
+	9|10|DET 10|8|POBJ 11|7|PUNCT
+*PAR:	George Miller moved into his son's house . 3922_9215
+%mor:	n:prop|George n:prop|Miller v|move-PAST prep|into det:poss|his
+	adj|son&dn-POSS n|house .
+%gra:	1|2|NAME 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	and &uh (.) his son had a daughter Melanie . 9215_14816
+%mor:	coord|and det:poss|his n|son v|have&PAST det:art|a n|daughter
+	n:prop|Melanie .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|APP 8|4|PUNCT
+*PAR:	and she enjoyed listening to her grandfather tell about his
+	childhood (.) in the city . 14816_22101
+%mor:	coord|and pro:sub|she v|enjoy-PAST part|listen-PRESP prep|to
+	det:poss|her grand#n|father v|tell prep|about det:poss|his
+	n|childhood prep|in det:art|the n|city .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CJCT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|11|NJCT 13|14|DET 14|12|POBJ 15|3|PUNCT
+*PAR:	and one Friday (.) they went to the city . 22101_26754
+%mor:	coord|and det:num|one n:prop|Friday pro:sub|they v|go&PAST prep|to
+	det:art|the n|city .
+%gra:	1|5|LINK 2|3|QUANT 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and she held tightly to her grandfather's hand because she was
+	afraid of the noises in the city . 26754_35609
+%mor:	coord|and pro:sub|she v|hold&PAST adv|tight&dadj-LY prep|to
+	det:poss|her grand#adj|father&dn-POSS n|hand conj|because
+	pro:sub|she cop|be&PAST&13S adj|afraid prep|of det:art|the
+	n|noise-PL prep|in det:art|the n|city .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|11|LINK 10|11|SUBJ 11|3|CJCT 12|11|PRED 13|12|JCT 14|15|DET 15|13|POBJ
+	16|15|NJCT 17|18|DET 18|16|POBJ 19|3|PUNCT
+*PAR:	and she was very happy when she returned home . 35609_39563
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adv|very adj|happy conj|when
+	pro:sub|she v|return-PAST adv|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|JCT 5|3|PRED 6|8|LINK 7|8|SUBJ 8|3|CJCT
+	9|8|JCT 10|3|PUNCT
+@End

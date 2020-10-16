@@ -1,0 +1,78 @@
+@UTF8
+@PID:	11312/t-00016263-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	023-0, audio
+@Comment:	poor audio quality
+@G:	George_Immediate
+*INV:	can you tell me everything that you can remember about that story ?
+	0_3844
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|everything
+	pro:rel|that pro:per|you mod|can v|remember prep|about det:dem|that
+	n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ2 5|3|OBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|12|DET 12|10|POBJ 13|3|PUNCT
+*PAR:	well ‡ he took his [/] his &uh granddaughter „ wouldn't it be +/? 3844_11798
+%mor:	co|well beg|beg pro:sub|he v|take&PAST det:poss|his
+	grand#n|daughter end|end mod|will&COND~neg|not pro:per|it cop|be +/?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|11|ENDP 8|11|AUX
+	9|8|NEG 10|11|SUBJ 11|4|END 12|4|PUNCT
+*INV:	okay . 11798_12825
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+, to see their former home . 12825_19361
+%mor:	inf|to v|see det:poss|their adj|former n|home .
+%gra:	1|2|INF 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	I'm [//] &s (..) and upon returning home +... 19361_34000
+%mor:	coord|and prep|upon part|return-PRESP adv|home +...
+%gra:	1|3|LINK 2|3|JCT 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	no ‡ they don't have . [+ exc] 34000_37010
+%mor:	co|no beg|beg pro:sub|they mod|do~neg|not v|have .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|PUNCT
+*PAR:	(..) you see ‡ I lost track &=laughs there &=laughs . [+ exc] 37010_51313
+%mor:	pro:per|you v|see beg|beg pro:sub|I v|lose&PAST n|track adv|there .
+%gra:	1|2|SUBJ 2|0|BEG 3|2|BEGP 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|JCT 8|5|PUNCT
+*INV:	+< mhm ‡ it's okay . 50488_52917
+%mor:	co|mhm=yes beg|beg pro:per|it~cop|be&3S adj|okay .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	anything else that comes to mind ? 52917_56013
+%mor:	pro:indef|anything post|else pro:dem|that v|come-3S prep|to n|mind
+	?
+%gra:	1|4|LINK 2|1|PQ 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*INV:	can you remember anything else ? 56013_57399
+%mor:	mod|can pro:per|you v|remember pro:indef|anything post|else ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|4|PQ 6|3|PUNCT
+*PAR:	(...) no ‡ only that &uh he took her on this trip to the city +/. 57399_78875
+%mor:	co|no beg|beg adv|only pro:rel|that pro:sub|he v|take&PAST
+	pro:obj|her prep|on det:dem|this n|trip prep|to det:art|the n|city
+	+/.
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|6|OBJ 8|6|JCT
+	9|10|DET 10|8|POBJ 11|6|JCT 12|13|DET 13|11|POBJ 14|3|PUNCT
+*INV:	mhm . 78875_79701
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+, to see their former home . 79701_82658
+%mor:	inf|to v|see det:poss|their adj|former n|home .
+%gra:	1|2|INF 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	and she was (..) greatly pleased that she made the trip . 82658_92479
+%mor:	coord|and pro:sub|she aux|be&PAST&13S adv|great&dadj-LY
+	part|please-PASTP comp|that pro:sub|she v|make&PAST det:art|the
+	n|trip .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|8|LINK 7|8|SUBJ 8|5|COMP
+	9|10|DET 10|8|OBJ 11|5|PUNCT
+*INV:	okay . 92479_93631
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) you_know I'll hafta learn this (.) game we're playing &=laughs
+	. [+ exc] 93631_106223
+%mor:	co|you_know pro:sub|I~mod|will mod|have~inf|to v|learn det:dem|this
+	n|game pro:sub|we~aux|be&PRES part|play-PRESP .
+%gra:	1|6|COM 2|6|SUBJ 3|6|AUX 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|11|SUBJ 10|11|AUX 11|8|CMOD 12|6|PUNCT
+*INV:	&=laughs okay ‡ that's fine thank_you . 106223_113724
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine n|thank_you .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|4|PUNCT
+@End

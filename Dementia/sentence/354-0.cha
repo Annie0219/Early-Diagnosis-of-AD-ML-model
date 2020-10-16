@@ -1,0 +1,99 @@
+@UTF8
+@PID:	11312/t-00016648-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|60;|male|PossibleAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	354-0, audio
+*INV:	okay . 0_3000
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	how_(a)bout the word pencil@q ? 3000_4289
+%mor:	pro:int|how_about det:art|the n|word meta|pencil ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	sharpen up (.) the pencil „ please . 4289_7226
+%mor:	v|sharpen adv|up det:art|the n|pencil end|end co|please .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|ENDP 6|1|END 7|1|PUNCT
+*INV:	(..) how_(a)bout the word tree@q ? 7226_13461
+%mor:	pro:int|how_about det:art|the n|word meta|tree ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*PAR:	the tree looks beautiful in bloom . 13461_16886
+%mor:	det:art|the n|tree v|look-3S adj|beautiful prep|in n|bloom .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|COMP 5|4|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	or is that too long ? [+ exc] 16886_18825
+%mor:	coord|or cop|be&3S comp|that adv|too adj|long ?
+%gra:	1|2|LINK 2|0|ROOT 3|5|LINK 4|5|JCT 5|2|PRED 6|2|PUNCT
+*INV:	(.) okay ‡ now I'm gonna give you two words . 18825_24722
+%mor:	co|okay beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|give pro:per|you det:num|two n|word-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|SUBJ 10|11|QUANT 11|8|OBJ 12|6|PUNCT
+*INV:	don't worry about the order that I give you the two words in . 24722_28101
+%mor:	mod|do~neg|not v|worry prep|about det:art|the n|order pro:rel|that
+	pro:sub|I v|give pro:per|you det:art|the det:num|two n|word-PL
+	adv|in .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|9|LINK 8|9|SUBJ
+	9|6|CMOD 10|9|OBJ2 11|13|DET 12|13|QUANT 13|9|OBJ 14|9|JCT 15|3|PUNCT
+*INV:	just use both of them in one short simple sentence . 28101_31804
+%mor:	adj|just v|use qn|both prep|of pro:obj|them prep|in det:num|one
+	adj|short adj|simple n|sentence .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|3|JCT 5|4|POBJ 6|2|JCT 7|10|QUANT 8|10|MOD
+	9|10|MOD 10|6|POBJ 11|2|PUNCT
+*INV:	child@q hospital@q . 31804_34138
+%mor:	meta|child meta|hospital .
+%gra:	1|0|INCROOT 2|1|ENUM 3|1|PUNCT
+*PAR:	the child is at the hospital . 34138_39653
+%mor:	det:art|the n|child cop|be&3S prep|at det:art|the n|hospital .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	how_(a)bout cold@q winter@q ? 39653_44204
+%mor:	pro:int|how_about meta|cold meta|winter ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	it's been a cold winter . 44204_45980
+%mor:	pro:per|it~cop|be&3S cop|be&PASTP det:art|a adj|cold n|winter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|DET 5|6|MOD 6|3|PRED 7|2|PUNCT
+*INV:	(..) (o)kay ‡ now I'm gonna give you three words . 45980_52171
+%mor:	co|okay beg|beg adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to
+	v|give pro:per|you det:num|three n|word-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|JCT 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|INF 8|6|COMP
+	9|10|SUBJ 10|11|QUANT 11|8|OBJ 12|6|PUNCT
+*INV:	again don't worry about the order that I give them to you in . 52171_54934
+%mor:	adv|again mod|do~neg|not v|worry prep|about det:art|the n|order
+	pro:rel|that pro:sub|I v|give pro:obj|them prep|to pro:per|you
+	adv|in .
+%gra:	1|4|JCT 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|10|LINK
+	9|10|SUBJ 10|7|CMOD 11|10|OBJ 12|10|JCT 13|12|POBJ 14|13|JCT 15|4|PUNCT
+*INV:	just use all three of them in one short simple sentence . 54934_59230
+%mor:	adj|just n|use adv|all det:num|three prep|of pro:obj|them prep|in
+	det:num|one adj|short adj|simple n|sentence .
+%gra:	1|2|MOD 2|0|INCROOT 3|4|JCT 4|2|XMOD 5|4|JCT 6|5|POBJ 7|4|JCT
+	8|11|QUANT 9|11|MOD 10|11|MOD 11|7|POBJ 12|2|PUNCT
+*INV:	chair@q doctor@q sit@q . 59230_63839
+%mor:	meta|chair meta|doctor meta|sit .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	went to the doctor's I was sick (.) and I sat in his chair . 63839_70457
+%mor:	v|go&PAST prep|to det:art|the adj|doctor&dn-POSS pro:sub|I
+	cop|be&PAST&13S adj|sick coord|and pro:sub|I v|sit&PAST prep|in
+	det:poss|his n|chair .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|6|SUBJ 6|1|CJCT 7|6|PRED 8|10|LINK
+	9|10|SUBJ 10|6|CJCT 11|10|JCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+*PAR:	&=laughs . [+ exc] 70457_72802
+*PAR:	oh ‡ that's gonna hurt [//] come back at me „ huh ? [+ exc] 72802_75797
+%mor:	co|oh beg|beg pro:dem|that~aux|be&3S part|go-PRESP~inf|to v|come
+	adv|back prep|at pro:obj|me end|end co|huh ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|7|JCT
+	9|7|JCT 10|9|POBJ 11|12|ENDP 12|5|END 13|5|PUNCT
+*INV:	okay ‡ how_about bureau@q open@q drawer@q . 75797_81904
+%mor:	co|okay beg|beg pro:int|how_about meta|bureau meta|open meta|drawer
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|4|LINK 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+*PAR:	go close the drawer on the bureau . 81904_84876
+%mor:	v|go v|close det:art|the n|drawer prep|on det:art|the n|bureau .
+%gra:	1|2|SRL 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*PAR:	we stayed in the bureau . [+ exc] 84876_89660
+%mor:	pro:sub|we v|stay-PAST prep|in det:art|the n|bureau .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	okay . 89660_92701
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

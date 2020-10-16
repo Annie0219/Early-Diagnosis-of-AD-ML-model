@@ -1,0 +1,76 @@
+@UTF8
+@PID:	11312/t-00017417-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	310-0, audio
+*INV:	use the word pencil@q in a brief simple sentence . 0_11100
+%mor:	v|use det:art|the n|word meta|pencil prep|in det:art|a adj|brief
+	adj|simple n|sentence .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|JCT 6|9|DET 7|9|MOD 8|9|MOD
+	9|5|POBJ 10|1|PUNCT
+*PAR:	I need a pencil . 11100_13892
+%mor:	pro:sub|I v|need det:art|a n|pencil .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	(..) tree@q . 13892_19128
+%mor:	meta|tree .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) I have a tree in my yard . 19128_25695
+%mor:	pro:sub|I v|have det:art|a n|tree prep|in det:poss|my n|yard .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	(...) I'm going to give you two words . 25695_36357
+%mor:	pro:sub|I~aux|be&1S part|go-PRESP inf|to v|give pro:per|you
+	det:num|two n|word-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|INF 5|3|COMP 6|7|SUBJ 7|8|QUANT 8|5|OBJ
+	9|3|PUNCT
+*INV:	child@q and hospital@q . 36357_38365
+%mor:	meta|child coord|and meta|hospital .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*INV:	can you put them into the same sentence ? 38365_41076
+%mor:	mod|can pro:per|you v|put&ZERO pro:obj|them prep|into det:art|the
+	adj|same n|sentence ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|8|DET 7|8|MOD 8|5|POBJ
+	9|3|PUNCT
+*PAR:	my child is in the hospital . 41076_43188
+%mor:	det:poss|my n|child cop|be&3S prep|in det:art|the n|hospital .
+%gra:	1|2|DET 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*PAR:	(..) xxx . [+ exc] 43188_50400
+*INV:	&=laughs that's right it is . 50200_52200
+%mor:	pro:dem|that~cop|be&3S adj|right pro:per|it cop|be&3S .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|JCT 4|5|SUBJ 5|2|PRED 6|2|PUNCT
+*INV:	cold@q and winter@q . 52200_54815
+%mor:	meta|cold coord|and meta|winter .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	I get very cold in the winter . 54815_59886
+%mor:	pro:sub|I v|get adv|very adv|cold prep|in det:art|the n|winter .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	(..) okay . 59886_69875
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now I'm gonna give you three words and I'd like you to use all
+	three in the same sentence . 69875_74875
+%mor:	adv|now pro:sub|I~aux|be&1S part|go-PRESP~inf|to v|give pro:per|you
+	det:num|three n|word-PL coord|and pro:sub|I~mod|genmod v|like
+	pro:per|you inf|to v|use qn|all det:num|three prep|in det:art|the
+	adj|same n|sentence .
+%gra:	1|4|JCT 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|INF 6|4|COMP 7|8|SUBJ 8|9|QUANT
+	9|6|OBJ 10|13|LINK 11|13|SUBJ 12|13|AUX 13|4|CJCT 14|13|OBJ 15|16|INF
+	16|13|COMP 17|18|QUANT 18|16|OBJ 19|16|JCT 20|22|DET 21|22|MOD 22|19|POBJ
+	23|4|PUNCT
+*INV:	chair@q doctor@q and sit@q . 74875_81459
+%mor:	meta|chair meta|doctor coord|and meta|sit .
+%gra:	1|0|INCROOT 2|1|POSTMOD 3|2|CONJ 4|3|COORD 5|1|PUNCT
+*PAR:	I sit in the chair and for the doctor . 81459_89349
+%mor:	pro:sub|I v|sit prep|in det:art|the n|chair coord|and prep|for
+	det:art|the n|doctor .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|CONJ 7|6|COORD 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*INV:	(..) okay ‡ bureau@q open@q and drawer@q . 89349_103205
+%mor:	co|okay beg|beg meta|bureau meta|open coord|and meta|drawer .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|POSTMOD 5|4|CONJ 6|5|COORD 7|3|PUNCT
+*PAR:	(..) I left the bureau drawer open . 103205_112353
+%mor:	pro:sub|I v|leave&PAST det:art|the n|bureau n|drawer adj|open .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|5|POSTMOD 7|2|PUNCT
+@End

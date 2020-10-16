@@ -1,0 +1,100 @@
+@UTF8
+@PID:	11312/t-00016199-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|74;|male|Vascular||Participant|14||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	468-0, audio
+@G:	animals
+*INV:	xxx . 0_2078
+*PAR:	&uh &uh dog . 2078_5728
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 5728_6661
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rats . 6661_10024
+%mor:	n|rat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm &uh lice . 10024_16870
+%mor:	n|louse&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	there is such a thing you_know . [+ exc] 16870_19143
+%mor:	pro:exist|there cop|be&3S qn|such det:art|a n|thing co|you_know .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|QUANT 4|5|DET 5|2|PRED 6|5|COM 7|2|PUNCT
+*PAR:	&hm bugs . 19143_22474
+%mor:	n|bug-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &uh (.) &uh oh ‡ &=clears:throat isn't there so many things
+	that hunters are +... [+ exc] 22474_41800
+%mor:	co|oh beg|beg cop|be&3S~neg|not adv|there adv|so qn|many n|thing-PL
+	pro:rel|that n|hunt&dv-AGT-PL cop|be&PRES +...
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|NEG 5|3|JCT 6|7|JCT 7|8|QUANT 8|3|PRED
+	9|11|LINK 10|11|SUBJ 11|8|CMOD 12|3|PUNCT
+*PAR:	and rats . 41800_43519
+%mor:	coord|and n|rat-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh ‡ I said that . [+ exc] 43719_45166
+%mor:	co|oh beg|beg pro:sub|I v|say&PAST comp|that .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	and &uh what's that sentence ? [+ exc] 45166_50472
+%mor:	coord|and pro:int|what~cop|be&3S pro:dem|that v|sentence ?
+%gra:	1|3|LINK 2|3|SUBJ 3|5|SUBJ 4|3|PRED 5|0|ROOT 6|5|PUNCT
+*PAR:	(..) &=whispers xxx . [+ exc] 50472_69335
+@G:	F
+*INV:	go ahead . 69335_70728
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	any words that start with f@l . 70728_71861
+%mor:	qn|any n|word-PL pro:rel|that v|start prep|with n:let|f .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|5|POBJ 7|2|PUNCT
+*PAR:	+< farfalle . 71461_72697
+%mor:	n|farfalle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	friends . 72697_75468
+%mor:	n|friend-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fruit . 75468_77428
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fright . 77428_79748
+%mor:	n|fright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	free . 79748_82859
+%mor:	adv|free .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	freedom . 82859_85569
+%mor:	n|freedom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) friendship . 85569_89621
+%mor:	n|friendship .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I don't know whether I [/] I &d +... [+ exc] 89621_93334
+%mor:	pro:sub|I mod|do~neg|not v|know comp|whether pro:sub|I +...
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|LINK 6|4|COMP 7|4|PUNCT
+*PAR:	did I say fruit@q ? [+ exc] 93334_95470
+%mor:	mod|do&PAST pro:sub|I v|say meta|fruit ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	and &uh French . 95470_99151
+%mor:	coord|and n:prop|French .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	French ‡ that's [/] that's likely so . [+ exc] 99151_102843
+%mor:	n:prop|French beg|beg pro:dem|that~cop|be&3S adv|likely adv|so .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|JCT 7|4|PUNCT
+*PAR:	and there (.) Francis . 102843_108160
+%mor:	coord|and adv|there n:prop|Francis .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	Cisco . 108160_111934
+%mor:	n:prop|Cisco .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) front . 111934_122858
+%mor:	n|front .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) frontline . 122858_127122
+%mor:	n|+n|front+n|line .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 127122_136909
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

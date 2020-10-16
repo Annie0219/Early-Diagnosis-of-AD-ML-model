@@ -1,0 +1,139 @@
+@UTF8
+@PID:	11312/t-00016035-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|male|MCI||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	016-0, audio
+@G:	animals
+*PAR:	&ok well ‡ tell me when . [+ exc] 2222_5222
+%mor:	co|well beg|beg v|tell pro:obj|me pro:int|when .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*INV:	go ahead . 4000_5000
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	horse . 5000_5884
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cat . 6051_7141
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 7141_8060
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh lamb . 8060_10861
+%mor:	n|lamb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh lynx . 10861_11809
+%mor:	n|lynx .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 11809_12618
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 12618_14003
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh what's that ? [+ exc] 14003_17054
+%mor:	pro:int|what~cop|be&3S pro:dem|that ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	llama . 17054_17972
+%mor:	n|llama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh can't be birds of any +... [+ exc] 17972_23093
+%mor:	mod|can~neg|not aux|be n|bird-PL prep|of qn|any +...
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PRED 5|4|NJCT 6|5|POBJ 7|3|PUNCT
+*PAR:	&uh awkward choices . [+ exc] 23093_26800
+%mor:	adj|awkward n|choice-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	it can't be fish . [+ exc] 26800_27990
+%mor:	pro:per|it mod|can~neg|not cop|be n|fish .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	mhm . 27990_28914
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh giraffe . 28914_33099
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh orangutang [: orangutan] . 33099_36726
+%mor:	n|orangutan .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh elk . 36726_41739
+%mor:	n|elk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ibex . 41739_47729
+%mor:	n|ibex .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh +... 47729_63000
+*INV:	okay ‡ that's fine . 63000_65674
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	F
+*PAR:	from . 65674_70079
+%mor:	prep|from .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< go . 69000_70546
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	for . 70546_71339
+%mor:	prep|for .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fig . 71339_73114
+%mor:	n|fig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh face . 73114_77970
+%mor:	n|face .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frame . 77970_79541
+%mor:	n|frame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	finger . 79541_81471
+%mor:	n|finger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) follow . 81471_88569
+%mor:	v|follow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	they don't hafta be nouns . [+ exc] 88928_91015
+%mor:	pro:sub|they mod|do~neg|not mod|have~inf|to cop|be n|noun-PL .
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|6|PRED 8|6|PUNCT
+*PAR:	&uh free . 91015_92819
+%mor:	adv|free .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fender . 92819_95420
+%mor:	n|fender .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	four . 95420_98392
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	from . 98392_100493
+%mor:	prep|from .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	feather . 100493_103651
+%mor:	n|feather .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fall . 103651_106407
+%mor:	v|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	follow . 106407_106967
+%mor:	v|follow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	faction . 106967_110718
+%mor:	n|faction .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&fa farm . 110718_115372
+%mor:	n|farm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fog . 115372_119311
+%mor:	n|fog .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) faucet . 119311_123215
+%mor:	n|faucet .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fringe . 123215_128695
+%mor:	n|fringe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's good „ thank_you . 128695_130998
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good end|end
+	co|thank_you .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|ENDP 7|4|END 8|4|PUNCT
+@End

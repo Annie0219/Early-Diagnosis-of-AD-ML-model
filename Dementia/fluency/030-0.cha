@@ -1,0 +1,259 @@
+@UTF8
+@PID:	11312/t-00016046-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|63;|male|MCI||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	030-0, audio
+@G:	animals
+*INV:	okay ‡ good . 0_1728
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	you can begin now . 1728_3953
+%mor:	pro:per|you mod|can v|begin adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	&uh duck . 3953_4935
+%mor:	n|duck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 4935_5463
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	geese . 5463_6320
+%mor:	n|goose&PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh squirrels . 6320_8438
+%mor:	n|squirrel-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cows . 8438_9729
+%mor:	n|cow-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horses . 9729_11393
+%mor:	n|horse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh pigs . 11393_12949
+%mor:	n|pig-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lambs . 12949_14487
+%mor:	n|lamb-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh ewes . 14487_16083
+%mor:	n|ewe-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 16083_16885
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um oh tiger . 16885_20555
+%mor:	co|oh n|tiger .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	lion . 20555_21417
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ you [//] did you say farm animals only ? [+ exc] 21417_23192
+%mor:	co|oh beg|beg mod|do&PAST pro:per|you v|say n|farm n|animal-PL
+	adv|only ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|7|MOD 7|5|OBJ 8|7|NJCT
+	9|5|PUNCT
+*INV:	+< mhm . 23092_23814
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ &uh no tiger . [+ exc] 23814_24900
+%mor:	co|oh beg|beg co|no n|tiger .
+%gra:	1|0|BEG 2|1|BEGP 3|4|COM 4|0|INCROOT 5|4|PUNCT
+*PAR:	no lion . [+ exc] 24900_25510
+%mor:	qn|no n|lion .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	yeah ‡ <you can> [//] farm animals are allowed . 25510_26800
+%mor:	co|yeah beg|beg n|farm n|animal-PL aux|be&PRES part|allow-PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|PUNCT
+*PAR:	oh ‡ &uh farm animals as well as &uh +..? [+ exc] 26800_29900
+%mor:	co|oh beg|beg n|farm n|animal-PL adv|as adv|well adv|as +..?
+%gra:	1|0|BEG 2|1|BEGP 3|4|MOD 4|0|INCROOT 5|6|COORD 6|7|JCT 7|4|NJCT
+	8|4|PUNCT
+*INV:	farm animals , pet animals , and zoo animals . 29900_32127
+%mor:	n|farm n|animal-PL cm|cm n|pet n|animal-PL cm|cm coord|and n|zoo
+	n|animal-PL .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|LP 4|5|MOD 5|2|ENUM 6|5|LP 7|2|CONJ 8|9|MOD
+	9|7|COORD 10|2|PUNCT
+*PAR:	+< pet and zoo animals . [+ exc] 31078_32504
+%mor:	n|pet coord|and n|zoo n|animal-PL .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|MOD 4|2|COORD 5|1|PUNCT
+*PAR:	oh ‡ tiger . 32504_33012
+%mor:	co|oh beg|beg n|tiger .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	lion . 33012_33500
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bear . 33500_34644
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh monkey . 34644_36704
+%mor:	n|monkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ape . 36704_37027
+%mor:	n|ape .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Gargantua . 37027_38414
+%mor:	n:prop|Gargantua .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh lion . 38414_39690
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lioness . 39690_40718
+%mor:	n|lioness .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um jaguar . 40559_42178
+%mor:	n|jaguar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	leopard . 42178_42862
+%mor:	n|leopard .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh puma . 42862_45151
+%mor:	n|puma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	aardvark . 45151_46739
+%mor:	n|aardvark .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 46739_47766
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh elephant [//] &uh zebra . 47766_52672
+%mor:	n|zebra .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kangaroo . 52672_54194
+%mor:	n|kangaroo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh kangaroo [//] &uh &um +... 54194_61586
+*INV:	okay ‡ that's good thank_god . 60730_63934
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good co|thank_god .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|COM 7|4|PUNCT
+*INV:	&=laughs that's a little bit too much . 63934_66168
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|little n|bit adv|too adv|much
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|7|JCT 7|5|NJCT 8|2|PUNCT
+*INV:	I was almost going off the paper . 66168_67370
+%mor:	pro:sub|I aux|be&PAST&13S adv|almost part|go-PRESP prep|off
+	det:art|the n|paper .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|JCT 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+@G:	F
+*INV:	okay ‡ we're gonna do the same thing again only this time with the
+	letter f@l . 67370_70707
+%mor:	co|okay beg|beg pro:sub|we~aux|be&PRES part|go-PRESP~inf|to v|do
+	det:art|the adj|same n|thing adv|again adv|only det:dem|this n|time
+	prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|INF 7|5|COMP 8|10|DET
+	9|10|MOD 10|7|OBJ 11|7|JCT 12|7|JCT 13|14|DET 14|12|POBJ 15|14|NJCT
+	16|17|DET 17|18|SUBJ 18|15|POBJ 19|5|PUNCT
+*INV:	any word beginning with letter f@l +/. 70707_72913
+%mor:	qn|any n|word n|beginning prep|with n|letter n:let|f +/.
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|ENUM 7|3|PUNCT
+*INV:	it can't +/. 72913_73830
+%mor:	pro:per|it mod|can~neg|not +/.
+%gra:	1|0|INCROOT 2|4|AUX 3|2|NEG 4|1|PUNCT
+*PAR:	any [x 2] word ? [+ exc] 73030_75061
+%mor:	qn|any n|word ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	+< any &le word . 73661_75421
+%mor:	qn|any n|word .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	but it can't be like a proper name like [x 2] in San_Francisco@q or
+	like Fred@q . 75421_81000
+%mor:	conj|but pro:per|it mod|can~neg|not cop|be prep|like det:art|a
+	adj|proper n|name prep|like adv|in meta|San_Francisco coord|or
+	co|like meta|Fred .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|JCT 12|10|POBJ 13|5|CONJ 14|15|COM 15|13|COORD
+	16|5|PUNCT
+*INV:	it can't be that . 81000_82130
+%mor:	pro:per|it mod|can~neg|not cop|be pro:dem|that .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	also don't use the same word that has derivatives of it . 82130_85122
+%mor:	adv|also mod|do~neg|not v|use det:art|the adj|same n|word
+	pro:rel|that v|have&3S n|derivative-PL prep|of pro:per|it .
+%gra:	1|4|JCT 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|DET 6|7|MOD 7|4|OBJ 8|9|LINK
+	9|7|CMOD 10|9|OBJ 11|10|NJCT 12|11|POBJ 13|4|PUNCT
+*INV:	for example run@q runner@q and running@q would be counted as one
+	word . 85122_88775
+%mor:	prep|for n|example meta|run meta|runner coord|and meta|running
+	mod|will&COND aux|be part|count-PASTP prep|as det:num|one n|word .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|CONJ 4|3|COORD 5|4|CONJ 6|5|COORD 7|9|AUX
+	8|9|AUX 9|6|COMP 10|9|JCT 11|12|QUANT 12|10|POBJ 13|1|PUNCT
+*PAR:	+< xxx one word . [+ exc] 87090_89428
+%mor:	det:num|one n|word .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	+< okay ? 89128_90083
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	you want the letter f@l . [+ exc] 89300_91281
+%mor:	pro:per|you v|want det:art|the n|letter n:let|f .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|4|POSTMOD 6|2|PUNCT
+*INV:	right . 91281_92168
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	anything that begins with f@l . [+ exc] 92168_94629
+%mor:	pro:indef|anything pro:rel|that v|begin-3S prep|with n:let|f .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|4|POBJ 6|1|PUNCT
+*INV:	right . 94629_94954
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 94954_95477
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and you can begin now . 95477_97630
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	&uh freight train . 97630_99036
+%mor:	n|freight n|train .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	fun . 99036_100184
+%mor:	adj|fun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	figure . 100184_101397
+%mor:	n|figure .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	folly . 101397_102895
+%mor:	n|folly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh fool . 102895_104845
+%mor:	n|fool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh that wouldn't be right . [+ exc] 104845_106761
+%mor:	comp|that mod|will&COND~neg|not aux|be co|right .
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|COM 6|4|PUNCT
+*PAR:	&uh &uh &uh frankincense . 106761_110753
+%mor:	n|frankincense .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um football . 110753_113103
+%mor:	n|+n|foot+n|ball .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	farmer . 113103_114221
+%mor:	n|farm&dv-AGT .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	field judge . 114221_116744
+%mor:	n|field n|judge .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um fireman . 116744_120713
+%mor:	n|+n|fire+n|man .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	field mouse . 120713_124029
+%mor:	n|field n|mouse .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	(...) &uh &f &uh f@l &uh freedom . 124029_134036
+%mor:	n:let|f n|freedom .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&uh &f &uh f@l &uh (.) &farm +//. 134036_143359
+%mor:	n:let|f +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no proper names . [+ exc] 143359_144207
+%mor:	qn|no adj|proper n|name-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*PAR:	&um gosh ‡ I ran dry on f@l-s . [+ exc] 144207_149200
+%mor:	co|gosh beg|beg pro:sub|I v|run&PAST v|dry prep|on n:let|f-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|6|POBJ 8|4|PUNCT
+*PAR:	&uh frequently . 149200_153864
+%mor:	adv|frequent&dadj-LY .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 153360_179055
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

@@ -1,0 +1,190 @@
+@UTF8
+@PID:	11312/t-00016196-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|85;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	458-0, audio
+@G:	animals
+*INV:	name all the animals you can think of . 0_2334
+%mor:	n|name qn|all det:art|the n|animal-PL pro:per|you mod|can v|think
+	prep|of .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|7|SUBJ 6|7|AUX 7|4|CMOD 8|7|JCT
+	9|1|PUNCT
+*PAR:	all kinds of animals . [+ exc] 2334_4087
+%mor:	qn|all n|kind-PL prep|of n|animal-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	horse . 4087_4818
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	uhhuh . 4818_5468
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 5468_6511
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 6511_7664
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 7664_9328
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&um animals . [+ exc] 9328_13275
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse cow and a dog . [+ exc] 13275_15258
+%mor:	n|horse n|cow coord|and det:art|a n|dog .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|CONJ 4|5|DET 5|3|COORD 6|2|PUNCT
+*PAR:	oh_gosh . [+ exc] 15258_17002
+%mor:	co|oh_gosh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I guess fish@q could be xxx [//] an animal „ isn't it ? 17002_23097
+%mor:	pro:sub|I v|guess meta|fish mod|could cop|be det:art|a n|animal
+	end|end cop|be&3S~neg|not pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|AUX 5|2|COMP 6|7|DET 7|5|PRED 8|9|ENDP
+	9|2|END 10|11|NEG 11|2|OBJ 12|2|PUNCT
+*PAR:	well ‡ xxx . [+ exc] 23097_25651
+%mor:	co|well beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT
+*PAR:	&um chicken . 25651_27300
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um xxx . [+ exc] 27300_31166
+*PAR:	horse xxx chicken . [+ exc] 31166_34776
+%mor:	n|horse n|chicken .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&hm this is hard to do . [+ exc] 34776_38793
+%mor:	pro:dem|this cop|be&3S adv|hard inf|to v|do .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|INF 5|2|XJCT 6|2|PUNCT
+*PAR:	xxx oh goodness . [+ exc] 38793_42439
+%mor:	co|oh co|goodness .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	I don't know animals . [+ exc] 42439_47210
+%mor:	pro:sub|I mod|do~neg|not v|know n|animal-PL .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	isn't that something . [+ exc] 47210_48557
+%mor:	cop|be&3S~neg|not adv|that pro:indef|something .
+%gra:	1|0|ROOT 2|1|NEG 3|4|JCT 4|1|PRED 5|1|PUNCT
+*PAR:	&uh I hate to say rat@q . 48557_52353
+%mor:	pro:sub|I v|hate inf|to v|say meta|rat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|OBJ 6|2|PUNCT
+*PAR:	but I don't know if that's considered +... [+ exc] 52353_54000
+%mor:	conj|but pro:sub|I mod|do~neg|not v|know comp|if
+	pro:rel|that~aux|be&3S part|consider-PASTP +...
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|9|LINK 7|9|LINK 8|9|AUX
+	9|5|COMP 10|5|PUNCT
+*PAR:	is that a considered +..? [+ exc] 54000_55165
+%mor:	cop|be&3S comp|that det:art|a part|consider-PASTP +..?
+%gra:	1|0|ROOT 2|1|PRED 3|4|DET 4|2|OM 5|1|PUNCT
+*INV:	anything that you can think of . 55165_56909
+%mor:	pro:indef|anything pro:rel|that pro:per|you mod|can v|think prep|of
+	.
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CMOD 6|5|JCT 7|1|PUNCT
+*PAR:	+< alright . 55909_57577
+%mor:	co|alright .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 57577_58974
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	well ‡ I [/] I can't think of &an a_lot +/. [+ exc] 58974_61511
+%mor:	co|well beg|beg pro:sub|I mod|can~neg|not v|think prep|of adv|a_lot
+	+/.
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|JCT 8|7|POBJ
+	9|6|PUNCT
+@G:	F
+*PAR:	oh ‡ gee f@l is a bad word to get . [+ exc] 61511_64051
+%mor:	co|oh beg|beg co|gee n:let|f cop|be&3S det:art|a adj|bad n|word
+	inf|to v|get .
+%gra:	1|0|BEG 2|1|BEGP 3|5|COM 4|5|SUBJ 5|0|ROOT 6|8|DET 7|8|MOD 8|5|PRED
+	9|10|INF 10|8|XMOD 11|5|PUNCT
+*PAR:	I_mean it's hard to figure a_lot_of them for f@l . [+ exc] 64051_67128
+%mor:	co|I_mean pro:per|it~cop|be&3S adj|hard inf|to v|figure qn|a_lot_of
+	pro:obj|them prep|for n:let|f .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|8|QUANT 8|6|OBJ
+	9|6|JCT 10|9|POBJ 11|3|PUNCT
+*INV:	any word at all . 67128_67859
+%mor:	qn|any n|word prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*INV:	just say them . 67859_68936
+%mor:	adv|just v|say pro:obj|them .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	&uh it doesn't hafta be a thing „ does it ? [+ exc] 68936_71098
+%mor:	pro:per|it mod|do&3S~neg|not mod|have~inf|to cop|be det:art|a
+	n|thing end|end mod|do&3S pro:per|it ?
+%gra:	1|6|SUBJ 2|6|AUX 3|2|NEG 4|6|AUX 5|6|INF 6|0|ROOT 7|8|DET 8|6|PRED
+	9|11|ENDP 10|11|AUX 11|6|END 12|6|PUNCT
+*INV:	no ‡ any word at all . 71098_72396
+%mor:	co|no beg|beg qn|any n|word prep|at pro:indef|all .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|0|INCROOT 5|4|NJCT 6|5|POBJ 7|4|PUNCT
+*PAR:	f@l . [+ exc] 72396_72779
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fool . 72779_73481
+%mor:	n|fool .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 73481_74189
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's fool@k which I am &=laughs . [+ exc] 74189_79637
+%mor:	pro:dem|that~cop|be&3S n:let|fool pro:rel|which pro:sub|I cop|be&1S
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|2|PUNCT
+*PAR:	well ‡ alright . [+ exc] 79637_80477
+%mor:	co|well beg|beg co|alright .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&uh friend . 80477_81940
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh four . 81940_85490
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh that's for &f the number four . [+ exc] 85490_88851
+%mor:	pro:dem|that~cop|be&3S prep|for det:art|the n|number det:num|four .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
+*PAR:	&um &f &f f@l [/] &um f@l fresh . 88851_97365
+%mor:	n:let|f adj|fresh .
+%gra:	1|0|INCROOT 2|1|PRED 3|1|PUNCT
+*PAR:	&um &fri &fr friend . 97365_103064
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh ‡ I got friend@q . [+ exc] 103064_104028
+%mor:	co|oh beg|beg pro:sub|I v|get&PAST meta|friend .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	&uh four friend +//. [+ exc] 104028_105105
+%mor:	det:num|four n|friend +//.
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh ‡ goodness I should know more f@l-s . [+ exc] 105105_107364
+%mor:	co|oh beg|beg co|goodness pro:sub|I mod|should v|know adv|more
+	n:let|f-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|COM 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|8|JCT 8|6|COMP
+	9|6|PUNCT
+*PAR:	&uh &fi fine . 107364_110930
+%mor:	adv|fine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	full . 110930_113530
+%mor:	adj|full .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&fee feel . 113530_115102
+%mor:	v|feel .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	friend . 115102_116472
+%mor:	n|friend .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I got them before . [+ exc] 116472_118086
+%mor:	pro:sub|I v|get&PAST pro:obj|them adv|before .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|PUNCT
+*PAR:	oh gee huh . [+ exc] 118086_119538
+%mor:	co|oh co|gee co|huh .
+%gra:	1|3|COM 2|3|COM 3|0|INCROOT 4|3|PUNCT
+*PAR:	find . 119538_121047
+%mor:	v|find .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	xxx . [+ exc] 121047_121872
+*INV:	okay ‡ that's fine „ good ! 121872_124784
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine end|end adj|good !
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|7|ENDP 7|4|END 8|4|PUNCT
+*PAR:	+< feel . 123044_124784
+%mor:	v|feel .
+%gra:	1|0|ROOT 2|1|PUNCT
+@End

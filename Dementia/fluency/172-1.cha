@@ -1,0 +1,142 @@
+@UTF8
+@PID:	11312/t-00016105-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;|female|MCI||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	172-1, audio
+@G:	foods
+*INV:	now I want you to name for me as many things as you can think of
+	(.) that are things to eat . 0_8545
+%mor:	adv|now pro:sub|I v|want pro:per|you inf|to v|name prep|for
+	pro:obj|me adv|as qn|many n|thing-PL adv|as pro:per|you mod|can
+	v|think prep|of adv|that aux|be&PRES n|thing-PL inf|to v|eat .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|6|SUBJ 5|6|INF 6|3|COMP 7|6|JCT 8|7|POBJ
+	9|10|JCT 10|11|QUANT 11|6|OBJ 12|15|JCT 13|15|SUBJ 14|15|AUX 15|11|CMOD
+	16|15|JCT 17|15|JCT 18|15|JCT 19|18|PRED 20|21|INF 21|19|XMOD 22|3|PUNCT
+*INV:	so ‡ you can begin „ now . 8545_11502
+%mor:	co|so beg|beg pro:per|you mod|can v|begin end|end adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|7|ENDP 7|5|JCT 8|5|PUNCT
+*PAR:	bread . 11502_13293
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	butter . 13293_14242
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	jelly . 14242_15830
+%mor:	n|jelly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh beef . 15830_18475
+%mor:	n|beef .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	chicken . 18475_19238
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fish . 19238_20079
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh potatoes . 20079_22614
+%mor:	n|potato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rice . 22614_23440
+%mor:	n|rice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pasta . 23440_25028
+%mor:	n|pasta .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um tomatoes . 25028_28342
+%mor:	n|tomato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	broccoli . 28342_30520
+%mor:	n|broccoli .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	asparagus . 30520_32840
+%mor:	n|asparagus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	carrots . 32840_34599
+%mor:	n|carrot-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um cabbage . 34599_41120
+%mor:	n|cabbage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ham . 41120_43283
+%mor:	n|ham .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	icecream . 43283_45852
+%mor:	n|+n|ice+n|cream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cake . 45852_47050
+%mor:	n|cake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pie . 47050_48903
+%mor:	n|pie .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ice milk . 48903_52638
+%mor:	n|ice n|milk .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um +... 52638_70500
+*INV:	okay . 70500_71827
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I think that's about it &=laughs . [+ exc] 71827_73587
+%mor:	pro:sub|I v|think pro:dem|that~cop|be&3S adv|about pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|JCT 6|4|PRED 7|2|PUNCT
+@G:	S
+*INV:	okay ‡ any words beginning with the letter s@l . 73587_76326
+%mor:	co|okay beg|beg qn|any n|word-PL n|beginning prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|5|MOD 5|0|INCROOT 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|5|ENUM 10|5|PUNCT
+*INV:	and you can begin now . 76326_77086
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	okay . [+ exc] 77086_77515
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sun . 77515_78754
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	some . 78754_80560
+%mor:	qn|some .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um sorry . 80560_85339
+%mor:	co|sorry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sandwich . 85339_89494
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &uh saline . 89494_94708
+%mor:	adj|saline .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) scare . 94708_105058
+%mor:	n|scare .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	scurry . 105058_107114
+%mor:	v|scurry .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	school . 107114_110677
+%mor:	n|school .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sabbath . 110677_114288
+%mor:	n|sabbath .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) summertime . 114288_122350
+%mor:	n|+n|summer+n|time .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) soul . 122350_126801
+%mor:	n|soul .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) story . 126801_132623
+%mor:	n|story .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) smell . 132623_137073
+%mor:	n|smell .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	stink . 137073_139735
+%mor:	n|stink .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 139735_140761
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

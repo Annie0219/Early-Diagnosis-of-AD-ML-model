@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/t-00016073-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|male|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	061-1, audio
+@G:	foods
+*INV:	and you can begin now . 0_3269
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	ham . 3269_5385
+%mor:	n|ham .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	eggs . 5385_6053
+%mor:	n|egg-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pork &=laughs . 6053_7301
+%mor:	n|pork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cornedbeef . 7301_9600
+%mor:	n|+adj|corned+n|beef .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I'm stickin(g) +... [+ exc] 9600_11350
+%mor:	pro:sub|I~aux|be&1S part|stick-PRESP +...
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	and &uh &uh different kinds of vegetables ? [+ exc] 11350_16747
+%mor:	coord|and adj|different n|kind-PL prep|of n|vegetable-PL ?
+%gra:	1|0|INCROOT 2|3|MOD 3|1|COORD 4|3|NJCT 5|4|POBJ 6|1|PUNCT
+*PAR:	&uh corn . 16747_20391
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	potatoes . 20391_22102
+%mor:	n|potato-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lettuce . 22102_23301
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh beets . 23301_26975
+%mor:	n|beet-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	turnips . 26975_28110
+%mor:	n|turnip-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &uh that's all I eat . [+ exc] 28110_33961
+%mor:	pro:dem|that~cop|be&3S pro:indef|all pro:sub|I v|eat .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+*PAR:	bread . 33961_34818
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) xxx all kinds of things . [+ exc] 34939_40059
+%mor:	qn|all n|kind-PL prep|of n|thing-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	&uh (.) doughnuts . 40059_43762
+%mor:	n|doughnut-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs oh ‡ xxx doughnuts . [+ exc] 43890_48218
+%mor:	co|oh beg|beg n|doughnut-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	no ‡ I don't eat doughnuts . [+ exc] 48218_49878
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not v|eat n|doughnut-PL .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+*PAR:	&uh +/. 49878_50505
+*INV:	you don't eat that &=laughs ? 50505_51530
+%mor:	pro:per|you mod|do~neg|not v|eat pro:dem|that ?
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*PAR:	fowl &=laughs . 51530_52500
+%mor:	n|fowl .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	duck . 52500_53124
+%mor:	n|duck .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	chicken . 53124_53559
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	turkey . 53559_55629
+%mor:	n|turkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh squirrel . 55629_60796
+%mor:	n|squirrel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbits . 60808_62177
+%mor:	n|rabbit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 62177_64184
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*PAR:	&=laughs . [+ exc] 64184_65100
+*INV:	squirrel@q and rabbits@q ? 65100_66226
+%mor:	meta|squirrel coord|and meta|rabbits ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	&=laughs you [/] you've seen that on television . [+ exc] 66226_70345
+%mor:	pro:per|you~aux|have part|see&PASTP pro:dem|that prep|on
+	n|television .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|3|JCT 6|5|POBJ 7|3|PUNCT
+*PAR:	you know that crazy show ? [+ exc] 70345_72156
+%mor:	pro:per|you v|know det:dem|that adj|craze&dv-Y n|show ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|2|PUNCT
+*PAR:	I didn't see it either . [+ exc] 72156_73004
+%mor:	pro:sub|I mod|do&PAST~neg|not v|see pro:per|it adv|either .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*PAR:	I just saw a little +//. [+ exc] 73000_73975
+%mor:	pro:sub|I adv|just v|see&PAST det:art|a adj|little +//.
+%gra:	1|3|SUBJ 2|3|JCT 3|0|ROOT 4|5|DET 5|3|JCT 6|3|PUNCT
+%com:	tape recorder turned off and on
+@G:	S
+*INV:	okay ‡ here we go . 87000_88431
+%mor:	co|okay beg|beg adv|here pro:sub|we v|go .
+%gra:	1|0|BEG 2|1|BEGP 3|5|JCT 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	ready ? 88431_89661
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	begin now . 89661_90812
+%mor:	v|begin adv|now .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*INV:	words beginning with the letter s@l . 90812_93645
+%mor:	n|word-PL n|beginning prep|with det:art|the n|letter n:let|s .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|ENUM 7|2|PUNCT
+*PAR:	there aren't any . [+ exc] 93645_94750
+%mor:	pro:exist|there cop|be&PRES~neg|not qn|any .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|2|PRED 5|2|PUNCT
+*INV:	yeah ‡ there are . 94750_96100
+%mor:	co|yeah beg|beg pro:exist|there cop|be&PRES .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	just a few . [+ exc] 96100_97179
+%mor:	adv|just det:art|a n|few .
+%gra:	1|3|JCT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	(..) sandwich &=laughs . 97179_103460
+%mor:	n|sandwich .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< that's one . 102500_104017
+%mor:	pro:dem|that~cop|be&3S pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	you got it . 104017_105300
+%mor:	pro:per|you v|get&PAST pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	sky . 105300_106951
+%mor:	n|sky .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) &um &s &=laughs no . [+ exc] 106951_120336
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you've got thirty seconds left . 120336_121893
+%mor:	pro:per|you~aux|have part|get&PASTP det:num|thirty n|second-PL
+	v|leave&PAST .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|QUANT 5|6|SUBJ 6|3|COMP 7|3|PUNCT
+*PAR:	(..) &uh (..) you_know I can't think of any . [+ exc] 121893_134078
+%mor:	co|you_know pro:sub|I mod|can~neg|not v|think prep|of qn|any .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|JCT 7|6|POBJ 8|5|PUNCT
+*PAR:	(..) pumpkin &=laughs . 134078_138500
+%mor:	n|pumpkin .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's not quite gonna cut it . 138500_142296
+%mor:	pro:dem|that~cop|be&3S neg|not adv|quite part|go-PRESP~inf|to
+	v|cut&ZERO pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|XJCT 6|7|INF 7|5|COMP 8|7|OBJ
+	9|2|PUNCT
+*PAR:	hey ‡ there's one . [+ exc] 142296_144365
+%mor:	co|hey beg|beg pro:exist|there~cop|be&3S pro:indef|one .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	&=laughs oh_no that's a c@l &=laughs . [+ exc] 144365_147340
+%mor:	co|oh_no pro:dem|that~cop|be&3S det:art|a n:let|c .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*INV:	that's right . 147340_148155
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay . 148155_149463
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

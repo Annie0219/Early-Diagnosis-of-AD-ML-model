@@ -1,0 +1,135 @@
+@UTF8
+@PID:	11312/t-00016226-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|83;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	620-0, audio
+@G:	animals
+*INV:	you can start now . 0_1650
+%mor:	pro:per|you mod|can v|start adv|now .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	cow . 1650_3254
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 3254_5401
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pony . 5401_7908
+%mor:	n|pony .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 7908_9977
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hippopotamus . 9977_13604
+%mor:	n|hippopotamus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rhinoceros . 13604_16094
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 16094_19049
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um chicken . 19049_23844
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) &um dog . 23844_29229
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 29229_31020
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	snake . 31020_33899
+%mor:	n|snake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm horse . 33899_41651
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 41651_45867
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I did say sheep@q „ didn't I ? [+ exc] 45867_47299
+%mor:	pro:sub|I v|do&PAST co|say meta|sheep end|end mod|do&PAST~neg|not
+	pro:sub|I ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COM 4|2|OBJ 5|8|ENDP 6|8|AUX 7|6|NEG 8|2|END
+	9|2|PUNCT
+*PAR:	cows . 47299_50987
+%mor:	n|cow-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pigs . 50987_52389
+%mor:	n|pig-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) xxx . 52389_57997
+*INV:	okay ‡ good . 57997_59668
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	begin with the letter f@l . 59668_61616
+%mor:	v|begin prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|ROOT 2|1|JCT 3|4|DET 4|5|SUBJ 5|2|POBJ 6|1|PUNCT
+*INV:	and you can start now . 61616_63658
+%mor:	coord|and pro:per|you mod|can v|start adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	fence . 63658_67595
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	funeral . 67595_69633
+%mor:	adj|funeral .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	furnace . 69633_74334
+%mor:	n|furnace .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	is that right ? [+ exc] 74334_76465
+%mor:	cop|be&3S comp|that co|right ?
+%gra:	1|0|ROOT 2|1|PRED 3|2|OM 4|1|PUNCT
+*INV:	mhm . 76465_77447
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	all the words you can think of that begin with the letter f@l . 77447_81463
+%mor:	qn|all det:art|the n|word-PL pro:per|you mod|can v|think prep|of
+	adv|that v|begin prep|with det:art|the n|letter n:let|f .
+%gra:	1|3|QUANT 2|3|DET 3|9|SUBJ 4|6|SUBJ 5|6|AUX 6|3|ENUM 7|6|JCT 8|9|JCT
+	9|0|ROOT 10|9|JCT 11|12|DET 12|13|SUBJ 13|10|POBJ 14|9|PUNCT
+*PAR:	flowers . 81463_82865
+%mor:	n|flower-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) no animals ? [+ exc] 82865_87184
+%mor:	qn|no n|animal-PL ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	all the words . 87184_88751
+%mor:	qn|all det:art|the n|word-PL .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	any word at all . 88751_90492
+%mor:	qn|any n|word prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	+< falcon [/] falcon . 89092_91535
+%mor:	n|falcon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&phe &uh no ‡ pheasent@q begins with p@l . [+ exc] 91535_97014
+%mor:	co|no beg|beg meta|pheasent v|begin-3S prep|with n:let|p .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|4|PUNCT
+*PAR:	(..) any kind of an animal . [+ exc] 97014_103026
+%mor:	qn|any n|kind prep|of det:art|a n|animal .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	any word at all that begins with the letter f@l . 103026_105697
+%mor:	qn|any n|word prep|at qn|all pro:dem|that v|begin-3S prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|2|QUANT 2|6|SUBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|0|ROOT 7|6|JCT 8|9|DET
+	9|10|SUBJ 10|7|POBJ 11|6|PUNCT
+*PAR:	f@l . [+ exc] 105697_106945
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flowers . 106945_112113
+%mor:	n|flower-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I said flowers@q . [+ exc] 112113_113515
+%mor:	pro:sub|I v|say&PAST meta|flowers .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*PAR:	(.) funerals . 113515_120609
+%mor:	n|funeral-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ that's good . 120609_125079
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@End

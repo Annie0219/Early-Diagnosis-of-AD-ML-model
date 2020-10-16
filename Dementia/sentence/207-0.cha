@@ -1,0 +1,204 @@
+@UTF8
+@PID:	11312/t-00016588-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|61;|male|ProbableAD||Participant|13||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	207-0, audio
+*INV:	use the word pencil@q in a sentence for me . 0_4981
+%mor:	v|use det:art|the n|word meta|pencil prep|in det:art|a n|sentence
+	prep|for pro:obj|me .
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|ENUM 5|4|JCT 6|7|DET 7|5|POBJ 8|4|JCT
+	9|8|POBJ 10|1|PUNCT
+*PAR:	pencil@q ? [+ exc] 4981_6107
+%mor:	meta|pencil ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 6107_6467
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&li or [//] &uh sign your name ! [+ exc] 6467_10333
+%mor:	v|sign det:poss|your n|name !
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	okay . 10333_11390
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	you sign your name with a +//. [+ exc] 11390_13062
+%mor:	pro:per|you v|sign det:poss|your n|name prep|with det:art|a +//.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|7|DET 7|5|POBJ
+*PAR:	oh ‡ no ‡ not a pencil . [+ exc] 13062_14525
+%mor:	co|oh beg|beg co|no beg|beg neg|not det:art|a n|pencil .
+%gra:	1|0|BEG 2|1|BEGP 3|0|BEG 4|3|BEGP 5|7|NEG 6|7|DET 7|0|INCROOT 8|7|PUNCT
+*PAR:	wiss [: with] [*] a &uh +... [+ exc] 14525_15555
+%mor:	prep|with det:art|a +...
+%gra:	1|0|INCROOT 2|3|DET 3|1|PUNCT
+*PAR:	<what do you> [/] what do you call a +... [+ exc] 15555_17613
+%mor:	pro:int|what mod|do pro:per|you v|call det:art|a +...
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|PUNCT
+*INV:	but I want you to use the word pencil@q . 17613_19886
+%mor:	conj|but pro:sub|I v|want pro:per|you inf|to v|use det:art|the
+	n|word meta|pencil .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|8|DET 8|6|OBJ
+	9|6|ENUM 10|3|PUNCT
+*PAR:	oh ‡ these things here ? [+ exc] 19886_21351
+%mor:	co|oh beg|beg det:dem|these n|thing-PL adv|here ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|JCT 6|4|PUNCT
+*INV:	that's a pen . 21351_22315
+%mor:	pro:dem|that~cop|be&3S det:art|a n|pen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	+< well ‡ <what is> [/] what is this ? [+ exc] 21706_23232
+%mor:	co|well beg|beg pro:int|what cop|be&3S pro:dem|this ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*INV:	it's a pen . 23232_23848
+%mor:	pro:per|it~cop|be&3S det:art|a n|pen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	yeah ‡ that's what you use &uh when you sign your name &uh in the
+	+... [+ exc] 23848_30342
+%mor:	co|yeah beg|beg pro:dem|that~cop|be&3S pro:int|what pro:per|you
+	v|use conj|when pro:per|you v|sign det:poss|your n|name prep|in
+	det:art|the +...
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|CPRED
+	8|10|LINK 9|10|SUBJ 10|7|COMP 11|12|DET 12|10|OBJ 13|10|JCT 14|13|POBJ
+	15|4|PUNCT
+*INV:	+< okay . 29246_29710
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's right . 30342_30941
+%mor:	pro:dem|that~cop|be&3S co|right .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	+< yeah ‡ that [//] what is that ? [+ exc] 30541_32032
+%mor:	co|yeah beg|beg pro:int|what cop|be&3S pro:dem|that ?
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+*PAR:	that's a pen . [+ exc] 32032_33045
+%mor:	pro:dem|that~cop|be&3S det:art|a n|pen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*INV:	+< a pen . 32652_33379
+%mor:	det:art|a n|pen .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	oh ‡ a pen . [+ exc] 33379_34540
+%mor:	co|oh beg|beg det:art|a n|pen .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*INV:	+< mhm ‡ a pen . 33840_35074
+%mor:	co|mhm=yes beg|beg det:art|a n|pen .
+%gra:	1|0|BEG 2|1|BEGP 3|4|DET 4|0|INCROOT 5|4|PUNCT
+*PAR:	okay . [+ exc] 35074_35704
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< can you use the word pencil in a sentence ? 35204_39010
+%mor:	mod|can pro:per|you v|use det:art|the n|word n|pencil prep|in
+	det:art|a n|sentence ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	no . [+ exc] 39010_40229
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	uhuh . [+ exc] 40229_40647
+%mor:	co|uhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	no ? 40647_41320
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	you could say “you sign your name with a pencil” . 41320_44037
+%mor:	pro:per|you mod|could v|say pro:per|you v|sign det:poss|your n|name
+	prep|with det:art|a n|pencil .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|7|DET 7|5|OBJ 8|5|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*INV:	that would be alright . 44037_45001
+%mor:	pro:dem|that mod|will&COND cop|be adj|alright .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PRED 5|3|PUNCT
+*PAR:	well ‡ I always sign my name with that . [+ exc] 45001_47729
+%mor:	co|well beg|beg pro:sub|I adv|always v|sign det:poss|my n|name
+	prep|with pro:dem|that .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|JCT 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|JCT
+	9|8|POBJ 10|5|PUNCT
+*INV:	it's better to do it with a pen . 47729_49227
+%mor:	pro:per|it~cop|be&3S adj|good&CP inf|to v|do pro:per|it prep|with
+	det:art|a n|pen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*PAR:	+< xxx „ yeah . [+ exc] 48000_49227
+%mor:	end|end co|yeah .
+%gra:	1|2|ENDP 2|0|INCROOT 3|2|PUNCT
+*INV:	yeah . 49227_49540
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what_about the word tree@q ? 49540_51653
+%mor:	pro:int|what_about det:art|the n|word meta|tree ?
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|PUNCT
+*INV:	can you use the word tree@q +/. 51653_53673
+%mor:	mod|can pro:per|you v|use det:art|the n|word meta|tree +/.
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|3|PUNCT
+*PAR:	tree@q ? [+ exc] 53673_54393
+%mor:	meta|tree ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+, in a sentence ? 54052_55682
+%mor:	prep|in det:art|a n|sentence ?
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*PAR:	apple tree ? [+ exc] 54393_55252
+%mor:	n|apple n|tree ?
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	any sort of a tree . 55682_56749
+%mor:	qn|any n|sort prep|of det:art|a n|tree .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*INV:	just put the word tree@q into a sentence . 56749_60546
+%mor:	adv|just v|put&ZERO det:art|the n|word meta|tree prep|into
+	det:art|a n|sentence .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|ENUM 6|5|JCT 7|8|DET 8|6|POBJ
+	9|2|PUNCT
+*PAR:	(..) I don't know . [+ exc] 60546_66792
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	no ? 66792_67419
+%mor:	co|no ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I don't know what [/] &uh what you want me to do ! [+ exc] 67419_70055
+%mor:	pro:sub|I mod|do~neg|not v|know pro:int|what pro:per|you v|want
+	pro:obj|me inf|to v|do !
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|LINK 6|7|SUBJ 7|4|COMP 8|7|OBJ
+	9|10|INF 10|7|COMP 11|4|PUNCT
+*INV:	well +/. 70055_70814
+%mor:	co|well +/.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I wouldn't know . [+ exc] 70814_72730
+%mor:	pro:sub|I mod|will&COND~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	you don't like the word pencil@q . 72730_74680
+%mor:	pro:per|you mod|do~neg|not v|like det:art|the n|word meta|pencil .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|POSTMOD 8|4|PUNCT
+*INV:	you [/] you said you [/] you sign your name with a pen . 74680_78430
+%mor:	pro:per|you v|say&PAST pro:per|you v|sign det:poss|your n|name
+	prep|with det:art|a n|pen .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|SUBJ 4|2|COMP 5|6|DET 6|4|OBJ 7|4|JCT 8|9|DET
+	9|7|POBJ 10|2|PUNCT
+*INV:	that's a good sentence . 78430_80299
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|good n|sentence .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*PAR:	+< yeah . [+ exc] 79599_80354
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's [/] that's a real good sentence . 80354_82107
+%mor:	pro:dem|that~cop|be&3S det:art|a adj|real adj|good n|sentence .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|DET 4|6|MOD 5|6|MOD 6|2|PRED 7|2|PUNCT
+*INV:	can you (.) put the word tree@q into a sentence ? 82107_86286
+%mor:	mod|can pro:per|you v|put&ZERO det:art|the n|word meta|tree
+	prep|into det:art|a n|sentence ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|6|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	(..) apple tree ! 86286_88608
+%mor:	n|apple n|tree !
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*INV:	mhm . 88608_89014
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 89014_89432
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's good enough . 89432_90384
+%mor:	pro:dem|that~cop|be&3S adj|good adv|enough .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*INV:	<do you> [//] have you got an apple tree in your +/? 90384_93902
+%mor:	v|have pro:per|you v|get&PAST det:art|a n|apple n|tree prep|in
+	det:poss|your +/?
+%gra:	1|0|ROOT 2|3|SUBJ 3|1|COMP 4|6|DET 5|6|MOD 6|3|OBJ 7|3|JCT 8|7|POBJ
+	9|1|PUNCT
+@End

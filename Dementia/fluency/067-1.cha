@@ -1,0 +1,139 @@
+@UTF8
+@PID:	11312/t-00016078-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|73;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	067-1, audio
+@G:	foods
+*INV:	www . 0_1544
+%exp:	finishing previous task .
+*INV:	starting now . 1544_3669
+%mor:	part|start-PRESP adv|now .
+%gra:	1|0|INCROOT 2|1|JCT 3|1|PUNCT
+*PAR:	(..) bread . 3669_7409
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) spaghetti . 7409_11954
+%mor:	n|spaghetti .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) macaroni . 11954_15223
+%mor:	n|macaroni .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	eggs . 15223_19737
+%mor:	n|egg-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) peppers . 19737_23969
+%mor:	n|pepper-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) what else is there ? [+ exc] 24654_29290
+%mor:	pro:int|what post|else aux|be&3S adv|there ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|ENUM 4|3|JCT 5|1|PUNCT
+*PAR:	spaghetti . 29290_32046
+%mor:	n|spaghetti .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) can you put fruit@q and stuff in with that ? [+ exc] 32046_41700
+%mor:	mod|can pro:per|you v|put&ZERO meta|fruit coord|and v|stuff adv|in
+	prep|with pro:dem|that ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|CONJ 6|5|COORD 7|6|JCT 8|6|JCT
+	9|8|POBJ 10|3|PUNCT
+*INV:	+< mhm ‡ anything that you like . 41000_43503
+%mor:	co|mhm=yes beg|beg pro:indef|anything pro:rel|that pro:per|you
+	conj|like .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|LINK 5|6|SUBJ 6|3|CMOD 7|3|PUNCT
+*PAR:	fruit . 43503_45088
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) macaroni . 45088_49400
+%mor:	n|macaroni .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) spaghetti . 49400_55143
+%mor:	n|spaghetti .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) what else is there ? [+ exc] 55143_63300
+%mor:	pro:int|what post|else aux|be&3S adv|there ?
+%gra:	1|0|INCROOT 2|1|PQ 3|1|ENUM 4|3|JCT 5|1|PUNCT
+*INV:	okay xxx . 63300_64803
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	S
+*INV:	you ready ? 64803_66254
+%mor:	pro:per|you v|ready ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	off you go . 66254_66985
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	spaghetti . 66985_68868
+%mor:	n|spaghetti .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) toast . 68868_75140
+%mor:	n|toast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	words that begin with the letter s@l this time . 75140_79965
+%mor:	n|word-PL pro:rel|that v|begin prep|with det:art|the n|letter
+	n:let|s det:dem|this n|time .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|6|DET 6|4|POBJ 7|3|JCT 8|9|DET
+	9|7|POBJ 10|1|PUNCT
+*PAR:	+< oh . [+ exc] 78100_79000
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	apples . 79965_82441
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	words that begin with the letter s@l . 82441_86814
+%mor:	n|word-PL pro:rel|that v|begin prep|with det:art|the n|letter
+	n:let|s .
+%gra:	1|0|INCROOT 2|3|LINK 3|1|CMOD 4|3|JCT 5|6|DET 6|7|SUBJ 7|4|POBJ
+	8|1|PUNCT
+*INV:	the first letter of each word hasta be an s@l . 86814_90596
+%mor:	det:art|the adj|first n|letter prep|of qn|each n|word
+	mod|have&3S~inf|to cop|be det:art|a n:let|s .
+%gra:	1|3|DET 2|3|MOD 3|0|INCROOT 4|9|LINK 5|6|QUANT 6|9|SUBJ 7|9|AUX 8|9|INF
+	9|3|CMOD 10|11|DET 11|9|PRED 12|3|PUNCT
+*PAR:	well ‡ (...) I don't know what the other one would be . [+ exc] 90596_101568
+%mor:	co|well beg|beg pro:sub|I mod|do~neg|not v|know pro:int|what
+	det:art|the qn|other pro:indef|one mod|will&COND cop|be .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|12|LINK 8|10|DET
+	9|10|QUANT 10|12|SUBJ 11|12|AUX 12|6|COMP 13|6|PUNCT
+*INV:	any words that begin with the letter s@l . 101333_105709
+%mor:	qn|any n|word-PL pro:rel|that v|begin prep|with det:art|the
+	n|letter n:let|s .
+%gra:	1|2|QUANT 2|0|INCROOT 3|4|LINK 4|2|CMOD 5|4|JCT 6|7|DET 7|8|SUBJ
+	8|5|POBJ 9|2|PUNCT
+*PAR:	(...) soup . 105709_109067
+%mor:	n|soup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 109067_110267
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	don't hafta be food . 110267_111839
+%mor:	mod|do~neg|not mod|have~inf|to cop|be n|food .
+%gra:	1|5|AUX 2|1|NEG 3|5|AUX 4|5|INF 5|0|ROOT 6|5|PRED 7|5|PUNCT
+*INV:	any word at all . 111839_113406
+%mor:	qn|any n|word prep|at pro:indef|all .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|PUNCT
+*PAR:	+< well ‡ that's the first thing I thought [/] thought of was
+	soup@q . [+ exc] 112506_117200
+%mor:	co|well beg|beg pro:dem|that~cop|be&3S det:art|the adj|first
+	n|thing pro:sub|I v|think&PAST prep|of aux|be&PAST&13S meta|soup .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|9|SUBJ
+	9|7|CMOD 10|9|JCT 11|10|POBJ 12|11|PRED 13|4|PUNCT
+*INV:	+< yeah ‡ it's a good one . 115550_117200
+%mor:	co|yeah beg|beg pro:per|it~cop|be&3S det:art|a adj|good
+	pro:indef|one .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|4|PUNCT
+*INV:	it's a good one . 117200_118680
+%mor:	pro:per|it~cop|be&3S det:art|a adj|good pro:indef|one .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|PRED 6|2|PUNCT
+*INV:	any more ? 118680_119417
+%mor:	qn|any pro:indef|more ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	&hm &s I have stove@q but that's not edible &=laughs . 119417_127509
+%mor:	pro:sub|I v|have meta|stove conj|but pro:rel|that~cop|be&3S neg|not
+	adj|edible .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|CONJ 5|6|LINK 6|4|COORD 7|6|NEG 8|6|PRED
+	9|2|PUNCT
+*INV:	www . 127509_129814
+%exp:	next task .
+@End

@@ -1,0 +1,230 @@
+@UTF8
+@PID:	11312/t-00044517-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|67;|male|MCI||Participant|27||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	528-0, audio
+@G:	animals
+*INV:	in one minute's time I want you to name as many animals as you can
+	think of . 0_5467
+%mor:	prep|in det:num|one adj|minute&dn-POSS n|time pro:sub|I v|want
+	pro:per|you inf|to v|name conj|as qn|many n|animal-PL adv|as
+	pro:per|you mod|can v|think prep|of .
+%gra:	1|6|JCT 2|4|QUANT 3|4|MOD 4|1|POBJ 5|6|SUBJ 6|0|ROOT 7|9|SUBJ 8|9|INF
+	9|6|COMP 10|16|LINK 11|12|QUANT 12|16|JCT 13|12|NJCT 14|16|SUBJ 15|16|AUX
+	16|9|CJCT 17|16|JCT 18|6|PUNCT
+*INV:	as many animals in one minute . 5467_7651
+%mor:	prep|as qn|many n|animal-PL prep|in det:num|one n|minute .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|3|NJCT 5|6|QUANT 6|4|POBJ 7|1|PUNCT
+*INV:	now I don't want +//. 7651_9062
+%mor:	adv|now pro:sub|I mod|do~neg|not v|want +//.
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|PUNCT
+*INV:	they can be zoo animals or farm animals or pets . 9062_11558
+%mor:	pro:sub|they mod|can cop|be n|zoo n|animal-PL coord|or n|farm
+	n|animal-PL coord|or n|pet-PL .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|CONJ 7|8|MOD 8|6|COORD
+	9|8|CONJ 10|9|COORD 11|3|PUNCT
+*INV:	but I don't want any names of fish or birds . 11558_14827
+%mor:	conj|but pro:sub|I mod|do~neg|not v|want qn|any n|name-PL prep|of
+	n|fish coord|or n|bird-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|QUANT 7|5|OBJ 8|7|NJCT
+	9|8|POBJ 10|9|CONJ 11|10|COORD 12|5|PUNCT
+*PAR:	four legged critters . [+ exc] 14827_17096
+%mor:	det:num|four adj|legged n|critter-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	anything at all other than fish and birds . 17096_19873
+%mor:	pro:indef|anything prep|at qn|all pro:indef|other prep|than n|fish
+	coord|and n|bird-PL .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|QUANT 4|2|POBJ 5|4|NJCT 6|5|POBJ 7|6|CONJ
+	8|7|COORD 9|1|PUNCT
+*PAR:	(..) okay . [+ exc] 19873_24614
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(o)kay . 24614_25004
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	ready ? 25004_25581
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yup . [+ exc] 25581_26361
+%mor:	co|yup .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	go . 26361_27001
+%mor:	v|go .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	dog . 27001_27625
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 27625_28077
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	chimpanzee . 28077_28694
+%mor:	n|chimpanzee .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	ape . 28694_29224
+%mor:	n|ape .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cows . 29224_30753
+%mor:	n|cow-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mules . 30753_31346
+%mor:	n|mule-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horses . 31346_32188
+%mor:	n|horse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) mouses . 32188_36174
+%mor:	n|mouse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pigs . 36174_38193
+%mor:	n|pig-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hogs . 38193_40143
+%mor:	n|hog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	same thing . [+ exc] 40143_41445
+%mor:	adj|same n|thing .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	&um (.) deer . 41445_46274
+%mor:	n|deer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) lions . 46274_50945
+%mor:	n|lion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) tigers . 50945_59259
+%mor:	n|tiger-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	puma . 59259_61623
+%mor:	n|puma .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cougar . 61623_65967
+%mor:	n|cougar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) jɑmə@u [: llama] . 65967_70498
+%mor:	n|llama .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and (.) camels . 70498_76106
+%mor:	coord|and n|camel-PL .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) hares . 76106_85270
+%mor:	n|hare-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 85270_88125
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	alright ‡ now this time I want you to tell me &=clears:throat as
+	many words that you think of beginning with the letter f@l . 88125_95340
+%mor:	co|alright beg|beg adv|now det:dem|this n|time pro:sub|I v|want
+	pro:per|you inf|to v|tell pro:obj|me adv|as qn|many n|word-PL
+	pro:rel|that pro:per|you v|think prep|of n|beginning prep|with
+	det:art|the n|letter n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|7|JCT 4|5|DET 5|7|JCT 6|7|SUBJ 7|0|ROOT 8|10|SUBJ
+	9|10|INF 10|7|COMP 11|10|OBJ 12|14|COORD 13|14|QUANT 14|10|OBJ 15|17|LINK
+	16|17|SUBJ 17|14|CMOD 18|17|JCT 19|18|POBJ 20|17|JCT 21|22|DET
+	22|23|SUBJ 23|20|POBJ 24|7|PUNCT
+*INV:	as many words that you can think of beginning with the letter f@l .
+	95340_99449
+%mor:	prep|as qn|many n|word-PL pro:rel|that pro:per|you mod|can v|think
+	prep|of n|beginning prep|with det:art|the n|letter n:let|f .
+%gra:	1|0|INCROOT 2|3|QUANT 3|1|POBJ 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|7|JCT 9|8|POBJ 10|7|JCT 11|12|DET 12|10|POBJ 13|7|JCT 14|1|PUNCT
+*INV:	no proper nouns . 99449_101205
+%mor:	qn|no adj|proper n|noun-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	no names of people or places . 101205_103498
+%mor:	qn|no n|name-PL prep|of n|person&PL coord|or n|place-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|CONJ 6|5|COORD 7|2|PUNCT
+*PAR:	oh . [+ exc] 103498_104956
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and only one form of the word . 104956_107390
+%mor:	coord|and adv|only det:num|one n|form prep|of det:art|the n|word .
+%gra:	1|4|LINK 2|3|JCT 3|4|QUANT 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|4|PUNCT
+*INV:	I want you to give me say walk@q and then walking@q then walked@q .
+	107390_111952
+%mor:	pro:sub|I v|want pro:per|you inf|to v|give pro:obj|me v|say
+	meta|walk coord|and adv:tem|then meta|walking adv:tem|then
+	meta|walked .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|OBJ2 7|5|COMP 8|7|OBJ
+	9|8|CONJ 10|11|JCT 11|9|COORD 12|13|JCT 13|11|ENUM 14|2|PUNCT
+*INV:	just one +/. 111952_112833
+%mor:	adv|just det:num|one +/.
+%gra:	1|2|JCT 2|0|INCROOT 3|2|PUNCT
+*PAR:	just one form . [+ exc] 112833_113613
+%mor:	adv|just det:num|one n|form .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|PUNCT
+*INV:	just one form of the word . 113613_114627
+%mor:	adv|just det:num|one n|form prep|of det:art|the n|word .
+%gra:	1|2|JCT 2|3|QUANT 3|0|INCROOT 4|3|NJCT 5|6|DET 6|4|POBJ 7|3|PUNCT
+*INV:	no proper names . 114627_116109
+%mor:	qn|no adj|proper n|name-PL .
+%gra:	1|3|QUANT 2|3|MOD 3|0|INCROOT 4|3|PUNCT
+*INV:	and all of the words you can think of beginning with the letter f@l
+	. 116109_120960
+%mor:	coord|and pro:indef|all prep|of det:art|the n|word-PL pro:per|you
+	mod|can v|think prep|of n|beginning prep|with det:art|the n|letter
+	n:let|f .
+%gra:	1|8|LINK 2|8|JCT 3|2|NJCT 4|5|DET 5|3|POBJ 6|8|SUBJ 7|8|AUX 8|0|ROOT
+	9|8|JCT 10|9|POBJ 11|8|JCT 12|13|DET 13|11|POBJ 14|8|JCT 15|8|PUNCT
+*INV:	ready ? 120960_122598
+%mor:	adj|ready ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	okay . [+ exc] 122598_123456
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	first . 123456_124649
+%mor:	adv|first .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frontier . 124649_125835
+%mor:	n|frontier .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fade . 125835_127348
+%mor:	v|fade .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fill . 127348_128323
+%mor:	n|fill .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fallow . 128323_131000
+%mor:	adj|fallow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	follow . 131000_132441
+%mor:	v|follow .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(..) fit . 132441_137339
+%mor:	v|fit&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fill . 137339_139554
+%mor:	n|fill .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fast . 139554_143586
+%mor:	n|fast .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fence . 143586_148796
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fountain . 148796_152906
+%mor:	n|fountain .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) &f firth@n . 152906_163045
+%mor:	neo|firth .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's fɜ˞θəfɑɪ@u [: x@n] . 163045_165674
+%mor:	pro:dem|that~cop|be&3S neo|x .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	(..) flange . 165674_173379
+%mor:	n|flange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fair . 173379_177489
+%mor:	n|fair .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fight . 177489_182380
+%mor:	n|fight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 182380_184875
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

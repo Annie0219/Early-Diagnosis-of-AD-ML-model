@@ -1,0 +1,138 @@
+@Font:	Courier:16:0
+@UTF8
+@PID:	11312/t-00016051-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|66;|male|MCI||Participant|28||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	033-3, audio
+@G:	foods
+*PAR:	limabean . 0_1451
+%mor:	n|+n|lima+n|bean .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	greenbean . 1451_2345
+%mor:	n|+n|green+n|bean .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	soybean . 2345_4122
+%mor:	n|soybean .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	corn . 4122_5422
+%mor:	n|corn .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	apples . 5422_7628
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peaches . 7628_8313
+%mor:	n|peach-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	grapes . 8313_9509
+%mor:	n|grape-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cherries . 9509_12458
+%mor:	n|cherry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	blueberries . 12458_14466
+%mor:	n|blueberry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	raspberries . 14466_16231
+%mor:	n|raspberry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	asparagus . 16231_18530
+%mor:	n|asparagus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	zucchini . 18530_21491
+%mor:	n|zucchini .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sugar cane . 21491_26251
+%mor:	n|sugar n|cane .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) molasses . 26251_31359
+%mor:	n|molasses .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	taffy . 31359_33704
+%mor:	n|taffy .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peaches . 33704_36839
+%mor:	n|peach-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	plums . 36839_38012
+%mor:	n|plum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pears . 38012_39184
+%mor:	n|pear-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fish . 39184_45059
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	meat . 45059_46301
+%mor:	n|meat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) oats . 46301_53058
+%mor:	n|oat-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wheat . 53058_53952
+%mor:	n|wheat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	barley . 53952_55229
+%mor:	n|barley .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rice . 55229_56553
+%mor:	n|rice .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sugar . 56553_58933
+%mor:	n|sugar .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	S
+*INV:	begin with s@l . 58933_65493
+%mor:	v|begin prep|with n:let|s .
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*PAR:	sat . 65493_69115
+%mor:	v|sit&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	set . 69115_73434
+%mor:	v|set&ZERO .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	safety . 73434_77416
+%mor:	n|safety .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	satisfy . 77416_80342
+%mor:	v|satisfy .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	suggest . 80342_83128
+%mor:	v|suggest .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	share . 83128_86844
+%mor:	n|share .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	seize . 86844_89409
+%mor:	v|seize .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	stop . 89409_91534
+%mor:	n|stop .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) sink . 91534_100683
+%mor:	n|sink .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sunk . 100683_102958
+%mor:	v|sink&PAST .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	scrap . 102958_105222
+%mor:	n|scrap .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	steal . 105222_106952
+%mor:	v|steal .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	safety . 106952_114440
+%mor:	n|safety .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	shot . 114440_116623
+%mor:	n|shot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	scream . 116623_119665
+%mor:	n|scream .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	scramble . 119665_123821
+%mor:	n|scramble .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

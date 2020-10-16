@@ -1,0 +1,116 @@
+@UTF8
+@PID:	11312/t-00016205-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|64;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	488-0, audio
+@G:	animals
+*INV:	and you can begin now . 0_2397
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	dog . 2397_4000
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 4000_5091
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lion . 5091_5946
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 5946_6802
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	girafft [: giraffe] [/] (..) girafft [: giraffe] . 6802_13433
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) cow . 13433_16546
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 16546_17869
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mule . 17869_20031
+%mor:	n|mule .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	donkey . 20031_22225
+%mor:	n|donkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) and (.) camel . 22225_31985
+%mor:	coord|and n|camel .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) camel . [+ exc] 31985_37777
+%mor:	n|camel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and (.) lion . 37777_42334
+%mor:	coord|and n|lion .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) lion . [+ exc] 42334_47533
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) lion . [+ exc] 47533_56886
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) and (.) tiger . 56886_61850
+%mor:	coord|and n|tiger .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*INV:	good . 61850_62581
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ now +/. 62581_63650
+%mor:	co|okay beg|beg adv|now +/.
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	letter f@l . 63650_64405
+%mor:	n|letter n:let|f .
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*INV:	and you can begin now . 64405_66426
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	fish . 66426_68589
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fire . 68589_69212
+%mor:	n|fire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) four . 69212_72091
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	foot . 72091_73043
+%mor:	n|foot .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	foot +... [+ exc] 73043_81800
+%mor:	n|foot +...
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (..) four . 81800_91000
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	four@k . [+ exc] 91000_93043
+%mor:	n:let|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and &um (..) fry . 93043_101391
+%mor:	coord|and n|fry .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) fry . [+ exc] 101391_105151
+%mor:	n|fry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) and fill . 105151_109630
+%mor:	coord|and n|fill .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) and fruit . 109630_113006
+%mor:	coord|and n|fruit .
+%gra:	1|2|LINK 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) fruit . 113006_118563
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fish . 118563_120633
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) funny . 120633_123978
+%mor:	adj|fun&dn-Y .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 123978_125691
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

@@ -1,0 +1,213 @@
+@UTF8
+@PID:	11312/t-00016378-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|63;|female|ProbableAD||Participant|23||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	270-0, audio
+@G:	George_Immediate
+*PAR:	well ‡ let's see . [+ exc] 0_2009
+%mor:	co|well beg|beg v|let~pro:obj|us v|see .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*PAR:	George and Melanie . 2009_4187
+%mor:	n:prop|George coord|and n:prop|Melanie .
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*PAR:	George was the grandfather . 4187_5824
+%mor:	n:prop|George cop|be&PAST&13S det:art|the grand#n|father .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|PRED 5|2|PUNCT
+*PAR:	he moved in with them . 5824_7000
+%mor:	pro:sub|he v|move-PAST adv|in prep|with pro:obj|them .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|JCT 5|4|POBJ 6|2|PUNCT
+*PAR:	and Melanie was his granddaughter . 7000_9681
+%mor:	coord|and n:prop|Melanie cop|be&PAST&13S det:poss|his
+	grand#n|daughter .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|PRED 6|3|PUNCT
+*PAR:	and &uh let's see . [+ exc] 9681_13494
+%mor:	coord|and v|let~pro:obj|us v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*PAR:	he took her for a walk one day . 13494_15767
+%mor:	pro:sub|he v|take&PAST pro:obj|her prep|for det:art|a n|walk
+	pro:indef|one n|day .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|8|SUBJ 8|2|JCT
+	9|2|PUNCT
+*PAR:	and she was frightened of the traffic <and the> [/] and the sounds
+	in the city . 15767_22087
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|frighten-PASTP prep|of
+	det:art|the n|traffic coord|and det:art|the n|sound-PL prep|in
+	det:art|the n|city .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|CONJ
+	9|10|DET 10|8|COORD 11|10|NJCT 12|13|DET 13|11|POBJ 14|4|PUNCT
+*PAR:	she wasn't useta where they lived in the country . 21915_24560
+%mor:	pro:sub|she cop|be&PAST&13S~neg|not mod|used~inf|to pro:rel|where
+	pro:sub|they v|live-PAST prep|in det:art|the n|country .
+%gra:	1|2|SUBJ 2|8|SUBJ 3|2|NEG 4|8|AUX 5|6|INF 6|8|LINK 7|8|SUBJ 8|0|ROOT
+	9|8|JCT 10|11|DET 11|9|POBJ 12|8|PUNCT
+*PAR:	(.) and &uh she was glad to be back home , returned . 24560_29914
+%mor:	coord|and pro:sub|she cop|be&PAST&13S adj|glad inf|to cop|be
+	adv|back adv|home cm|cm v|return-PAST .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|6|INF 6|4|XMOD 7|6|JCT 8|6|JCT
+	9|3|LP 10|3|ENUM 11|3|PUNCT
+*INV:	okay ‡ good . 29914_32030
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	great . 32030_32575
+%mor:	adj|great .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Delayed
+*INV:	anything that you can remember from the story I told just recently
+	? 32575_36138
+%mor:	pro:indef|anything pro:rel|that pro:per|you mod|can v|remember
+	prep|from det:art|the n|story pro:sub|I v|tell&PAST adv|just
+	adv|recent&dadj-LY ?
+%gra:	1|0|INCROOT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|1|CMOD 6|5|JCT 7|8|DET 8|6|POBJ
+	9|10|SUBJ 10|5|CJCT 11|12|JCT 12|10|JCT 13|1|PUNCT
+*PAR:	well ‡ let's see . [+ exc] 36138_37788
+%mor:	co|well beg|beg v|let~pro:obj|us v|see .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|OBJ 5|3|COMP 6|3|PUNCT
+*PAR:	I know there was a boy and a girl . 37788_40995
+%mor:	pro:sub|I v|know adv|there cop|be&PAST&13S det:art|a n|boy
+	coord|and det:art|a n|girl .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|COMP 5|6|DET 6|4|PRED 7|6|CONJ 8|9|DET
+	9|7|COORD 10|2|PUNCT
+*PAR:	and they took a walk with their grandfather . 40995_43111
+%mor:	coord|and pro:sub|they v|take&PAST det:art|a n|walk prep|with
+	det:poss|their grand#n|father .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|JCT 7|8|DET 8|6|POBJ
+	9|3|PUNCT
+*PAR:	and I don't remember the names &=laughs . [+ exc] 43080_44901
+%mor:	coord|and pro:sub|I mod|do~neg|not v|remember det:art|the n|name-PL
+	.
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|3|NEG 5|0|ROOT 6|7|DET 7|5|OBJ 8|5|PUNCT
+*PAR:	I would say Dick and Jane because I know it wasn't that . [+ exc] 44901_48527
+%mor:	pro:sub|I mod|will&COND v|say n:prop|Dick coord|and n:prop|Jane
+	conj|because pro:sub|I v|know pro:per|it cop|be&PAST&13S~neg|not
+	pro:dem|that .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|OBJ 5|4|CONJ 6|5|COORD 7|9|LINK 8|9|SUBJ
+	9|3|CJCT 10|11|SUBJ 11|9|COMP 12|11|NEG 13|11|PRED 14|3|PUNCT
+*PAR:	(.) and let's see . [+ exc] 48527_51593
+%mor:	coord|and v|let~pro:obj|us v|see .
+%gra:	1|2|LINK 2|0|ROOT 3|2|OBJ 4|2|COMP 5|2|PUNCT
+*PAR:	they went downtown . 51593_54193
+%mor:	pro:sub|they v|go&PAST adv|downtown .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*PAR:	and the children were a little frightened because they weren't
+	useta heavy traffic . 54193_60387
+%mor:	coord|and det:art|the n|child&PL cop|be&PAST det:art|a adj|little
+	part|frighten-PASTP conj|because pro:sub|they cop|be&PAST~neg|not
+	mod|used~inf|to adj|heavy n|traffic .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|7|DET 6|7|MOD 7|4|PRED 8|10|LINK
+	9|10|SUBJ 10|4|CJCT 11|10|NEG 12|15|AUX 13|14|INF 14|15|MOD 15|10|PRED
+	16|4|PUNCT
+*INV:	okay . 60387_61928
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	and they were really very glad to get back home with grandpa . 61928_65507
+%mor:	coord|and pro:sub|they cop|be&PAST adv|real&dadj-LY adv|very
+	adj|glad inf|to v|get adv|back adv|home prep|with grand#n|pa .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|JCT 6|3|PRED 7|8|INF 8|6|XMOD
+	9|8|JCT 10|8|JCT 11|8|JCT 12|11|POBJ 13|3|PUNCT
+*INV:	okay ‡ good . 65507_67079
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	George_Questions
+*INV:	let me just ask you a few questions to go along with the story . 67079_70208
+%mor:	v|let&ZERO pro:obj|me adv|just v|ask pro:per|you det:art|a n|few
+	v|question-3S inf|to v|go adv|along prep|with det:art|the n|story .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|JCT 4|1|COMP 5|4|OBJ2 6|7|DET 7|8|SUBJ 8|4|COMP
+	9|10|INF 10|8|COMP 11|10|JCT 12|10|JCT 13|14|DET 14|12|POBJ 15|1|PUNCT
+*INV:	okay ‡ you [/] you can you tell me who the story was about ? 70208_74922
+%mor:	co|okay beg|beg pro:per|you mod|can pro:per|you v|tell pro:obj|me
+	pro:int|who det:art|the n|story cop|be&PAST&13S adv|about ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|11|LINK
+	9|10|DET 10|11|SUBJ 11|6|COMP 12|11|JCT 13|6|PUNCT
+*INV:	can you remember the names ? 74922_76122
+%mor:	mod|can pro:per|you v|remember det:art|the n|name-PL ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*PAR:	&=laughs I just told you ‡ I didn't all I could think of was Jick
+	[: Dick] [*] [//] Dick and Jane . 76122_80183
+%mor:	pro:sub|I adv|just v|tell&PAST pro:per|you beg|beg pro:sub|I
+	mod|do&PAST~neg|not pro:indef|all pro:sub|I mod|could v|think
+	prep|of cop|be&PAST&13S n:prop|Dick coord|and n:prop|Jane .
+%gra:	1|3|SUBJ 2|3|JCT 3|0|BEG 4|3|OBJ 5|3|BEGP 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|0|ROOT 13|12|JCT 14|13|POBJ 15|14|PRED
+	16|15|CONJ 17|16|COORD 18|12|PUNCT
+*INV:	okay . 80183_83015
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah ‡ I [/] I really don't remember . [+ exc] 83015_84681
+%mor:	co|yeah beg|beg pro:sub|I adv|real&dadj-LY mod|do~neg|not
+	v|remember .
+%gra:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|7|JCT 5|7|AUX 6|5|NEG 7|0|ROOT 8|7|PUNCT
+*INV:	that's fine . 84868_85647
+%mor:	pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	okay ‡ one of the names was George . 85647_87980
+%mor:	co|okay beg|beg det:num|one prep|of det:art|the n|name-PL
+	cop|be&PAST&13S n:prop|George .
+%gra:	1|0|BEG 2|1|BEGP 3|7|SUBJ 4|3|NJCT 5|6|DET 6|4|POBJ 7|0|ROOT 8|7|PRED
+	9|7|PUNCT
+*INV:	what time of the year did George move in with his son's family ? 87980_91996
+%mor:	pro:int|what n|time prep|of det:art|the n|year v|do&PAST
+	n:prop|George n|move adv|in prep|with det:poss|his adj|son&dn-POSS
+	n|family ?
+%gra:	1|6|LINK 2|6|SUBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|0|ROOT 7|8|MOD 8|6|OBJ
+	9|6|JCT 10|6|JCT 11|13|DET 12|13|MOD 13|10|POBJ 14|6|PUNCT
+*PAR:	(.) Spring time ‡ I believe . 91996_94767
+%mor:	n:prop|Spring n|time beg|beg pro:sub|I v|believe .
+%gra:	1|2|MOD 2|0|BEG 3|2|BEGP 4|5|SUBJ 5|0|ROOT 6|5|PUNCT
+*INV:	okay . 94767_95437
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	George told some stories . 95437_100666
+%mor:	n:prop|George v|tell&PAST qn|some n|story-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|OBJ 5|2|PUNCT
+*INV:	what were they about ? 100666_101739
+%mor:	pro:int|what cop|be&PAST pro:sub|they adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|JCT 5|2|PUNCT
+*INV:	what were George's stories about ? 101739_103747
+%mor:	pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|PUNCT
+*PAR:	about his youth . 103747_106175
+%mor:	prep|about det:poss|his n|youth .
+%gra:	1|0|INCROOT 2|3|DET 3|1|POBJ 4|1|PUNCT
+*INV:	okay . 106175_107265
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what [/] what did Melanie ask George to do ? 107265_113755
+%mor:	pro:int|what mod|do&PAST n:prop|Melanie v|ask n:prop|George inf|to
+	v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*PAR:	to take her home . 113755_115606
+%mor:	inf|to v|take det:poss|her n|home .
+%gra:	1|2|INF 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	okay . 115606_117006
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	why did George hold Melanie's hand tightly ? 117006_124493
+%mor:	pro:int|why mod|do&PAST n:prop|George n|hold adj|Melanie&dn-POSS
+	n|hand adv|tight&dadj-LY ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|JCT 8|6|PUNCT
+*PAR:	because of traffic . 124493_126268
+%mor:	conj|because prep|of n|traffic .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*INV:	why did Melanie dislike the city ? 126268_134080
+%mor:	pro:int|why mod|do&PAST n:prop|Melanie n|dislike det:art|the n|city
+	?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|0|INCROOT 5|6|DET 6|4|APP 7|4|PUNCT
+*PAR:	(.) just [/] just too busy . 134080_136976
+%mor:	adv|just adv|too adj|busy .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|PUNCT
+*PAR:	that's xxx wanted to explain . 136976_139063
+%mor:	pro:dem|that~cop|be&3S v|want-PAST inf|to v|explain .
+%gra:	1|2|SUBJ 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|3|PUNCT
+*INV:	+< okay . 138800_139507
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< just too much of everything . 139207_140500
+%mor:	adv|just adv|too adv|much prep|of pro:indef|everything .
+%gra:	1|2|JCT 2|3|JCT 3|0|INCROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*INV:	good . 140500_141257
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

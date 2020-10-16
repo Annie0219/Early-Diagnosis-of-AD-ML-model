@@ -1,0 +1,149 @@
+@UTF8
+@PID:	11312/t-00016353-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|85;|male|ProbableAD||Participant|25||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	212-2, audio
+@G:	George_Immediate
+*INV:	can you tell me everything you can remember about that story ? 0_3000
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|everything
+	pro:per|you mod|can v|remember prep|about det:dem|that n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX 8|3|COMP
+	9|8|JCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*PAR:	George and Melanie decided to go to his hometown . 3000_7345
+%mor:	n:prop|George coord|and n:prop|Melanie v|decide-PAST inf|to v|go
+	prep|to det:poss|his n|+n|home+n|town .
+%gra:	1|4|SUBJ 2|1|CONJ 3|2|COORD 4|0|ROOT 5|6|INF 6|4|COMP 7|6|JCT 8|9|DET
+	9|7|POBJ 10|4|PUNCT
+*PAR:	the streets were crowded . 7345_9032
+%mor:	det:art|the n|street-PL aux|be&PAST part|crowd-PASTP .
+%gra:	1|2|DET 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|PUNCT
+*PAR:	and she was sorta scared of the crowded streets . 9032_11824
+%mor:	coord|and pro:sub|she aux|be&PAST&13S adv|sorta part|scare-PASTP
+	prep|of det:art|the part|crowd-PASTP n|street-PL .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	(a)bout it . [+ exc] 11824_13968
+%mor:	prep|about pro:per|it .
+%gra:	1|0|INCROOT 2|1|POBJ 3|1|PUNCT
+*PAR:	I'm not so good at that . [+ exc] 13968_15563
+%mor:	pro:sub|I~cop|be&1S neg|not adv|so adj|good prep|at pro:dem|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|NEG 4|5|JCT 5|2|PRED 6|5|JCT 7|6|POBJ 8|2|PUNCT
+*INV:	okay . 15563_16944
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I &uh realize that's one of the areas . [+ exc] 16944_20256
+%mor:	pro:sub|I v|realize comp|that~aux|be&3S pro:indef|one prep|of
+	det:art|the n|area-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|3|INCROOT 5|4|PRED 6|5|NJCT 7|8|DET
+	8|6|POBJ 9|4|PUNCT
+*INV:	&=laughs . 20256_21449
+*PAR:	<I &+ha thought if I> [//] &+r I useta read and know . [+ exc] 21449_24919
+%mor:	pro:sub|I mod|used~inf|to v|read&ZERO coord|and v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|4|INF 4|0|ROOT 5|4|CONJ 6|5|COORD 7|4|PUNCT
+*INV:	mhm . 24919_25463
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	now I hafta decide I wanna know it before I read it . [+ exc] 25463_29335
+%mor:	adv|now pro:sub|I mod|have~inf|to v|decide pro:sub|I v|want~inf|to
+	v|know pro:per|it conj|before pro:sub|I v|read&ZERO pro:per|it .
+%gra:	1|5|JCT 2|5|SUBJ 3|5|AUX 4|5|INF 5|0|ROOT 6|7|SUBJ 7|5|COMP 8|9|INF
+	9|7|COMP 10|9|OBJ 11|13|LINK 12|13|SUBJ 13|5|CJCT 14|13|OBJ 15|5|PUNCT
+*INV:	+< mhm . 28183_28500
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 29335_29662
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	then I read it . [+ exc] 29662_30403
+%mor:	adv:tem|then pro:sub|I v|read&ZERO pro:per|it .
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	then I go back and +... [+ exc] 30403_31327
+%mor:	adv:tem|then pro:sub|I v|go adv|back coord|and +...
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|3|CONJ 6|3|PUNCT
+*INV:	mhm . 31327_32311
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but I notice that's the biggest difference in the age . [+ exc] 32311_35000
+%mor:	conj|but pro:sub|I v|notice comp|that~aux|be&3S det:art|the
+	adj|big-SP n|difference prep|in det:art|the n|age .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|8|SUBJ 5|8|AUX 6|8|DET 7|8|MOD 8|3|OBJ
+	9|8|NJCT 10|11|DET 11|9|POBJ 12|3|PUNCT
+*INV:	+< okay . 34700_35350
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	but I'm satisfied I can read it twice . [+ exc] 35350_38465
+%mor:	conj|but pro:sub|I~aux|be&1S part|satisfy-PASTP pro:sub|I mod|can
+	v|read&ZERO pro:per|it adv|twice .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|7|SUBJ 6|7|AUX 7|4|COMP 8|7|OBJ
+	9|7|JCT 10|4|PUNCT
+*INV:	&=laughs . 38465_39807
+@G:	George_Delayed
+*INV:	do you remember the short story I read to you just a little while
+	ago ? 39807_45700
+%mor:	mod|do pro:per|you v|remember det:art|the adj|short n|story
+	pro:sub|I v|read&ZERO prep|to pro:per|you adv|just det:art|a
+	adj|little n|while post|ago ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|8|SUBJ 8|6|CMOD
+	9|8|JCT 10|9|POBJ 11|14|JCT 12|14|DET 13|14|MOD 14|8|JCT 15|14|POSTMOD
+	16|3|PUNCT
+*PAR:	pardon_me . [+ exc] 45700_46536
+%mor:	co|pardon_me .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< I read you a short story . 46000_47087
+%mor:	pro:sub|I v|read&ZERO pro:per|you det:art|a adj|short n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|6|DET 5|6|MOD 6|2|OBJ 7|2|PUNCT
+*PAR:	+< George and +/. 46900_47695
+%mor:	n:prop|George coord|and +/.
+%gra:	1|0|INCROOT 2|1|CONJ 3|1|PUNCT
+*INV:	and then I asked you +/. 47200_48240
+%mor:	coord|and adv:tem|then pro:sub|I v|ask-PAST pro:per|you +/.
+%gra:	1|4|LINK 2|4|JCT 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	right . 48240_48820
+%mor:	co|right .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	tell me everything you remember about that story now . 48820_51511
+%mor:	v|tell pro:obj|me pro:indef|everything pro:per|you v|remember
+	prep|about det:dem|that n|story adv|now .
+%gra:	1|0|ROOT 2|1|OBJ 3|5|LINK 4|5|SUBJ 5|1|COMP 6|9|JCT 7|8|DET 8|6|POBJ
+	9|5|JCT 10|1|PUNCT
+*PAR:	George . 51511_53599
+%mor:	n:prop|George .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 53599_54359
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I forget the girl's name but she [//] &+w he (.) told her about his
+	hometown . 54359_58585
+%mor:	pro:sub|I v|forget det:art|the adj|girl&dn-POSS n|name conj|but
+	pro:sub|he v|tell&PAST pro:obj|her prep|about det:poss|his
+	n|+n|home+n|town .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|MOD 5|2|OBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT
+	9|8|OBJ 10|8|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*PAR:	and they went back to visit it . 58585_60477
+%mor:	coord|and pro:sub|they v|go&PAST adv|back inf|to v|visit pro:per|it
+	.
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|INF 6|3|XJCT 7|6|OBJ 8|3|PUNCT
+*PAR:	and she was so scared of the terrific traffic . 60477_63615
+%mor:	coord|and pro:sub|she aux|be&PAST&13S adv|so part|scare-PASTP
+	prep|of det:art|the adj|terrific n|traffic .
+%gra:	1|5|LINK 2|5|SUBJ 3|5|AUX 4|5|JCT 5|0|ROOT 6|5|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|5|PUNCT
+*PAR:	that's about all I remember . [+ exc] 63615_66283
+%mor:	pro:dem|that~cop|be&3S adv|about adv|all pro:sub|I v|remember .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|JCT 5|6|SUBJ 6|2|CJCT 7|2|PUNCT
+*INV:	okay . 66283_66800
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	I'm lucky I remember that . [+ exc] 66800_67939
+%mor:	pro:sub|I~cop|be&1S adj|luck&dn-Y pro:sub|I v|remember comp|that .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|2|CJCT 6|5|OBJ 7|2|PUNCT
+*INV:	okay . 67939_68691
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	that's it . 68691_69339
+%mor:	pro:dem|that~cop|be&3S pro:per|it .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+@End

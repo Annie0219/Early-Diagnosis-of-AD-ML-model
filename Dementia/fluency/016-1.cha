@@ -1,0 +1,171 @@
+@UTF8
+@PID:	11312/t-00016036-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||male|MCI||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	016-1, audio
+@G:	foods
+*INV:	and you can begin now . 0_3004
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	fruit . 3004_4935
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bread . 4935_5448
+%mor:	n|bread .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pastry . 5448_6367
+%mor:	n|pastry .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oranges . 6367_7035
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	apples . 7035_8358
+%mor:	n|apple-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bananas . 8358_10164
+%mor:	n|banana-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	plums . 10164_10740
+%mor:	n|plum-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	prunes . 10740_12141
+%mor:	n|prune-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	meat . 12141_13604
+%mor:	n|meat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fish . 13604_14972
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh pork . 14972_17011
+%mor:	n|pork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh beef . 17011_18755
+%mor:	n|beef .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh chicken . 18755_21556
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lamb . 21556_23485
+%mor:	n|lamb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh crackers . 23485_26023
+%mor:	n|cracker-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh cake . 26023_28467
+%mor:	n|cake .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh asparagus . 28467_32310
+%mor:	n|asparagus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	spinach . 32310_33306
+%mor:	n|spinach .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh beans . 33306_35657
+%mor:	n|bean-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	peas . 35657_36466
+%mor:	n|pea-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lemons . 36466_37851
+%mor:	n|lemon-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	grapefruits . 37851_38692
+%mor:	n|+n|grape+n|fruit-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh cherries . 38692_43781
+%mor:	n|cherry-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) quinces . 43781_48464
+%mor:	n|quince-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oranges . 48464_51133
+%mor:	n|orange-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) cookies . 51133_57740
+%mor:	n|cookie-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh +... 57740_61005
+*INV:	okay ‡ good . 61005_63485
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	S
+*INV:	okay ‡ and you can begin now . 63485_67110
+%mor:	co|okay beg|beg coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	&uh sand . 67110_68729
+%mor:	n|sand .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sacrament . 68729_69786
+%mor:	n|sacrament .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sail . 69786_71343
+%mor:	n|sail .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh savor . 71343_73926
+%mor:	n|savor .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	savior . 73926_75250
+%mor:	n|savior .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh something . 75250_77507
+%mor:	pro:indef|something .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	simple . 77507_79030
+%mor:	adj|simple .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	saddle . 79030_80774
+%mor:	n|saddle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&sh sure . 80774_82969
+%mor:	adj|sure .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &s &sh silk . 82969_88604
+%mor:	n|silk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sill . 88604_89492
+%mor:	n|sill .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	silly . 89492_90346
+%mor:	co|silly .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh survival . 90346_93180
+%mor:	n|survival .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh &s saddle . 93180_96495
+%mor:	n|saddle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	smear . 96495_98113
+%mor:	n|smear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh sheer . 98113_100495
+%mor:	adj|sheer .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh skunk . 100495_103544
+%mor:	n|skunk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&s &uh (..) shallow . 103544_114656
+%mor:	adj|shallow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh save . 114656_117738
+%mor:	v|save .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&uh swage@n . 117738_120089
+%mor:	neo|swage .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	swim . 120089_121815
+%mor:	n|swim .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	swallow . 121815_122812
+%mor:	n|swallow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	socket . 122812_125318
+%mor:	n|socket .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 125318_126081
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

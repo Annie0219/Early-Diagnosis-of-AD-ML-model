@@ -1,0 +1,156 @@
+@UTF8
+@PID:	11312/t-00016087-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|90;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	091-2, audio
+@G:	animals
+*INV:	okay +//. 0_1217
+%mor:	co|okay +//.
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	for me in one minute and you can start now . 1217_4250
+%mor:	prep|for pro:obj|me prep|in det:num|one n|minute coord|and
+	pro:per|you mod|can v|start adv|now .
+%gra:	1|0|INCROOT 2|1|POBJ 3|2|NJCT 4|5|QUANT 5|3|POBJ 6|9|LINK 7|9|SUBJ
+	8|9|AUX 9|1|CJCT 10|9|JCT 11|1|PUNCT
+*PAR:	&um cow . 4250_6133
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a horse . 6133_7502
+%mor:	det:art|a n|horse .
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) animals . [+ exc] 7502_11284
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	mhm . 11284_12027
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	<cow and a horse> [//] and a dog . 12027_13899
+%mor:	coord|and det:art|a n|dog .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*INV:	uhhuh . 13899_14988
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) <cow and a horse> [/] cow and a horse and a dog . [+ exc] 14988_22849
+%mor:	n|cow coord|and det:art|a n|horse coord|and det:art|a n|dog .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|CONJ 6|7|DET 7|5|COORD
+	8|1|PUNCT
+*PAR:	an animal ? [+ exc] 22849_24778
+%mor:	det:art|a n|animal ?
+%gra:	1|2|DET 2|0|INCROOT 3|2|PUNCT
+*INV:	(.) name all the animals that you can think of . 24778_30849
+%mor:	n|name qn|all det:art|the n|animal-PL pro:rel|that pro:per|you
+	mod|can v|think prep|of .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|8|JCT 10|1|PUNCT
+*PAR:	(.) I don't know . [+ exc] 30849_38660
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*PAR:	cow and a horse . [+ exc] 38660_42085
+%mor:	n|cow coord|and det:art|a n|horse .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	no dog . [+ exc] 42085_46397
+%mor:	qn|no n|dog .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	cow and a horse and a dog . [+ exc] 46397_48825
+%mor:	n|cow coord|and det:art|a n|horse coord|and det:art|a n|dog .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|CONJ 6|7|DET 7|5|COORD
+	8|1|PUNCT
+*PAR:	I don't know any other animals now . [+ exc] 48825_52920
+%mor:	pro:sub|I mod|do~neg|not v|know qn|any qn|other n|animal-PL adv|now
+	.
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|7|QUANT 6|7|QUANT 7|4|OBJ 8|4|JCT
+	9|4|PUNCT
+*INV:	can you think of any more animals ? 52920_58678
+%mor:	mod|can pro:per|you v|think prep|of qn|any qn|more n|animal-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|QUANT 7|4|POBJ
+	8|3|PUNCT
+*PAR:	cow and a horse . [+ exc] 58678_61111
+%mor:	n|cow coord|and det:art|a n|horse .
+%gra:	1|0|INCROOT 2|1|CONJ 3|4|DET 4|2|COORD 5|1|PUNCT
+*PAR:	and a dog . [+ exc] 61111_62460
+%mor:	coord|and det:art|a n|dog .
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|PUNCT
+*PAR:	I see more of them than anything I guess . [+ exc] 62460_65049
+%mor:	pro:sub|I v|see qn|more prep|of pro:obj|them prep|than
+	pro:indef|anything pro:sub|I v|guess .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|QUANT 4|2|JCT 5|4|POBJ 6|2|JCT 7|6|POBJ 8|9|SUBJ
+	9|2|CJCT 10|2|PUNCT
+*INV:	okay ‡ that's fine . 65049_66976
+%mor:	co|okay beg|beg pro:dem|that~cop|be&3S adj|fine .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|PRED 6|4|PUNCT
+@G:	F
+*INV:	now I want you to think of as many words as you +//. 66976_69832
+%mor:	adv|now pro:sub|I v|want pro:per|you inf|to v|think prep|of adv|as
+	qn|many n|word-PL adv|as pro:per|you +//.
+%gra:	1|3|JCT 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|6|INF 6|3|COMP 7|6|JCT 8|10|COORD
+	9|10|QUANT 10|7|POBJ 11|12|COORD 12|10|ENUM 13|3|PUNCT
+*INV:	and you can begin now . 69832_72425
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	f@l . [+ exc] 72425_73100
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fine . 73100_74200
+%mor:	adv|fine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fur . 74200_75273
+%mor:	n|fur .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	+< uhhuh . 74300_75273
+%mor:	co|uhhuh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	Friday . 75273_76860
+%mor:	n:prop|Friday .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) finish . 76860_80114
+%mor:	v|finish .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	no . [+ exc] 80114_81080
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	keep going . 81080_82853
+%mor:	v|keep part|go-PRESP .
+%gra:	1|0|ROOT 2|1|COMP 3|1|PUNCT
+*PAR:	&uh &uh flowers . 82853_87538
+%mor:	n|flower-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	furniture . 87538_90977
+%mor:	n|furniture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flaw . 90977_95428
+%mor:	n|flaw .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) letter f@l ? [+ exc] 95428_100953
+%mor:	n|letter n:let|f ?
+%gra:	1|2|MOD 2|0|ROOT 3|2|PUNCT
+*PAR:	(..) that's it I guess . [+ exc] 100953_106041
+%mor:	pro:dem|that~cop|be&3S pro:per|it pro:sub|I v|guess .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|SUBJ 5|3|CMOD 6|2|PUNCT
+*INV:	can you think of any more ? 106041_107183
+%mor:	mod|can pro:per|you v|think prep|of qn|any pro:indef|more ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*INV:	you have about twenty seconds left . 107183_109202
+%mor:	pro:per|you v|have prep|about det:num|twenty n|second-PL
+	v|leave&PAST .
+%gra:	1|2|SUBJ 2|0|ROOT 3|6|JCT 4|5|QUANT 5|6|SUBJ 6|2|CJCT 7|2|PUNCT
+*INV:	any more words that begin with the letter f@l . 109202_112502
+%mor:	qn|any qn|more n|word-PL pro:rel|that v|begin prep|with det:art|the
+	n|letter n:let|f .
+%gra:	1|3|QUANT 2|3|QUANT 3|0|INCROOT 4|5|LINK 5|3|CMOD 6|5|JCT 7|8|DET
+	8|9|SUBJ 9|6|POBJ 10|3|PUNCT
+*PAR:	fine . 112502_113887
+%mor:	adv|fine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) furniture . 113887_117513
+%mor:	n|furniture .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	flowers . 117513_119895
+%mor:	n|flower-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) fashions . 119895_125513
+%mor:	n|fashion-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

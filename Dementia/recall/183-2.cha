@@ -1,0 +1,109 @@
+@UTF8
+@PID:	11312/t-00016343-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	183-2, audio
+@G:	George_Delayed
+*INV:	I want you to think back on the short story that I read to you
+	earlier . 0_4470
+%mor:	pro:sub|I v|want pro:per|you inf|to v|think adv|back prep|on
+	det:art|the adj|short n|story pro:rel|that pro:sub|I v|read&ZERO
+	prep|to pro:per|you adj|early-CP .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|SUBJ 4|5|INF 5|2|COMP 6|5|JCT 7|5|JCT 8|10|DET
+	9|10|MOD 10|7|POBJ 11|13|LINK 12|13|SUBJ 13|10|CMOD 14|13|JCT 15|16|SUBJ
+	16|14|POBJ 17|2|PUNCT
+*INV:	I read you a story then I asked you what you recalled from that
+	story . 4470_7550
+%mor:	pro:sub|I v|read&ZERO pro:per|you det:art|a n|story adv:tem|then
+	pro:sub|I v|ask-PAST pro:per|you pro:int|what pro:per|you
+	v|recall-PAST prep|from det:dem|that n|story .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ2 4|5|DET 5|8|SUBJ 6|8|JCT 7|8|SUBJ 8|2|COMP
+	9|8|OBJ 10|12|LINK 11|12|SUBJ 12|8|COMP 13|12|JCT 14|15|DET 15|13|POBJ
+	16|2|PUNCT
+*INV:	can you tell me anything you recall from that story ? 7550_10521
+%mor:	mod|can pro:per|you v|tell pro:obj|me pro:indef|anything
+	pro:per|you v|recall prep|from det:dem|that n|story ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|OBJ 6|7|SUBJ 7|5|CMOD 8|7|JCT
+	9|10|DET 10|8|POBJ 11|3|PUNCT
+*PAR:	(.) it was Thanksgiving . 10521_13838
+%mor:	pro:per|it cop|be&PAST&13S n:prop|Thanksgiving .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*PAR:	and the niece wanted to visit the countryside . 13838_18326
+%mor:	coord|and det:art|the n|niece v|want-PAST inf|to v|visit
+	det:art|the n|+n|country+n|side .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*PAR:	and &uh they all had dinner together . 18326_22993
+%mor:	coord|and pro:sub|they post|all v|have&PAST n|dinner adv|together .
+%gra:	1|4|LINK 2|4|SUBJ 3|2|PQ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*INV:	(.) okay . 22993_28009
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Questions
+*INV:	who was the story about ? 28009_32273
+%mor:	pro:int|who cop|be&PAST&13S det:art|the n|story adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|DET 4|2|PRED 5|4|NJCT 6|2|PUNCT
+*PAR:	(.) about a fella and &+than they had a celebratin(g)
+	Thanksgivin(g) . 32273_41500
+%mor:	prep|about det:art|a n|fella coord|and pro:sub|they v|have&PAST
+	det:art|a n:gerund|celebrate-PRESP n:prop|Thanksgiving .
+%gra:	1|6|JCT 2|3|DET 3|1|POBJ 4|6|LINK 5|6|SUBJ 6|0|ROOT 7|9|DET 8|9|MOD
+	9|6|OBJ 10|6|PUNCT
+*PAR:	and their niece come to see (th)em . 41500_43345
+%mor:	coord|and det:poss|their n|niece v|come inf|to v|see pro:obj|them .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|6|OBJ 8|4|PUNCT
+*INV:	okay . 43345_44361
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	<what time excuse_me> [//] what were George's stories about ? 44361_49097
+%mor:	pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|PUNCT
+*PAR:	(.) just about [/] (.) about Thanksgiving . 49097_63517
+%mor:	adv|just prep|about n:prop|Thanksgiving .
+%gra:	1|0|INCROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*INV:	+< okay . 60500_61765
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	that's +/. [+ exc] 63517_64180
+%mor:	pro:dem|that~cop|be&3S +/.
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 64180_65433
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ what did Melanie ask George to do ? 65433_74264
+%mor:	co|okay beg|beg pro:int|what mod|do&PAST n:prop|Melanie v|ask
+	n:prop|George inf|to v|do ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|INF
+	9|6|COMP 10|6|PUNCT
+*PAR:	take her to see the farm (.) or the countryside . 74264_81785
+%mor:	v|take pro:obj|her inf|to v|see det:art|the n|farm coord|or
+	det:art|the n|+n|country+n|side .
+%gra:	1|0|ROOT 2|1|OBJ 3|4|INF 4|1|COMP 5|6|DET 6|4|OBJ 7|6|CONJ 8|9|DET
+	9|7|COORD 10|1|PUNCT
+*INV:	+< okay . 80000_81567
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	why did George hold Melanie's hand tightly ? 81785_85985
+%mor:	pro:int|why mod|do&PAST n:prop|George n|hold adj|Melanie&dn-POSS
+	n|hand adv|tight&dadj-LY ?
+%gra:	1|4|LINK 2|4|AUX 3|4|MOD 4|6|MOD 5|6|MOD 6|0|INCROOT 7|6|JCT 8|6|PUNCT
+*PAR:	(.) to lead her there on the way . 85985_92921
+%mor:	inf|to v|lead pro:obj|her adv|there prep|on det:art|the n|way .
+%gra:	1|2|INF 2|0|ROOT 3|2|OBJ 4|2|JCT 5|2|JCT 6|7|DET 7|5|POBJ 8|2|PUNCT
+*INV:	okay . 92921_95121
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	why didn't Melanie like the city ? 95121_99746
+%mor:	pro:int|why mod|do&PAST~neg|not n:prop|Melanie prep|like
+	det:art|the n|city ?
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	(.) too crowded . 99746_105739
+%mor:	adv|too part|crowd-PASTP .
+%gra:	1|2|JCT 2|0|ROOT 3|2|PUNCT
+*INV:	okay . 105739_106786
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

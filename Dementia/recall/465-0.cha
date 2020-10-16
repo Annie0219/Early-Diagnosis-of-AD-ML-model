@@ -1,0 +1,84 @@
+@UTF8
+@PID:	11312/t-00016429-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|female|PossibleAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	465-0, audio
+@G:	George_Immediate
+*INV:	remember anything from the story ? 0_1931
+%mor:	v|remember pro:indef|anything prep|from det:art|the n|story ?
+%gra:	1|0|ROOT 2|1|OBJ 3|2|NJCT 4|5|DET 5|3|POBJ 6|1|PUNCT
+*PAR:	(.) it was about a country . 1931_5400
+%mor:	pro:per|it cop|be&PAST&13S prep|about det:art|a n|country .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|DET 5|3|POBJ 6|2|PUNCT
+*PAR:	I don't know . [+ exc] 5400_6086
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	okay . 6086_6864
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 6864_13401
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Delayed
+*INV:	anything from that story ? 13401_16794
+%mor:	pro:indef|anything prep|from det:dem|that n|story ?
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*PAR:	no ‡ I don't . [+ exc] 16794_17898
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|AUX 5|4|NEG 6|3|PUNCT
+@G:	George_Questions
+*INV:	okay ‡ do you remember who the story was about ? 17898_23253
+%mor:	co|okay beg|beg mod|do pro:per|you v|remember pro:int|who
+	det:art|the n|story cop|be&PAST&13S adv|about ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|COMP 10|9|JCT 11|5|PUNCT
+*PAR:	(.) no . 23253_26832
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	or what time of year it was ? 26832_29042
+%mor:	coord|or pro:int|what n|time prep|of n|year pro:per|it
+	cop|be&PAST&13S ?
+%gra:	1|7|LINK 2|3|MOD 3|7|CSUBJ 4|3|NJCT 5|4|POBJ 6|7|SUBJ 7|0|ROOT
+	8|7|PUNCT
+*PAR:	fall . 29042_31377
+%mor:	v|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*INV:	okay . 31377_32357
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and what were George's stories about ? 32357_35470
+%mor:	coord|and pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL
+	adv|about ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|MOD 5|3|PRED 6|3|JCT 7|3|PUNCT
+*PAR:	(..) I don't know . 35470_40465
+%mor:	pro:sub|I mod|do~neg|not v|know .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	what did Melanie ask George to do ? 40465_43547
+%mor:	pro:int|what mod|do&PAST n:prop|Melanie v|ask n:prop|George inf|to
+	v|do ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|4|PUNCT
+*PAR:	I don't remember . 43547_46660
+%mor:	pro:sub|I mod|do~neg|not v|remember .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	do you recall why Melanie was holding George's hand tightly ? 46660_52994
+%mor:	mod|do pro:per|you v|recall pro:rel|why n:prop|Melanie
+	aux|be&PAST&13S part|hold-PRESP adj|George&dn-POSS n|hand
+	adv|tight&dadj-LY ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|COMP 8|9|MOD
+	9|7|OBJ 10|7|JCT 11|3|PUNCT
+*PAR:	no ‡ I don't . 52994_54350
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|6|AUX 5|4|NEG 6|3|PUNCT
+*INV:	or why Melanie was scared or didn't like the city ? 54350_57911
+%mor:	coord|or pro:rel|why n:prop|Melanie aux|be&PAST&13S
+	part|scare-PASTP coord|or mod|do&PAST~neg|not co|like det:art|the
+	n|city ?
+%gra:	1|5|LINK 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|CONJ 7|9|AUX 8|7|NEG
+	9|11|COM 10|11|DET 11|6|COORD 12|5|PUNCT
+*PAR:	no ‡ I don't remember that . 57911_61677
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not v|remember comp|that .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|6|OBJ 8|6|PUNCT
+@End

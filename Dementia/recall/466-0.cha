@@ -1,0 +1,113 @@
+@UTF8
+@PID:	11312/t-00016430-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|78;|female|ProbableAD||Participant|22||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	466-0, audio
+@G:	George_Immediate
+*INV:	okay ‡ can you tell me anything you recall from that ? 0_3285
+%mor:	co|okay beg|beg mod|can pro:per|you v|tell pro:obj|me
+	pro:indef|anything pro:per|you v|recall prep|from pro:dem|that ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|OBJ 8|9|SUBJ
+	9|7|CMOD 10|9|JCT 11|10|POBJ 12|5|PUNCT
+*PAR:	well &uh (...) this girl would lived in the country . 3285_27400
+%mor:	co|well det:dem|this n|girl mod|will&COND v|live-PAST prep|in
+	det:art|the n|country .
+%gra:	1|5|COM 2|3|DET 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|8|DET 8|6|POBJ
+	9|5|PUNCT
+*PAR:	and she went to visit relatives . 27400_32032
+%mor:	coord|and pro:sub|she v|go&PAST prep|to n|visit n|relative-PL .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|MOD 6|4|POBJ 7|3|PUNCT
+*PAR:	and &uh (.) they &uh (..) took her +... 32032_47474
+%mor:	coord|and pro:sub|they v|take&PAST pro:obj|her +...
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	hm where did they take her ? [+ exc] 47474_50335
+%mor:	co|hm pro:int|where mod|do&PAST pro:sub|they v|take pro:obj|her ?
+%gra:	1|5|COM 2|5|JCT 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	(...) out into the &s city and +... 50335_69090
+%mor:	adv|out prep|into det:art|the n|city coord|and +...
+%gra:	1|0|INCROOT 2|1|JCT 3|4|DET 4|2|POBJ 5|1|CONJ 6|1|PUNCT
+*INV:	okay . 69000_69500
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	she was frightened . 69500_71003
+%mor:	pro:sub|she aux|be&PAST&13S part|frighten-PASTP .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|PUNCT
+*PAR:	she was glad to get back to her home in the country . 71003_76000
+%mor:	pro:sub|she cop|be&PAST&13S adj|glad inf|to v|get adv|back prep|to
+	det:poss|her n|home prep|in det:art|the n|country .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|5|INF 5|3|XMOD 6|5|JCT 7|5|JCT 8|9|DET
+	9|7|POBJ 10|5|JCT 11|12|DET 12|10|POBJ 13|2|PUNCT
+*INV:	okay ‡ good . 76000_78009
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	George_Delayed
+*PAR:	(..) no ‡ I don't remember what the story was about . [+ exc] 78009_88000
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not v|remember pro:int|what
+	det:art|the n|story cop|be&PAST&13S adv|about .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|10|LINK 8|9|DET
+	9|10|SUBJ 10|6|COMP 11|10|JCT 12|6|PUNCT
+@G:	George_Questions
+*INV:	okay ‡ do you recall who the story's about ? 88000_91938
+%mor:	co|okay beg|beg mod|do pro:per|you v|recall pro:int|who det:art|the
+	n|story~cop|be&3S adv|about ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|AUX 4|5|SUBJ 5|0|ROOT 6|9|LINK 7|8|DET 8|9|SUBJ
+	9|5|COMP 10|9|JCT 11|5|PUNCT
+*PAR:	no ‡ I don't remember the story . 91938_94600
+%mor:	co|no beg|beg pro:sub|I mod|do~neg|not v|remember det:art|the
+	n|story .
+%gra:	1|0|BEG 2|1|BEGP 3|6|SUBJ 4|6|AUX 5|4|NEG 6|0|ROOT 7|8|DET 8|6|OBJ
+	9|6|PUNCT
+*INV:	okay ‡ what time of year did George move in with his son's family ?
+	94600_100187
+%mor:	co|okay beg|beg pro:int|what n|time prep|of n|year v|do&PAST
+	n:prop|George n|move adv|in prep|with det:poss|his adj|son&dn-POSS
+	n|family ?
+%gra:	1|0|BEG 2|1|BEGP 3|7|LINK 4|7|SUBJ 5|4|NJCT 6|5|POBJ 7|0|ROOT 8|9|MOD
+	9|7|OBJ 10|7|JCT 11|7|JCT 12|14|DET 13|14|MOD 14|11|POBJ 15|7|PUNCT
+*INV:	what were George's stories about ? 100187_115000
+%mor:	pro:int|what cop|be&PAST adj|George&dn-POSS n|story-PL adv|about ?
+%gra:	1|2|LINK 2|0|ROOT 3|4|MOD 4|2|PRED 5|2|JCT 6|2|PUNCT
+*INV:	do you recall his stories were about ? 115000_117229
+%mor:	mod|do pro:per|you v|recall det:poss|his n|story-PL cop|be&PAST
+	prep|about ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|6|SUBJ 6|3|COMP 7|6|JCT 8|3|PUNCT
+*PAR:	(.) I don't recall George . 117229_122318
+%mor:	pro:sub|I mod|do~neg|not v|recall n:prop|George .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|OBJ 6|4|PUNCT
+*INV:	okay ‡ what did Melanie ask George to do ? 122318_126023
+%mor:	co|okay beg|beg pro:int|what mod|do&PAST n:prop|Melanie v|ask
+	n:prop|George inf|to v|do ?
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|AUX 5|6|SUBJ 6|0|ROOT 7|6|OBJ 8|9|INF
+	9|6|COMP 10|6|PUNCT
+*INV:	why was George holding Melanie's hand tightly ? 126023_136745
+%mor:	pro:int|why aux|be&PAST&13S n:prop|George part|hold-PRESP
+	adj|Melanie&dn-POSS n|hand adv|tight&dadj-LY ?
+%gra:	1|4|LINK 2|4|AUX 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|OBJ 7|4|JCT 8|4|PUNCT
+*PAR:	(...) (be)cause &uh she was in the strange surroundings . 136745_153600
+%mor:	conj|because pro:sub|she cop|be&PAST&13S prep|in det:art|the
+	adj|strange n|surroundings .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*INV:	okay ‡ why didn't she like the city ? 153600_156200
+%mor:	co|okay beg|beg pro:int|why mod|do&PAST~neg|not pro:sub|she co|like
+	det:art|the n|city ?
+%gra:	1|0|BEG 2|1|BEGP 3|9|JCT 4|9|AUX 5|4|NEG 6|9|SUBJ 7|9|COM 8|9|DET
+	9|0|INCROOT 10|9|PUNCT
+*INV:	why didn't Melanie like the city ? 156200_158239
+%mor:	pro:int|why mod|do&PAST~neg|not n:prop|Melanie prep|like
+	det:art|the n|city ?
+%gra:	1|4|LINK 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	(.) I didn't think she liked the city . 158239_164323
+%mor:	pro:sub|I mod|do&PAST~neg|not v|think pro:sub|she v|like-PAST
+	det:art|the n|city .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|SUBJ 6|4|COMP 7|8|DET 8|6|OBJ
+	9|4|PUNCT
+*INV:	okay . 164323_165817
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) she wanted to go back home . 165817_172431
+%mor:	pro:sub|she v|want-PAST inf|to v|go adv|back adv|home .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|INF 4|2|COMP 5|4|JCT 6|4|JCT 7|2|PUNCT
+@End

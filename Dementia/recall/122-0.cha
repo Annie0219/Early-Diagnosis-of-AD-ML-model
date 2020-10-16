@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00016317-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|70;|female|ProbableAD||Participant|17||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	122-0, audio
+@G:	George_Immediate
+*INV:	all of the details that you can remember from . 0_2350
+%mor:	pro:indef|all prep|of det:art|the n|detail-PL pro:rel|that
+	pro:per|you mod|can v|remember prep|from .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|8|JCT 10|1|PUNCT
+*PAR:	okay . [+ exc] 2350_2902
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	a_little after Thanksgiving George Miller visited his (.) family .
+	2802_9069
+%mor:	adv|a_little adv:tem|after n:prop|Thanksgiving n:prop|George
+	n:prop|Miller v|visit-PAST det:poss|his n|family .
+%gra:	1|2|JCT 2|0|INCROOT 3|4|NAME 4|5|NAME 5|6|SUBJ 6|2|CMOD 7|8|DET 8|6|OBJ
+	9|2|PUNCT
+*PAR:	(.) and his granddaughter Melanie &um +... 9069_16693
+%mor:	coord|and det:poss|his grand#n|daughter n:prop|Melanie +...
+%gra:	1|3|LINK 2|3|DET 3|0|ROOT 4|3|OM 5|3|PUNCT
+*PAR:	he <told his> [//] <about his> [//] told [x 2] stories to his
+	granddaughter Melanie . 16693_23493
+%mor:	pro:sub|he v|tell&PAST n|story-PL prep|to det:poss|his
+	grand#n|daughter n:prop|Melanie .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|JCT 5|6|DET 6|4|POBJ 7|6|APP 8|2|PUNCT
+*PAR:	and &uh (.) his granddaughter wanted to visit the house where he
+	had lived . 23493_30805
+%mor:	coord|and det:poss|his grand#n|daughter v|want-PAST inf|to v|visit
+	det:art|the n|house pro:rel|where pro:sub|he aux|have&PAST
+	part|live-PASTP .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|INF 6|4|COMP 7|8|DET 8|6|OBJ
+	9|12|LINK 10|12|SUBJ 11|12|AUX 12|8|CMOD 13|4|PUNCT
+*PAR:	and so they started out . 30805_33400
+%mor:	coord|and co|so pro:sub|they v|start-PAST adv|out .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	she held his hand tightly . 33400_35605
+%mor:	pro:sub|she v|hold&PAST det:poss|his n|hand adv|tight&dadj-LY .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|JCT 6|2|PUNCT
+*PAR:	and she was frightened by the city . 35605_38601
+%mor:	coord|and pro:sub|she aux|be&PAST&13S part|frighten-PASTP prep|by
+	det:art|the n|city .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|7|DET 7|5|POBJ 8|4|PUNCT
+*PAR:	and <something about> [//] I guess she was glad to get back home .
+	38601_46769
+%mor:	coord|and pro:sub|I v|guess pro:sub|she cop|be&PAST&13S adj|glad
+	inf|to v|get adv|back adv|home .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|SUBJ 5|3|COMP 6|5|PRED 7|8|INF 8|6|XMOD
+	9|8|JCT 10|8|JCT 11|3|PUNCT
+*INV:	okay . 46769_48057
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 48057_48857
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

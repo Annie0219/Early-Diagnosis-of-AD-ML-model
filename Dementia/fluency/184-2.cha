@@ -1,0 +1,153 @@
+@UTF8
+@PID:	11312/t-00016117-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR||male|ProbableAD||Participant|||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	184-2, audio
+@G:	animals
+*INV:	go ahead . 0_3072
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	can I have a pencil ? [+ exc] 3072_4328
+%mor:	mod|can pro:sub|I v|have det:art|a n|pencil ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|3|PUNCT
+*INV:	<you just hafta> [/] you just hafta name them for me . 4328_7285
+%mor:	pro:per|you adv|just mod|have~inf|to v|name pro:obj|them prep|for
+	pro:obj|me .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|JCT 8|7|POBJ
+	9|5|PUNCT
+*INV:	you just hafta say them . 7285_8155
+%mor:	pro:per|you adv|just mod|have~inf|to v|say pro:obj|them .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|5|INF 5|0|ROOT 6|5|OBJ 7|5|PUNCT
+*PAR:	oh . [+ exc] 8155_9090
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ? 9090_9696
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 9696_10709
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 10709_13370
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	rat . 13370_15751
+%mor:	n|rat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cow . 15751_18007
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pig . 18007_19859
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horse . 19859_21291
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	lamb . 21291_23563
+%mor:	n|lamb .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	sheep . 23563_25135
+%mor:	n|sheep .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	kitten . 25135_27905
+%mor:	n|kitten .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 27905_31424
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 31424_33025
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) rhinoceros . 33025_38877
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 38877_42443
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) goat . 42443_49555
+%mor:	n|goat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pig . 49555_50784
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) chicken . 50784_57726
+%mor:	n|chicken .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	did I say rat@q ? [+ exc] 57726_61756
+%mor:	mod|do&PAST pro:sub|I v|say meta|rat ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*PAR:	mouse . 61756_63437
+%mor:	n|mouse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay ‡ good . 63328_71842
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*PAR:	farm . 71842_75313
+%mor:	n|farm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fertile . 75313_77741
+%mor:	adj|fertile .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fertilizer . 77741_80261
+%mor:	n|fertilize&dv-AGT .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	grass . 80261_83671
+%mor:	n|grass .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hay . 83671_85974
+%mor:	n|hay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fork . 85974_89367
+%mor:	n|fork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	knife . 89367_91173
+%mor:	n|knife .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	spoon . 91173_93008
+%mor:	n|spoon .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	car . 93008_95483
+%mor:	n|car .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	wheel . 95483_97397
+%mor:	n|wheel .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tire . 97397_98907
+%mor:	n|tire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tube . 98907_100401
+%mor:	n|tube .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay ‡ I want you to give me any words that begin with f@l . 100401_108260
+%mor:	co|okay beg|beg pro:sub|I v|want pro:per|you inf|to v|give
+	pro:obj|me qn|any n|word-PL pro:rel|that v|begin prep|with n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|7|SUBJ 6|7|INF 7|4|COMP 8|7|OBJ2
+	9|10|QUANT 10|7|OBJ 11|12|LINK 12|10|CMOD 13|12|JCT 14|13|POBJ 15|4|PUNCT
+*PAR:	(.) f@l . [+ exc] 108260_111901
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	frank . 111901_114299
+%mor:	adj|frank .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	freeze . 114299_116804
+%mor:	n|freeze .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	foam . 116804_121007
+%mor:	n|foam .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	freedom . 121007_122998
+%mor:	n|freedom .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) frighten . 122998_126641
+%mor:	v|frighten .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fight . 126641_130001
+%mor:	n|fight .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay . 130001_136384
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

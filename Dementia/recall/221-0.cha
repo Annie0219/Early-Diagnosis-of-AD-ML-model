@@ -1,0 +1,102 @@
+@UTF8
+@PID:	11312/t-00016357-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|71;|male|MCI||Participant|29||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	221-0, audio
+@G:	George_Immediate
+*INV:	any details at all from the story that you can think of . 0_2480
+%mor:	qn|any n|detail-PL prep|at pro:indef|all prep|from det:art|the
+	n|story pro:rel|that pro:per|you mod|can v|think prep|of .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|7|CMOD 12|11|JCT 13|2|PUNCT
+*PAR:	&=clears:throat well ‡ shortly after Thanksgiving George Miller
+	went to visit his son who had a daughter Melanie . 2480_16907
+%mor:	co|well beg|beg adv|short&dadj-LY prep|after n:prop|Thanksgiving
+	n:prop|George n:prop|Miller v|go&PAST inf|to v|visit det:poss|his
+	n|son pro:rel|who v|have&PAST det:art|a n|daughter n:prop|Melanie .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|8|JCT 5|6|NAME 6|4|POBJ 7|8|SUBJ 8|0|ROOT
+	9|10|INF 10|8|COMP 11|12|DET 12|10|OBJ 13|14|LINK 14|12|CMOD 15|16|DET
+	16|14|OBJ 17|16|APP 18|8|PUNCT
+*PAR:	and Melly liked to hear stories about &uh her grandfather . 16907_26563
+%mor:	coord|and n:prop|Melly v|like-PAST inf|to v|hear n|story-PL
+	prep|about det:poss|her grand#n|father .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|INF 5|3|COMP 6|5|OBJ 7|5|JCT 8|9|DET
+	9|7|POBJ 10|3|PUNCT
+*PAR:	and her grandfather took her on &+s &uh a little trip &uh to the
+	city . 26563_35491
+%mor:	coord|and det:poss|her grand#n|father v|take&PAST pro:obj|her
+	prep|on det:art|a adj|little n|trip prep|to det:art|the n|city .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|9|DET 8|9|MOD
+	9|6|POBJ 10|9|NJCT 11|12|DET 12|10|POBJ 13|4|PUNCT
+*PAR:	and &uh they walked around town . 35491_40420
+%mor:	coord|and pro:sub|they v|walk-PAST prep|around n|town .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|4|POBJ 6|3|PUNCT
+*PAR:	and the little girl was evidently alternately frightened at the
+	city noises and was glad to go home . 40420_52843
+%mor:	coord|and det:art|the adj|little n|girl aux|be&PAST&13S
+	adv|evident&dadj-LY adv|alternate&dadj-LY part|frighten-PASTP
+	prep|at det:art|the n|city n|noise-PL coord|and cop|be&PAST&13S
+	adj|glad inf|to v|go adv|home .
+%gra:	1|8|LINK 2|4|DET 3|4|MOD 4|8|SUBJ 5|8|AUX 6|7|JCT 7|8|JCT 8|0|ROOT
+	9|8|JCT 10|12|DET 11|12|MOD 12|9|POBJ 13|8|CONJ 14|13|COORD 15|14|PRED
+	16|17|INF 17|15|XMOD 18|17|JCT 19|8|PUNCT
+*INV:	okay . 52843_54899
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	good . 54899_57109
+%mor:	adj|good .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	George_Delayed
+*INV:	give me all of the details you could think of from the story . 57109_60592
+%mor:	v|give pro:obj|me post|all prep|of det:art|the n|detail-PL
+	pro:per|you mod|could v|think prep|of prep|from det:art|the n|story
+	.
+%gra:	1|0|ROOT 2|1|OBJ 3|1|JCT 4|3|NJCT 5|6|DET 6|4|POBJ 7|9|SUBJ 8|9|AUX
+	9|6|CMOD 10|9|JCT 11|9|JCT 12|13|DET 13|11|POBJ 14|1|PUNCT
+*PAR:	(.) well ‡ it was right after Thanksgiving that George Miller went
+	to visit his son in another city . 60592_76623
+%mor:	co|well beg|beg pro:per|it cop|be&PAST&13S adv|right adv:tem|after
+	n:prop|Thanksgiving pro:rel|that n:prop|George n:prop|Miller
+	v|go&PAST inf|to v|visit det:poss|his n|son prep|in qn|another
+	n|city .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|JCT 6|4|PRED 7|11|SUBJ 8|9|LINK
+	9|11|SUBJ 10|9|APP 11|6|CMOD 12|13|INF 13|11|COMP 14|15|DET 15|13|OBJ
+	16|13|JCT 17|18|QUANT 18|16|POBJ 19|4|PUNCT
+*PAR:	and this son had a daughter Melanie . 76623_84117
+%mor:	coord|and det:dem|this n|son v|have&PAST det:art|a n|daughter
+	n:prop|Melanie .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|6|APP 8|4|PUNCT
+*PAR:	<and she> [//] &uh and her grandfather told her stories . 84117_89285
+%mor:	coord|and det:poss|her grand#n|father v|tell&PAST det:poss|her
+	n|story-PL .
+%gra:	1|4|LINK 2|3|DET 3|4|SUBJ 4|0|ROOT 5|6|DET 6|4|OBJ 7|4|PUNCT
+*PAR:	and she wanted her grandfather to take her somewhere so he took her
+	into a town . 89285_98745
+%mor:	coord|and pro:sub|she v|want-PAST det:poss|her grand#n|father
+	inf|to v|take det:poss|her n|somewhere conj|so pro:sub|he
+	v|take&PAST pro:obj|her prep|into det:art|a n|town .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|5|DET 5|3|OBJ 6|7|INF 7|5|COMP 8|9|DET
+	9|7|OBJ 10|12|LINK 11|12|SUBJ 12|3|CJCT 13|12|OBJ 14|12|JCT 15|16|DET
+	16|14|POBJ 17|3|PUNCT
+*PAR:	(.) and &uh (.) was she uncomfortable and wanted to go home again ?
+	98745_108451
+%mor:	coord|and cop|be&PAST&13S pro:sub|she un#adj|comfort&dv-ABLE
+	coord|and v|want-PAST inf|to v|go adv|home adv|again ?
+%gra:	1|2|LINK 2|0|ROOT 3|2|PRED 4|3|OM 5|4|CONJ 6|5|COORD 7|8|INF 8|6|COMP
+	9|8|JCT 10|8|JCT 11|2|PUNCT
+*PAR:	something on that order . [+ exc] 108451_110262
+%mor:	pro:indef|something prep|on det:dem|that n|order .
+%gra:	1|0|INCROOT 2|1|NJCT 3|4|DET 4|2|POBJ 5|1|PUNCT
+*INV:	okay . 110262_111609
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< and so he took her home . 111009_112735
+%mor:	coord|and co|so pro:sub|he v|take&PAST pro:obj|her adv|home .
+%gra:	1|4|LINK 2|4|COM 3|4|SUBJ 4|0|ROOT 5|4|OBJ 6|4|JCT 7|4|PUNCT
+*INV:	(.) okay ‡ good . 112735_123091
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

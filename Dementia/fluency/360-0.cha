@@ -1,0 +1,122 @@
+@UTF8
+@PID:	11312/t-00016188-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|75;|female|ProbableAD||Participant|18||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	360-0, audio
+@G:	animals
+*INV:	and you can begin now . 0_2506
+%mor:	coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|JCT 6|4|PUNCT
+*PAR:	dog . 2506_3107
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 3107_3681
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bird . 3681_5307
+%mor:	n|bird .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(di)d you say ? [+ exc] 5307_6189
+%mor:	mod|do&PAST pro:per|you v|say ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	no fish@q ? [+ exc] 6189_6817
+%mor:	co|no meta|fish ?
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	what was it ? [+ exc] 6817_7721
+%mor:	pro:int|what cop|be&PAST&13S pro:per|it ?
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
+*INV:	just name all the animals that you can think of . 7721_11440
+%mor:	adj|just n|name adv|all det:art|the n|animal-PL pro:rel|that
+	pro:per|you mod|can v|think prep|of .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|5|DET 5|3|POBJ 6|9|LINK 7|9|SUBJ 8|9|AUX
+	9|5|CMOD 10|9|JCT 11|2|PUNCT
+*PAR:	&uh dog . 11440_14235
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	cat . 14235_14600
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	mule . 14600_15633
+%mor:	n|mule .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um +... 15633_21588
+*PAR:	oh_god xxx . [+ exc] 21588_24420
+%mor:	co|oh_god .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	name all the animals that you can think of . 24420_27775
+%mor:	n|name qn|all det:art|the n|animal-PL pro:rel|that pro:per|you
+	mod|can v|think prep|of .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|8|JCT 10|1|PUNCT
+*PAR:	horse . 27775_29935
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um +... 29935_41111
+*PAR:	oh ‡ xxx . [+ exc] 41111_44590
+%mor:	co|oh beg|beg .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT
+*INV:	you're doing fine . 44590_45975
+%mor:	pro:per|you~aux|be&PRES part|do-PRESP adv|fine .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*INV:	all the animals that you can think of . 45975_47827
+%mor:	qn|all det:art|the n|animal-PL pro:rel|that pro:per|you mod|can
+	v|think prep|of .
+%gra:	1|3|QUANT 2|3|DET 3|0|INCROOT 4|7|LINK 5|7|SUBJ 6|7|AUX 7|3|CMOD
+	8|7|JCT 9|3|PUNCT
+*PAR:	(..) I feel so tight . [+ exc] 47827_57642
+%mor:	pro:sub|I v|feel adv|so adv|tight .
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|JCT 4|2|JCT 5|2|PUNCT
+*INV:	pressure . 57642_58223
+%mor:	n|pressure .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	yeah . [+ exc] 58223_59142
+%mor:	co|yeah .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	okay ‡ and you can begin now . 59142_63903
+%mor:	co|okay beg|beg coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|6|LINK 4|6|SUBJ 5|6|AUX 6|0|ROOT 7|6|JCT 8|6|PUNCT
+*PAR:	five . 63903_65803
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	four . 65803_67733
+%mor:	det:num|four .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fish . 67733_68993
+%mor:	n|fish .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fumes . 68993_71949
+%mor:	v|fume-3S .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fan . 71949_74922
+%mor:	n|fan .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) flake . 74922_78783
+%mor:	v|flake .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) farm . 78783_81787
+%mor:	n|farm .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fence . 81787_84947
+%mor:	n|fence .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) photo . 84947_95200
+%mor:	n|photo .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no that's p@l h@l . [+ exc] 95200_97398
+%mor:	co|no pro:dem|that~cop|be&3S n:let|p n:let|h .
+%gra:	1|3|COM 2|3|SUBJ 3|0|ROOT 4|3|PRED 5|4|OM 6|3|PUNCT
+*PAR:	&uh film . 97398_101771
+%mor:	n|film .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	feather . 101771_105662
+%mor:	n|feather .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) &um +... 105662_122000
+*INV:	okay . 122000_124789
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

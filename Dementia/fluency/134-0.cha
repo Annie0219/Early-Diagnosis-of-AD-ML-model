@@ -1,0 +1,61 @@
+@UTF8
+@PID:	11312/t-00016095-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|77;|female|ProbableAD||Participant|24||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	134-0, audio
+@G:	animals
+*INV:	off you go . 0_1262
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	cat . 1262_3285
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dog . 3285_5744
+%mor:	v|dog .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	&um horse . 5744_9587
+%mor:	n|horse .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pig . 9587_11268
+%mor:	n|pig .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um (...) hen . 11268_32232
+%mor:	n|hen .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	turkey . 32232_36045
+%mor:	n|turkey .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) did I say horse@q ? [+ exc] 36045_49650
+%mor:	mod|do&PAST pro:sub|I v|say meta|horse ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|PUNCT
+*INV:	mhm . 49650_50613
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) bear . 50613_60480
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@G:	F
+*INV:	okay ‡ all f@l words now that you can think of . 60480_65035
+%mor:	co|okay beg|beg adv|all n:let|f n|word-PL adv|now pro:rel|that
+	pro:per|you mod|can v|think prep|of .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|INCROOT 5|4|PRED 6|5|NJCT 7|10|LINK
+	8|10|SUBJ 9|10|AUX 10|5|CMOD 11|10|JCT 12|4|PUNCT
+*INV:	off you go . 65035_65927
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+*PAR:	food . 65927_69149
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh found . 69149_72588
+%mor:	part|find&PASTP .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) fox . 72588_116928
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(...) okay ‡ thanks . 116928_126904
+%mor:	co|okay beg|beg co|thanks .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@End

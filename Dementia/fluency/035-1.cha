@@ -1,0 +1,97 @@
+@Font:	Courier:16:0
+@UTF8
+@PID:	11312/t-00016053-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|63;|female|ProbableAD||Participant|20||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	035-1, audio
+*INV:	xxx . 0_1057
+*INV:	off you go . 1057_1904
+%mor:	prep|off pro:per|you v|go .
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|PUNCT
+@G:	foods
+*PAR:	apple . 1904_3599
+%mor:	n|apple .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	orange . 3599_5097
+%mor:	adj|orange .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh lettuce . 5097_7755
+%mor:	n|lettuce .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	pears . 7755_8824
+%mor:	n|pear-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh chili . 8824_14872
+%mor:	n|chili .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) xxx . 14872_22477
+*PAR:	butter . 22477_23394
+%mor:	n|butter .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) xxx . 23394_33646
+*PAR:	and which I really don't like &=laughs . [+ exc] 33646_38824
+%mor:	coord|and pro:rel|which pro:sub|I adv|real&dadj-LY mod|do~neg|not
+	co|like .
+%gra:	1|7|LINK 2|7|LINK 3|7|SUBJ 4|7|JCT 5|7|AUX 6|5|NEG 7|0|INCROOT
+	8|7|PUNCT
+*PAR:	parsnips . 38824_40055
+%mor:	n|parsnip-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&=laughs &um some cake . 40055_45256
+%mor:	qn|some n|cake .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) fruit . 45256_48031
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) vegetables . 48031_51560
+%mor:	n|vegetable-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) tea &=laughs . 51560_57748
+%mor:	n|tea .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um squash . 57748_62299
+%mor:	n|squash .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(.) okay ‡ we're done . 62299_67407
+%mor:	co|okay beg|beg pro:sub|we~aux|be&PRES part|do&PASTP .
+%gra:	1|0|BEG 2|1|BEGP 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|PUNCT
+@G:	S
+*INV:	s@l off you go . 67407_68963
+%mor:	n:let|s prep|off pro:per|you v|go .
+%gra:	1|0|INCROOT 2|1|JCT 3|4|SUBJ 4|2|POBJ 5|1|PUNCT
+*PAR:	oh . [+ exc] 68963_70159
+%mor:	co|oh .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	snow . 70159_71320
+%mor:	n|snow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) sun . 71320_73758
+%mor:	n|sun .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh I [//] I'm blank on +... [+ exc] 73758_82599
+%mor:	pro:sub|I~cop|be&1S adj|blank adv|on +...
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|JCT 5|2|PUNCT
+*PAR:	sound . 82599_83812
+%mor:	n|sound .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) I can't think . [+ exc] 83812_92844
+%mor:	pro:sub|I mod|can~neg|not v|think .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|4|PUNCT
+*INV:	can carry on . 92844_94075
+%mor:	mod|can v|carry adv|on .
+%gra:	1|2|AUX 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	you've got a whole minute . 94075_95143
+%mor:	pro:per|you~aux|have part|get&PASTP det:art|a n|whole n|minute .
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|6|DET 5|6|MOD 6|3|OBJ 7|3|PUNCT
+*PAR:	(..) sesame . 95143_101482
+%mor:	n|sesame .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh xxx . 101482_110085
+*PAR:	xxx . 110085_120522
+*INV:	(.) okay ‡ all done now xxx . 121399_133000
+%mor:	co|okay beg|beg adv|all part|do&PASTP adv|now .
+%gra:	1|0|BEG 2|1|BEGP 3|4|JCT 4|0|ROOT 5|4|JCT 6|4|PUNCT
+@End

@@ -1,0 +1,197 @@
+@UTF8
+@PID:	11312/t-00016098-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|74;|male|ProbableAD||Participant|10||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	148-0, audio
+@G:	animals
+*INV:	as many animals as you can think of and you can begin now . 0_3472
+%mor:	prep|as qn|many n|animal-PL adv|as pro:per|you mod|can v|think
+	prep|of coord|and pro:per|you mod|can v|begin adv|now .
+%gra:	1|3|COORD 2|3|QUANT 3|0|INCROOT 4|7|JCT 5|7|SUBJ 6|7|AUX 7|3|ENUM
+	8|7|JCT 9|12|LINK 10|12|SUBJ 11|12|AUX 12|3|CJCT 13|12|JCT 14|3|PUNCT
+*PAR:	(..) dogs . 3472_8064
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	horses . 8064_8779
+%mor:	n|horse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	no birds ? [+ exc] 8779_10570
+%mor:	qn|no n|bird-PL ?
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*INV:	hmhunh . 10570_11535
+%mor:	co|no .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	xxx horses . [+ exc] 11535_13513
+%mor:	n|horse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) holy_cow &=laughs . [+ exc] 13513_16812
+%mor:	co|holy_cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) some think humans xxx . [+ exc] 16812_24577
+%mor:	qn|some v|think n|human-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	&=laughs . 24577_25511
+*PAR:	0 . 25511_34000
+*INV:	can you think of any more animals ? 34000_36010
+%mor:	mod|can pro:per|you v|think prep|of qn|any qn|more n|animal-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|QUANT 6|7|QUANT 7|4|POBJ
+	8|3|PUNCT
+*INV:	you have about (.) twenty seconds . 36010_38399
+%mor:	pro:per|you v|have prep|about det:num|twenty n|second-PL .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|5|QUANT 5|3|POBJ 6|2|PUNCT
+*PAR:	(.) I forget what it did [/] did say . [+ exc] 38522_44063
+%mor:	pro:sub|I v|forget pro:int|what pro:per|it v|do&PAST co|say .
+%gra:	1|2|SUBJ 2|0|ROOT 3|5|LINK 4|5|SUBJ 5|2|COMP 6|5|OBJ 7|2|PUNCT
+*INV:	animals . 44063_44702
+%mor:	n|animal-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you think of as many animals as you can think of ? 44702_47105
+%mor:	mod|can pro:per|you v|think prep|of adv|as qn|many n|animal-PL
+	adv|as pro:per|you mod|can v|think prep|of ?
+%gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|7|COORD 6|7|QUANT 7|4|POBJ 8|11|JCT
+	9|11|SUBJ 10|11|AUX 11|7|CMOD 12|11|JCT 13|3|PUNCT
+*PAR:	I can think of the last two &=laughs . [+ exc] 47105_50300
+%mor:	pro:sub|I mod|can v|think prep|of det:art|the adj|last det:num|two
+	.
+%gra:	1|3|SUBJ 2|3|AUX 3|0|ROOT 4|3|JCT 5|7|DET 6|7|MOD 7|4|POBJ 8|3|PUNCT
+*PAR:	what xxx ? [+ exc] 50300_51892
+%mor:	pro:int|what ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	can you think of any animals ? 51892_53494
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|animal-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+*INV:	just say what you're thinking . 53338_54505
+%mor:	adv|just v|say pro:int|what pro:per|you~aux|be&PRES
+	part|think-PRESP .
+%gra:	1|2|JCT 2|0|ROOT 3|6|LINK 4|6|SUBJ 5|6|AUX 6|2|COMP 7|2|PUNCT
+*PAR:	(.) I give up . [+ exc] 54505_59112
+%mor:	pro:sub|I v|give adv|up .
+%gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|2|PUNCT
+*INV:	can you think of any animals ? 59112_60981
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|animal-PL ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|4|POBJ 7|3|PUNCT
+@G:	F
+*INV:	okay . 60981_62724
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	what I'd like you to do for me now is to think of as many words
+	beginning with the letter f@l as you can think of . 62724_69743
+%mor:	pro:int|what pro:sub|I~mod|genmod v|like pro:per|you inf|to v|do
+	prep|for pro:obj|me adv|now cop|be&3S inf|to v|think prep|of prep|as
+	qn|many n|word-PL n|beginning prep|with det:art|the n|letter n:let|f
+	conj|as pro:per|you mod|can v|think prep|of .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|4|OBJ 6|7|INF 7|4|COMP 8|7|JCT
+	9|8|POBJ 10|4|JCT 11|4|COMP 12|13|INF 13|11|CPRED 14|13|JCT 15|22|COORD
+	16|17|QUANT 17|18|MOD 18|15|POBJ 19|18|NJCT 20|21|DET 21|19|POBJ 22|14|POBJ
+	23|26|LINK 24|26|SUBJ 25|26|AUX 26|13|CJCT 27|26|JCT 28|4|PUNCT
+*INV:	okay ? 69743_70957
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	now the only thing that you can't do here is give me a proper name
+	. 70957_74287
+%mor:	adv|now det:art|the qn|only n|thing pro:rel|that pro:per|you
+	mod|can~neg|not v|do adv|here cop|be&3S v|give pro:obj|me det:art|a
+	adj|proper n|name .
+%gra:	1|11|JCT 2|4|DET 3|4|QUANT 4|11|SUBJ 5|9|LINK 6|9|SUBJ 7|9|AUX 8|7|NEG
+	9|4|CMOD 10|9|JCT 11|12|SUBJ 12|0|ROOT 13|12|OBJ2 14|16|DET 15|16|MOD
+	16|12|OBJ 17|12|PUNCT
+*INV:	or a place like France@q or Fred@q . 74287_76466
+%mor:	coord|or det:art|a n|place prep|like meta|France coord|or meta|Fred
+	.
+%gra:	1|3|LINK 2|3|DET 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|5|CONJ 7|6|COORD
+	8|3|PUNCT
+*INV:	you also can't give me the same [//] a derivative like run@q
+	runner@q and running@q using the letter r@l . 76466_82925
+%mor:	pro:per|you adv|also mod|can~neg|not v|give pro:obj|me det:art|the
+	det:art|a n|derivative prep|like meta|run meta|runner coord|and
+	meta|running part|use-PRESP det:art|the n|letter n:let|r .
+%gra:	1|5|SUBJ 2|5|JCT 3|5|AUX 4|3|NEG 5|0|ROOT 6|5|OBJ2 7|9|DET 8|9|DET
+	9|5|OBJ 10|9|NJCT 11|18|LINK 12|18|SUBJ 13|12|CONJ 14|13|COORD 15|18|XJCT
+	16|17|DET 17|15|OBJ 18|10|POBJ 19|5|PUNCT
+*INV:	so ‡ as many words beginning with the letter f@l as you can think
+	of . 82925_86910
+%mor:	co|so beg|beg conj|as qn|many n|word-PL n|beginning prep|with
+	det:art|the n|letter n:let|f conj|as pro:per|you mod|can v|think
+	prep|of .
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|QUANT 5|6|MOD 6|0|INCROOT 7|6|NJCT
+	8|9|DET 9|7|POBJ 10|6|ENUM 11|14|LINK 12|14|SUBJ 13|14|AUX 14|6|ENUM 15|14|JCT
+	16|6|PUNCT
+*INV:	okay ? 86910_88060
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	and you can begin right now . 88060_90737
+%mor:	coord|and pro:per|you mod|can v|begin adv|right adv|now .
+%gra:	1|4|LINK 2|4|SUBJ 3|4|AUX 4|0|ROOT 5|6|JCT 6|4|JCT 7|4|PUNCT
+*INV:	the letter f@l words . 90737_92730
+%mor:	det:art|the n|letter n:let|f n|word-PL .
+%gra:	1|2|DET 2|4|MOD 3|4|MOD 4|0|INCROOT 5|4|PUNCT
+*INV:	go ahead . 92730_93616
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	(.) &=laughs . [+ exc] 93616_96325
+*INV:	can you think of any words beginning with the letter f@l ? 96325_99329
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|word-PL n|beginning
+	prep|with det:art|the n|letter n:let|f ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|7|MOD 7|4|POBJ 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|JCT 12|3|PUNCT
+*PAR:	(..) I can't get started &=laughs . [+ exc] 99329_112388
+%mor:	pro:sub|I mod|can~neg|not aux|get part|start-PASTP .
+%gra:	1|5|SUBJ 2|5|AUX 3|2|NEG 4|5|AUX 5|0|ROOT 6|5|PUNCT
+*INV:	+< take [//] just take your time . 111797_113462
+%mor:	adv|just v|take det:poss|your n|time .
+%gra:	1|2|JCT 2|0|ROOT 3|4|DET 4|2|OBJ 5|2|PUNCT
+*INV:	don't get &ups +//. 113462_114000
+%mor:	mod|do~neg|not v|get +//.
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*INV:	just do it . 114000_114600
+%mor:	adv|just v|do pro:per|it .
+%gra:	1|2|JCT 2|0|ROOT 3|2|OBJ 4|2|PUNCT
+*INV:	as many words beginning with the letter as you can think of . 114600_117371
+%mor:	prep|as qn|many n|word-PL n|beginning prep|with det:art|the
+	n|letter prep|as pro:per|you mod|can v|think prep|of .
+%gra:	1|4|COORD 2|3|QUANT 3|4|MOD 4|0|INCROOT 5|4|NJCT 6|7|DET 7|5|POBJ
+	8|11|LINK 9|11|SUBJ 10|11|AUX 11|4|ENUM 12|11|JCT 13|4|PUNCT
+*INV:	okay ? 117371_118367
+%mor:	co|okay ?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	0 . 118367_127000
+*INV:	can you think of any words beginning with the letter f@l ? 127000_130004
+%mor:	mod|can pro:per|you v|think prep|of qn|any n|word-PL n|beginning
+	prep|with det:art|the n|letter n:let|f ?
+%gra:	1|3|LINK 2|3|SUBJ 3|0|ROOT 4|3|JCT 5|6|QUANT 6|7|MOD 7|4|POBJ 8|3|JCT
+	9|10|DET 10|8|POBJ 11|3|JCT 12|3|PUNCT
+*PAR:	f@l „ yeah . [+ exc] 130004_131047
+%mor:	n:let|f end|end co|yeah .
+%gra:	1|0|INCROOT 2|3|ENDP 3|1|END 4|1|PUNCT
+*INV:	go (a)head . 131047_131670
+%mor:	v|go adv|ahead .
+%gra:	1|0|ROOT 2|1|JCT 3|1|PUNCT
+*PAR:	&=laughs xxx . [+ exc] [+ exc] 131670_135000
+*INV:	+< (o)kay . 133480_133700
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) ghijk@k . [+ exc] 135000_154000
+%mor:	n:let|ghijk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ can you think of any words beginning with the letter f@l ? 154000_156657
+%mor:	co|okay beg|beg mod|can pro:per|you v|think prep|of qn|any
+	n|word-PL n|beginning prep|with det:art|the n|letter n:let|f ?
+%gra:	1|0|BEG 2|1|BEGP 3|5|LINK 4|5|SUBJ 5|0|ROOT 6|5|JCT 7|8|QUANT 8|9|MOD
+	9|6|POBJ 10|5|JCT 11|12|DET 12|10|POBJ 13|5|JCT 14|5|PUNCT
+*PAR:	(..) can at least get through with a couple &=laughs . [+ exc] 156657_164000
+%mor:	n|can prep|at n|least v|get prep|through prep|with det:art|a
+	n|couple .
+%gra:	1|4|SUBJ 2|1|NJCT 3|2|POBJ 4|0|ROOT 5|4|JCT 6|5|POBJ 7|8|DET 8|6|POBJ
+	9|4|PUNCT
+*INV:	okay . 164000_165062
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	+< that's as far as I got . [+ exc] 164500_165619
+%mor:	pro:dem|that~cop|be&3S adv|as adv|far conj|as pro:sub|I v|get&PAST
+	.
+%gra:	1|2|SUBJ 2|0|ROOT 3|4|COORD 4|2|PRED 5|7|LINK 6|7|SUBJ 7|2|CJCT
+	8|2|PUNCT
+@End

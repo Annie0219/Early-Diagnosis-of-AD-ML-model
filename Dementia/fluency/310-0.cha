@@ -1,0 +1,120 @@
+@UTF8
+@PID:	11312/t-00016166-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|69;|female|ProbableAD||Participant|19||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	310-0, audio
+@G:	animals
+*INV:	okay ‡ go ahead . 0_3969
+%mor:	co|okay beg|beg v|go adv|ahead .
+%gra:	1|0|BEG 2|1|BEGP 3|0|ROOT 4|3|JCT 5|3|PUNCT
+*PAR:	lion . 3969_5276
+%mor:	n|lion .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	tiger . 5276_6538
+%mor:	n|tiger .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	hippopotamus . 6538_8594
+%mor:	n|hippopotamus .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rhinoceros . 8594_9667
+%mor:	n|rhinoceros .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	elephant . 9667_10866
+%mor:	n|elephant .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&um wolf . 10866_15208
+%mor:	n|wolf .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fox . 15208_16810
+%mor:	n|fox .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	bear . 16810_19363
+%mor:	n|bear .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	rabbit . 19363_22055
+%mor:	n|rabbit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) giraffe . 22055_31767
+%mor:	n|giraffe .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	porcupine . 31767_34437
+%mor:	n|porcupine .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	skunk . 34437_36689
+%mor:	n|skunk .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) xxx . [+ exc] 36689_49137
+*INV:	mhm . 49137_50210
+%mor:	co|mhm=yes .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) monkeys . 50210_56871
+%mor:	n|monkey-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	gorillas . 56871_58443
+%mor:	n|gorilla-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay ‡ good . 58443_64607
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+@G:	F
+*INV:	now . 64607_66273
+%mor:	adv|now .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh start with one ? [+ exc] 66273_67952
+%mor:	v|start prep|with det:num|one ?
+%gra:	1|0|ROOT 2|1|JCT 3|2|POBJ 4|1|PUNCT
+*INV:	pardon me ? 67952_69053
+%mor:	v|pardon pro:obj|me ?
+%gra:	1|0|ROOT 2|1|OBJ 3|1|PUNCT
+*PAR:	want <this what I_mean> [//] the letter ? [+ exc] 69053_71937
+%mor:	v|want det:art|the n|letter ?
+%gra:	1|0|ROOT 2|3|DET 3|1|OBJ 4|1|PUNCT
+*INV:	f@l . 71937_72591
+%mor:	n:let|f .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	any words beginning with f@l . 72591_73600
+%mor:	qn|any n|word-PL n|beginning prep|with n:let|f .
+%gra:	1|2|QUANT 2|3|MOD 3|0|INCROOT 4|3|NJCT 5|4|POBJ 6|3|PUNCT
+*INV:	okay +/? 73600_74410
+%mor:	co|okay +/?
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	fruit . 74200_75316
+%mor:	n|fruit .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fall . 75316_78101
+%mor:	v|fall .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	fill . 78101_80328
+%mor:	n|fill .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(..) food . 80328_87051
+%mor:	n|food .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) family . 87051_89681
+%mor:	n|family .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) frost . 89681_94444
+%mor:	n|frost .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fiddle . 94444_96420
+%mor:	n|fiddle .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&hm (..) fix . 96420_106723
+%mor:	v|fix .
+%gra:	1|0|ROOT 2|1|PUNCT
+*PAR:	(.) fork . 106723_109571
+%mor:	n|fork .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) fiber . 109571_114194
+%mor:	n|fiber .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) five . 114194_126038
+%mor:	det:num|five .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	okay . 126038_135469
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End

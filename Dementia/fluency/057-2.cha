@@ -1,0 +1,101 @@
+@UTF8
+@PID:	11312/t-00016067-1
+@Begin
+@Languages:	eng
+@Participants:	PAR Participant, INV Investigator
+@ID:	eng|Pitt|PAR|85;|female|ProbableAD||Participant|13||
+@ID:	eng|Pitt|INV|||||Investigator|||
+@Media:	057-2, audio
+@G:	animals
+*INV:	okay ‡ good . 0_1000
+%mor:	co|okay beg|beg adj|good .
+%gra:	1|0|BEG 2|1|BEGP 3|0|INCROOT 4|3|PUNCT
+*INV:	now all the animals that you can think of in a minute starting from
+	now . 1000_6242
+%mor:	adv|now qn|all det:art|the n|animal-PL pro:rel|that pro:per|you
+	mod|can v|think prep|of prep|in det:art|a n|minute part|start-PRESP
+	prep|from adv|now .
+%gra:	1|0|INCROOT 2|4|QUANT 3|4|DET 4|1|OBJ 5|8|LINK 6|8|SUBJ 7|8|AUX
+	8|4|CMOD 9|8|JCT 10|8|JCT 11|12|DET 12|10|POBJ 13|8|XJCT 14|13|JCT 15|14|POBJ
+	16|1|PUNCT
+*INV:	any animals . 6242_11050
+%mor:	qn|any n|animal-PL .
+%gra:	1|2|QUANT 2|0|INCROOT 3|2|PUNCT
+*PAR:	+< dogs . 10200_11918
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) gee whiz . [+ exc] 11918_14240
+%mor:	co|gee n|whiz .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	(.) cow . 14240_22332
+%mor:	n|cow .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) I can't think „ jeez . [+ exc] 22332_29135
+%mor:	pro:sub|I mod|can~neg|not v|think end|end co|jeez .
+%gra:	1|4|SUBJ 2|4|AUX 3|2|NEG 4|0|ROOT 5|6|ENDP 6|4|END 7|4|PUNCT
+*PAR:	(.) cat . 29135_32711
+%mor:	n|cat .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*INV:	(..) any animals you can think of . 32711_53368
+%mor:	qn|any n|animal-PL pro:per|you mod|can v|think prep|of .
+%gra:	1|2|QUANT 2|5|LINK 3|5|SUBJ 4|5|AUX 5|0|ROOT 6|5|JCT 7|5|PUNCT
+*PAR:	horses . 53368_57258
+%mor:	n|horse-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	dogs . 57258_59859
+%mor:	n|dog-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	cars . 59859_63100
+%mor:	n|car-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	oh_no ‡ that's not an animal . [+ exc] 63100_65725
+%mor:	co|oh_no beg|beg pro:dem|that~cop|be&3S neg|not det:art|a n|animal
+	.
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|4|NEG 6|7|DET 7|4|PRED 8|4|PUNCT
+@G:	F
+*INV:	(...) any common noun verb adjective whatever you like that begins
+	with f@l starting now . 65725_86891
+%mor:	qn|any adj|common n|noun n|verb n|adjective pro:int|whatever
+	pro:per|you co|like pro:rel|that v|begin-3S prep|with n:let|f
+	part|start-PRESP adv|now .
+%gra:	1|5|QUANT 2|5|MOD 3|5|MOD 4|5|MOD 5|0|INCROOT 6|10|LINK 7|10|SUBJ
+	8|10|COM 9|10|LINK 10|5|CMOD 11|10|JCT 12|11|POBJ 13|12|XMOD 14|13|JCT
+	15|5|PUNCT
+*PAR:	fire . 86891_90467
+%mor:	n|fire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	&uh (.) gee whiz . [+ exc] 90467_98803
+%mor:	co|gee n|whiz .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) dogs and cats ? [+ exc] 98803_110087
+%mor:	n|dog-PL coord|and n|cat-PL ?
+%gra:	1|0|INCROOT 2|1|CONJ 3|2|COORD 4|1|PUNCT
+*INV:	no ‡ it's words beginning with f@l . 110087_112540
+%mor:	co|no beg|beg pro:per|it~cop|be&3S n|word-PL n|beginning prep|with
+	n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|SUBJ 4|0|ROOT 5|6|MOD 6|4|PRED 7|6|NJCT 8|7|POBJ
+	9|4|PUNCT
+*PAR:	+< words beginning with f@l „ oh . [+ exc] 110900_113628
+%mor:	n|word-PL n|beginning prep|with n:let|f end|end co|oh .
+%gra:	1|2|MOD 2|0|INCROOT 3|2|NJCT 4|3|POBJ 5|2|ENUM 6|2|ENUM 7|2|PUNCT
+*INV:	+< uhhuh ‡ any word that begins with f@l . 112628_115000
+%mor:	co|uhhuh beg|beg qn|any n|word pro:rel|that v|begin-3S prep|with
+	n:let|f .
+%gra:	1|0|BEG 2|1|BEGP 3|4|QUANT 4|0|INCROOT 5|6|LINK 6|4|CMOD 7|6|JCT
+	8|7|POBJ 9|4|PUNCT
+*PAR:	fire . 115000_116300
+%mor:	n|fire .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(.) gee whiz . [+ exc] 116300_121060
+%mor:	co|gee n|whiz .
+%gra:	1|2|COM 2|0|INCROOT 3|2|PUNCT
+*PAR:	(..) fields . 121060_126064
+%mor:	n|field-PL .
+%gra:	1|0|INCROOT 2|1|PUNCT
+*PAR:	(...) can't think . [+ exc] 126064_139764
+%mor:	mod|can~neg|not v|think .
+%gra:	1|3|AUX 2|1|NEG 3|0|ROOT 4|3|PUNCT
+*INV:	okay . 139764_148101
+%mor:	co|okay .
+%gra:	1|0|INCROOT 2|1|PUNCT
+@End
